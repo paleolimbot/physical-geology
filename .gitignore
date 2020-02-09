@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 .DS_Store
+packages.bib
+_book
+_bookdown_files
