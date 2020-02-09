@@ -10,7 +10,72 @@ link-citations: yes
 description: 'Adapted from "Physical Geology" written by Steven Earle for the BCcampus Open Textbook Project'
 ---
 
-*Physical Geology* is a comprehensive introductory text on the physical aspects of geology, including rocks and minerals, plate tectonics, earthquakes, volcanoes, mass wasting, climate change, planetary geology and much more. It has a strong emphasis on examples from western Canada. It is adapted from "Physical Geology" written by Steven Earle for the BCcampus Open Textbook Program, and "Physical Geology, First University of Saskatchewan Edition" by Karla Panchuk.
+# Introduction {-}
+
+_Physical Geology_ is a comprehensive introductory text on the physical aspects of geology, including rocks and minerals, plate tectonics, earthquakes, volcanoes, mass wasting, climate change, planetary geology and much more. It has a strong emphasis on examples from western Canada. It is adapted from "Physical Geology" written by Steven Earle for the BCcampus Open Textbook Program, and "Physical Geology, First University of Saskatchewan Edition" by Karla Panchuk.
+
+## Copyright
+
+Unless otherwise noted, this book is released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/) also known as a CC BY-NC-SA 4.0 license. This means you are free to copy, redistribute, remix, transform, and build upon this book, as long as you share derivative materials using a CC BY-NC-SA 4.0 license.  Under this license, anyone who redistributes this textbook can do so for free providing they properly attribute the book as follows:
+
+```{block, type='textbox'}
+[Physical Geology, First University of Saskatchewan Edition](https://physicalgeology.pressbooks.com) by Karla Panchuk used under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) international license.
+```
+
+Additionally, if you redistribute this textbook, in whole or in part, in either a print or digital format, then you must retain on every physical and/or electronic page the following attribution:
+
+```{block, type='textbox'}
+__https://openpress.usask.ca/physicalgeology/__
+```
+
+## Acknowledgments
+
+An open textbook for physical geology is something I had been considering ever since taking the _Introduction to Learning Technologies_ course at the [Gwenna Moss Centre for Teaching and Learning](https://teaching.usask.ca/about/units/gwenna-moss-centre-for-teaching-and-learning.php) at the University of Saskatchewan. Adapting an open textbook is a far less daunting task than starting from scratch so I was excited to hear of the textbook _[Physical Geology](https://open.bccampus.ca/find-open-textbooks/?uuid=52166cd1-e380-4e1b-9a6f-d891936e4749)_ by Steven Earle, written for the [BCcampus Open Textbook project](https://open.bccampus.ca/find-open-textbooks/). Steven's original edition was a comprehensive and solid foundation on which to build this adapted work. Thanks to Amanda Coolidge of BCcampus for saving me an enormous amount of time by explaining how to modify the text and sending me the exported files from Steven’s version of the textbook.
+
+Many thanks go to Heather Ross and Nancy Turner at the Gwenna Moss Centre for their support and encouragement on this project and for discussions with them about open textbooks. The University of Saskatchewan Open Educational Resources Fund provided funding to support my work on this project. In-kind work and assistance on the project to match my time for this funding were provided by Joyce McBeth and Tim Prokopiuk of the Department of Geological Sciences.
+
+This book has benefited from the work of numerous contributors at the University of Saskatchewan who have assisted with editing the document and providing new images to include in this edition. Tim Prokopiuk contributed edits and selected rock samples for me to photograph from the department’s collection. Joyce McBeth provided numerous edits to this edition and adapted Chapters 14, 15, and 17. Lyndsay Hauber provided assistance with updates to image attributions for the chapter on plate tectonics. Donna Beneteau and Doug Milne of the College of Engineering, and Zoli Hajnal of Geological Sciences gave me a tour of the [Geological Engineering Rock Mechanics Facility](https://research.usask.ca/portalforindustry/facilities/geological-engineering-rock-mechanics-facility.php), and helped me to photograph their experiments.
+
+### Image Sources
+
+This project would not be possible without the generosity of many individuals and organizations who shared their work with a Creative Commons license or under other open licensing terms. The following is a list of valuable image resources, as much as it is an acknowledgement of contributions:
+
+__Roger Weller__ has made available thousands of his [high-quality rock and mineral photographs](http://skywalker.cochise.edu/wellerr/mineral/minlist.htm) through his website hosted by Cochise College, and granted permission for their non-commercial educational use. His photos have been used extensively throughout this project. Roger's usage stipulation has led to thoughtful discussions about what the appropriate way is to license derivative materials that make use of non Creative-Commons content. We have concluded that the best way to ensure that his wishes are respected is to license materials I make with his photographs as [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). This permits free sharing and remixing, but stipulates no commercial use, and that all derivative works must be shared with a non-commercial license.
+
+__[James St. John](https://www.flickr.com/photos/jsjgeology/)__ is a geologist and paleontologist who has contributed (at the time of this writing) more than 59,000 high-quality geology-related photographs to the photo-sharing website Flickr. His photographs cover a wide range of rocks and minerals, and rarely has there been an image that I needed but couldn't find in his work. His Flickr account is remarkable for the abundance and quality of photographs, but also because he includes detailed descriptions of his images, making it possible for me to verify that an image is what I think it is, and gather useful background information. He has shared his images with a [CC BY](https://creativecommons.org/licenses/by/4.0/) license, which I appreciate greatly because it allows me to combine them with content having more restrictive licenses.
+
+The [__U. S. Geological Survey__](https://www.usgs.gov/) has contributed innumerable images to the public domain. [The Hawaiian Volcano Observatory](https://volcanoes.usgs.gov/observatories/hvo/) in particular is my go-to source for both the latest in volcano photos, and for fascinating historical images. Data and images from the USGS Earthquake Hazards Program [Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/) map have been invaluable.
+
+I have used __[NASA](https://www.nasa.gov/)__ images for views of Earth as much as I have for views of space and other planets. It is truly remarkable that in spite of the vast resources and expertise needed to acquire these photographs, they are free to view, use, and learn from.
+
+Among the many teaching resources offered by [__IRIS__](https://www.iris.edu/hq/) (Incorporated Research Institutions for Seismology) are beautifully designed images for explaining earthquakes and seismology.
+
+When all other sources failed, the odds were good that [Robert Lavinsky](https://uamineralmuseum.com/person/robert-lavinsky) ([www.iRocks.com](https://www.irocks.com/)), [Mike Norton](https://commons.wikimedia.org/wiki/User:Mikenorton), or [Michael Rygel](https://commons.wikimedia.org/wiki/User:Rygel,_M.C.) had contributed exactly the right photograph to Wikimedia Commons.
+
+## Preface to the First University of Saskatchewan Edition
+
+The First University of Saskatchewan Edition of _Physical Geology_ is the product of several years' work iteratively adapting Steven Earle's original _[Physical Geology](http://bit.ly/physgeol)_ textbook. Edits since the spring of 2017 were supported financially through the University of Saskatchewan's Open Educational Resources Fund.
+
+Key aspects of this latest version include:
+
+- Expanded content on topics of particular importance to instructors at the University of Saskatchewan: Earth-system change, glaciation, and mass wasting
+- Updated coverage of recent events and research;
+- A consistent and transparent system for image attributions, making sources and permissions easy to trace.
+- Additional images to support written content. The First University of Saskatchewan Edition contains approximately 580 figures, 40% of which were modified, added, or created as original works for this edition.
+
+Thus far, this textbook (including previous adapted versions we've prepared) has been used by nearly a thousand students at the University of Saskatchewan, saving them tens of thousands of dollars in textbook costs. If you are considering adopting this version of this textbook in your courses or adapting it, please get in touch. We'd love to talk to you about what we've done so far and what we are planning for the next edition.
+
+_Karla Panchuk, January 2019_
+
+## Preface to the Original Edition
+
+This book was born out of a 2014 meeting of earth science educators representing most of the universities and colleges in British Columbia, and nurtured by a widely shared frustration that many students are not thriving in our courses because textbooks have become too expensive for them to buy. But the real inspiration comes from a fascination for the spectacular geology of western Canada and the many decades that I have spent exploring this region along with colleagues, students, family, and friends. My goal has been to provide an accessible and comprehensive guide to the important topics of geology, richly illustrated with examples from western Canada. Although this text is intended to complement a typical first-year course in physical geology, its contents could be applied to numerous other related courses.
+
+As a teacher for many years, and as someone who is constantly striving to discover new things, I am well aware of that people learn in myriad ways, and that for most, simply reading the contents of a book is not one of the most effective ones. For that reason, this book includes numerous embedded exercises and activities that are designed to encourage readers to engage with the concepts presented, and to make meaning of the material under consideration. It is strongly recommended that you try the exercises as you progress through each chapter. You should also find it useful, whether or not assigned by your instructor, to complete the questions at the end of each chapter.
+
+Over many years of teaching earth science I have received a lot of feedback from students. What gives me the most pleasure is to hear that someone, having completed my course, now sees Earth with new eyes, and has discovered both the thrill and the value of an enhanced understanding of how our planet works. I sincerely hope that this textbook will help you see Earth in a new way.
+
+_Steven Earle, Gabriola Island, 2015_
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
