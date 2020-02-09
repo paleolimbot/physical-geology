@@ -26,7 +26,7 @@ chapter_titles <- items %>%
   extract(title, c("chapter", "chapter_title"), "Chapter\\s+([0-9]+)\\s*\\.\\s*(.*)") %>% 
   filter(!is.na(chapter)) %>% 
   mutate(chapter = as.numeric(chapter)) %>% 
-  arrange(chapter)
+  select(chapter, chapter_title, header_content = content)
 
 front_matter <- items %>% 
   filter(type == "front-matter", status != "trash", title != "Download PDF Files") %>% 
@@ -88,11 +88,13 @@ md_filter_italics <- function(x) {
   )
 }
 
+# don't actually make these blocks, or the images won't show up
+# in HTML
 md_filter_textbox <- function(x) {
   str_replace_all(
     x,
     regex("<div\\s+class=\"textbox\">(.*?)</div>", multiline = TRUE, dotall = TRUE), 
-    "\n```{block, type='textbox'}\n\\1\n```\n\n"
+    "\n<div class=\"textbox\">\n\\1\n\n</div>\n\n"
   )
 }
 
@@ -118,6 +120,8 @@ md_filter_ul <- function(x) {
   x
 }
 
+
+
 md_filter_p <- function(x) {
   str_replace_all(
     x,
@@ -126,29 +130,115 @@ md_filter_p <- function(x) {
   )
 }
 
+md_filter_caption <- function(x) {
+  caption_items <- str_extract_all(
+    x,
+    regex("\\[caption(.*?)\\](.*?)\\[/caption\\]", multiline = TRUE, dotall = TRUE)
+  ) %>% 
+    .[[1]] %>% 
+    unique()
+  
+  caption_htmls <- caption_items %>% 
+    str_replace("\\[caption(.*?)\\]", "<caption\\1>") %>% 
+    str_replace("\\[/caption\\]", "</caption>")
+  
+  for (i in seq_along(caption_items)) {
+    caption_item <- caption_items[i]
+    caption_html <- caption_htmls[i]
+    
+    cap <- read_html(caption_html) %>% html_node("caption")
+    img <- cap %>% html_node("img") %>% html_attr("src")
+    cap_text <- as.character(cap) %>% 
+      str_remove(regex("^.*?<strong>.*?</strong>", multiline = TRUE, dotall = TRUE)) %>% 
+      str_remove("</caption>") %>% 
+      str_trim() %>% 
+      str_replace_all("\n", " ") %>%
+      md_filter_xref() %>% 
+      str_replace_all("\\\\", "\\\\\\\\") %>% 
+      str_replace_all("'", "\\\\'") 
+    
+    
+    fig_id <- cap %>% html_node("strong") %>% html_text()
+    fig_id_nice <- fig_id %>% 
+      str_to_lower() %>% 
+      str_replace_all("[^a-z0-9-]+", "-")
+    
+    if (is.na(fig_id_nice)) {
+      fig_id_nice <- ""
+    }
+    cap_block <- glue::glue(
+      "\n\n```{{r {fig_id_nice}, fig.cap='{cap_text}'}}\nknitr::include_graphics(\"{img}\")\n```\n\n"
+    )
+    
+    x <- str_replace_all(x, fixed(caption_item), cap_block)
+  }
+  
+  x
+}
+
+md_filter_xref <- function(x) {
+  fig_refs <- x %>%  str_extract_all("Figure [0-9.]+") %>% .[[1]] %>% unique()
+  
+  for (ref in fig_refs) {
+    fig_id_nice <- ref %>% str_to_lower() %>% 
+      str_replace_all("[^a-z0-9-]+", "-") %>% 
+      str_remove("-$")
+    x <- str_replace_all(x, fixed(ref), glue::glue("Figure \\@ref(fig:{fig_id_nice})"))
+  }
+  
+  x
+}
+
+md_filter_nbsp <- function(x) {
+  str_remove_all(x, fixed("&nbsp;"))
+}
+
 md_filter_all <- function(x) {
   if (length(x) > 1) {
     return(map_chr(x, md_filter_all))
   }
   
   x %>% 
+    md_filter_caption() %>% 
+    md_filter_xref() %>% 
     md_filter_links() %>% 
     md_filter_bold() %>% 
     md_filter_italics() %>% 
     md_filter_hn() %>% 
     md_filter_textbox() %>% 
     md_filter_ul() %>% 
-    md_filter_p()
+    md_filter_p() %>% 
+    md_filter_nbsp()
 }
 
 # copy front matter so that it can be pasted into index.Rmd
-front_matter %>% 
-  mutate(
-    content_markdown = glue::glue("\n## {title}\n\n{md_filter_all(content)}")
-  ) %>% 
-  pull(content_markdown) %>% 
-  paste(collapse = "\n\n") %>% 
-  clipr::write_clip()
+# front_matter %>% 
+#   mutate(
+#     content_markdown = glue::glue("\n## {title}\n\n{md_filter_all(content)}")
+#   ) %>% 
+#   pull(content_markdown) %>% 
+#   paste(collapse = "\n\n") %>% 
+#   clipr::write_clip()
   
 
+chapter_rmds <- chapter_content %>% 
+  mutate(
+    title = str_remove(title, "^Chapter [0-9]+") %>% str_remove("[0-9.]+") %>% str_trim(),
+    content = glue::glue("## {title}\n\n{content}")
+  ) %>% 
+  group_by(chapter) %>% 
+  summarise(content = paste(content, collapse = "\n\n\n")) %>% 
+  left_join(chapter_titles, by = "chapter") %>% 
+  mutate(
+    content = glue::glue("\n# {chapter_title}\n\n{header_content}\n\n{content}") %>% 
+      md_filter_all(),
+    filename = sprintf(
+      "%02d-%s.Rmd", 
+      chapter, 
+      chapter_title %>% str_remove("'") %>% 
+        str_to_lower() %>% 
+        str_replace_all("[^a-z0-9-]+", "-")
+    )
+  )
 
+walk2(chapter_rmds$content, chapter_rmds$filename, write_file)

@@ -1,0 +1,858 @@
+# Weathering, Sediment, and Soil
+
+<p style="text-align: center">_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_</p>
+
+
+
+```{r figure-8-1, fig.cap='The Hoodoos, near Drumheller, Alberta, have formed from the differential weathering (weaker rock weathering faster than stronger rock) of sedimentary rock. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image002.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06/hoodoos-2-1024x673.jpg")
+```
+
+
+### __ ____Learning Objectives__
+
+
+<div class="bcc-box bcc-highlight">
+
+After reading this chapter and answering the review questions at the end, you should be able to:
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+</div>
+
+#### What Is Weathering?
+
+
+__Weathering__ occurs when rock is exposed to the “weather” — to the forces and conditions that exist at Earth’s surface. Rocks that form deep within Earth experience relatively constant temperature, high pressure, have no contact with the atmosphere, and little or no interaction with moving water. Once overlying layers are eroded away and a rock is exposed at the surface, conditions change dramatically. Temperatures vary widely, and pressure is much lower. Reactive gases like oxygen and carbon dioxide are plentiful, and in many climates, water is abundant.
+
+Weathering can be characterized as __mechanical __(or __physical__), and __chemical__. In mechanical weathering, physical processes break rock into smaller pieces. In chemical weathering, chemical reactions change minerals into forms that are less affected by chemical reactions that occur at Earth's surface. Mechanical and chemical weathering reinforce each other, because mechanical weathering provides new fresh surfaces for attack by chemical processes, and chemical weathering weakens the rock so that it is more susceptible to mechanical weathering. Together, these processes create the particles and ions that can eventually become sedimentary rock.  They also create soil, which is necessary for our existence on Earth.
+
+
+
+## Mechanical Weathering
+
+Intrusive igneous rocks form at depths of 100s of metres to 10s of kilometres. Most metamorphic rocks are formed at depths of kilometres to 10s of kilometres. Sediments are turned into sedimentary rocks only when they are buried by other sediments to depths in excess of several 100s of metres. Weathering cannot happen until these rocks are revealed at Earth’s surface by uplift and the erosion of overlying materials. Once the rock is exposed at the surface as an __outcrop__, weathering begins.
+
+The agents of mechanical weathering can be broadly classified into two groups: those that cause the outer layers of a rock to expand, and those that act like wedges to force the rock apart.
+
+### Mechanical Weathering By Expansion
+
+
+Some processes at Earth's surface can cause a thin outer layer of a rock to expand. Deeper than the thin outer layer, the rock does not expand. The difference is accommodated by a crack developing between the outer and inner layers, breaking the outer layer off in slabs (Figures 8.2 and 8.3). When layers break off a rock in slabs or sheets, it is referred to as __exfoliation__.
+
+
+```{r figure-8-2, fig.cap='Close-up view of exfoliation of a granite dome in the Enchanted Rock State Natural Area, Texas, USA. _Source: Wing-Chi Poon (2005) CC BY-SA 2.5 [view source](https://commons.wikimedia.org/wiki/File:GeologicalExfoliationOfGraniteRock.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/GeologicalExfoliationOfGraniteRock_small-1024x577.jpg")
+```
+
+
+
+```{r figure-8-3, fig.cap='View of exfoliation at a distance (centre of image) in granite exposed on the west side of the Coquihalla Highway north of Hope, B.C. _Source: Steven Earle (2015) CC BY [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image005.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Coquihalla_exfoliation_SE.jpg")
+```
+
+
+Granite tends to exfoliate parallel to the exposed surface because it does not have planes of weakness to determine how it breaks. In contrast, sedimentary rocks tend to exfoliate along the contacts between different sedimentary layers, and metamorphic rocks tend to exfoliate parallel to aligned minerals.
+
+#### Reasons Rocks Expand
+
+
+A rock within the Earth has pressure exerted upon it by other rocks sitting above it. This is called__ confining pressure. __When the overlying mass is removed by weathering, the confining pressure decreases, allowing the rock to expand. The cracking that results is sometimes called __pressure-release cracking__.
+
+Heating a rock can also cause it to expand. If the rock is heated rapidly, as during a wildfire, cracks can form. If it goes through large daily temperature swings (e.g., in the desert where it is very hot during the day but cold at night), cracking can also eventually result as the rock is weakened.
+
+### Mechanical Weathering by Wedging
+
+
+In wedging, a pre-existing crack in a rock is made larger by forcing it open.
+
+#### Frost Wedging
+
+
+__Frost wedging__ (or __ice wedging__) happens when water seeps into cracks, then expands upon freezing. The expansion enlarges the cracks (Figure \@ref(fig:figure-8-4)). The effectiveness of frost wedging depends on how often freezing and thawing occur.  Frost wedging won’t be as important in warm areas where freezing is infrequent, in very cold areas where thawing is infrequent, or in very dry areas, where there is little water to seep into cracks.
+
+
+```{r figure-8-4, fig.cap='A rock broken by ice wedging sits in a stream in Mount Revelstoke National Park, Canada. Rocks break apart when ice expands in pre-existing cracks. _Source: Karla Panchuk (2018) CC BY 4.0._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Ice-wedging.png")
+```
+
+
+Frost wedging is most effective in Canada's climate, where for at least part of the year temperatures oscillate between warm and freezing. In many parts of Canada, the temperature swings between freezing at night and thawing in the day tens to hundreds of times a year. Even in warm coastal areas of southern British Columbia, freezing and thawing transitions are common at higher elevations. A common feature in areas of effective frost wedging is a talus slope — a fan-shaped deposit of fragments removed by frost wedging from the steep rocky slopes above (Figure \@ref(fig:figure-8-5)).
+
+
+```{r figure-8-5, fig.cap='An area with very effective frost wedging near Keremeos, BC. The fragments that were wedged away from the cliffs above have accumulated in a talus deposit at the base of the slope. The rocks in this area are variable in colour, which is reflected in the colours of the talus. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image011.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/talus_slope_SE-1024x698.jpg")
+```
+
+
+#### Salt Wedging
+
+
+__Salt wedging__ happens when saltwater seeps into rocks and then evaporates on a hot sunny day. Salt crystals grow within cracks and pores in the rock, and the growth of these crystals can push grains apart, causing the rock to weaken and break. There are many examples of this on the rocky shorelines of Vancouver Island and the Gulf Islands, where sandstone outcrops are common and salty seawater is readily available (Figure \@ref(fig:figure-8-6)). The honeycomb structure of rounded holes, called __tafoni__, is related to the original roughness of the surface. Low spots collect salt water, causing the effect to be accentuated around existing holes.
+
+
+```{r figure-8-6, fig.cap='Tafoni (Honeycomb weathering) in sandstone on Gabriola Island, British Columbia. The holes are caused by crystallization of salt within rock pores. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image013.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/tafoni_SE.jpg")
+```
+
+
+#### Plant and Animal Activity
+
+
+The effects of plants are significant in mechanical weathering. Roots can force their way into even the tiniest cracks. They exert tremendous pressure on the rocks as they grow, widening the cracks and breaking the rock. This is called __root__ __wedging__ (Figure \@ref(fig:figure-8-7)).
+
+
+```{r figure-8-7, fig.cap='Root wedging along a quarry wall. Left: Rocks beneath the thick red beds have been split into sheets by tree roots. Right: A closer examination reveals that tree roots are working into vertical cracks as well. _Source: Karla Panchuk (2018) CC BY 4.0_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/root_wedging_2018.png")
+```
+
+
+Although most animals do not normally burrow through solid rock, they can excavate and remove huge volumes of soil, and thus expose the rock to weathering by other mechanisms. Humans modify vast tracts of land by excavation, and have a profound effect on accelerating mechanical weathering.
+<div class="bcc-box bcc-info">
+
+##### Exercise: Mechanical Weathering
+
+
+What mechanical weathering processes do you think take place on this mountain in British Columbia?
+
+
+```{r figure-8-8, fig.cap='Granite at the top of Siy’ám’ Smánit (also known as Stawamus Chief Mountain), near Squamish, British Columbia. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image017.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Stawamus_Chief_SE-1024x618.jpg")
+```
+
+
+</div>
+
+###  Erosion
+
+
+Mechanical weathering is greatly facilitated by __erosion__.  Erosion is the removal of weathering products, such as fragments of rock. This exposes more rock to weathering, accelerating the process. A good example of weathering and erosion working together is the talus shown in Figure \@ref(fig:figure-8-5). The rock fragments forming the talus piles were broken off the steep rock faces at the top of the cliff by ice wedging, and then removed by gravity.
+
+Gravity does not always work alone to remove weathering products. Other agents of erosion include water in streams, ice in glaciers, and waves on coasts.
+
+
+
+
+## Chemical Weathering
+
+Chemical weathering results from chemical changes to minerals that become unstable when they are exposed to surface conditions. The kinds of changes that take place are specific to the mineral and the environmental conditions. Some minerals, like quartz, are virtually unaffected by chemical weathering. Others, like feldspar, are easily altered.
+
+### Types of Chemical Weathering Reactions
+
+
+
+#### Dissolution
+
+
+__Dissolution__ reactions produce ions, but no minerals, and are reversible if the solvent is removed. A household example would be dissolving a teaspoon of table salt (the mineral halite) in a glass of water. The halite will separate into Na<sup>+</sup> and Cl<sup>-</sup> ions. If the water in the glass is allowed to evaporate, there will not be enough water molecules to hold the Na<sup>+</sup> and Cl<sup>-</sup> ions apart, and the ions will come together again to form halite. Gypsum and anhydrite are other minerals that will dissolve in water alone.
+
+Other minerals, such as calcite, will dissolve in acidic water. Acidic water is common in nature, because carbon dioxide (CO<sub>2</sub>) in the atmosphere reacts with water vapour in the atmosphere, and with water on land and in the oceans to produce carbonic acid (Figure \@ref(fig:figure-8-9)).
+
+
+```{r figure-8-9, fig.cap='Calcite weathering by dissolution. Top: Carbon dioxide reacts with water to make acid. Bottom: Acid reacts with calcite and produces ions. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Modified after [What-When-How](http://what-when-how.com/paramedic-care/ventilation-clinical-essentials-paramedic-care-part-2/). Molecules from [JMSE Molecular Editor](http://biomodel.uah.es/en/DIY/JSME/draw.en.htm), Bienfait and Ertl (2013), with permission for CC BY-NC-SA use._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Dissolution_rxn_2018.png")
+```
+
+
+While rainwater and atmospheric CO<sub>2</sub> can combine to create carbonic acid, the amount of CO<sub>2</sub> in the air is enough to make only very weak carbonic acid. In contrast, biological processes acting in soil can result in a much higher concentration of CO<sub>2</sub> within soil, as well as adding organic acids. Water that percolates through the soil can become significantly more acidic.
+
+Calcite is a major component of the sedimentary rock called limestone (typically more than 95%). In the presence of acidic groundwater, limestone can dissolve underground.  Over time the dissolution can remove enough of the calcite to form caves.
+
+If dissolution of limestone or other materials removes enough rock to undermine support near the surface, the surface may collapse, creating a __sinkhole__ such as the one in Figure \@ref(fig:figure-8-10), downstream of the Mosul Dam in Iraq.
+
+
+```{r figure-8-10, fig.cap='Sinkhole downstream of the Mosul Dam in Iraq. The sinkhole is a result of dissolution of gypsum and anhydrite layers. _Source: U. S. Army Corps of Engineers (2007) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Mosul_Dam_sinkhole.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/10/Mosul_Dam_sinkhole.jpg")
+```
+
+
+Although the sinkhole in Figure \@ref(fig:figure-8-9) might appear minor, it indicates a serious problem. The dam itself is constructed on limestone supported by beds of gypsum and anhydrite. Gypsum and anhydrite are soluble in water, and the gypsum and anhydrite beneath the dam are rapidly dissolving away. This was the case prior to construction of the dam. However, once the dam was filled, the increased water pressure began to force water through the formations much faster, accelerating dissolution. Ongoing measures to fill gaps with grout are required, or else there is a grave risk of catastrophic failure, placing nearly 1.5 million people at risk.
+
+#### Hydrolysis
+
+
+The term __hydrolysis__ combines the prefix _hydro_, referring to water, with _lysis_, which is derived from a Greek word meaning to loosen or dissolve. Thus, you can think of hydrolysis as a chemical reaction where water loosens the chemical bonds within a mineral. This might sound the same as dissolution but the difference is that hydrolysis produces a different mineral in addition to ions. An example of hydrolysis is when water reacts with potassium feldspar to produce __clay minerals__ and ions. The results can be seen by comparing weathered and unweathered surfaces of the same sample of granite (Figure \@ref(fig:figure-8-11)). On the recently broken unweathered surface (Figure \@ref(fig:figure-8-11), left) feldspar is visible as bright white crystals. On a weathered surface (right) the feldspar has been altered to the chalky-looking clay mineral kaolinite.
+
+
+
+
+```{r figure-8-11, fig.cap='A piece of granite with unweathered (left) and weathered (right) surfaces. On the unweathered surfaces the feldspars are still fresh and glassy looking. On the weathered surface there are chalky white patches where feldspar has been altered to the clay mineral kaolinite. _Source: Karla Panchuk (2018) CC BY 4.0. Photos by Steven Earle (2015) CC-BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/granitic-rock.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/hydrolysis_granite.png")
+```
+
+
+Silicate minerals other than feldspar can undergo hydrolysis, but with different end results. For example, pyroxene can be converted to the clay minerals chlorite or smectite. Olivine can be converted to the clay mineral serpentine.
+
+#### Hydration
+
+
+Hydration reactions involve water being added to the chemical structure of a mineral. An example of a hydration reaction is when anhydrite (CaSO<sub>4</sub>) is transformed into gypsum (CaSO<sub>4</sub>·2H<sub>2</sub>O). A consequence of hydration is that the resulting mineral has a greater volume than the original mineral. In the case of the Mosul Dam, hydration of anhydrite has important consequences. The increase in volume applied force to an overlying limestone layer, breaking it into pieces. While unbroken limestone is a strong enough material upon which to build a foundation, broken limestone is too weak to provide a safe foundation.
+
+#### Oxidation
+
+
+__Oxidation __happens when free oxygen (i.e., oxygen not bound up in molecules with other elements) is involved in chemical reactions. Oxidation reactions provide valuable insight into Earth’s early surface conditions because there is a clear transition in the rock record from rocks containing no minerals that are products of oxidation reactions, to rocks containing abundant minerals produced by oxidation. This reflects a transition from an oxygen-free atmosphere to an oxygenated one.
+
+In iron-rich minerals such as olivine, the oxidation reaction begins with taking iron out of the mineral and putting it into solution as an ion. Olivine reacts with carbonic acid, leaving dissolved iron, bicarbonate, and silicic acid:
+<p style="text-align: center">Fe<sub>2</sub>SiO<sub>4</sub> + 4H<sub>2</sub>CO<sub>3 </sub>→ 2Fe<sup><sub>2</sub>+</sup> +  4HCO<sub>3</sub><sup>-</sup> +  H<sub>4</sub>SiO<sub>4</sub></p>
+Iron and oxygen dissolved in water react in the presence of bicarbonate to produce hematite and carbonic acid:
+<p style="text-align: center">2Fe<sup><sub>2</sub>+</sup>  + ½ O<sub>2</sub> + 2H<sub>2</sub>O + 4HCO<sub>3</sub><sup>-</sup>  → Fe<sub>2</sub>O<sub>3  </sub>+ 4H<sub>2</sub>CO<sub>3</sub></p>
+When the olivine in basalt is oxidized, the basalt takes on a reddish colour that is distinct from the dark grey or black of unweathered basalt (Figure \@ref(fig:figure-8-12)).
+
+
+
+
+```{r figure-8-12, fig.cap='Basalt pillows in Andalusia, Spain, with reddish weathered surfaces. Where parts of the pillows have broken away, darker unweathered basalt is visible. _Source:Ignacio Benvenuty Cabral (2011) CC BY-NC-SA [view source](https://flic.kr/p/9z1V6B)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/pillow-lava-Banco-de-Imagenes.jpg")
+```
+
+
+The oxidation reaction would be similar for other iron-containing silicate minerals such as pyroxene, amphibole, and biotite. Iron in sulphide minerals such as pyrite (FeS<sub>2</sub>) can also be oxidized in this way.
+
+Hematite is not the only mineral that can result from oxidation. In fact, a wide range of iron oxide minerals that can form in this way, In granite, for example, biotite and amphibole can be altered to form the iron oxide and iron hydroxyoxide minerals that are referred to in combination as __limonite__ (orange material in Figure \@ref(fig:figure-8-13)).
+
+
+```{r figure-8-13, fig.cap='Biotite and amphibole in this granite have been altered by oxidation to limonite (orange-yellow coating), which is a mixture of iron oxide and iron hydroxyoxide minerals. _Source: Steven Earle (2015) CC-BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image023.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/granite_limonite_SE.jpg")
+```
+
+
+##### Oxidation Reactions and Acid Rock Drainage
+
+
+Oxidation reactions can pose an environmental problem in areas where rocks have elevated levels of sulphide minerals such as pyrite. This is because when oxygen and water react with pyrite, sulphuric acid is produced:
+<p style="text-align: center">2FeS<sub>2</sub> + 7O<sub>2</sub> + 2H<sub>2</sub>O → 2FeSO<sub>4</sub> + 2H<sub>2</sub>SO<sub>4</sub></p>
+The runoff from areas where this process is taking place is known as __acid rock drainage__ (ARD), and even a rock with 1% or 2% pyrite can produce significant ARD. Some of the worst examples of ARD are at metal mine sites, especially where pyrite-bearing rock and waste material have been mined from deep underground, and then piled up and left exposed to water and oxygen. In these cases the problem is referred to as __acid mine drainage__. One example is the Mt. Washington Mine near Courtenay on Vancouver Island (Figure \@ref(fig:figure-8-12)), but there are many similar sites across Canada and around the world.
+
+
+```{r figure-8-14, fig.cap='Acid mine drainage. Left: Mine waste where exposed rocks undergo oxidation reactions and generate acid at the Washington Mine, BC. Right: An example of acid drainage downstream from the mine site. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Mt.-Washington-Mine.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Mt.-Washington-Mine-1024x425.png")
+```
+
+
+At many ARD sites, the pH of the runoff water is less than 4 (very acidic). Under these conditions, metals such as copper, zinc, and lead easily dissolve in water, which can be toxic to aquatic life and other organisms. For many years, the river downstream from the Mt. Washington Mine had so much dissolved copper in it that it was toxic to salmon. Remediation work has since been carried out at the mine and the situation has improved.
+
+
+<div class="textbox textbox--exercises"><header class="textbox__header">
+<p class="textbox__title" style="text-align: center">Exercise: Chemical Weathering</p>
+
+</header>
+<div class="textbox__content">
+
+For each of the following reactions, indicate which chemical weathering process—dissolution, hydrolysis, hydration, or oxidation—is the primary mechanism.
+<ol>
+ 	<li>Pyrite → hematite</li>
+ 	<li>Calcite → calcium and bicarbonate ions</li>
+ 	<li>Feldspar → clay</li>
+ 	<li>Olivine → serpentine</li>
+ 	<li>Pyroxene → iron oxide</li>
+ 	<li>Anhydrite → gypsum</li>
+</ol>
+</div>
+</div>
+
+###### References
+
+
+Bienfait, B., &amp; Ertl P. (2013). JSME: a free molecule editor in JavaScript. _Journal of Cheminformatics_ _5_(24). [https://doi.org/10.1186/1758-2946-5-24 ](https://doi.org/10.1186/1758-2946-5-24)
+
+
+## Controls on Weathering Processes and Rates
+
+Weathering does not happen at the same rate in all environments. The same types of weathering do not happen in all environments. There are a variety of factors that determine what kinds of weathering will occur, and how fast the processes will proceed.
+
+### Climate
+
+
+Water and temperature are key factors controlling both weathering rates and the types of weathering that occur:
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+This means, for example, that chemical weathering will be faster in a tropical rainforest than in the Arctic, a cold desert. It means physical weathering will be the predominant form of weathering in the Arctic.
+
+### Oxygen and Carbon Dioxide
+
+
+The presence and abundance of oxygen and carbon dioxide affect chemical weathering rates. Surface environments on Earth almost all have some free oxygen available, permitting oxidation reactions to take place. Exceptions are in settings such as deep lakes or swamps where oxygen cannot easily mix into the water, and where biological processes consume the oxygen rapidly.
+
+Carbon dioxide, which acidifies water and contributes to chemical weathering, is more concentrated in some settings than others. For example, because of the activities of organisms, soils can have very high concentrations of carbon dioxide, whereas carbon dioxide concentrations will be lower on surfaces free of soils and exposed to the atmosphere.
+
+### Minerals
+
+
+The minerals making up a rock will determine what kinds of chemical weathering reactions are possible, and how rapidly chemical weathering reactions occur. Under the same conditions, dissolution of the calcite making up limestone will occur more rapidly than hydrolysis reactions happening to feldspar in granite. Quartz is very resilient to chemical weathering, and will remain long after calcite and feldspar have been weathered away. A rock with grains cemented by calcite will weather faster than a rock with grains cemented by quartz.
+
+In general, differences in the rates of chemical weathering among minerals can be broken down as follows:
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+
+### Weathering Makes Weathering Go Faster
+
+
+Weathering accelerates weathering. Physical weathering forms cracks and breaks rocks apart into smaller pieces. The smaller the pieces, the greater the surface area exposed to chemical weathering. When the newly exposed surfaces are exposed to chemical weathering, it weakens the rock even further, making it more susceptible to physical weathering processes.
+
+### Differential Weathering
+
+
+When rocks in an outcrop weather at different rates, the result is called __differential weathering__. Differential weathering causes some beds in an outcrop to be recessed relative to the others, because beds that are slow to weather will take longer to recede than weaker beds (Figure \@ref(fig:figure-8-15)).
+
+
+```{r figure-8-15, fig.cap='Differential weathering in an outcrop along the Blaeberry River near Golden BC. The recessed beds within the outcrop are weathering faster than the surrounding beds. _Source: Karla Panchuk (2009) CC BY 4.0_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/differential_weathering-768x1024.jpg")
+```
+
+
+
+## Weathering and Erosion Produce Sediments
+
+The visible products of weathering and erosion are the unconsolidated materials that we find around us on slopes, beneath glaciers, in stream valleys, on beaches, and in deserts. The loose collection of material is referred to as __sediment__, and the individual pieces that make it up are called __clasts__.  Clasts can be of any size: sand-sized and smaller (in which case they might be referred to as particles or grains), or larger than a house.
+
+Clasts can range widely in size and shape (Figure \@ref(fig:figure-8-16)) depending on the processes involved in making and transporting them. If and when deposits like these are turned into sedimentary rocks, the mineralogy and textures of these rocks will vary significantly. Importantly, when we describe sedimentary rocks that formed millions of years in the past, we can study the mineralogy and textures to make inferences about the conditions that existed during the deposition of the sediment, and the later burial and formation of sedimentary rock.  The properties we look at are __composition__, __grain size__, __sorting__, __rounding__, and __sphericity__.
+
+
+
+
+```{r figure-8-16, fig.cap='Products of weathering and erosion formed under different conditions. Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/clasts-3.png)'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/clasts-3.png")
+```
+
+
+### Composition
+
+
+Composition refers to the mineral or minerals making up the clast. Small clasts might be single mineral grains, but larger ones can have several different mineral grains, or even several different pieces of rock within them.  The composition can tell us about what rock the sediments came from, and about the geological setting from which the sediment was derived.
+
+Not all minerals have the same hardness and resistance to weathering, so as weathering and erosion proceed, some minerals become more abundant than others within sediments. Quartz is one example of a mineral that is more abundant. It is highly resistant to weathering by weak acids or reaction with oxygen. This makes it unique among the minerals that are common in igneous rocks. Quartz is also very hard, so it is resistant to mechanical weathering.
+
+In contrast, feldspar and iron- and magnesium-bearing minerals are not as resistant to weathering. As weathering proceeds, they are likely to be broken into small pieces and converted into clay minerals and dissolved ions. Ultimately this means that quartz, clay minerals, iron oxides, aluminum oxides, and dissolved ions are the most common products of weathering.
+
+### Grain Size
+
+
+Whether a grain is large or small tells us about its journey from its source to where it was deposited.  Mechanical weathering can break off large pieces from rock.  Large pieces carried along by streams will bump into each other, causing smaller pieces to break off.  Over time the grains get smaller and smaller still. If we find grains that are very small, we can conclude that they travelled over a long distance.
+
+Geologists have a specific set of definitions to describe the size of grains (Figure \@ref(fig:figure-8-17)).
+
+
+```{r figure-8-17-, fig.cap='Classification of grain sizes. Silt and clay are considered fine-grained particles, sand is medium-grained, and particles larger than sand are considered coarse-grained.. _Source: Karla Panchuk (2016) CC BY 4.0 Click the image for a text version._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Grain-size-chart.png")
+```
+
+
+The scale has some of the grain sizes listed in microns (µm). There are 1000 µm in 1 mm. The particles classified as sand are what you would intuitively think of as being sand-sized, so an easy way to remember the scale is that anything smaller than sand is fine-grained, and anything larger is coarse-grained. Fine sand grains are still easily discernible with the naked eye. Silt grains are barely discernible in rocks, and silty rocks feel gritty when rubbed. Clay grains are invisible to the naked eye, and rocks comprised of clay feel smooth when rubbed.
+
+One other thing to notice about this scale is that the finest-grained particle is referred to as clay. While a clay-sized particle could be composed of clay minerals (and often they are), it doesn’t have to be. Any particle of that size would be referred to as clay.
+
+#### Grain Size and Transportation
+
+
+The grain size of sediments is not just for purposes of description. It's also a valuable clue to the processes that have acted on those sediments, because the size of the clast determines how much energy is required to move it.
+
+Whether or not a medium such as water or air has the ability to move a clast of a particular size and keep it moving depends on the velocity of the flow.  For the most part, the faster the medium flows, the larger the clasts that can be moved. Figure \@ref(fig:figure-8-18) shows a stream bed that now contains only a trickle of water—barely enough to move particles of sand or cool puppy feet. But the velocity of water in the stream changes from season to season, as does the volume of water.  All of the clasts in the stream bed were transported there by water at some point.
+
+
+
+
+```{r figure-8-18, fig.cap='Ruby looks upstream in a channel near Golden BC. For much of the year the only water in the stream is the trickle in which Ruby stands, but in the spring the water can flow rapidly enough to carry boulders. _Source: Karla Panchuk (2009) CC BY 4.0_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/IMG_4497-1024x871-1024x871.jpg")
+```
+
+
+Very fine-grained particles are the exception to rule that the larger the clasts, the faster the water that is required to transport them. Clay and silt grains stick together, requiring higher water velocities to pick them up and move them than some larger particles. Water that flows fast enough to pick up sand would not be fast enough to pick up clay.
+
+### Sorting
+
+
+Weathering can break off large fragments of rock, and erosion and transport can break these fragments down to smaller and smaller sizes. The extent to which the grains in sediment differ in size is described by __sorting__ (Figure \@ref(fig:figure-8-19), top).
+
+
+```{r figure-8-19, fig.cap='Top: Sorting of grains, ranging from well sorted where the grains are similar in size, to poorly sorted, where the grains vary greatly in size. Bottom: Rounding refers to how smooth or rough the edges of a clast are.  Clasts with sharp edges and corners are angular. Clasts with smooth surfaces are rounded.  Clasts that fall in between are sub-angular or sub-rounded. Source: Reagan et al. (2015) CC BY 3.0 [view source](http://publications.iodp.org/proceedings/352/102/figures/02_F05.png)'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/IODP-sorting-and-rounding.png")
+```
+
+
+If the grains in a sample of sediment are the same size or very nearly so, the sediment is said to be well sorted.  If the grains vary substantially in size, the sediment is poorly sorted. Because grains become progressively smaller as they are transported, sorting improves the further the sediments are from their source.
+
+### Rounding
+
+
+__Rounding__ refers to whether clasts have sharp edges and corners or not (Figure \@ref(fig:figure-8-19), bottom). If the grains are rough, with lots of edges and corners, then they are referred to as angular. Grains with smooth surfaces are rounded. Grains in between can be sub-angular or sub-rounded. The farther sediments are transported, the rounder they become.
+
+### Sphericity
+
+
+__Sphericity__ describes whether a grain is elongate or not.  Grains that are longer than they are wide (like an ellipse) have low sphericity, whereas grains that have the same diameter no matter where you measure it (like a sphere) have high sphericity. In the bottom row of boxes in Figure \@ref(fig:figure-8-19) the grains at the top of each box exhibit high sphericity, and the grains at the bottom exhibit low sphericity.  Notice that a grain can be angular but still have high sphericity.  It can be rounded, but still have low sphericity. Sphericity also increases the further the sediments are from their source.
+
+
+<div class="textbox textbox--exercises"><header class="textbox__header">
+<p class="textbox__title" style="text-align: center">Exercise: Looking at Sand</p>
+
+</header>
+<div class="textbox__content">
+<div>
+
+Three samples of sand are shown below. Read the descriptions of what they contain and where they are from, then describe each sample in terms of grain size, sorting, rounding, and sphericity.
+
+</div>
+
+
+```{r figure-8-20, fig.cap='Three examples of sand grains. _Source: Steven Earle (2016) CC BY 4.0 View sources: [Sample A](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image039.jpg)[, Sample B](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image041.jpg), [Sample C](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image043.jpg)._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/sand_examples.png")
+```
+
+
+
+
+Sample A: Fragments of red coral, algae plates, and urchin needles from a shallow water area (~2 m depth) near a reef in Belize. The grains are between 0.1 and 1 mm across.
+
+
+
+Sample B: Quartz and rock fragments from a glacial stream deposit near Osoyoos, BC. The grains are between 0.25 and 0.5 mm in diameter.
+
+
+
+Sample C: Grains of olivine (green) and volcanic glass (black) from a beach on the big island of Hawai'i. The grains are approximately 1 mm in diameter.
+
+</div>
+</div>
+
+###### References
+
+
+<div>
+
+Reagan, M.K., Pearce, J.A., Petronotis, K., and the Expedition 352 Scientists, (2015). _Pr_<em class="Emphasis">oceedings of the International Ocean Discovery Program,</em> Volume 352, publications.iodp.org, doi:10.14379/iodp.proc.352.102.2015
+
+</div>
+
+
+## Weathering and Soil Formation
+
+Weathering is a key part of the process of soil formation, and soil is critical to our existence on Earth. In other words, we owe our existence to weathering, and we need to take care of the soil!
+
+Many people refer to any loose material on Earth’s surface as soil, but to scientists __soil__ is the material that includes organic matter, forms within the top few tens of centimetres of the surface, and is important for sustaining plant growth.
+
+Soil is a complex mixture of minerals (~45%), organic matter (~5%), and empty space (~50%, filled to varying degrees with air and water). The mineral content of soil varies, but is dominated by clay minerals and quartz, along with minor amounts of feldspar and small fragments of rock.
+
+The types of weathering that take place within a region have a major influence on soil composition and texture. For example, in a warm climate where chemical weathering dominates, soils tend to be richer in clay. Soil scientists describe soil texture in terms of the relative proportions of sand, silt, and clay (Figure \@ref(fig:figure-8-21)). Sand and silt components are dominated by quartz, with lesser amounts of feldspar and rock fragments. The clay component is dominated by clay minerals.
+
+
+```{r figure-8-21, fig.cap='Soil texture classification diagram. Textures are determined by the proportions of sand-, silt-, and clay-sized grains. _Source: Mike Norton (2011) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:SoilTexture_USDA.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/soil_texture_USDA.png")
+```
+
+
+### Factors Affecting How Soil Forms
+
+
+Soil forms through the mechanical and chemical weathering of rocks and sediments, and the accumulation and decay of organic matter. The factors that affect the nature of soil and the rate of its formation include:
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+
+#### Climate
+
+
+Both the mechanical breakup of rocks and the chemical weathering of minerals contribute to soil formation.  The downward percolation of water brings dissolved ions and also facilitates chemical reactions. Soil forms most readily under temperate to tropical conditions, and moderate precipitation.  Temperature matters because chemical weathering reactions and those facilitated by organisms proceed fastest under warm conditions, and plant growth is enhanced in warm climates. Where the climate is cooler, the rates of chemical weathering reactions decrease, and when water is frozen, may cease entirely.
+
+Although water is needed for chemical weathering to take place, too much water can lead to soils that lack nutrients. In rain forests, for example, high rainfall contributes so much water that important nutrients are leached away, and acidic soils are left behind. In humid and poorly drained regions, swampy conditions may prevail, producing soil that is dominated by organic matter, but low in inorganic nutrients.
+
+Too little water (e.g., in deserts and semi-deserts) limits the rate of downward chemical transport, and it also means that salts and carbonate ions dissolved in upward-moving groundwater can precipitate and build up in sediments, hindering organic activity. These soils also lack organic matter (Figure \@ref(fig:figure-8-22)).
+
+
+```{r figure-8-22, fig.cap='Soil consisting of wind-blown silt (loess) and little organic matter in an arid part of north-eastern Washington state. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image047.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/loess_SE.jpg")
+```
+
+
+#### Parent Material
+
+
+Parent material for soils can be any type of bedrock, and any type of unconsolidated sediment, such as glacial deposits and stream deposits. Soils are described as __residual soils__ if they develop on bedrock, and __transported soils__ if they develop on transported material such as glacial sediments. This doesn’t mean that the soils themselves have been transported, but that the soil developed on unconsolidated material rather than on bedrock.
+
+Sandy soils develop from quartz-rich parent material, such as granite, sandstone, or loose sand. Quartz-poor material, such as shale or basalt, generates soils with little sand.
+
+Parent materials provide important nutrients to residual soils. For example, a minor constituent of granitic rocks is the calcium-phosphate mineral apatite, which is a source of the important soil nutrient phosphorus. Basaltic parent material tends to generate very fertile soils because, in addition to phosphorus, it provides significant amounts of iron, magnesium, and calcium.  The iron, magnesium, and calcium come from minerals such as olivine ((Mg,Fe)<sub>2</sub>SiO<sub>4</sub>) and plagioclase feldspar (CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub>) in the basalt.
+
+Some unconsolidated materials, such as river-flood deposits, make for especially good soils because they tend to be rich in clay minerals. Clay minerals have large surface areas with negative charges that are attractive to positively charged elements like calcium, magnesium, iron, and potassium — important nutrients for plant growth.
+
+#### Slope
+
+
+Soil can only develop where surface materials remain in place and are not frequently washed away or lost to mass wasting (landslides). Soils cannot develop where the rate of soil formation is lower than the rate of erosion, so steep slopes tend to have little or no soil.
+
+#### Time
+
+
+Even under ideal conditions, soil takes thousands of years to develop. Virtually all of southern Canada was covered with glaciers up until 14,000 years ago, and most of the central and northern parts of BC, the prairies, Ontario, and Quebec were still glaciated at 12,000 years ago. Glaciers remained in the central and northern parts of Canada until around 10,000 years ago, so conditions were still not ideal for soil development even in the southern regions. This means that soils in Canada, particularly in central and northern Canada, are relatively young and not well developed.
+
+The same applies to soils that are forming on newly created surfaces, such as recent deltas or sand bars, in areas of mass wasting, or where an area has been resurfaced by volcanic deposits.
+
+Because soil takes so long to form, human activities that damage soils have long-term consequences for ecosystems, and for the utility of the soil for food production.
+
+### Soil Horizons
+
+
+When soils form, the downward movement of clay, water, and dissolved ions can lead to the development of chemically and texturally distinct layers known as __soil horizons__. In temperate climates, common soil horizons that develop are the following (Figure \@ref(fig:figure-8-23)):
+
+
+- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+
+
+```{r figure-8-23, fig.cap='Typical horizons in a temperate soil, from Wales. Source: Karla Panchuk (2018) CC BY 4.0. Photograph: Richard Hartnup (2005) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Podzol.jpg)'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/soil-horizons.png")
+```
+
+
+Although rare in Canada, another type of layer that develops in hot arid regions is known as __caliche__ (pronounced _ca-lee-chee_). It forms from the downward (or in some cases upward) movement of calcium ions, and the precipitation of calcite within the soil. When well developed, caliche cements the surrounding material together to form a layer that has the consistency of concrete.
+
+
+
+### How Soil Is Lost
+
+
+Like all geological materials, soil is subject to erosion.  Under natural conditions on gentle slopes, the rate of soil formation either balances or exceeds the rate of erosion. However, human practices related to forestry and agriculture have significantly upset this balance.
+
+Soils are held in place by vegetation. When vegetation is removed, either through cutting trees or routinely harvesting crops and tilling the soil, this protection is lost. When soil is not protected, wind and water can easily erode it away.
+
+Water erosion is accentuated on sloped surfaces because fast-flowing water has greater eroding power than still water. Raindrops can disaggregate exposed soil particles, putting clay into suspension in the water. __Sheetwash__—unchannelled flow across a surface—carries suspended material away, and channels erode right through the soil layer, removing both fine and coarse material (Figure \@ref(fig:figure-8-24)).
+
+
+```{r figure-8-24, fig.cap='Soil erosion by rain and unchanneled runoff in a field in Alberta. _Source:Alberta Agriculture and Rural Development. Click the image for source information and terms of use._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/photo-2-2-1_l.jpg")
+```
+
+
+Wind erosion is exacerbated by the removal of trees that act as wind breaks, and by agricultural practices that leave bare soil exposed (Figure \@ref(fig:figure-8-25)).
+
+
+```{r figure-8-25, fig.cap='Soil erosion by wind in Alberta. _Source:Alberta Agriculture and Rural Development. Click the image for source information and terms of use._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/photo-2-2-2-erosion_l-1024x680.jpg")
+```
+
+
+Tillage is also a factor in soil erosion, especially on slopes, because each time the soil is lifted by a cultivator, it is moved a few centimetres down the slope.
+
+
+## Soils of Canada
+
+Until the 1950s, the classification of soils in Canada was based on the system used in the United States. However, it was long recognized that the U.S system did not apply well to many parts of Canada because of climate and environmental differences. The Canadian System of Soil Classification was first outlined in 1955 and has been refined and modified numerous times since then. There are 10 orders of soil recognized in Canada (Table 8.1), and you can explore the distribution of soils using Agriculture and Agri-Food Canada's interactive map (Figure \@ref(fig:figure-8-26)). See the resources section at the bottom of the page for additional sources of information on Canadian soils, including videos.
+<table class="shaded" style="height: 527px" border="1">
+<tbody>
+<tr style="height: 17px">
+<td class="shaded" style="width: 678.1px;height: 17px;text-align: left" colspan="3">__Table 8.1 Canadian Soil Classification System__<strong>
+</strong></td>
+</tr>
+<tr style="height: 18px">
+<td style="height: 18px;width: 99px;text-align: center">__Order__</td>
+<td style="height: 18px;width: 249px;text-align: center">__Brief Description__</td>
+<td style="height: 18px;width: 298px;text-align: center">__Environment__</td>
+</tr>
+<tr style="height: 18px">
+<td style="height: 18px;width: 678.1px" colspan="3"><strong>Forests
+</strong></td>
+</tr>
+<tr style="height: 18px">
+<td style="height: 18px;width: 99px">Podzolic</td>
+<td style="height: 18px;width: 249px">Well-developed A and B horizons</td>
+<td style="height: 18px;width: 298px">Coniferous forests throughout Canada</td>
+</tr>
+<tr style="height: 36px">
+<td style="height: 36px;width: 99px">Luvisolic</td>
+<td style="height: 36px;width: 249px">Clay-rich B horizon</td>
+<td style="height: 36px;width: 298px">Northern prairies and central BC, mostly on sedimentary rocks</td>
+</tr>
+<tr style="height: 55px">
+<td style="height: 55px;width: 99px">Brunisolic</td>
+<td style="height: 55px;width: 249px">Poorly developed or immature soil, that does not have the well-defined horizons of podsol or luvisol</td>
+<td style="height: 55px;width: 298px">Boreal-forest soils in the discontinuous permafrost areas of central and western Canada, and also in southern BC.</td>
+</tr>
+<tr style="height: 36px">
+<td style="height: 36px;width: 678.1px" colspan="3">__Grasslands__</td>
+</tr>
+<tr style="height: 55px">
+<td style="height: 55px;width: 99px">Chernozemic</td>
+<td style="height: 55px;width: 249px">High levels of organic matter and an A horizon at least 10 cm thick</td>
+<td style="height: 55px;width: 298px">Southern prairies and parts of BC’s southern interior, in areas that experience summer water deficits</td>
+</tr>
+<tr style="height: 36px">
+<td style="height: 36px;width: 99px">Solonetzic</td>
+<td style="height: 36px;width: 249px">A clay-rich B horizon, commonly with a salt-bearing C horizon</td>
+<td style="height: 36px;width: 298px">Southern prairies, in areas that experience water deficits during the summer</td>
+</tr>
+<tr style="height: 18px">
+<td style="width: 678.1px;height: 18px" colspan="3"><strong>Glacial and tundra
+</strong></td>
+</tr>
+<tr style="height: 36px">
+<td style="width: 99px;height: 36px">Cryosolic</td>
+<td style="width: 249px;height: 36px">Poorly developed soil, mostly C horizon</td>
+<td style="width: 298px;height: 36px">Permafrost areas of northern Canada</td>
+</tr>
+<tr style="height: 36px">
+<td style="width: 99px;height: 36px">Vertisolic</td>
+<td style="width: 249px;height: 36px">Clay-rich soils associated with glacial lake deposits</td>
+<td style="width: 298px;height: 36px">Southern prairies</td>
+</tr>
+<tr style="height: 39px">
+<td style="height: 39px;width: 678.1px" colspan="3"><strong>Other
+</strong></td>
+</tr>
+<tr style="height: 55px">
+<td style="height: 55px;width: 99px">Organic</td>
+<td style="height: 55px;width: 249px">Dominated by organic matter; mineral horizons are typically absent</td>
+<td style="height: 55px;width: 298px">Wetland areas, especially along the western edge of Hudson Bay, and in the area between the prairies and the boreal forest</td>
+</tr>
+<tr style="height: 36px">
+<td style="height: 36px;width: 99px">Regosolic</td>
+<td style="height: 36px;width: 249px">Does not have a B horizon (i.e., no accumulation of leached minerals)</td>
+<td style="height: 36px;width: 298px">Unstable sediments including steep slopes prone to landslides, shifting sand dunes, and floodplains where sediments are frequently moved by streams</td>
+</tr>
+<tr style="height: 18px">
+<td style="width: 99px;height: 18px">Gleysolic</td>
+<td style="width: 249px;height: 18px">Colour patterns related to the absence of oxygen</td>
+<td style="width: 298px;height: 18px">Water-saturated soils</td>
+</tr>
+</tbody>
+</table>
+
+```{r figure-8-26, fig.cap='Distribution of soil orders in Canada. Click [here](http://www.agr.gc.ca/atlas/agpv?webmap-en=c225cc78d5b142d58eacefae91cc535b&amp;webmap-fr=ad0b6822a33e411683f99979a1167efa) to go to the interactive map. _Source: Agrifood and Agriculture Canada. Contains information licensed under the Open Government License - Canada. Click the image for terms of use.<br>_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/soil_map_interactive.png")
+```
+
+
+
+
+Processes of soil formation include downward transport of solid and dissolved materials, and the nature of those processes depends in large part on the climate. In Canada’s predominantly cool and humid climate—characteristic of most places other than the far north— __podzolization__ is the norm. This involves downward transportation of hydrogen, iron, and aluminum from the upper part of the soil profile, and accumulation of clay, iron, and aluminum in the B-horizon. Most of the __podzols, luvisols__, and __brunisols__ of Canada form through various types of podzolization.
+
+In the grasslands of the dry southern parts of the prairie provinces and in some of the drier parts of southern BC, dark brown organic-rich __chernozem__ soils are dominant. In some cases, weak calcification takes place when calcium is leached from the upper layers and accumulates in the B-horizon. Development of caliche layers is rare in Canada.
+
+__Organic soils__ form in areas with poor drainage and a rich supply of organic matter, such as in swamps. These soils have very little mineral matter.
+
+In the permafrost regions of the north, where glacial retreat was most recent, the time available for soil formation has been short and the rate of soil formation slow. The soils are called __cryosols__ (the _cryo_ prefix is used to indicate extreme cold). In permafrost areas, the freeze-thaw process churns the soil, resulting in limited soil horizon development.
+
+
+<div class="textbox textbox--exercises"><header class="textbox__header">
+<p class="textbox__title" style="text-align: center">Exercise: Soils of Canada</p>
+
+</header>
+<div class="textbox__content">
+
+Examine Figure \@ref(fig:figure-8-26) showing the distribution of soils in Canada, or use the interactive map by clicking on the figure. For each of the five soils types listed below, briefly describe the distribution. Explain the distribution based on what you know about the conditions under which the soil forms and the variations in climate and vegetation related to it.
+<table border="1">
+<tbody>
+<tr>
+<td>__Soil type__</td>
+<td>__Describe the Distribution__</td>
+<td>__Explain the Reason for This Distribution __</td>
+</tr>
+<tr>
+<td>Chernozem</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Luvisol</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Podzol</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Brunisol</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Organic</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+</div>
+</div>
+
+
+###### Resources
+
+
+<p style="padding-left: 30px">[Soils of Canada](http://www.soilsofcanada.ca/) (University of Saskatchewan)</p>
+
+
+[Soil Classification: Soil Orders of Canada](http://soilweb.landfood.ubc.ca/classification/) Watch videos about each soil order.
+
+
+## Weathering and Climate Change
+
+Carbon cycling on Earth operates on different timescales depending on the components of the Earth system that are involved. Over the short term, biological processes are important. In particular, living organisms — mostly plants — consume carbon dioxide from the atmosphere to make their tissues.  After they die, the carbon is released back into the atmosphere over years to decades as the plant matter decays.
+
+Over the longer term, geological processes drive the carbon cycle. Geological carbon-cycle processes operate very slowly, but they affect much more of Earth's carbon than the biological component. Carbon can move from the biological cycle to the geological cycle if it is buried in sedimentary rocks. The biological carbon could be fragments of plant material or organic molecules that are preserved as coal or in organic-rich shale. It could also be calcium carbonate body parts of marine organisms that are preserved in limestone.
+
+The geological component of the carbon cycle is shown in Figure \@ref(fig:figure-8-27) The various steps in the process (not necessarily in this order) are as follows:
+<table border="1">
+<tbody>
+<tr>
+<td>__a:__</td>
+<td>Organic matter from plants is stored in peat, coal, and permafrost for thousands to millions of years.</td>
+</tr>
+<tr>
+<td>__b:__</td>
+<td>Weathering of silicate minerals converts atmospheric carbon dioxide to dissolved bicarbonate, which is stored in the oceans for thousands to tens of thousands of years.</td>
+</tr>
+<tr>
+<td>__c:__</td>
+<td>Dissolved carbon is converted by marine organisms to calcite, which is stored in carbonate rocks for tens of millions to hundreds of millions of years.</td>
+</tr>
+<tr>
+<td>__d:__</td>
+<td>Organic carbon compounds are stored in sediments for tens to hundreds of millions of years; some end up in petroleum deposits.</td>
+</tr>
+<tr>
+<td>__e:__</td>
+<td>Carbon-bearing sediments are transferred to the mantle, where the carbon may be stored for tens of millions to billions of years.</td>
+</tr>
+<tr>
+<td>__f:__</td>
+<td>During volcanic eruptions, carbon dioxide is released back to the atmosphere, where it is stored for years to decades.</td>
+</tr>
+</tbody>
+</table>
+
+```{r figure-8-27, fig.cap='The geological component of the carbon cycle includes: (a) organic carbon in peat, coal and permafrost, (b) weathering of silicate minerals converts atmospheric carbon dioxide to dissolved bicarbonate, (c) marine organisms convert dissolved carbon to calcium carbonate, (d) carbon compounds are stored in sediments, (e) carbon-bearing sediments are transferred to longer-term storage in the mantle, and (f) carbon dioxide is released back to atmosphere during volcanic eruptions. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image057.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/image057-1024x323.png")
+```
+
+
+
+
+At some times in Earth’s history, the geological carbon cycle has been balanced, with carbon being released to the atmosphere by some processes at approximately the same rate as other processes store it. Under these conditions, the climate can remain relatively stable.
+
+At other times, the balance is upset. Prolonged periods of greater than average volcanism can cause an imbalance. The eruption of the Siberian Traps at around 250 Ma warmed the climate significantly over a few million years, leading to a mass extinction.
+
+Mountain-building events may also cause an imbalance. The formation of the Himalaya range between about 40 Ma and 10 Ma ago exposed rocks to weathering over a large region. The over-all rate of weathering on Earth increased because the mountains were so high, and the range was so extensive. The weathering of these rocks — most importantly the hydrolysis of feldspar — consumed atmospheric carbon dioxide and transferred carbon to the oceans and to ocean-floor carbonate minerals. Decreasing carbon dioxide levels contributed to climate cooling that culminated in the Pleistocene glaciations.
+
+Today, burning fossil fuels is causing an imbalance in the carbon cycle. Burning coal, oil, and gas releases in a geological instant carbon that was stored by the biological carbon cycle over hundreds of millions of years. Scientists who study Earth's past climate tell us that today carbon dioxide is being added to the atmosphere faster than during some of the most extreme climate change events in Earth history. Eventually, higher carbon dioxide levels will accelerate chemical weathering, and that will help to remove some of the carbon dioxide from the atmosphere. However, weathering is part of the geological carbon cycle, and operates over long timescales. If humans stopped burning all fossil fuels today, it could still take thousands of years for balance to be restored.
+
+
+## Summary
+
+The topics covered in this chapter can be summarized as follows:
+
+##### 8.1 Mechanical Weathering
+
+
+Rocks weather when they are exposed to surface conditions. In most cases, conditions at Earth's surface are very different from the conditions under which the rocks formed. Mechanical weathering processes include exfoliation, freeze-thaw, salt crystallization, and the wedging effects of plant growth.
+
+##### 8.2 Chemical Weathering
+
+
+Chemical weathering takes place when minerals within rocks are not chemically stable in their existing environment. Chemical weathering processes include hydrolysis of silicate minerals to form clay minerals, oxidation of iron in silicate and other minerals to form iron oxide minerals, and dissolution of calcite.
+
+##### 8.3 Controls on Weathering Processes and Rates
+
+
+Chemical weathering is faster when temperatures are warmer and moisture is present. Physical weathering is more important in regions with frequent freeze-thaw cycles. Weathering rates can depend on the abundance oxygen and carbon, and will vary with the mineral composition of a rock. Weathering accelerates weathering by exposing more surface area to chemical reactions.
+
+##### 8.4 Weathering and Erosion Produce Sediments
+
+
+Quartz grains are one of main products of weathering and erosion because quartz is resistant to chemical and mechanical weathering. Clay minerals, iron oxide and iron hydroxide minerals, aluminum hydroxide minerals, and ions in solution are common products of chemical weathering. Particles produced by weathering can be described in terms of their composition, grain size, sorting, rounding, and sphericity.
+
+##### 8.5 Weathering and Soil Formation
+
+
+Soil is a mixture of fine mineral fragments (including quartz and clay minerals), organic matter, and empty spaces that may be partially filled with water. Soil formation is controlled by climate (especially temperature and humidity), the nature of the parent material, the slope (because soil can’t accumulate on steep slopes), and the amount of time available. Typical soils have layers called horizons, which form because of differences in the conditions with depth.
+
+##### 8.6 Soils of Canada
+
+
+Canada has a range of soil types related to our unique conditions. The main types of soil form in forested and grassland regions, but there are extensive wetlands in Canada that produce organic soils, and large areas where soil development is poor because of cold conditions.
+
+##### 8.7 Weathering and Climate Change
+
+
+The geological component of the carbon cycle affects Earth's climate over the long term by changing atmospheric carbon dioxide levels. Carbon is added to the atmosphere during volcanic eruptions. It is extracted from the atmosphere when silicate minerals are weathered, and when it is transformed into organic matter by plants. Organic matter can be stored in soil, permafrost, and rocks. Burning of fossil fuels involves moving carbon from geological reservoirs to the atmosphere on timescales much faster than the geological carbon cycle operates.
+
+#### Review Questions
+
+
+<ol>
+ 	<li>What must happen to a body of rock before exfoliation can occur?</li>
+ 	<li>Saskatchewan's climate is consistently cold in the winter and consistently warm in the summer. What times of year would frost wedging to be an important weathering mechanism?</li>
+ 	<li>What are the products of the hydrolysis of the feldspar albite (NaAlSi<sub>3</sub>O<sub>8</sub>)?</li>
+ 	<li>Oxidation weathering of  pyrite (FeS<sub>2</sub>) can lead to acid rock drainage (ARD). What are the environmental impacts of ARD?</li>
+ 	<li>Imagine that you and a friend encounter an old graveyard on a walk through the forest. You see a granite tombstone with the date 1705 carved into it. The tombstone next to it is too badly weathered to read the date. Your friend looks at the badly weathered stone and declares, "Look how weathered this stone is! It must be from _way_ before 1705." Do you agree?</li>
+ 	<li>Many sand deposits are dominated by quartz, with very little feldspar. What weathering and erosion conditions are required to get feldspar-rich sand?</li>
+ 	<li>What ultimately happens to most of the clay that forms during the hydrolysis of silicate minerals?</li>
+ 	<li>Why are the slope and the parent materials important factors in soil formation?</li>
+ 	<li>Which soil constituents move downward to produce the B-horizon of a soil?</li>
+ 	<li>What are the main processes that lead to the erosion of soils in Canada?</li>
+ 	<li>Where in Canada would you expect to find a chernozemic soil? What characteristics of this region produce this type of soil?</li>
+ 	<li>Where are brunisolic soils found in Saskatchewan?</li>
+ 	<li>Why does weathering of silicate minerals, especially feldspar, lead to consumption of atmospheric carbon dioxide? What eventually happens to the carbon that is involved in that process?</li>
+</ol>
+
+
+## Answers to Chapter  Review Questions
+
+<ol>
+ 	<li>Rock must be exposed at surface. It has to be uplifted from where it formed deep in the crust, and the material on top has to be eroded.</li>
+ 	<li>Frost wedging is most effective when temperatures swing between freezing and thawing from day to day. In Saskatchewan that happens consistently in the early spring and late fall.</li>
+ 	<li>The feldspar albite (NaAlSi<sub>3</sub>O<sub>8</sub>) will be converted to a clay (such as kaolinite) and sodium ions in solution.</li>
+ 	<li>Acid rock drainage (ARD) creates acidic stream runoff. It also increases the solubility of a wide range of metals, some of which are toxic to wildlife and humans.</li>
+ 	<li>If the stones are both granite, then it would be reasonable to conclude that the badly weathered tombstone is much older than the other, because it has been exposed to weathering for much longer. On the other hand, if the badly weathered stone is a rock that is less resistant to weathering, like limestone, then the badly weathered stone could be the same age, or even younger than the granite one.</li>
+ 	<li>Feldspar-rich sand is formed where granitic rocks are being weathered and where mechanical weathering predominates over chemical weathering. For a deposit of feldspar-rich sand to be preserved, the sand must be deposited close to its source to limit the opportunities for chemical weathering.</li>
+ 	<li>Most of the clay that forms during hydrolysis of silicate minerals ends up in rivers and is washed out to the oceans. There it eventually settles to the sea floor.</li>
+ 	<li>On a steep slope, gravity will remove materials, making it unlikely for soils to accumulate. The mineral composition of the parent rock or sediment will influence the composition of the resulting soil.</li>
+ 	<li>Clay minerals and iron move downward to produce the B horizon of a soil.</li>
+ 	<li>Wind and water are the main processes of soil erosion in Canada. Removal of vegetation makes it easier for erosion to happen.</li>
+ 	<li>Chernozemic soils are common in the southern prairies, where organic matter from grasslands is added to soils</li>
+ 	<li>Brunisolic soils are found in the northern half of Saskatchewan where forest cover is common.</li>
+ 	<li>The weathering of feldspar to clay involves the conversion of atmospheric carbon dioxide to dissolved bicarbonate, which ends up in the ocean.</li>
+</ol>

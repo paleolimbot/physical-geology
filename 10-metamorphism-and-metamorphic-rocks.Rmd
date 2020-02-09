@@ -1,0 +1,769 @@
+# Metamorphism and Metamorphic Rocks
+
+<p style="text-align: center">_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_</p>
+
+
+
+```{r figure-10-1, fig.cap='Grey and white striped metamorphic rocks (called gneiss) at Pemaquid Point were transformed by extreme heat and pressure during plate tectonic collisions. _Source: Karla Panchuk (2018) CC BY 4.0. Photos by Joyce McBeth (2009) CC BY 4.0 view source [left](https://flic.kr/p/24BLzLH)/ [right](https://flic.kr/p/24BLC5v). Map by Flappiefh (2013), derivative of Reisio (2005), Public Domain [view source](https://en.m.wikipedia.org/wiki/File:Blankmap-ao-090W-americas.png)._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06/Pemaquid-Point.png")
+```
+
+
+<div class="bcc-box bcc-highlight">
+
+#### __Learning Objectives__
+
+
+After reading this chapter and completing the review questions at the end, you should be able to:
+
+
+- Summarize the factors that influence the nature of metamorphic rocks.
+- Explain how foliation forms in metamorphic rocks.
+- Classify metamorphic rocks based on their texture and mineral content, and explain the origins of both.
+- Describe the various settings in which metamorphic rocks are formed and explain the links between plate tectonics and metamorphism
+- Describe the different types of metamorphism, including burial metamorphism, regional metamorphism, seafloor metamorphism, subduction zone metamorphism, contact metamorphism, shock metamorphism, and dynamic metamorphism.
+- Explain how metamorphic facies and index minerals are used to characterize metamorphism in a region.
+- Explain why fluids are important for metamorphism and describe what happens during metasomatism.
+
+
+</div>
+
+#### Metamorphism Occurs Between Diagenesis And Melting
+
+
+__Metamorphism__ is the change that takes place within a body of rock as a result of it being subjected to high pressure and/or high temperature.  The __parent rock__ or __protolith__ is the rock that exists before metamorphism starts. New metamorphic rocks can form from old ones as pressure and temperature progressively increase. The term _parent rock_ is typically applied to the initial unmetamorphosed rock, rather than referring to each metamorphic rock that formed as metamorphism progresses.  We don’t always know whether metamorphism occurred in an uninterrupted sequence or whether metamorphism stopped and started again for different reasons at different times.
+
+Metamorphic rocks form under pressures and temperatures that are higher than those experienced by sedimentary rocks during diagenesis, but at temperatures lower than those that cause igneous rocks to melt.  Given that pressure and water content affect the temperature at which rocks melt, metamorphism can occur at higher temperatures for some kinds of rocks, whereas other rocks will begin to melt under these same conditions. Metamorphic rocks can have very different mineral assemblages and textures than their parent rocks (Figure \@ref(fig:figure-10-2)), but their over-all chemical composition usually does not change very much.
+
+
+```{r figure-10-2, fig.cap='Shale is the parent rock of gneiss (pronounced "nice"). These rocks look very different, but gneiss can form when the atoms contained within the shale are re-arranged into new mineral structures. _Source: Karla Panchuk (2018) CC BY-NC-SA. Photos by R. Weller/Cochise College. Click the image for photo sources._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06/shale_gneiss.png")
+```
+
+
+Most metamorphism results from the burial of igneous, sedimentary, or pre-existing metamorphic rocks, to the point where they experience different pressures and temperatures than those at which they formed. Metamorphism can also take place if cold rock near the surface is intruded and heated by a hot igneous body. Metamorphism usually involves temperatures above 150°C, but some types of metamorphism do occur at temperatures lower than those at which the parent rock formed.
+
+## Controls on Metamorphic Processes
+
+The main factors that control metamorphic processes are:
+
+
+- Summarize the factors that influence the nature of metamorphic rocks.
+- Explain how foliation forms in metamorphic rocks.
+- Classify metamorphic rocks based on their texture and mineral content, and explain the origins of both.
+- Describe the various settings in which metamorphic rocks are formed and explain the links between plate tectonics and metamorphism
+- Describe the different types of metamorphism, including burial metamorphism, regional metamorphism, seafloor metamorphism, subduction zone metamorphism, contact metamorphism, shock metamorphism, and dynamic metamorphism.
+- Explain how metamorphic facies and index minerals are used to characterize metamorphism in a region.
+- Explain why fluids are important for metamorphism and describe what happens during metasomatism.
+
+
+
+### Mineral composition
+
+
+Parent rocks can be from any of the three rock types: sedimentary, igneous, or metamorphic.  The critical feature of the parent rock is its mineral composition.  This is because the stability of minerals—how they are influenced by changing conditions—is what determines which minerals form as metamorphism takes place. When a rock is subjected to increased temperatures and pressures, some minerals will undergo chemical reactions and turn into new minerals, while others might just change their size and shape.
+
+### Temperature
+
+
+The temperature under which metamorphism occurs is a key variable in determining which metamorphic reactions happen. Mineral stability depends on temperature, pressure, and the presence of fluids. Minerals are stable over a specific range of temperatures. Quartz, for example, is stable from surface temperatures up to approximately 1800°C. If the pressure is higher, that upper limit will also be higher. If there is water present, it will be lower. Most other common minerals have upper limits between 150°C and 1000°C.
+
+Some minerals will change their crystal structure depending on the temperature and pressure. Quartz has different polymorphs that are stable between 0°C and 1800°C. The minerals kyanite, andalusite, and sillimanite are polymorphs with the composition Al<sub>2</sub>SiO<sub>5</sub>. The fact that they are stable at different pressures and temperatures means that their presence can be used to determine the pressures and temperatures experienced by a metamorphic rock that contains one or more of the polymorphs (Figure \@ref(fig:figure-10-3)).
+
+
+```{r figure-10-3, fig.cap='The Al<sub>2</sub>SiO<sub>5</sub> polymorphs andalusite, kyanite, and sillimanite, and their stability fields. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Photos by Rob Lavinsky/ iRocks.com (pre-2010) CC BY-SA 3.0. View source for [andalusite](https://commons.wikimedia.org/wiki/File:Andalusite-65654.jpg)/ [kyanite](https://commons.wikimedia.org/wiki/File:Kyanite-201653.jpg)/ [sillimanite](https://commons.wikimedia.org/wiki/File:Sillimanite-278397.jpg)._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Al2SiO5.png")
+```
+
+
+### Pressure
+
+
+Pressure has implications for mineral stability, and therefore the mineral content of metamorphic rocks, but it also determines the texture of metamorphic rocks. When __directed pressure__ (or __directed stress__) acts on a rock, it means the stress on the rock is much greater in one direction than another. In an experiment with cylinders of modeling clay stacked in a block (Figure \@ref(fig:figure-10-4), top), pushing down on the clay from above resulted in higher directed pressure in the up-down direction (larger arrows; downward from pushing on the clay, and upward from the force of the table beneath the clay) than in the sideways direction, where only air pressure was acting (small arrows). The clay cylinders became elongated in the direction of least pressure.
+
+
+```{r figure-10-4, fig.cap='Modelling clay experiments showing the effects of pressure on textures. Top: Directed pressure- clay was set on a flat surface and pushed down on from above (large arrows). Cylinders making up the clay block became elongated in the direction of least stress. Bottom: Shear stress applied to the top and bottom of a block of clay caused the interior to stretch. Note white dashed reference circles and elongated ellipses. _Source: Karla Panchuk (2018) CC BY 4.0_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/clay-experiment.png")
+```
+
+
+Rocks undergo __shear stress__ when forces act parallel to surfaces. In another modelling-clay experiment, applying oppositely directed forces to the top and bottom of a block of clay (Figure \@ref(fig:figure-10-4), bottom) caused diagonal stretching within the block. Note the change in shape of the dashed white reference circles.
+
+In both experiments, parts of the clay became elongated in a particular direction. When mineral grains within a rock become aligned like this, it produces a fabric called __foliation__. Foliation is described in more detail later in this chapter.
+
+### Fluids
+
+
+Water is the main fluid present within rocks of the crust, and the only one considered here. The presence of water is important for two main reasons. First, water facilitates the transfer of ions between minerals and within minerals, and therefore increases the rates at which metamorphic reactions take place. This speeds the process up so metamorphism might occur more rapidly, or metamorphic processes that might not otherwise have had time to be completed are completed.
+
+Secondly, water—especially hot water—can have elevated concentrations of dissolved substances, making it an important medium for moving ions from one place to another within the crust. Processes facilitated by hot water are called __hydrothermal__ processes (_hydro_ refers to water, and _thermal_ refers to heat)<em>.
+</em>
+
+### Time
+
+
+Most metamorphic reactions occur very slowly. Estimates of the growth rates of new minerals within a rock during metamorphism suggest that new material is added to the outside of mineral crystals at a rate of approximately 1 mm per million years. Very slow reaction rates make it difficult to study metamorphic processes in a lab.
+
+While the rate of metamorphism is slow, the tectonic processes that lead to metamorphism are also very slow, so there is a good chance that metamorphic reactions will be completed. For example, an important setting for metamorphism is many kilometres deep within the roots of mountain ranges. A mountain range takes tens of millions of years to form, and tens of millions of years more to be eroded to the extent that we can see the rocks that were metamorphosed deep beneath it.
+<div class="textbox textbox--exercises"><header class="textbox__header">
+<p class="textbox__title" style="text-align: center">Exercise: How Long Did It Take?</p>
+
+</header>
+<div class="textbox__content">
+
+The large reddish crystals in Figure \@ref(fig:figure-10-5) are garnet, and the surrounding light coloured rock is dominated by muscovite mica. The Euro coin is 23 mm in diameter. Assume that the diameters of the garnets increased at a rate of 1 mm per million years. Based on the approximate average diameter of the garnets visible, estimate how long this metamorphic process might have taken.
+
+
+```{r figure-10-5, fig.cap='Garnet-mica schist from the Greek island of Syros. _Source: Graeme Churchard (2005) CC BY 2.0 [view source](https://flic.kr/p/5kN6n)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/garnet_schist_Churchard-1024x768.jpg")
+```
+
+
+
+
+</div>
+</div>
+
+
+
+## Foliation and Rock Cleavage
+
+
+### How Foliation Develops
+
+
+When a rock is acted upon by pressure that is not the same in all directions, or by shear stress (forces acting to "smear" the rock), minerals can become elongated in the direction perpendicular to the main stress. The pattern of aligned crystals that results is called foliation.
+
+Foliation can develop in a number of ways. Minerals can deform when they are squeezed (Figure \@ref(fig:figure-10-6)), becoming narrower in one direction and longer in another.
+
+
+```{r figure-10-6, fig.cap='Foliation that develops when minerals are squeezed and deform by lengthening in the direction perpendicular to the greatest stress (indicated by black arrows). Left- before squeezing. Right- after squeezing. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image006.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image006-1024x393.png")
+```
+
+
+If a rock is both heated and squeezed during metamorphism, and the temperature change is enough for new minerals to form from existing ones, the new minerals can be forced to grow longer perpendicular to the direction of squeezing (Figure \@ref(fig:figure-10-7)). If the original rock had bedding (represented by diagonal lines in Figure \@ref(fig:figure-10-7), right), foliation may obscure the bedding.
+
+
+```{r figure-10-7, fig.cap='Effects of squeezing and aligned mineral growth during metamorphism. Left: Protolith with diagonal bedding. Right: Metamorphic rock derived from the protolith. Elongated mica crystals grew perpendicular to the main stress direction. The original bedding is obscured. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image007.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image007-1024x335.png")
+```
+
+
+This is not always the case, however. The large boulder in Figure \@ref(fig:figure-10-8) in has strong foliation, oriented nearly horizontally in this view, but it also has bedding still visible as dark and light bands sloping steeply down to the right.
+
+
+```{r figure-10-8, fig.cap='A geologists sits on a rock that has foliation (marked by the dashed line that is nearly horizontal), and still retains evidence of the original bedding (steeply dipping dashed line). The rock has undergone a relatively low degree of metamorphism, which is why the bedding is still visible. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image008.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/bedding-and-foliation.png")
+```
+
+
+### Foliation and Crystal Habit
+
+
+Most foliation develops when new minerals are forced to grow perpendicular to the direction of greatest stress. This effect is especially strong if the new minerals grow in platy or elongated shapes. The rock in the upper left of Figure \@ref(fig:figure-10-9) is foliated, and the microscopic structure of the same type of foliated rock is shown in the photograph beneath it. Over all, the photomicrograph shows that the rock is dominated by elongated crystals aligned in bands running from the upper left to the lower right. The stress that produced this pattern was greatest in the direction indicated by the black arrows, at a right angle to the orientation of the minerals. The aligned minerals are mostly mica, which has a platy crystal habit, with plates stacked together like pages in a book.
+
+
+```{r figure-10-9, fig.cap='A foliated metamorphic rock called phyllite (upper left). The satin sheen comes from the alignment of minerals. Lower left- a view of the same kind of rock under a microscope showing mica crystals (colourful under polarized light) aligned in bands. The region outlined in a red dashed line shows a lens of quartz crystals that do not display alignment. Upper right- stacks of platy mica crystals. Lower right- a blocky quartz crystal. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Click the image for photo sources._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/foliation-and-crystal-habit.png")
+```
+
+
+The zone in the photomicrograph outlined with the red dashed line is different from the rest of the rock. Not only is the mineral composition different—it is quartz, not mica—but the crystals are not aligned. The quartz crystals were subjected to the same stress as the mica crystals, but because quartz grows in blocky shapes rather than elongated ones, the crystals could not be aligned in any one direction.
+
+Even though the quartz crystals themselves are not aligned, the mass of quartz crystals forms a lens that does follow the general trend of alignment within the rock. This happens because the stress can cause some parts of the quartz crystals to dissolve, and the resulting ions flow away at right angles to the greatest stress before forming crystals again.
+
+The effects of recrystallization in Figure \@ref(fig:figure-10-9) would not be visible with the unaided eye, but when larger crystals or large clasts are involved, the effects can be visible as "shadows" or "wings" around crystals and clasts. The rock in Figure \@ref(fig:figure-10-10) had a quartz-rich conglomerate as a parent rock. Differential stress has caused quartz pebbles within the rock to become elongated, and it has also caused wings to form around some of the pebbles (see the pebble in the dashed ellipse). The location of the wings depends on the distribution of stress on the rock (Figure \@ref(fig:figure-10-10), upper right).
+
+
+```{r figure-10-10, fig.cap='Metaconglomerate with elongated of quartz pebbles. The pebbles have developed "wings" to varying degrees (e.g., white dashed ellipse). These are the result of quartz dissolving where stress is applied, and flowing away from the direction of maximum stress before recrystallizing (upper right sketch). _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photo by R. Weller/ Cochise College [view source](http://skywalker.cochise.edu/wellerr/rocks/mtrx/metaconglomerate1.htm). Click the image to view terms of use._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/metaconglomerate.png")
+```
+
+
+### Foliation Controls How Rocks Break
+
+
+Foliated metamorphic rocks have elongated crystals that are oriented in a preferred direction. This forms planes of weakness, and when these rocks break, they tend to break along surfaces that parallel the orientation of the aligned minerals (Figure \@ref(fig:figure-10-11)). Breaks along planes of weakness within a rock that are caused by foliation are referred to as __rock__ __cleavage__, or just cleavage.  This is distinct from cleavage in minerals because mineral cleavage happens between atoms within a mineral, but rock cleavage happens between minerals.
+
+
+```{r figure-10-11, fig.cap='Close-up view of a metamorphic rock with aligned elongated crystals. The crystals control the shape of the break in the rock (black gap), resulting in breaks occurring along parallel surfaces. _Source: Karla Panchuk (2018) CC BY 4.0_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/cleavage-close-up.png")
+```
+
+
+The mineral alignment in the metamorphic rock called __slate __is what causes it to break into flat pieces (Figure \@ref(fig:figure-10-12), left), and is why slate has been used as a roofing material (Figure \@ref(fig:figure-10-12), right). The tendency of slate to break into flat pieces is called __slaty cleavage__.
+
+
+```{r figure-10-12, fig.cap='Rock cleavage in the fine-grained metamorphic rock called slate results in breaks along relatively flat surfaces (left). This is why slate has been used for roofing material (right). _Source: Left- Roger Kidd (2008) CC BY-SA 2.0 [view source](https://commons.wikimedia.org/wiki/File:Loose_slate_debris_at_a_disused_quarry_north_of_Bwlch-Llan,_Ceredigion_-_geograph.org.uk_-_915592.jpg); Right- Michael C. Rygel (2007) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Slate_roof_Switzerland.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/slaty-cleavage-1.png")
+```
+
+
+Rock cleavage is what caused the boulder in Figure \@ref(fig:figure-10-8) to split from bedrock in a way that left the flat upper surface upon which the geologist is sitting.
+
+
+## Classification of Metamorphic Rocks
+
+Metamorphic rocks are broadly classified as foliated or __non-foliated__. Non-foliated metamorphic rocks do not have aligned mineral crystals. Non-foliated rocks form when pressure is uniform, or near the surface where pressure is very low. They can also form when the parent rock consists of blocky minerals such as quartz and calcite, in which individual crystals do not align because they aren’t longer in any one dimension. This distinction breaks down in zones of intense deformation, where even minerals like quartz can be squeezed into long stringers, much like squeezing toothpaste out of a tube (Figure \@ref(fig:figure-10-13)).
+
+
+```{r figure-10-13, fig.cap='Rocks from the Western Carpathians mountain range without deformation (left) and after deformation (right). Scale bar: 1 mm. Left- An undeformed granitic rock containing the mica mineral biotite (Bt), plagioclase feldspar (Pl), potassium feldspar (Kfs), and quartz (Qtz). Right- A metamorphic rock (mylonite) resulting from extreme deformation of granitic rocks. Quartz crystals have been flattened and deformed. The other minerals have been crushed and deformed into a fine-grained matrix (Mtx). _Source: Farkašovský et al. (2016) CC BY-NC-ND. Click the image to view the original figure captions and access the full text._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/mylonite-with-plastic-defm-of-qtz.png")
+```
+
+
+### Types of Foliated Metamorphic Rocks
+
+
+Four common types of foliated metamorphic rocks, listed in order of __metamorphic__ __grade__ or intensity of metamorphism are __slate__, __phyllite__, __schist __(pronounced "shist"), and __gneiss __(pronounced "nice"). Each of these has a characteristic type of foliation
+
+#### Slate
+
+
+Slate (Figure \@ref(fig:figure-10-14)) forms from the low-grade metamorphism of shale. Slate has microscopic clay and mica crystals that have grown perpendicular to the maximum stress direction. Slate tends to break into flat sheets or plates, a property described as slaty cleavage.
+
+
+```{r figure-10-14, fig.cap='Slate, a low-grade foliated metamorphic rock. Left- Slate fragments resulting from rock cleavage. Right- The same rock type in outcrop. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Photos: Left- Vincent Anciaux (2005) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Fumayschistewiki.jpg); Right- Gretarsson (2006) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Distal_flysch.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/slate.png")
+```
+
+
+#### Phyllite
+
+
+Phyllite (Figure \@ref(fig:figure-10-15)) is similar to slate, but has typically been heated to a higher temperature. As a result, the micas have grown larger.  They still are not visible as individual crystals, but the larger size leads to a satiny sheen on the surface.  The cleavage of phyllite is slightly wavy compared to that of slate.
+
+
+```{r figure-10-15, fig.cap='Phyllite, a fine-grained foliated metamorphic rock. Left- A hand sample showing a satin texture. Right- The same rock type in outcrop in the city of Sopron, Hungary. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Photos: Left- Chadmull (2006) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Phyllit_Hormersdorf.jpg); Right- Laszlovszky András (2008) CC BY-SA 2.5 [view source](https://commons.wikimedia.org/wiki/File:Leukofillit_kib%C3%BAv%C3%A1s01.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/phyllite.png")
+```
+
+
+#### Schist
+
+
+Schist (Figure \@ref(fig:figure-10-16)) forms at higher temperatures and pressures and exhibits mica crystals that are large enough to see without magnification. Individual crystal faces may flash when the sample is turned in the light, making the rock appear to sparkle. Other minerals such as garnet might also be visible, but it is not unusual to find that schist consists predominantly of a single mineral.
+
+
+```{r figure-10-16, fig.cap='Schist, a medium- to high-grade foliated metamorphic rock. Top- Hand sample showing light reflecting off of mica crystals. Bottom- Close-up view of mica crystals and garnet. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photos by R. Weller/ Cochise College. Click the image for photo sources and terms of use._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/schist.png")
+```
+
+
+#### Gneiss
+
+
+Gneiss (Figure \@ref(fig:figure-10-17)) forms at the highest pressures and temperatures, and has crystals large enough to see with the unaided eye. Gneiss features minerals that have separated into bands of different colours. The bands of colours are what define foliation within gneiss. Sometimes the bands are very obvious and continuous (Figure \@ref(fig:figure-10-17), upper right), but sometimes they are more like lenses (upper left). Dark bands are largely amphibole while the light-coloured bands are feldspar and quartz. Most gneiss has little or no mica because it forms at temperatures higher than those under which micas are stable.
+
+
+```{r figure-10-17, fig.cap='Gneiss, a coarse-grained, high grade metamorphic rock, is characterized by colour bands. Top- Hand samples showing that colour bands can be continuous (left) or less so (right). Bottom- Gneiss in outcrop at Belteviga Bay, Norway. Notice the light and dark stripes on the rock. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Click the image for more attributions._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/gneiss.png")
+```
+
+
+While slate and phyllite typically form only from mudrock protoliths, schist and especially gneiss can form from a variety of parent rocks, including mudrock, sandstone, conglomerate, and a range of both volcanic and intrusive igneous rocks.
+
+Schist and gneiss can be named on the basis of important minerals that are present: a schist derived from basalt is typically rich in the mineral chlorite, so we call it chlorite schist. One derived from shale may be a muscovite-biotite schist, or just a mica schist, or if there are garnets present it might be mica-garnet schist. Similarly, gneiss that originated as basalt and is dominated by amphibole, is an amphibole gneiss or __amphibolite __(Figure \@ref(fig:figure-10-18)).
+
+
+```{r figure-10-18, fig.cap='Amphibolite in thin section (2mm field of view), derived from metamorphism of a mafic igneous rock. Green crystals are the amphibole hornblende, and colourless crystals are plagioclase feldspar. Note horizontal crystal alignment. _Source: D.J. Waters, University of Oxford [view source](https://www.earth.ox.ac.uk/~oesis/micro/medium/amphibolite_pm20-28.jpg)/ [view context](https://www.earth.ox.ac.uk/~oesis/micro/index.html). Click the image for original figure caption and terms of use._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/amphibolite_pm20-28-300x225.jpg")
+```
+
+
+### Types of Non-foliated Metamorphic Rocks
+
+
+Metamorphic rocks that form under low-pressure conditions or under the effects confining pressure, which is equal in all directions, do not become foliated. In most cases, this is because they are not buried deeply enough, and the heat for the metamorphism comes from a body of magma that has moved into the upper part of the crust. Metamorphism that happens because of proximity to magma is called __contact metamorphism__. Some examples of non-foliated metamorphic rocks are __marble__, __quartzite__, and __hornfels__.
+
+#### Marble
+
+
+Marble (Figure \@ref(fig:figure-10-19)) is metamorphosed limestone. When it forms, the calcite crystals __recrystallize__ (re-form into larger blocky calcite crystals), and any sedimentary textures and fossils that might have been present are destroyed. If the original limestone is pure calcite, then the marble will be white.  On the other hand, if it has impurities such as clay, silica, or magnesium, the marble could be “marbled” in appearance (Figure \@ref(fig:figure-10-19), bottom).
+
+
+```{r figure-10-19, fig.cap='Marble is a non-foliated metamorphic rock with a limestone protolith. Left- Marble made of pure calcite is white. Upper right- microscope view of calcite crystals within marble that are blocky and not aligned. Lower right- A quarry wall showing the "marbling" that results when limestone contains components other than calcite._ Source: Karla Panchuk (2018) CC BY-NC-SA. Click the image for more attributions._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/marble.png")
+```
+
+
+#### Quartzite
+
+
+<p class="wp-image-430">Quartzite (Figure \@ref(fig:figure-10-2)0) is metamorphosed sandstone. It is dominated by quartz, and in many cases, the original quartz grains of the sandstone are welded together with additional silica. Sandstone often contains some clay minerals, feldspar or lithic fragments, so quartzite can also contain impurities.</p>
+
+
+
+```{r figure-10-20, fig.cap='Quartzite is a non-foliated metamorphic rock with a sandstone protolith. Left- Quartzite from the Baraboo Range, Wisconsin. Right- Photomicrograph showing quartz grains in quartzite from the Southern Appalachians. In the upper left half of the image, blocky quartz crystals show some evidence of alignment running from the upper right to the lower left. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Photomicrograph: Geologian (2011) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:S._Apps_Quartzite.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/quartzite.png")
+```
+
+
+Even if formed under directed pressure, quartzite is generally not foliated because quartz crystals do not normally align with the directional pressure. On the other hand, any clay present in the original sandstone is likely to be converted to mica during metamorphism, and any such mica is likely to align with the directional pressure.
+
+#### Hornfels
+
+
+Hornfels is another non-foliated metamorphic rock that normally forms during contact metamorphism of fine-grained rocks like mudstone or volcanic rocks. Hornfels have different elongated or platy minerals (e.g., micas, pyroxene, amphibole, and others) depending on the exact conditions and the parent rock, yet because the pressure wasn't substantially higher in any particular direction, these crystals remain randomly oriented.
+
+The hornfels in Figure \@ref(fig:figure-10-2)1 (left) appears to have gneiss-like bands, but these actually reflect the beds of alternating sandstone and shale that were in the protolith. They are not related to alignment of crystals due to metamorphism. On the right of Figure \@ref(fig:figure-10-2)1 is a microscopic view of another sample of hornfels, also from a sedimentary protolith. The dark band at the top is from the original bedding.  Here you can see that the brown mica crystals (biotite) are not aligned.
+
+
+```{r figure-10-21, fig.cap='Hornfels, a non-foliated metamorphic rock formed from a fine-grained protolith. Left- Hornfels from the Novosibirsk region of Russia from a sedimentary protolith. Dark and light bands preserve the bedding of the original sedimentary rock. The rock has been recrystallized during contact metamorphism and does not display foliation. (scale in cm). Right- Hornfels in thin section from a sedimentary protolith. Note that the brown mica crystals are not aligned. The dark band at the top reflects the layering within the sedimentary parent rock, similar to the way those layers are preserved in the sample on the left. _Source: Left- Fedor (2006) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Hornfels.jpg); Right- D.J. Waters, University of Oxford [view source](https://www.earth.ox.ac.uk/~oesis/micro/medium/hornfels3_pm20-24.jpg)/ [view context](https://www.earth.ox.ac.uk/~oesis/micro/index.html). Click the image for terms of use._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/hornfels.png")
+```
+
+
+### What Happens When Different Rocks Undergo Metamorphism?
+
+
+The nature of the parent rock controls the types of metamorphic rocks that can form from it under differing metamorphic conditions (temperature, pressure, fluids). The kinds of rocks that can be expected to form at different metamorphic grades from various parent rocks are listed in Table 10.1.
+
+
+```{r , fig.cap='<caption id="attachment_323" align="aligncenter" width="640"> [<img class="wp-image-323" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Table-10-1-1024x462-1024x462.png" alt="" width="640" height="289">](https://openpress.usask.ca/physicalgeology/?attachment_id=323) _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/chapter/7-2-classification-of-metamorphic-rocks/). Click the table for a text version._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Table-10-1-1024x462-1024x462.png")
+```
+
+
+Some rocks, such as granite, do not change much at the lower metamorphic grades because their minerals are still stable up to several hundred degrees. Sandstone and limestone don’t change much either because their metamorphic forms (quartzite and marble, respectively) have the same mineral composition, but re-formed larger crystals.
+
+On the other hand, some rocks can change substantially.  Mudrock (e.g., shale, mudstone) can start out as slate, then progress through phyllite, schist, and gneiss, with a variety of different minerals forming along the way.  Schist and gneiss can also form from sandstone, conglomerate, and a range of both volcanic and intrusive igneous rocks.
+
+### Migmatite: Both Metamorphic and Igneous
+
+
+If a metamorphic rock is heated enough, it can begin to undergo partial melting in the same way that igneous rocks do.  The more felsic minerals (feldspar, quartz) will melt, while the more mafic minerals (biotite, hornblende) do not.  When the melt crystallizes again, the result is light-coloured igneous rock interspersed with dark-coloured metamorphic rock.  This mixed rock is called __migmatite__ (Figure \@ref(fig:figure-10-2)2). Note that the foliation present in the metamorphic rock is no longer present in the igneous rock. Liquids cannot support a differential stress, so when the melt crystallizes, the foliation is gone.
+
+
+```{r figure-10-22, fig.cap='Migmatite photographed near Geirangerfjord in Norway. _Source: Siim Sepp (2006) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Migma_ss_2006.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Migma_ss_2006.jpg")
+```
+
+
+A fascinating characteristic of migmatites is __ptygmatic__ (pronounced "tigmatic_")___ folding__. These are folds look like they should be impossible because they are enveloped by rock which does not display the same complex deformation (Figure \@ref(fig:figure-10-2)3).  How could those wiggly folds get in there without the rest of the rock being folded in the same way?
+
+
+```{r figure-10-23, fig.cap='Ptygmatic folding from Broken Hill, New South Wales, Australia. Ptygmatic folding happens when a stiff layer within a rock is surrounded by weaker layers. Folding causes the stiff layer to crinkle while the weaker layers deform around it. _Source: Roberto Weinberg (http://users.monash.edu.au/~weinberg) [view source](http://users.monash.edu.au/~weinberg/Pages/Structures_atlas/Structures.htm#Ptygmatic_folds). Click the image for terms of use._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/ptygmatic-fold-300x216.jpg")
+```
+
+
+The answer to the ptygmatic fold mystery is that the folded layer is much stiffer than the surrounding layers.  When squeezing forces act on the rock, the stiff layer buckles but the surrounding rock flows rather than buckling, because it isn't strong enough to buckle.
+<div class="textbox textbox--exercises"><header class="textbox__header">
+<p class="textbox__title" style="text-align: center">Exercise: Naming Metamorphic Rocks</p>
+
+</header>
+<div class="textbox__content">
+
+Which metamorphic rock is described in each of the following?
+<ol>
+ 	<li>A rock with visible minerals of mica and with small crystals of andalusite. The mica crystals are consistently parallel to one another.</li>
+ 	<li>A very hard rock with a granular appearance and a glassy lustre. There is no evidence of foliation.</li>
+ 	<li>A fine-grained rock that splits into wavy sheets. The surfaces of the sheets have a sheen to them.</li>
+ 	<li>A rock that is dominated by aligned crystals of amphibole.</li>
+</ol>
+</div>
+</div>
+
+###### References
+
+
+<p class="hanging-indent">Farkašovský, R., Bónová, K., &amp; Košuth, M. (2016). Microstructural, modal and geochemical changes as a result of granodiorite mylonitisation – a case study from the Rolovská shear zone (Čierna hora Mts, Western Carpathians, Slovakia). _Geologos 22_(3), 171-190. doi: 10.1515/logos-2016-0019 [View full text](https://content.sciendo.com/view/journals/logos/22/3/article-p171.xml)</p>
+
+
+## Types of Metamorphism and Where They Occur
+
+The outcome of metamorphism depends on pressure, temperature, and the abundance of fluid involved, and there are many settings with unique combinations of these factors. Some types of metamorphism are characteristic of specific plate tectonic settings, but others are not.
+
+### Burial Metamorphism
+
+
+Burial metamorphism occurs when sediments are buried deeply enough that the heat and pressure cause minerals to begin to recrystallize and new minerals to grow, but does not leave the rock with a foliated appearance. As metamorphic processes go, burial metamorphism takes place at relatively low temperatures (up to ~300 °C) and pressures (100s of m depth). To the unaided eye, metamorphic changes may not be apparent at all. Contrast the rock known commercially as Black Marinace Gold Granite (Figure \@ref(fig:figure-10-2)4)—but which is in fact a metaconglomerate—with the [metaconglomerate in Figure \@ref(fig:figure-10-10)](https://openpress.usask.ca/app/uploads/sites/29/2018/09/metaconglomerate.png). The metaconglomerate formed through burial metamorphism does not display any of the foliation that has developed in the metaconglomerate in Figure \@ref(fig:figure-10-10).
+
+
+```{r figure-10-24, fig.cap='Metaconglomerate formed through burial metamorphism. The pebbles in this sample are not aligned and elongated as in the metaconglomerate in Figure \\@ref(fig:figure-10-10) _Source: James St. John (2014) CC BY 2.0 [view source](https://flic.kr/p/ox1bRy)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/JStJohn_BlackMarinace-1024x840.jpg")
+```
+
+
+<div class="textbox shaded">
+
+##### A Note About Commercial Rock Names
+
+
+Names given to rocks that are sold as building materials, especially for countertops, may not reflect the actual rock type. It is common to use the terms _granite_ and _marble_ to describe rocks that are neither. While these terms might not provide accurate information about the rock type, they generally do distinguish natural rock from synthetic materials. An example of a synthetic material is the one referred to as _quartz_, which includes ground-up quartz crystals as well as resin. If you happen to be in the market for stone countertops and are concerned about getting a natural product, it is best to ask lots of questions.
+
+</div>
+
+### Regional Metamorphism
+
+
+Regional metamorphism refers to large-scale metamorphism, such as what happens to continental crust along convergent tectonic margins (where plates collide).  The collisions result in the formation of long mountain ranges, like those along the western coast of North America.  The force of the collision causes rocks to be folded, broken, and stacked on each other, so not only is there the squeezing force from the collision, but from the weight of stacked rocks. The deeper rocks are within the stack, the higher the pressures and temperatures, and the higher the grade of metamorphism that occurs. Rocks that form from regional metamorphism are likely to be foliated because of the strong directional pressure of converging plates.
+
+The Himalaya range is an example of where regional metamorphism is happening because two continents are colliding (Figure \@ref(fig:figure-10-2)5). Sedimentary rocks have been both thrust up to great heights—nearly 9 km above sea level—and also buried to great depths. Considering that the normal geothermal gradient (the rate of increase in temperature with depth) is around 30°C per kilometre in the crust, rock buried to 9 km below sea level in this situation could be close to 18 km below the surface of the ground, and it is reasonable to expect temperatures up to 500°C. Notice the sequence of rocks that from, beginning with slate higher up where pressures and temperatures are lower, and ending in migmatite at the bottom where temperatures are so high that some of the minerals start to melt. These rocks are all foliated because of the strong compressing force of the converging plates.
+
+
+```{r figure-10-25, fig.cap='Regional metamorphism beneath a mountain range resulting from continent-continent collision. Arrows show the forces due to the collision. Dashed lines represent temperatures that would exist given a geothermal gradient of 30 ºC/km. A sequence of foliated metamorphic rocks of increasing metamorphic grade forms at increasing depths within the mountains. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image020.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/regionalmeta.png")
+```
+
+
+### Seafloor (Hydrothermal) Metamorphism
+
+
+At an oceanic spreading ridge, recently formed oceanic crust of gabbro and basalt is slowly moving away from the plate boundary (Figure \@ref(fig:figure-10-2)6). Water within the crust is forced to rise in the area close to the source of volcanic heat, drawing in more water from further away. This eventually creates a convective system where cold seawater is drawn into the crust, heated to 200 °C to 300 °C as it passes through the crust, and then released again onto the seafloor near the ridge.
+
+
+```{r figure-10-26, fig.cap='Seafloor (hydrothermal) metamorphism of ocean crustal rock on either side of a spreading ridge. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image021.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/seafloor-metamorphism.png")
+```
+
+
+The passage of this water through the oceanic crust at these temperatuers promotes metamorphic reactions that change the original olivine and pyroxene minerals in the rock to chlorite ((Mg<sub>5</sub>Al)(AlSi<sub>3</sub>)O<sub>10</sub>(OH)<sub>8</sub>) and serpentine ((Mg, Fe)<sub>3</sub>Si<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub>). Chlorite and serpentine are both __hydrated minerals__, containing water in the form of OH in their crystal structures. When metamorphosed ocean crust is later subducted, the chlorite and serpentine are converted into new non-hydrous minerals (e.g., garnet and pyroxene) and the water that is released migrates into the overlying mantle, where it contributes to melting.
+
+The low-grade metamorphism occurring at these relatively low pressures and temperatures can turn mafic igneous rocks in ocean crust into __greenstone__ (Figure \@ref(fig:figure-10-2)7), a non-foliated metamorphic rock.
+
+
+```{r figure-10-27, fig.cap='Greenstone from the metamorphism of seafloor basalt that took place 2.7 billion years ago. The sample is from the Upper Peninsula of Michigan, USA. _Source: James St. John (2012) CC BY 2.0 [view source](https://flic.kr/p/dBTaQS)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/800px-Archean_Greenstone_Pillow_Lava_in_Michigan_USA_3-300x188.jpg")
+```
+
+
+### Subduction Zone Metamorphism
+
+
+At subduction zones, where ocean lithosphere is forced down into the hot mantle, there is a unique combination of relatively low temperatures and very high pressures.  The high pressures are to be expected, given the force of collision between tectonic plates, and the increasing lithostatic pressure as the subducting slab is forced deeper and deeper into the mantle. The lower temperatures exist because even though the mantle is very hot, ocean lithosphere is relatively cool, and a poor conductor of heat. That means it will take a long time to heat up, can be several hundreds of degrees cooler than the surrounding mantle. In Figure \@ref(fig:figure-10-2)8, notice that the isotherms (lines of equal temperature, dashed lines) plunge deep into the mantle along with the subducting slab, showing that regions of relatively low temperature exist deeper in the mantle.
+
+
+```{r figure-10-28, fig.cap='Regional metamorphism of oceanic crust at a subduction zone occurs at high pressure but relatively low temperatures. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image022.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image022.png")
+```
+
+
+A special type of metamorphism takes place under these very high-pressure but relatively low-temperature conditions, producing an amphibole mineral known as __glaucophane__ (Na<sub>2</sub>(Mg<sub>3</sub>Al<sub>2</sub>)Si<sub>8</sub>O<sub>22</sub>(OH)<sub>2</sub>).  Glaucophane is blue, and the major component of a rock known as __blueschist__. If you have never seen or even heard of blueschist, that not surprising. What is surprising is that _anyone_ has seen it! Most of the blueschist that forms in subduction zones continues to be subducted. It turns into __eclogite__ at about 35 km depth, and then eventually sinks deep into the mantle, never to be seen again. In only a few places in the world, the subduction process was interrupted, and partially subducted blueschist returned to the surface. One such place is the area around San Francisco. The blueschist at this location is part of a set of rocks known as the Franciscan Complex (Figure \@ref(fig:figure-10-2)9).
+
+
+```{r figure-10-29, fig.cap='Franciscan Complex blueschist exposed north of San Francisco. The blue colour of the rock is due to the presence of the amphibole mineral glaucophane. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Franciscan-Complex-.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Franciscan-Complex--1024x410.png")
+```
+
+
+### Contact Metamorphism
+
+
+Contact metamorphism happens when a body of magma intrudes into the upper part of the crust. Heat is important in contact metamorphism, but pressure is not a key factor, so contact metamorphism produces non-foliated metamorphic rocks such as hornfels, marble, and quartzite.
+
+Any type of magma body can lead to contact metamorphism, from a thin dyke to a large stock. The type and intensity of the metamorphism, and width of the metamorphic __aureole__ that develops around the magma body, will depend on a number of factors, including the type of country rock, the temperature of the intruding body, the size of the body, and the volatile compounds within the body (Figure \@ref(fig:figure-10-3)0). A large intrusion will contain more thermal energy and will cool much more slowly than a small one, and therefore will provide a longer time and more heat for metamorphism. This will allow the heat to extend farther into the country rock, creating a larger aureole. Volatiles may exsolve from the intruding melt and travel into the country rock, facilitating heating and carrying chemical constituents from the melt into the rock. Thus, aureoles that form around "wet" intrusions tend to be larger than those forming around their dry counterparts.
+
+
+```{r figure-10-30, fig.cap='Schematic cross-section of the middle and upper crust showing two magma bodies. The upper body, which has intruded into cool unmetamorphosed rock, has created a zone of contact metamorphism. The lower body is surrounded by rock that is already hot (and probably already metamorphosed), and so it does not have a significant metamorphic aureole. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://physicalgeology.pressbooks.com/wp-content/uploads/sites/44994/2015/10/image032.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image032-290x300.png")
+```
+
+
+Contact metamorphic aureoles are typically quite small, from just a few centimetres around small dykes and sills, to as much as 100 m around a large stock. Contact metamorphism can take place over a wide range of temperatures—from around 300 °C to over 800 °C. Different minerals will form depending on the exact temperature and the nature of the country rock.
+
+Although bodies of magma can form in a variety of settings, one place magma is produced in abundance, and where contact metamorphism can take place, is along convergent boundaries with subduction zones, where volcanic arcs form (Figure \@ref(fig:figure-10-3)1). Regional metamorphism also takes place in this setting, and because of the extra heat associated with the magmatic activity, the geothermal gradient is typically steeper in these settings (between ~40 and 50 °C/km). Under these conditions, higher grades of metamorphism can take place closer to surface than is the case in other areas.
+
+
+```{r figure-10-31, fig.cap='Contact metamorphism (yellow rind) around a high-level crustal magma chamber, and regional metamorphism in a volcanic-arc related mountain range. Dashed lines show isotherms. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image025.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/volcanic_arc.png")
+```
+
+
+### Shock Metamorphism
+
+
+When extraterrestrial objects hit Earth, the result is a shock wave.  Where the object hits, pressures and temperatures become very high in a fraction of a second.  A "gentle" impact can hit with 40 GPa and raise temperatures up to 500 °C. Pressures in the lower mantle start at 24 GPa (GigaPascals), and climb to 136 GPa at the core-mantle boundary, so the impact is like plunging the rock deep into the mantle and releasing it again within seconds.  The sudden change associated with shock metamorphism makes it very different from other types of metamorphism that can develop over hundreds of millions of years, starting and stopping as tectonic conditions change.
+
+Two features of shock metamorphism are __shocked quartz__, and __shatter cones__.  Shocked quartz (Figure \@ref(fig:figure-10-3)2 left) refers to quartz crystals that display damage in the form of parallel lines throughout a crystal.  The quartz crystal in Figure \@ref(fig:figure-10-3)2 has two sets of these lines.  The lines are small amounts of glassy material within the quartz, formed from almost instantaneous melting and resolidification when the crystal was hit by a shock wave. Shatter cones are cone-shaped fractures within the rocks, also the result of a shock wave (Figure \@ref(fig:figure-10-3)2 right).  The fractures are nested together like a stack of ice-cream cones.
+
+
+```{r figure-10-32, fig.cap='Shock metamorphism features. Left- Shocked quartz with lines of glassy material, from the Suvasvesi South impact structure in Finland. Right- Shatter cones from the Wells Creek impact crater in the USA. _Sources: Left- Martin Schmieder CC BY 3.0 [view source](https://commons.wikimedia.org/wiki/File:Suvasvesi_shocked_quartz.jpg). Right- Zamphuor (2007) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Wells_Creek_shatter_cones_1.JPG)._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/impact-meta.png")
+```
+
+
+### Dynamic Metamorphism
+
+
+__Dynamic metamorphism__ is the result of very high shear stress, such as occurs along fault zones. Dynamic metamorphism occurs at relatively low temperatures compared to other types of metamorphism, and consists predominantly of the physical changes that happen to a rock experiencing shear stress. It affects a narrow region near the fault, and rocks nearby may appear unaffected.
+
+At lower pressures and temperatures, dynamic metamorphism will have the effect of breaking and grinding rock, creating __cataclastic rocks__ such as __fault breccia__ (Figure \@ref(fig:figure-10-3)3). At higher pressures and temperatures, grains and crystals in the rock may deform without breaking into pieces (Figure \@ref(fig:figure-10-3)4, left). The outcome of prolonged dynamic metamorphism under these conditions is a rock called __mylonite__, in which crystals have been stretched into thin ribbons (Figure \@ref(fig:figure-10-3)4, right).
+
+
+```{r figure-10-33, fig.cap='Fault breccia, created when shear stress along a fault breaks up rocks. Left- close-up view of fault breccia clearly showing dark angular fragments. Right- A fault-zone containing fragments broken from the adjacent walls (dashed lines). Note that the deformation does not extend far past the margins of the fault zone. _Source: Karla Panchuk (2018) CC BY 4.0. Click the image for more attributions. _'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/fault_breccia.png")
+```
+
+
+
+
+
+```{r figure-10-34, fig.cap='Mylonite, a rock formed by dynamic metamorphism. Left- An outcrop showing the early stages of mylonite development, called protomylonite. Notice that the deformation does not extend to the rock at the bottom of the photograph. Middle- Mylonite showing ribbons formed of drawn-out crystals. Right- Microscope view of mylonite with mica (colourful crystals) and quartz (grey and black crystals). This is a case where the shape of quartz crystals is controlled more by stress than by crystal habit. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Click the image for more attributions._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Mylonite.png")
+```
+
+
+###### References
+
+
+<p class="hanging-indent">Bucher, K., &amp; Grapes, R. (2011) _Petrogenesis of Metamorphic Rocks, 8th Edition_. Springer.</p>
+<p class="hanging-indent">French, B.M. (1998). _Traces of Catastrophe: A Handbook of Shock-Metamorphic Effects in Terrestrial Meteorite Impact Structures_. Houston, TX: Lunar and Planetary Institute [ Read full text](https://www.lpi.usra.edu/publications/books/CB-954/CB-954.intro.html)</p>
+
+
+## Metamorphic Facies and Index Minerals
+
+
+### Metamorphic Facies
+
+
+In any given metamorphic setting there can be a variety of protolith types exposed to metamorphism.  While these rocks will be exposed to the same range of pressure and temperatures conditions within that setting, the metamorphic rock that results will depend on the protolith. A convenient way to indicate the range of possible metamorphic rocks in a particular setting is to group those possibilities into __metamorphic facies__. In other words, a given metamorphic facies groups together metamorphic rocks that form under the same pressure and temperature conditions, but which have different protoliths.
+
+Figure \@ref(fig:figure-10-3)5 shows the different metamorphic facies as patches of different colours. The axes on the diagram are temperature and depth; the depth within the Earth will determine how much pressure a rock is under, so the vertical depth axis is also a pressure axis. Each patch of colour represents a range of temperature and pressure conditions where particular types of metamorphic rocks will form. Metamorphic facies are named for rocks that form under specific conditions (e.g., eclogite facies, amphibolite facies etc.), but those names don't mean that the facies is limited to that one rock type.
+
+
+```{r figure-10-35, fig.cap='Metamorphic facies and types of metamorphism shown in the context of depth and temperature. The metamorphic rocks formed from a mudrock protolith under regional metamorphism with a typical geothermal gradient are listed. Letters correspond to the types of metamorphism shown in Figure \\@ref(fig:figure-10-36) _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/depth-temp.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/facies_metatypes.png")
+```
+
+
+Another feature to notice in the diagram are the many dashed lines. The yellow, green, and blue dashed lines represent the geothermal gradients in different environments. Recall that the geothermal gradient describes how rapidly the temperature increases with depth in Earth. In most areas (green dashed line), the rate of increase in temperature with depth is 30 °C/km. In other words, if you go 1,000 m down into a mine, the temperature will be roughly 30 °C warmer than the average temperature at the surface.  In volcanic areas (yellow dashed line), the geothermal gradient is more like 40 to 50 °C/km, so the temperature rises much faster as you go down. Along subduction zones (blue dashed line), the cold ocean lithosphere keeps temperatures low, so the gradient is typically less than 10 °C/km.
+
+The yellow, green, and blue dashed lines in Figure \@ref(fig:figure-10-3)5 tell you what metamorphic facies you will encounter for rocks from a given depth in that particular environment. A depth of 15 km in a volcanic region falls in the amphibolite facies.  Under more typical conditions, this is the greenschist facies, and in a subduction zone it is the blueschist facies. You can make the connection more directly between the metamorphic facies and the types of metamorphism discussed in the previous section by matching up the letters _a_ through _e_ in Figure \@ref(fig:figure-10-3)5 with the labels in Figure \@ref(fig:figure-10-3)6.
+
+
+
+
+```{r figure-10-36, fig.cap='Environments of metamorphism in the context of plate tectonics: (a) regional metamorphism related to mountain building at a continent-continent convergent boundary, (b) seafloor (hydrothermal) metamorphism of oceanic crust in the area on either side of a spreading ridge, (c) metamorphism of oceanic crustal rocks within a subduction zone, (d) contact metamorphism adjacent to a magma body at a high level in the crust, and (e) regional metamorphism related to mountain building at a convergent boundary. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image019.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/meta_locations.png")
+```
+
+
+One other line to notice in Figure \@ref(fig:figure-10-3)5 is the red dashed line on the right-hand side of the figure. This line represents temperatures and pressures where granite will begin to melt if there is water present. Migmatite is to the right of the line because it forms when some of the minerals in a metamorphic rock begin to melt, and then cool and crystallize again.
+<div class="textbox textbox--exercises"><header class="textbox__header">
+<h3 class="textbox__title" style="text-align: center"><span style="color: #ffffff">Exercise: Metamorphic Rocks In Areas with Higher Geothermal Gradients</span></h3>
+</header>
+<div class="textbox__content">Figure \@ref(fig:figure-10-3)5 shows the types of rock that might form from mudrock at various points along the curve of the “typical” geothermal gradient (dotted green line). Looking at the geothermal gradient for volcanic regions (dotted yellow line), estimate the depths at which you would expect to find each of those rocks forming from a mudrock parent.</div>
+</div>
+
+### Index Minerals
+
+
+Some common minerals in metamorphic rocks are shown in Figure \@ref(fig:figure-10-3)7, arranged in order of the temperature ranges within which they tend to be stable. The upper and lower limits of the ranges are intentionally vague because these limits depend on a number of different factors, such as the pressure, the amount of water present, and the overall composition of the rock.
+
+
+```{r figure-10-37, fig.cap='Metamorphic index minerals and approximate temperature ranges. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image027.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image027-1024x363.png")
+```
+
+
+Even though the limits of the stability ranges are vague, the stability range of each mineral is still small enough that the minerals can be used as markers for those metamorphic conditions. Minerals that make good markers of specific ranges of metamorphic conditions are called __index minerals__.
+
+#### The Meguma Terrane of Nova Scotia: An Example of How to Use Index Minerals
+
+
+The southern and southwestern parts of Nova Scotia were regionally metamorphosed during the Devonian Acadian Orogeny (around 400 Ma), when a relatively small continental block—the Meguma Terrane (Figure \@ref(fig:figure-10-3)8, top )—collided with the existing eastern margin of North America. The clastic sedimentary rocks within this terrane were variably metamorphosed.
+
+
+```{r figure-10-38, fig.cap='Regional metamorphic zones in the Meguma Terrane of southwestern Nova Scotia. Top- Map of metamorphic zones. Bottom- Stability ranges for minerals within the Meguma Terrane. _Source: Karla Panchuk (2017) CC BY 4.0. Modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image028.png), Keppie &amp; Muecke (1979) and White &amp; Barr (2012)._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Meguma_with_ranges-1024x962.png")
+```
+
+
+Index minerals have been used to map areas of higher or lower metamorphic intensity, called __metamorphic zones__. A metamorphic zone is a region bounded by the first appearance of an index mineral. In the Meguma Terrane, the biotite zone (Figure \@ref(fig:figure-10-3)8, darker green) begins in the east and north with the first appearance of biotite. The biotite zone ends toward the south and west where garnet first appears. Because index minerals can have overlapping stability conditions, a lower-intensity index mineral can still be present in a higher-intensity metamorphic zone.
+
+Knowledge of metamorphic zones makes it possible to draw conclusions about the geological conditions in which metamorphic rocks formed. The highest-intensity metamorphism—the sillimanite zone—is in the southwest. Progressively lower grades of metamorphism exist toward the east and north. The rocks of the sillimanite zone were likely heated to over 700 °C, and therefore must have been buried to depths between 20 km and 25 km. The surrounding lower-grade rocks were not buried as deeply, and the rocks within the peripheral chlorite zone were likely not buried to more than about 5 km depth.
+
+A probable explanation for this pattern is that the area with the highest-grade rocks was buried beneath the central part of a mountain range formed by the collision of the Meguma Terrane with North America. The collision caused rocks to be folded, and to be faulted and stacked on top of each other. These mountain-building processes thickened Earth's crust, and increased its mass locally as the mountains grew. The increased mass of the growing mountains caused the lithosphere to float lower in the mantle (Figure \@ref(fig:figure-10-3)9, left). As the mountains were eventually eroded over tens of millions of years, the crust floated higher and higher in the mantle, and erosion exposed metamorphic rocks that were deep within the mountains (Figure \@ref(fig:figure-10-3)9, right).
+
+
+```{r figure-10-39, fig.cap='Schematic cross-section through the Meguma Terrane. Left- Metamorphic zones and temperatures when mountain-building processes thickened the crust. Right- The mountains have been eroded, exposing metamorphic rocks that formed deep within the mountains. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source left](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image029.png)/ [right](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image030.png)._'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Meguma_scenario.png")
+```
+
+
+Building a narrative for the metamorphism in Nova Scotia’s Meguma Terrane is just one example of how index minerals can be used.
+<div class="textbox textbox--exercises"><header class="textbox__header">
+<h3 class="textbox__title" style="text-align: center"><span style="color: #ffffff">Exercise: Scottish Metamorphic Zones</span></h3>
+</header>
+<div class="textbox__content">
+
+The map in Figure \@ref(fig:figure-10-4)0 shows part of western Scotland between the Great Glen Fault and the Highland Boundary Fault. The shaded areas are metamorphic rock, and the three metamorphic zones represented are garnet, chlorite, and biotite.
+<ol>
+ 	<li>Label the three coloured areas of the map with the appropriate zone names (garnet, chlorite, and biotite).</li>
+ 	<li>Indicate which part of the region was likely to have been buried the deepest during metamorphism.</li>
+</ol>
+British Geologist George Barrow studied this area in the 1890s and was the first person anywhere to map metamorphic zones based on their mineral assemblages. This pattern of metamorphism is sometimes referred to as Barrovian metamorphism.
+
+
+```{r figure-10-40, fig.cap='Metamorphic zones in Barrovian metamorphism. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image031.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image031-300x298.png")
+```
+
+
+</div>
+</div>
+
+###### References
+
+
+<p class="hanging-indent">Keppie, D., &amp; Muecke, G. (1979). _Metamorphic map of Nova Scotia_. (Nova Scotia Department of Mines and Energy, Map 1979-006).</p>
+<p class="hanging-indent">White, C. E., &amp; Barr, S. M. (2012) Meguma Terrane Revisted: Stratigraphy, Metamorphism, Paleontology and Provenance. _Geoscience Canada_ _39_(1). [Full text](https://journals.lib.unb.ca/index.php/GC/article/view/19450/21005)</p>
+
+
+## Metamorphic Hydrothermal Processes and Metasomatism
+
+The heat from a body of magma in the upper crust can create a very dynamic situation with geologically interesting and economically important implications. In the simplest cases, water does not play a big role, and the main process is heat transfer from the pluton to the surrounding rock, creating a zone of contact metamorphism (Figure \@ref(fig:figure-10-4)1a). In many cases, however, water is released from the magma body as crystallization takes place, and this water is dispersed along fractures in the surrounding rock (Figure \@ref(fig:figure-10-4)1b). The water released from a magma chamber is typically rich in dissolved minerals. As this water cools, it interacts with the surrounding rocks, changing both the chemistry of the water and the chemistry of the rocks. This can cause minerals to precipitate from the water. Minerals can also precipitate if the water boils because of a drop in pressure. The precipitated minerals form veins within fractures in the surrounding rock. Quartz veins are commonly formed in this situation, and can include other minerals such as pyrite, hematite, calcite, and even silver and gold.
+
+
+```{r figure-10-41, fig.cap='Metamorphism and alteration around a pluton in the upper crust. (a) Thermal metamorphism only (within the purple zone); (b) Thermal metamorphism plus veining (white) related to dispersal of magmatic fluids into the overlying rock; (c) Thermal metamorphism plus veining from magmatic fluids plus alteration and possible formation of metallic minerals (hatched yellow areas) from convection of groundwater. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/metamorphism-and-alteration-around-a-pluton.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/metamorphism-and-alteration-around-a-pluton-1024x350.png")
+```
+
+
+Heat from the magma body will cause surrounding groundwater to expand and then rise toward the surface. In some cases, this may initiate a convection system where groundwater circulates past the pluton. Such a system could operate for thousands of years, resulting in the circulation of millions of tonnes of groundwater from the surrounding region past the pluton.
+
+Hot water circulating through the rocks and interacting chemically with them can lead to significant changes in the mineralogy of the rock, including alteration of feldspars to clays, and deposition of quartz, calcite, and other minerals in fractures and other open spaces (Figure \@ref(fig:figure-10-4)2). Chemical change in rocks due to interaction with hot water is called __hydrothermal alteration__.
+
+
+```{r figure-10-42, fig.cap='White veins of calcite in limestone of the Comox Formation, Nanaimo BC. Quarter for scale. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/calcite-vein-2.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/calcite-vein-2-1024x739.jpg")
+```
+
+
+Metamorphic reactions involve the release of fluids as minerals change, and chemical reactions with locally-derived fluids. However, if a large amount of externally-derived fluid—such that supplied by magma—is flushed through the system at the high pressures and temperatures characteristic of metamorphism, it can substantially alter the chemical composition of the rock. This type of hydrothermal alteration is called __metasomatism__.
+
+A special type of metasomatism takes place where a hot pluton intrudes into carbonate rock such as limestone. Magmatic fluids rich in silica, calcium, magnesium, iron, and other elements can dramatically change the chemistry of the limestone, forming minerals that would not normally exist in either the igneous rock or limestone. A rock called __skarn__ results, containing minerals such as garnet, epidote, magnetite, and pyroxene, among others (Figure \@ref(fig:figure-10-4)3).
+
+
+```{r figure-10-43, fig.cap='Skarn from Mount Monzoni, Northern Italy, with recrystallized calcite (blue), garnet (brown), and pyroxene (green). The rock is 6 cm across. _Source: Siim Sepp (2012) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:00031_6_cm_grossular_calcite_augite_skarn.jpg)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image037-1024x871.jpg")
+```
+
+
+
+<div class="textbox textbox--exercises"><header class="textbox__header">
+<h3 class="textbox__title" style="text-align: center"><span style="color: #ffffff">Exercise: Contact Metamorphism and Metasomatism</span></h3>
+</header>
+<div class="textbox__content">
+
+A pluton that has intruded into a series of sedimentary rocks, including sandstone, mudstone, and limestone (Figure \@ref(fig:figure-10-4)4). What types of metamorphic rocks would you expect to see at locations a, b, and c?
+
+
+```{r figure-10-44, fig.cap='Contact metamorphism and metasomatism of sedimentary rocks. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image038.png)_'}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image038.png")
+```
+
+
+</div>
+</div>
+
+
+## Summary
+
+The topics covered in this chapter can be summarized as follows:
+
+##### 10.1 Controls on Metamorphic Processes
+
+
+Metamorphism is controlled by five main factors: the composition of the parent rock, the temperature to which the rock is heated, the amount and direction of pressure, the volumes and compositions of fluids that are present, and the amount of time available for metamorphic reactions to take place.
+
+##### 10.2 Foliation and Rock Cleavage
+
+
+When the pressure acting on a rock is not uniform in all directions, foliation can develop. Foliation may occur in the form of platy or elongated mineral crystals that have grown at right angles to the maximum pressure, or it may develop when crystals or clasts within a rock are deformed. Foliation causes crystals or clasts within a rock to become aligned. When metamorphic rocks break parallel to the direction of foliation, rock cleavage results.
+
+##### 10.3 Classification of Metamorphic Rocks
+
+
+Metamorphic rocks are classified on the basis of texture and mineral composition. Foliation is a key feature of metamorphic rocks formed under directed pressure; foliated metamorphic rocks include slate, phyllite, schist, and gneiss. Metamorphic rocks formed in environments without strong directed pressure include hornfels, marble, and quartzite.
+
+##### 10.4 Types of Metamorphism and Where They Occur
+
+
+Almost all regions that experience metamorphism are being acted upon by plate-tectonic processes. Oceanic crustal rock can be metamorphosed near the spreading ridge where it was formed. Regional metamorphism takes place in areas where mountain ranges are forming, which are most common at convergent boundaries. Contact metamorphism takes place around magma bodies in the crust, which are also most common above convergent boundaries. Shock metamorphism happens when extraterrestrial bodies impact Earth, and is unusual among metamorphic processes because it occurs in seconds or minutes, rather than taking millions of years. Dynamic metamorphism occurs when shear stress is applied to rocks, such as along faults.
+
+##### 10.5 Metamorphic Facies and Index Minerals
+
+
+Metamorphic facies are groups of metamorphic rocks that form under the same range of pressure and temperature conditions, but from different parent rocks. Geologists use index minerals such as chlorite, garnet, andalusite, and sillimanite to identify metamorphic zones. Index minerals tell us about the pressure and temperature conditions under which metamorphic rocks formed.
+
+##### 10.6 Metamorphic Hydrothermal Processes and Metasomatism
+
+
+Contact metamorphism takes place around magma bodies that have intruded into cool rocks in the crust. Heat from magma is transferred to the surrounding country rock, resulting in mineralogical and textural changes. Hot water from a cooling body of magma, or from convection of groundwater driven by the heat of the pluton, can lead to hydrothermal alteration. When large volumes of fluid are flushed through rocks experiencing metamorphic pressures and temperatures, metasomatism results. Metasomatism can cause valuable metals to accumulate in the surrounding rocks.
+
+### Review Questions
+
+
+<ol>
+ 	<li>What are the two main agents of metamorphism, and what are their respective roles in producing metamorphic rocks?</li>
+ 	<li>What types of metamorphic rocks will form if a mudrock experiences very low, low, medium, and high-grade metamorphism?</li>
+ 	<li>Why doesn’t granite change very much at lower metamorphic grades?</li>
+ 	<li>Describe the main process of foliation development in a metamorphic rock such as schist.</li>
+ 	<li>What process contributes to metamorphism of oceanic crust at a spreading ridge?</li>
+ 	<li>How do variations in the geothermal gradient affect the depth at which different metamorphic rocks form?</li>
+ 	<li>Blueschist metamorphism takes place within subduction zones. What are the particular temperature and pressure characteristics of this geological setting?</li>
+ 	<li>Rearrange the following minerals in order of increasing metamorphic grade: biotite, garnet, sillimanite, chlorite.</li>
+ 	<li>What is the role of magmatic fluids in the metamorphism that takes place adjacent to a pluton?</li>
+ 	<li>How does metasomatism differ from regional metamorphism?</li>
+ 	<li>How does the presence of a hot pluton contribute to metasomatism?</li>
+ 	<li>What determines whether metasomatism will produce skarn?</li>
+ 	<li>For each of the following metamorphic rocks, indicate the likely parent rock and the grade and/or type of metamorphism: chlorite schist, slate, mica-garnet schist, amphibolite, marble.</li>
+</ol>
+
+
+## Answers to Chapter  Review Questions
+
+<ol>
+ 	<li>Heat and pressure are the main agents of metamorphism. Heat leads to mineralogical changes in the rock. Pressure also influences those mineralogical changes, while directed pressure (greater pressure in one direction) leads to foliation.</li>
+ 	<li>Very low grade: slate; low grade: phyllite; medium grade: schist; high grade: gneiss.</li>
+ 	<li>Granite remains largely unchanged at lower metamorphic grades because its minerals are still stable at those lower temperatures.</li>
+ 	<li>Foliation develops in schist when new platy minerals grow with their longest dimension at a right angle to the direction of greatest pressure.</li>
+ 	<li>At a spreading ridge the heat from volcanism leads to the development of a groundwater convection system in the rock of the oceanic crust. Heated water rises in the hot regions and is expelled into the ocean, while cold ocean water is drawn into the crust to replace it. The heated water leads to the conversion of olivine and pyroxene into chlorite and serpentine.</li>
+ 	<li>The geothermal gradient varies as a function of tectonic setting, being greatest in volcanic regions and lowest along subduction zones. As a result the depth at which specific metamorphic grades is achieved will vary: the depth will be greater when the gradient is lower.</li>
+ 	<li>The geothermal gradient is low within subduction zones because the cold subducting oceanic crust takes a long time to heat up. Pressure increases with depth at the normal rate, but temperature does not.</li>
+ 	<li>Order of increasing metamorphic grade: chlorite, biotite, garnet, sillimanite.</li>
+ 	<li>Water from any source facilitates metamorphism. Magmatic fluids typically contain dissolved ions at higher concentrations than in regular groundwater (especially copper, zinc, silver, gold, lithium, beryllium, boron and fluorine), leading to the formation of a unique set of minerals.</li>
+ 	<li>Metasomatism involves fluids from magmatic or groundwater sources that play an important role in transporting ions into the system, and leading to the formation of new minerals. Regional metamorphism takes place over a larger area, depends more on plate tectonic conditions, and does not involve flushing the system with large amounts of fluid.</li>
+ 	<li>A hot pluton heats the surrounding water, causing groundwater to convect. This can result a great deal of water, in some cases with elevated levels of specific ions, passing through the rock. Water from magma within the pluton also contributes to metasomatism.</li>
+ 	<li>Limestone must be present to produce skarn.</li>
+ 	<li>Parent rocks and metamorphic grades and types:
+<table>
+<tbody>
+<tr>
+<td>__Metamorphic Rock__</td>
+<td>__Likely Parent Rock__</td>
+<td>__Grade and/or Type of Metamorphism__</td>
+</tr>
+<tr>
+<td>Chlorite schist</td>
+<td>A rock enriched in ferromagnesian minerals, such as basalt</td>
+<td>Low-grade regional metamorphism</td>
+</tr>
+<tr>
+<td>Slate</td>
+<td>Mudrock (shale, mudstone)</td>
+<td>Very low grade regional metamorphism</td>
+</tr>
+<tr>
+<td>Mica-garnet schist</td>
+<td>A rock that is rich in aluminum, which includes most clay-bearing rocks</td>
+<td>Medium-grade regional metamorphism</td>
+</tr>
+<tr>
+<td>Amphibolite</td>
+<td>A rock enriched in ferromagnesian minerals, such as basalt</td>
+<td>Medium- to high-grade regional metamorphism</td>
+</tr>
+<tr>
+<td>Marble</td>
+<td>Limestone or dolomite</td>
+<td>Regional or contact metamorphism</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ol>
