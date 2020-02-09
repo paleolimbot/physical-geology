@@ -1,0 +1,20 @@
+--- 
+title: "Physical Geology"
+author: "Karla Panchuk, Steven Earle, and contributors"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: 'Adapted from "Physical Geology" written by Steven Earle for the BCcampus Open Textbook Project'
+---
+
+*Physical Geology* is a comprehensive introductory text on the physical aspects of geology, including rocks and minerals, plate tectonics, earthquakes, volcanoes, mass wasting, climate change, planetary geology and much more. It has a strong emphasis on examples from western Canada. It is adapted from "Physical Geology" written by Steven Earle for the BCcampus Open Textbook Program, and "Physical Geology, First University of Saskatchewan Edition" by Karla Panchuk.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
