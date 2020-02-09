@@ -233,7 +233,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11
 
 
 
-```{r , fig.cap='<caption id="attachment_3244" align="aligncenter" width="419"> [<img class="wp-image-3244 size-full" src="https://openpress.usask.ca/app/uploads/sites/29/2017/11/RockBoltSeatoSky.png" alt="" width="419" height="303">](https://openpress.usask.ca/physicalgeology/chapter/15-2-classification-of-mass-wasting/rockboltseatosky/) Figure \\@ref(fig:figure-15-10) Site of the 2008 rock slide at Porteau Cove. Notice the prominent fracture set parallel to the surface of the slope. The slope has been stabilized with rock bolts (top arrow) and holes have been drilled into the rock to improve drainage (tube from drainage hole indicated with bottom arrow). Risk to passing vehicles from rock fall has been reduced by hanging mesh curtains (background), which secures loose material to the slope. Source: Joyce McBeth (2018) CC BY 4.0 after Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/)'}
+```{r figure-15-10, fig.cap='Site of the 2008 rock slide at Porteau Cove. Notice the prominent fracture set parallel to the surface of the slope. The slope has been stabilized with rock bolts (top arrow) and holes have been drilled into the rock to improve drainage (tube from drainage hole indicated with bottom arrow). Risk to passing vehicles from rock fall has been reduced by hanging mesh curtains (background), which secures loose material to the slope. Source: Joyce McBeth (2018) CC BY 4.0 after Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/RockBoltSeatoSky.png")
 ```
 
@@ -282,7 +282,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 <p class="NormalOT"><span lang="EN-US">An example of a slump in the Lethbridge area of Alberta is shown in Figure \@ref(fig:figure-15-1)5. This feature has likely been active for many decades and moves a little more whenever there are heavy spring rains and snowmelt runoff. The toe of the slump is being eroded by the small stream at the bottom. The erosion contributes to continued slumping. The basal material (material at the toe of the slope) forms the support for the overlying mass of material in the slope and if this support is eroded away slumping will likely continue.</span></p>
 
 
-```{r figure-15-15-, fig.cap='A slump along the banks of a small coulee near Lethbridge, Alberta. The main head-scarp is clearly visible at the top, and a second smaller one is visible about a quarter of the way down the slope. The toe of the slump is being eroded by the seasonal stream that created the coulee. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
+```{r figure-15-15, fig.cap='A slump along the banks of a small coulee near Lethbridge, Alberta. The main head-scarp is clearly visible at the top, and a second smaller one is visible about a quarter of the way down the slope. The toe of the slump is being eroded by the seasonal stream that created the coulee. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/slump-along-the-banks-of-a-small-coulee-near-Lethbridge.jpg")
 ```
 
@@ -365,7 +365,7 @@ Road construction is a potential problem for two reasons. First, creating a flat
 
 
 
-```{r , fig.cap='<caption id="attachment_1289" align="aligncenter" width="363"> [<img class="wp-image-1289" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/How-Much-Does-a-House-Weigh-and-Can-It-Contribute-to-a-Slope-Failure.png" alt="How Much Does a House Weigh and Can It Contribute to a Slope Failure" width="363" height="191">](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/How-Much-Does-a-House-Weigh-and-Can-It-Contribute-to-a-Slope-Failure.png) Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/)'}
+```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/How-Much-Does-a-House-Weigh-and-Can-It-Contribute-to-a-Slope-Failure.png) Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/How-Much-Does-a-House-Weigh-and-Can-It-Contribute-to-a-Slope-Failure.png")
 ```
 
@@ -452,7 +452,7 @@ The key criteria for classifying mass wasting are the nature of the movement tha
 
 
 
-```{r , fig.cap='<caption id="attachment_1295" align="alignright" width="204"> [<img class="wp-image-1295" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/gravitational-force-on-the-unconsolidated-sediment.png" alt="gravitational force on the unconsolidated sediment" width="204" height="166">](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/gravitational-force-on-the-unconsolidated-sediment.png) Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geology/)'}
+```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/gravitational-force-on-the-unconsolidated-sediment.png) Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geology/)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/gravitational-force-on-the-unconsolidated-sediment.png")
 ```
 

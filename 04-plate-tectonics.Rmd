@@ -304,7 +304,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 Oceanic spreading ridges appear to be curved features on Earth's surface, but the ridges are in fact composed of a series of straight-line segments, offset at intervals by faults perpendicular to the ridge (Figure \@ref(fig:figure-4-2)0). In a paper published in 1965, Tuzo Wilson termed these features __transform faults__.
 
 
-```{r figure-4-20-, fig.cap='Part of the Mid-Atlantic ridge near the equator. Transform faults (red lines) are in between the ridge segments (double white lines), where the yellow arrows (indicating relative plate movement) point in opposite directions. Solid white lines are fracture zones. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/tranforms-2.png)_'}
+```{r figure-4-20, fig.cap='Part of the Mid-Atlantic ridge near the equator. Transform faults (red lines) are in between the ridge segments (double white lines), where the yellow arrows (indicating relative plate movement) point in opposite directions. Solid white lines are fracture zones. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/tranforms-2.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/tranforms-2-1024x401.png")
 ```
 

@@ -362,7 +362,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 In areas that are characterized by extensional tectonics, and with many normal faults arranged side-by-side, some blocks may subside (settle downward) relative to neighbouring parts. This is typical in areas of continental rifting, such as the Great Rift Valley of East Africa or in parts of Iceland. In such situations, blocks that move down relative to the other blocks are __<span style="font-family: Times">graben</span>__, and elevated blocks with graben on either side are called __<span style="font-family: Times">horsts</span>__. There are many horsts and grabens in the Basin and Range area of the western United States, especially in Nevada. Part of the Fraser Valley region of British Columbia, in the area around Sumas Prairie, is a graben.
 
 
-```{r figure-13-27-, fig.cap='Graben and horst structures form where extension is happening. All of the faults are normal faults. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/graben-and-horst-structures.png)_'}
+```{r figure-13-27, fig.cap='Graben and horst structures form where extension is happening. All of the faults are normal faults. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/graben-and-horst-structures.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/graben-and-horst-structures.png")
 ```
 

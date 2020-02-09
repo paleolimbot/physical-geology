@@ -148,24 +148,40 @@ md_filter_caption <- function(x) {
     
     cap <- read_html(caption_html) %>% html_node("caption")
     img <- cap %>% html_node("img") %>% html_attr("src")
-    cap_text <- as.character(cap) %>% 
-      str_remove(regex("^.*?<strong>.*?</strong>", multiline = TRUE, dotall = TRUE)) %>% 
-      str_remove("</caption>") %>% 
+    
+    fig_id <- cap %>% html_node("strong") %>% html_text()
+    if (is.na(fig_id)) {
+      # probably no <strong> wrapping
+      fig_id <- cap %>% html_text() %>% str_extract("Figure\\s+[0-9.]+")
+      if (is.na(fig_id)) {
+        fig_id <- ""
+        cap_text <- as.character(cap) %>% 
+          str_remove("<img.*?>") %>% 
+          str_remove("<caption.*?>") %>% 
+          str_remove("</caption.*?>")
+      } else {
+        cap_text <- as.character(cap) %>% 
+          str_remove(regex(glue::glue("^.*?{fig_id}"), multiline = TRUE, dotall = TRUE)) %>% 
+          str_remove("</caption>")
+      }
+    } else {
+      cap_text <- as.character(cap) %>% 
+        str_remove(regex("^.*?<strong>.*?</strong>", multiline = TRUE, dotall = TRUE)) %>% 
+        str_remove("</caption>")
+    }
+    
+    cap_text <- cap_text %>% 
       str_trim() %>% 
       str_replace_all("\n", " ") %>%
       md_filter_xref() %>% 
       str_replace_all("\\\\", "\\\\\\\\") %>% 
       str_replace_all("'", "\\\\'") 
     
-    
-    fig_id <- cap %>% html_node("strong") %>% html_text()
     fig_id_nice <- fig_id %>% 
       str_to_lower() %>% 
-      str_replace_all("[^a-z0-9-]+", "-")
+      str_replace_all("[^a-z0-9-]+", "-") %>% 
+      str_remove("-$")
     
-    if (is.na(fig_id_nice)) {
-      fig_id_nice <- ""
-    }
     cap_block <- glue::glue(
       "\n\n```{{r {fig_id_nice}, fig.cap='{cap_text}'}}\nknitr::include_graphics(\"{img}\")\n```\n\n"
     )

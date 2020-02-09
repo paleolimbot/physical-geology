@@ -321,7 +321,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 The nature of the parent rock controls the types of metamorphic rocks that can form from it under differing metamorphic conditions (temperature, pressure, fluids). The kinds of rocks that can be expected to form at different metamorphic grades from various parent rocks are listed in Table 10.1.
 
 
-```{r , fig.cap='<caption id="attachment_323" align="aligncenter" width="640"> [<img class="wp-image-323" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Table-10-1-1024x462-1024x462.png" alt="" width="640" height="289">](https://openpress.usask.ca/physicalgeology/?attachment_id=323) _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/chapter/7-2-classification-of-metamorphic-rocks/). Click the table for a text version._'}
+```{r , fig.cap='[](https://openpress.usask.ca/physicalgeology/?attachment_id=323) _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/chapter/7-2-classification-of-metamorphic-rocks/). Click the table for a text version._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Table-10-1-1024x462-1024x462.png")
 ```
 

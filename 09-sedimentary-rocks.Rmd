@@ -190,7 +190,7 @@ Almost all limestone forms in marine (i.e., oceans or salty seas) environments, 
 Reefs are highly productive ecosystems populated by a wide range of organisms, many of which use calcium and bicarbonate ions from seawater to make carbonate minerals (especially calcite) for their shells and other structures. These include corals as well as green and red algae, urchins, sponges, molluscs, and crustaceans. Some of micro-organisms use CaCO<sub>3</sub> to build tiny __tests__ (shells) which accumulate on the ocean floor when these organisms die. Erosion can break all of these carbonate materials apart, scattering fragments throughout surrounding region (Figure \@ref(fig:figure-9-9)).
 
 
-```{r figure-9-9-, fig.cap='Various corals and green algae on a reef at Ambergris, Belize. The light-coloured sand consists of carbonate fragments eroded from the reef organisms. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/corals.png)_'}
+```{r figure-9-9, fig.cap='Various corals and green algae on a reef at Ambergris, Belize. The light-coloured sand consists of carbonate fragments eroded from the reef organisms. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/corals.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/corals.png")
 ```
 
@@ -198,7 +198,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 Figure \@ref(fig:figure-9-10) shows a cross-section through a typical reef environment in a tropical region (normally between 40° N and 40° S). Reefs tend to form near the edges of steep drop-offs because the reef organisms thrive on nutrient-rich upwelling currents. As the reef builds up, it is eroded by waves and currents to produce carbonate sediments that are transported into the steep offshore __fore-reef__ area and the shallower inshore __back-reef__ area. Reef-derived sediments are dominated by reef-type carbonate fragments of all sizes, including mud.
 
 
-```{r figure-9-10-, fig.cap='Cross-section through a typical tropical reef. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/tropical-reef.png)_'}
+```{r figure-9-10, fig.cap='Cross-section through a typical tropical reef. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/tropical-reef.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/tropical-reef.png")
 ```
 
@@ -475,7 +475,7 @@ Tables 9.1 and 9.2 provide a summary of the processes and sediment types that pe
 Most of the sediments that you might see around you, including talus on steep slopes, sand bars in streams, or gravel in road cuts, will never become sedimentary rocks. This is because they have only been deposited relatively recently — perhaps a few centuries or millennia ago — and will be re-eroded before they are buried deep enough beneath other sediments to be lithified. In order for sediments to be preserved long enough to be turned into rock (a process that takes millions or tens of millions of years) they need to have been deposited in a basin in which sediments can be preserved for that long. Most such basins are formed by plate tectonic processes (Figure \@ref(fig:figure-9-21)).
 
 
-```{r figure-9-21-, fig.cap='Some types of tectonically produced basins: (a) trench basin, (b) forearc basin, (c) foreland basin, and (d) rift basin. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/basins.png)_'}
+```{r figure-9-21, fig.cap='Some types of tectonically produced basins: (a) trench basin, (b) forearc basin, (c) foreland basin, and (d) rift basin. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/basins.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/basins.png")
 ```
 

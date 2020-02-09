@@ -371,7 +371,7 @@ Whether a grain is large or small tells us about its journey from its source to 
 Geologists have a specific set of definitions to describe the size of grains (Figure \@ref(fig:figure-8-17)).
 
 
-```{r figure-8-17-, fig.cap='Classification of grain sizes. Silt and clay are considered fine-grained particles, sand is medium-grained, and particles larger than sand are considered coarse-grained.. _Source: Karla Panchuk (2016) CC BY 4.0 Click the image for a text version._'}
+```{r figure-8-17, fig.cap='Classification of grain sizes. Silt and clay are considered fine-grained particles, sand is medium-grained, and particles larger than sand are considered coarse-grained.. _Source: Karla Panchuk (2016) CC BY 4.0 Click the image for a text version._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Grain-size-chart.png")
 ```
 

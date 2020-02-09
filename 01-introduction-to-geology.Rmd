@@ -1,9 +1,13 @@
-
 # Introduction to Geology
+
+<p style="text-align: center">_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_</p>
+
+
 
 ```{r figure-1-1, fig.cap='Badlands in southern Saskatchewan. Erosion has exposed layers of rock going back more than 65 million years. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Click the image for more attributions.<br>_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/SK_badlands.png")
 ```
+
 
 <div class="textbox shaded">
 
@@ -41,7 +45,7 @@ The peak on the right of the photographs in Figure \@ref(fig:figure-1-2) is Rear
 
 Many geological features are shown here. The rocks that these mountains are made of formed in ocean water over 500 million years ago. A few hundred million years later, the rocks were pushed east for tens to hundreds of kilometres, and thousands of meters upward in a great collision between Earth's tectonic plates.
 
-Over the past two million years this area, like most of the rest of Canada, has been repeatedly covered by glaciers that scoured away rocks to form the valley to the left of Rearguard Mountain. The Robson Glacier itself is now only a fraction of its size during the Little Ice Age of the 15th to 18th centuries. And, like almost all other glaciers on Earth, it is now receding even more rapidly because of climate change. Figure \@ref(fig:figure-1-2) (right) taken around 1908 by the Canadian geologist and artist Arthur Philemon Coleman, gives an indication of how much the glacier has receded in the last hundred years.
+Over the past two million years this area, like most of the rest of Canada, has been repeatedly covered by glaciers that scoured away rocks to form the valley to the left of Rearguard Mountain. The Robson Glacier itself is now only a fraction of its  size during the Little Ice Age of the 15th to 18th centuries. And, like almost all other glaciers on Earth, it is now receding even more rapidly because of climate change. Figure \@ref(fig:figure-1-2) (right) taken around 1908 by the Canadian geologist and artist Arthur Philemon Coleman, gives an indication of how much the glacier has receded in the last hundred years.
 
 
 ```{r figure-1-2, fig.cap='Rearguard Mountain and Robson Glacier in Mount Robson Provincial Park, BC. Left: Robson Glacier today, retreating up the valley. Right: Robson Glacier circa 1908. _Sources: Left- Karla Panchuk (2017) CC BY-SA 4.0 with photo by Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Rearguard-Mt.-and-Robson-Glacier.jpg). Right: A.P. Coleman (c. 1908) Public Domain. Click the image for more attributions._'}

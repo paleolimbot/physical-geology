@@ -344,7 +344,7 @@ The search for exoplanets has identified 53 planets that are similar in size to 
 2. In this image of three spectra, one is from the sun, and the other two are from galaxies. One of the galaxies is the Andromeda galaxy. Which spectrum is from Andromeda?
 
 
-```{r , fig.cap='<caption id="attachment_1466" align="aligncenter" width="331"> [<img class="size-full wp-image-1466" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/spectraforsun.png" alt="Spectra for the sun and two galaxies. [KP]" width="331" height="235">](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/09/spectraforsun.png) Spectra for the sun and two galaxies. Source: Karla Panchuk (2015) CC BY 4.0.'}
+```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/09/spectraforsun.png) Spectra for the sun and two galaxies. Source: Karla Panchuk (2015) CC BY 4.0.'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/spectraforsun.png")
 ```
 3. Astronomers looking for some of the earliest stars in the universe were surprised to find a planetary system called HIP 11952, which existed 12.8 billion years ago. This was very early in the universe’s history, when stars still consisted largely of hydrogen and helium. Do you think there were terrestrial planets in this system? Why or why not?
@@ -369,7 +369,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 2. B is the spectrum from the Andromeda galaxy. We know that one spectrum represents the sun, which is not moving toward or away from us. (Our orbit is not perfectly circular, but the small eccentricity is not a factor in this comparison.) We know that the Andromeda galaxy is on a collision course with us, so it is the exception to the rule that galaxies are moving away from us, and their light is red-shifted. That means the spectrum B which is shifted furthest to the left (blue-shifted) is Andromeda, and spectrum A which is furthest to the right (red-shifted) is a galaxy moving away from us. That means C is the sun.
 
 
-```{r , fig.cap='<caption id="attachment_1533" align="aligncenter" width="331"> [<img class="size-full wp-image-1533" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/spectra.png" alt="Spectra for the sun and two galaxies. [KP]" width="331" height="235">](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/09/spectra.png) Spectra for the sun and two galaxies. Source: Karla Panchuk (2015) CC BY 4.0'}
+```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/09/spectra.png) Spectra for the sun and two galaxies. Source: Karla Panchuk (2015) CC BY 4.0'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/spectra.png")
 ```
 3. The planetary system consisted of two Jupiter-sized gas giant planets. Gas giant planets contain large amounts of hydrogen, and hydrogen was plentiful in the early universe. In contrast, terrestrial planets have heavier elements, especially silica, iron, magnesium, and nickel, that had yet to be manufactured by stars. Those elements were not present in sufficient abundance to form terrestrial planets until much later.

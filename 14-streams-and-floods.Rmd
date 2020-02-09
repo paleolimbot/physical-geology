@@ -160,7 +160,7 @@ Davis’s work was done long before the idea of plate tectonics, and he was also
 
 
 
-```{r , fig.cap='<caption id="attachment_804" align="aligncenter" width="250"> [<img class="wp-image-804" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Revelstoke-Dam-and-Revelstoke-Lake.jpg" alt="Revelstoke Dam and Revelstoke Lake on the Columbia River at Revelstoke, BC [SE]" width="250" height="175">](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Revelstoke-Dam-and-Revelstoke-Lake.jpg) Revelstoke Dam and Revelstoke Lake on the Columbia River at Revelstoke, BC. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Revelstoke-Dam-and-Revelstoke-Lake.jpg)'}
+```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Revelstoke-Dam-and-Revelstoke-Lake.jpg) Revelstoke Dam and Revelstoke Lake on the Columbia River at Revelstoke, BC. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Revelstoke-Dam-and-Revelstoke-Lake.jpg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Revelstoke-Dam-and-Revelstoke-Lake.jpg")
 ```
 When a dam is built on a stream, a reservoir (artificial lake) forms behind the dam. The dam reservoir temporarily (for many decades at least) creates a new base level for the part of the stream above the reservoir. How does the formation of a dam reservoir affect the stream where it enters the reservoir, and what happens to the sediment it was carrying? The water leaving the dam has no sediment in it. Why? How does this affect the stream below the dam?</div>
@@ -303,7 +303,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 
 
-```{r , fig.cap='<caption id="attachment_817" align="aligncenter" width="300"> [<img class="wp-image-817" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Stream-Gradients.png" alt="Stream Gradients" width="300" height="305">](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Stream-Gradients.png) Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Stream-Gradients.png)'}
+```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Stream-Gradients.png) Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Stream-Gradients.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Stream-Gradients.png")
 ```
 
@@ -491,7 +491,7 @@ The largest flood recorded along the Bow River over that period of time was the 
  	<li>Examine the 100-year trend for floods along the Bow River. If you ignore the major floods  (the labelled ones), what is the general trend of peak discharges over this time?</li>
 </ol>
 
-```{r , fig.cap='<caption id="attachment_825" align="aligncenter" width="400"> [<img class="wp-image-825" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Water-Surveys-of-Canada.png" alt="Water Surveys of Canada" width="400" height="198">](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Water-Surveys-of-Canada.png) Source: Steven Earle (2015) CC BY 4.0[ view source](http://wateroffice.ec.gc.ca/search/searchDownload_e.html), from data at Water Surveys of Canada, Environment Canada [view source ](http://wateroffice.ec.gc.ca/search/searchDownload_e.html)'}
+```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Water-Surveys-of-Canada.png) Source: Steven Earle (2015) CC BY 4.0[ view source](http://wateroffice.ec.gc.ca/search/searchDownload_e.html), from data at Water Surveys of Canada, Environment Canada [view source ](http://wateroffice.ec.gc.ca/search/searchDownload_e.html)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Water-Surveys-of-Canada.png")
 ```
 

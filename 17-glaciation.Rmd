@@ -283,7 +283,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 Figure \@ref(fig:figure-17-2)5 is a photo of Mt. Assiniboine in the BC Rocky Mountains. What are the features at locations __a__ through __e__? Look for one of each of the following: a horn, an arête, a truncated spur, a cirque, and a col. Try to identify some of the numerous other arêtes in this view, as well as another horn.
 
 
-```{r figure-17-25-, fig.cap='Glacial erosion features of Mt. Assiniboine. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Glacial-Erosion-Features.png). Modified after Kurt Stegmüller (2008) CC BY 3.0 [view source](https://commons.wikimedia.org/wiki/File:Mount_Assiniboine_Sunburst_Lake.jpg)_'}
+```{r figure-17-25, fig.cap='Glacial erosion features of Mt. Assiniboine. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Glacial-Erosion-Features.png). Modified after Kurt Stegmüller (2008) CC BY 3.0 [view source](https://commons.wikimedia.org/wiki/File:Mount_Assiniboine_Sunburst_Lake.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Glacial-Erosion-Features.png")
 ```
 
