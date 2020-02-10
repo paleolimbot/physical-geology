@@ -3,13 +3,6 @@
 
 <p style="text-align: center">_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_</p>
 
-```{r setup, include=FALSE}
-library(tidyverse)
-
-# set some default chunk options
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ```{r figure-1-1, fig.cap='Badlands in southern Saskatchewan. Erosion has exposed layers of rock going back more than 65 million years. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Click the image for more attributions.<br>_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/SK_badlands.png")
 ```
