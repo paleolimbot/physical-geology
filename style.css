@@ -16,3 +16,8 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+.textbox {
+  background: #f7f7f7;
+  padding: 10px;
+}
