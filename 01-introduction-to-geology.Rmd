@@ -1,28 +1,30 @@
+
 # Introduction to Geology
 
 <p style="text-align: center">_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_</p>
 
+```{r setup, include=FALSE}
+library(tidyverse)
 
+# set some default chunk options
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 ```{r figure-1-1, fig.cap='Badlands in southern Saskatchewan. Erosion has exposed layers of rock going back more than 65 million years. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Click the image for more attributions.<br>_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/SK_badlands.png")
 ```
 
-
 <div class="textbox shaded">
 
-#### Learning Objectives
-
+##### Learning Objectives {-}
 
 After reading this chapter and answering the review questions at the end, you should be able to:
-
 
 - Explain what geology is, and why we study Earth.
 - Describe the kinds of work that geologists do.
 - Explain what is meant by _geological time_.
 - Explain how the principle of uniformitarianism allows us to translate observations about Earth today into knowledge about how Earth worked in the past.
 - Summarize the main idea behind the theory plate tectonics.
-
 
 </div>
 
@@ -37,39 +39,25 @@ An aspect of geology that is unlike most of the other sciences is the role playe
 
 <div class="textbox">
 
-
-###### Geology on a Grand Scale in the Canadian Rocky Mountains
-
+##### Geology on a Grand Scale in the Canadian Rocky Mountains {-}
 
 The peak on the right of the photographs in Figure \@ref(fig:figure-1-2) is Rearguard Mountain, which is a few kilometres northeast of Mount Robson. Mount Robson is the tallest peak in the Canadian Rockies, at 3,954 m. The large glacier in the middle of the photo is the Robson Glacier. The river flowing from Robson Glacier drains into Berg Lake in the bottom right.
 
 Many geological features are shown here. The rocks that these mountains are made of formed in ocean water over 500 million years ago. A few hundred million years later, the rocks were pushed east for tens to hundreds of kilometres, and thousands of meters upward in a great collision between Earth's tectonic plates.
 
-Over the past two million years this area, like most of the rest of Canada, has been repeatedly covered by glaciers that scoured away rocks to form the valley to the left of Rearguard Mountain. The Robson Glacier itself is now only a fraction of its  size during the Little Ice Age of the 15th to 18th centuries. And, like almost all other glaciers on Earth, it is now receding even more rapidly because of climate change. Figure \@ref(fig:figure-1-2) (right) taken around 1908 by the Canadian geologist and artist Arthur Philemon Coleman, gives an indication of how much the glacier has receded in the last hundred years.
-
+Over the past two million years this area, like most of the rest of Canada, has been repeatedly covered by glaciers that scoured away rocks to form the valley to the left of Rearguard Mountain. The Robson Glacier itself is now only a fraction of its size during the Little Ice Age of the 15th to 18th centuries. And, like almost all other glaciers on Earth, it is now receding even more rapidly because of climate change. Figure \@ref(fig:figure-1-2) (right) taken around 1908 by the Canadian geologist and artist Arthur Philemon Coleman, gives an indication of how much the glacier has receded in the last hundred years.
 
 ```{r figure-1-2, fig.cap='Rearguard Mountain and Robson Glacier in Mount Robson Provincial Park, BC. Left: Robson Glacier today, retreating up the valley. Right: Robson Glacier circa 1908. _Sources: Left- Karla Panchuk (2017) CC BY-SA 4.0 with photo by Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Rearguard-Mt.-and-Robson-Glacier.jpg). Right: A.P. Coleman (c. 1908) Public Domain. Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Rearguard_today_vs_1908.png")
 ```
 
-
-
-
 </div>
-
 
 Geology is about understanding the evolution of Earth through time. It is about discovering resources such as metals and energy, and minimizing the environmental implications of our use of resources. It is about learning to mitigate the hazards of earthquakes, volcanic eruptions, and slope failures. All of these aspects of geology, and many more, are covered in this textbook.
 
-###### References
-
-
-Victoria University Library (2009) _A. P. Coleman Exhibition_. Retrieved 25 August 2017. [Visit the website](http://library.vicu.utoronto.ca/apcoleman/index.htm)
-
-
 ## Why Study Earth?
 
-Why?  Because Earth is our home — our _only_ home for the foreseeable future — and in order to ensure that it continues to be a great place to live, we need to understand how it works. Another answer is that some of us can’t help but study it because it’s fascinating. But there is more to it than that.
-
+Why? Because Earth is our home — our _only_ home for the foreseeable future — and in order to ensure that it continues to be a great place to live, we need to understand how it works. Another answer is that some of us can’t help but study it because it’s fascinating. But there is more to it than that.
 
 - Explain what geology is, and why we study Earth.
 - Describe the kinds of work that geologists do.
@@ -77,52 +65,35 @@ Why?  Because Earth is our home — our _only_ home for the foreseeable future 
 - Explain how the principle of uniformitarianism allows us to translate observations about Earth today into knowledge about how Earth worked in the past.
 - Summarize the main idea behind the theory plate tectonics.
 
-
-
 <div class="textbox">
 
-
-###### The Importance of Geological Studies for Minimizing Risks to the Public
-
+##### The Importance of Geological Studies for Minimizing Risks to the Public {-}
 
 Figure \@ref(fig:figure-1-3) shows a slope failure that took place in January 2005 in the Riverside Drive area of North Vancouver. The steep bank beneath the house shown gave way, and a slurry of mud and sand flowed down. It destroyed another house below, and killed one person. The slope failure happened after a heavy rainfall, which is a common occurrence in southwestern B.C. in the winter.
-
 
 ```{r figure-1-3, fig.cap='Aftermath of a deadly debris flow in the Riverside Drive area of North Vancouver in January, 2005. _Source: The Province (2005), used with permission._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/deadly-debris-flow-in-the-Riverside-Drive.jpg")
 ```
 
-
 A geological report written in 1980 warned the District of North Vancouver that the area was prone to slope failure, and that steps should be taken to minimize the risk to residents. Unfortunately, not enough was done in the intervening 25 years to prevent a tragedy.
-
-
 
 </div>
 
-
-
-
-
-
-
 ## What Do Geologists Do?
 
-Geologists do a lot of different things.  Many of the jobs are the things you would expect.  Geologists work in the resource industry, including mineral exploration and mining, and exploring for and extracting sources of energy. They do hazard assessment and mitigation (e.g., assessment of risks from slope failures, earthquakes, and volcanic eruptions).  They study the nature of the subsurface for construction projects such as highways, tunnels, and bridges. They use information about the subsurface for water supply planning, development, and management; and to decide how best to contain contaminants from waste.
+Geologists do a lot of different things. Many of the jobs are the things you would expect. Geologists work in the resource industry, including mineral exploration and mining, and exploring for and extracting sources of energy. They do hazard assessment and mitigation (e.g., assessment of risks from slope failures, earthquakes, and volcanic eruptions). They study the nature of the subsurface for construction projects such as highways, tunnels, and bridges. They use information about the subsurface for water supply planning, development, and management; and to decide how best to contain contaminants from waste.
 
-Geologists also do the research that makes practical applications of geology possible.  Some geologists spend their summers trekking through the wilderness to make maps of the rocks in a particular location, and collect clues about the geological processes that occurred there.  Some geologists work in laboratories analyzing the chemical and physical properties of rocks to understand how the rocks will behave when forces act on them, or when water flows through them.  Some geologists specialize in inventing ways to use complex instruments to make these measurements.  Geologists study fossils to understand ancient animals and environments, and go to extreme environments to understand how life might have originated on Earth.  Some geologists help NASA understand the data they receive from objects in space.
+Geologists also do the research that makes practical applications of geology possible. Some geologists spend their summers trekking through the wilderness to make maps of the rocks in a particular location, and collect clues about the geological processes that occurred there. Some geologists work in laboratories analyzing the chemical and physical properties of rocks to understand how the rocks will behave when forces act on them, or when water flows through them. Some geologists specialize in inventing ways to use complex instruments to make these measurements. Geologists study fossils to understand ancient animals and environments, and go to extreme environments to understand how life might have originated on Earth. Some geologists help NASA understand the data they receive from objects in space.
 
-Geological work can be done indoors in offices and labs, but some people are attracted to geology because they like to be outdoors.  Many geological opportunities involve fieldwork in places that are as amazing to see as they are interesting to study. Sometimes these are locations where few people have ever set foot, and where few ever will again.
-
+Geological work can be done indoors in offices and labs, but some people are attracted to geology because they like to be outdoors. Many geological opportunities involve fieldwork in places that are as amazing to see as they are interesting to study. Sometimes these are locations where few people have ever set foot, and where few ever will again.
 
 ```{r figure-1-4, fig.cap='Geologists at work on the island of Spitsbergen, part of the Svalbard archipelago. The islands are located in the Arctic Ocean north of Norway. _Source: Gus MacLeod (2007) CC BY-NC-ND 2.0 [view source](https://flic.kr/p/8asQuW)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Svalbard.jpg")
 ```
 
-
-
 ## We Study Earth Using the Scientific Method
 
-There is no single method of inquiry that is specifically the scientific method.  Furthermore, scientific inquiry is not necessarily different from serious research in other disciplines. The key features of serious inquiry are the following:
+There is no single method of inquiry that is specifically the scientific method. Furthermore, scientific inquiry is not necessarily different from serious research in other disciplines. The key features of serious inquiry are the following:
 
 
 - Explain what geology is, and why we study Earth.
@@ -131,298 +102,186 @@ There is no single method of inquiry that is specifically the scientific method.
 - Explain how the principle of uniformitarianism allows us to translate observations about Earth today into knowledge about how Earth worked in the past.
 - Summarize the main idea behind the theory plate tectonics.
 
-
-
 ### An Example of the Scientific Method at Work
 
-
 Consider a field trip to the stream shown in Figure \@ref(fig:figure-1-5) Notice that the rocks in and along the stream are rounded off rather than having sharp edges. We might hypothesize that the rocks were rounded because as the stream carried them, they crashed into each other and pieces broke off.
-
 
 ```{r figure-1-5, fig.cap='Hypothesizing about the origin of round rocks in a stream. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/What-are-scientific-methods.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/What-are-scientific-methods.jpg")
 ```
 
-
 If the hypothesis is correct, then the further we go downstream, the rounder and smaller the rocks should be. Going upstream we should find that the rocks are more angular and larger. If we were patient we could also test the hypothesis by marking specific rocks and then checking back to see if those rocks have become smaller and more rounded as they moved downstream.
 
-If the predictions turn out to be correct, we must still be careful about how much certainty to attach to our hypothesis.  Although our hypothesis might seem to us to be the only reasonable explanation, someone could argue that we have the mechanism wrong, and the rocks weren't rounded by bumping into each other. If our experiment didn't specifically check for the mechanism (e.g., by looking to see if chips fall off the rocks and the rocks are made smoother) then we would have to acknowledge the possibility.  We needn't abandon the hypothesis as a useful tool for making predictions, but it is necessary to be open to the possibility that other things might be going on. If someone demonstrates conclusively that our hypothesis is wrong, then we have to discard the hypothesis and come up with a better one.
+If the predictions turn out to be correct, we must still be careful about how much certainty to attach to our hypothesis. Although our hypothesis might seem to us to be the only reasonable explanation, someone could argue that we have the mechanism wrong, and the rocks weren't rounded by bumping into each other. If our experiment didn't specifically check for the mechanism (e.g., by looking to see if chips fall off the rocks and the rocks are made smoother) then we would have to acknowledge the possibility. We needn't abandon the hypothesis as a useful tool for making predictions, but it is necessary to be open to the possibility that other things might be going on. If someone demonstrates conclusively that our hypothesis is wrong, then we have to discard the hypothesis and come up with a better one.
 
-A good hypothesis is testable.  Someone might argue that an extraterrestrial organization creates rounded rocks and places them in streams when nobody is looking. There is no practical way to test this hypothesis to confirm it, and there is no way to prove it false. Even if we never see aliens at work, we still can't say they haven't been, because according to the hypothesis they only work when people aren't looking. Compare this to our original hypothesis which allows us to make testable predictions such as rocks getting smaller and rounder downstream. Our original hypothesis gives us a way to see how realistic it is, whereas the alien hypothesis gives us no way to know if it makes sense or not.
+A good hypothesis is testable. Someone might argue that an extraterrestrial organization creates rounded rocks and places them in streams when nobody is looking. There is no practical way to test this hypothesis to confirm it, and there is no way to prove it false. Even if we never see aliens at work, we still can't say they haven't been, because according to the hypothesis they only work when people aren't looking. Compare this to our original hypothesis which allows us to make testable predictions such as rocks getting smaller and rounder downstream. Our original hypothesis gives us a way to see how realistic it is, whereas the alien hypothesis gives us no way to know if it makes sense or not.
 
 ### Theories and Laws
 
+Two other terms appear in discussions of the scientific method: __theory__ and __law__. A __theory__ starts out as a hypothesis, but over a long period of time and a great many tests, it has _never_ come up short. That doesn't mean it never will, but the odds of that are very unlikely given our present (and conceivable future) state of knowledge. You may have heard someone dismiss an idea by saying it is "just a theory," but they are using the term incorrectly if they mean to say it's a wild and unproven guess.
 
-Two other terms appear in discussions of the scientific method: __theory__ and __law__. A __theory__ starts out as a hypothesis, but over a long period of time and a great many tests, it has _never_ come up short. That doesn't mean it never will, but the odds of that are very unlikely given our present (and conceivable future) state of knowledge.  You may have heard someone dismiss an idea by saying it is "just a theory," but they are using the term incorrectly if they mean to say it's a wild and unproven guess.
-
-A __law__ is a description of a phenomenon rather than an explanation of it.  For example, you could do thousands of tests by dropping an object with known mass and measuring its acceleration and the force with which it hits the ground.  Again and again your results will yield the formula _force = mass x acceleration_.  However, that doesn't mean you know what is responsible for the force accelerating it toward the ground.  Yes, we say that gravity is pulling it toward the Earth's surface, but _why_? A law is true regardless of why a phenomenon happens as long as it describes the outcome of that phenomenon.
-
+A __law__ is a description of a phenomenon rather than an explanation of it. For example, you could do thousands of tests by dropping an object with known mass and measuring its acceleration and the force with which it hits the ground. Again and again your results will yield the formula _force = mass x acceleration_. However, that doesn't mean you know what is responsible for the force accelerating it toward the ground. Yes, we say that gravity is pulling it toward the Earth's surface, but _why_? A law is true regardless of why a phenomenon happens as long as it describes the outcome of that phenomenon.
 
 ## Three Big Ideas: Geological Time, Uniformitarianism, and Plate Tectonics
 
-In geology there are three big ideas that are fundamental to the way we think about how Earth works.  The ideas are like the sound track to a movie- sometimes we might not even notice them, but at the same time they affect our perception of what is happening.  In the rest of this book these ideas may be mentioned explicitly in some cases, but in other cases it will be helpful for you to realize that they are relevant, even if they are not being discussed by name.
+In geology there are three big ideas that are fundamental to the way we think about how Earth works. The ideas are like the sound track to a movie- sometimes we might not even notice them, but at the same time they affect our perception of what is happening. In the rest of this book these ideas may be mentioned explicitly in some cases, but in other cases it will be helpful for you to realize that they are relevant, even if they are not being discussed by name.
 
 ### Geological Time (Deep Time)
 
-
 Earth is approximately 4.57 billion years old (4,570,000,000 years), which is a long time for geological events to unfold and changes to happen. The changes themselves might be tiny. For example, over a year, a chemical reaction might eat away a few layers of atoms at the surface of a rock. But over time the changes accumulate and have a great impact. Over hundreds of millions of years the chemical reaction could cause a mountain range to crumble into grains of sand, and be swept away by rivers.
 
-For geologists who study very, very slow processes, 10 million years might be a short time, and 1 million years might be trivial.  For these geologists, intervals of 1 million years aren't even useful to consider, because the changes over that time are too small to see in the rocks that accumulated.
+For geologists who study very, very slow processes, 10 million years might be a short time, and 1 million years might be trivial. For these geologists, intervals of 1 million years aren't even useful to consider, because the changes over that time are too small to see in the rocks that accumulated.
 
 As you read through this book, keep in mind that the well of geologic time is indeed deep, and "ancient" is defined in a whole new way.
 
 #### Expressing Geological Time in Numbers
 
 
-Special notation is used for geological time because, as you might imagine, writing all those zeroes can become tiresome.  Table 1.1 shows common abbreviations you will see throughout this book.
-<table border="1">
-<tbody>
-<tr>
-<th style="text-align: left" colspan="3">__Table 1.1 Abbreviations Used to Describe Geological Time__</th>
-</tr>
-<tr>
-<th style="text-align: center">__Abbreviation__</th>
-<th style="text-align: center">__Meaning__</th>
-<th style="text-align: center">__Example__</th>
-</tr>
-<tr>
-<td style="text-align: center">Ga</td>
-<td><em>giga annum
-</em> or billions of years</td>
-<td>Earth is 4.57 Ga old.</td>
-</tr>
-<tr>
-<td style="text-align: center">Ma</td>
-<td><em>mega annum
-</em> or millions of years</td>
-<td>Earth is 4,570 Ma old.</td>
-</tr>
-<tr>
-<td style="text-align: center">ka</td>
-<td>_kilo annum_ or thousands of years</td>
-<td>The last glacial cycle ended 11,700 years ago, or 11.7 ka.</td>
-</tr>
-</tbody>
-</table>
+Special notation is used for geological time because, as you might imagine, writing all those zeroes can become tiresome. Table \@ref(tab:table-1-1) shows common abbreviations you will see throughout this book.
+
+```{r table-1-1}
+tibble::tribble(
+  ~Abbreviation,                           ~Meaning,  ~Example,
+           "Ga", "giga annum  or billions of years",  "Earth is 4.57 Ga old.",
+           "Ma",  "mega annum or millions of years",  "Earth is 4,570 Ma old.",
+           "ka", "kilo annum or thousands of years",  "The last glacial cycle ended 11,700 years ago, or 11.7 ka."
+  ) %>% 
+  knitr::kable(
+    caption = "Abbreviations Used to Describe Geological Time"
+  )
+```
 
 #### Expressing Geological Time Using the Geological Time Scale
 
-
-The __geological time scale__ (Figure \@ref(fig:figure-1-6)) is a way of breaking down geological time according to important events in Earth's history.  Time is divided into __eons__, __eras__, __periods__, and __epochs__, and these intervals are referred to by names rather than by years.  Giving intervals of geologic time names rather than using numbers makes sense because we won't always know the age in years (the __absolute__ __age__) of a rock or fossil, but we can place it in context based on our knowledge of the geological record.  We can describe its __relative age __by saying that it is older than or younger than another rock or fossil<strong>.
-</strong>
+The __geological time scale__ (Figure \@ref(fig:figure-1-6)) is a way of breaking down geological time according to important events in Earth's history. Time is divided into __eons__, __eras__, __periods__, and __epochs__, and these intervals are referred to by names rather than by years. Giving intervals of geologic time names rather than using numbers makes sense because we won't always know the age in years (the __absolute__ __age__) of a rock or fossil, but we can place it in context based on our knowledge of the geological record. We can describe its __relative age__ by saying that it is older than or younger than another rock or fossil.
 
 
 ```{r figure-1-6, fig.cap='Geologic Society of America Geologic Time Scale, 2012. _Source: Walker, J.D., Geissman, J.W., Bowring, S.A., and Babcock, L.E., compilers (2012) Geologic Time Scale v. 4.0: Geological Society of America, doi: 10.1130/2012.CTS004R3C. [Download PDF](https://www.geosociety.org/documents/gsa/timescale/timescl.pdf)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/timescale.png")
 ```
 
-
-The tricky thing about the geologic time scale is that the boundaries are always changing.  As our knowledge of the absolute age of an event improves with new discoveries, it might be necessary to nudge a boundary earlier or later.  Sometimes the original reason for defining a boundary no longer holds, but we agree to use it anyway.  For example, the Phanerozoic Eon (the last 542 million years) is named for the time during which visible (_phaneros_) life (_zoi_) is present in the geological record, and its start was meant to mark the first appearance of these organisms. In fact, we now have evidence that large organisms — those that leave fossils visible to the naked eye — have existed longer than that, first appearing by 600 Ma at the latest.
+The tricky thing about the geologic time scale is that the boundaries are always changing. As our knowledge of the absolute age of an event improves with new discoveries, it might be necessary to nudge a boundary earlier or later. Sometimes the original reason for defining a boundary no longer holds, but we agree to use it anyway. For example, the Phanerozoic Eon (the last 542 million years) is named for the time during which visible (_phaneros_) life (_zoi_) is present in the geological record, and its start was meant to mark the first appearance of these organisms. In fact, we now have evidence that large organisms — those that leave fossils visible to the naked eye — have existed longer than that, first appearing by 600 Ma at the latest.
 
 <div class="textbox">
 
-
-###### An Early Definition of the Proterozoic
-
+###### An Early Definition of the Proterozoic {-}
 
 Notice that in Figure \@ref(fig:figure-1-6) the Proterozoic Eon precedes the Phanerozoic Eon. This was not always the case. Figure \@ref(fig:figure-1-7) shows an excerpt from a periodical published in 1879, in which the Proterozoic is defined as covering the Cambrian through Silurian. The author refers to "the most extreme adherents of the Murchisonian party in geology," a reference to the contentious assertion by Scottish geologist Roderick Murchison (1792-1871) that the Silurian Period should encompass the Cambrian and Ordovician periods as well.
-
 
 ```{r figure-1-7, fig.cap='An excerpt from the periodical _The Annals and Magazine of Natural History_ (1879) in which the name "Proterozoic" is assigned to the Cambrian, Ordovician, and Silurian periods instead of to the time preceding the Cambrian. _Source: Karla Panchuk (2017) CC BY 4.0 [Read the book](https://openpress.usask.ca/app/uploads/sites/29/2017/08/Annals_Magazine_of_Natural_History-1.pdf)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Proterozoic_1879.png")
 ```
 
-
-
-
 </div>
-
-
 
 #### A Way To Think About Geological Time
 
-
 A useful mechanism for understanding geological time is to scale it down into one year. The origin of the solar system and Earth at 4.57 Ga would be represented by January 1, and the present year would be represented by the last tiny fraction of a second on New Year’s Eve. At this scale, each day of the year represents 12.5 million years; each hour represents about 500,000 years; each minute represents 8,694 years; and each second represents 145 years. Some significant events in Earth’s history, as expressed on this time scale, are summarized in Table 1.2.
-<table style="width: 849px" border="1">
-<tbody>
-<tr style="height: 27.8999px">
-<th style="height: 27.8999px;width: 805px" colspan="3">__Table 1.2  Some Important Dates Expressed As If All of Geological Time Were Condensed Into One Year__</th>
-</tr>
-<tr style="height: 31px">
-<th style="height: 31px;width: 429.983px;text-align: center">__Event__</th>
-<th style="height: 31px;width: 142.017px;text-align: center">__Approximate Date__</th>
-<th style="height: 31px;width: 233px;text-align: center">__Calendar Equivalent__</th>
-</tr>
-<tr style="height: 14px">
-<td style="height: 14px;width: 429.983px">Formation of oceans and continents</td>
-<td style="height: 14px;width: 142.017px">4.5 - 4.4 Ga</td>
-<td style="height: 14px;width: 233px">first week of January</td>
-</tr>
-<tr style="height: 15px">
-<td style="height: 15px;width: 429.983px">Evolution of the first primitive life forms</td>
-<td style="height: 15px;width: 142.017px">3.8 Ga</td>
-<td style="height: 15px;width: 233px">end of February</td>
-</tr>
-<tr style="height: 15px">
-<td style="height: 15px;width: 429.983px">Formation of Saskatchewan’s oldest rocks</td>
-<td style="height: 15px;width: 142.017px">3.4 Ga</td>
-<td style="height: 15px;width: 233px">end of March</td>
-</tr>
-<tr style="height: 15px">
-<td style="height: 15px;width: 429.983px">Evolution of the first multi-celled animals</td>
-<td style="height: 15px;width: 142.017px">600 Ma</td>
-<td style="height: 15px;width: 233px">beginning of November</td>
-</tr>
-<tr style="height: 15px">
-<td style="height: 15px;width: 429.983px">Animals first crawled onto land</td>
-<td style="height: 15px;width: 142.017px">360 Ma</td>
-<td style="height: 15px;width: 233px">end of November</td>
-</tr>
-<tr style="height: 31px">
-<td style="height: 31px;width: 429.983px">Vancouver Island reached North America and the Rocky Mountains were formed</td>
-<td style="height: 31px;width: 142.017px">90 Ma</td>
-<td style="height: 31px;width: 233px">December 16</td>
-</tr>
-<tr style="height: 15px">
-<td style="height: 15px;width: 429.983px">Extinction of the non-avian dinosaurs</td>
-<td style="height: 15px;width: 142.017px">65 Ma</td>
-<td style="height: 15px;width: 233px">December 18</td>
-</tr>
-<tr style="height: 15px">
-<td style="height: 15px;width: 429.983px">Beginning of the Pleistocene ice age</td>
-<td style="height: 15px;width: 142.017px">2 Ma</td>
-<td style="height: 15px;width: 233px">10:10 p.m., December 31</td>
-</tr>
-<tr style="height: 15px">
-<td style="height: 15px;width: 429.983px">Oldest radiocarbon date from people living in Canada (British Columbia)</td>
-<td style="height: 15px;width: 142.017px">13.8 ka</td>
-<td style="height: 15px;width: 233px">11:58 p.m., December 31</td>
-</tr>
-<tr style="height: 15px">
-<td style="height: 15px;width: 429.983px">Earliest evidence of human activity in Saskatchewan</td>
-<td style="height: 15px;width: 142.017px">11.5 ka</td>
-<td style="height: 15px;width: 233px">48 seconds before midnight, December 31</td>
-</tr>
-<tr style="height: 15px">
-<td style="height: 15px;width: 429.983px">The last of the glacial ice retreats from Saskatchewan</td>
-<td style="height: 15px;width: 142.017px">6 ka</td>
-<td style="height: 15px;width: 233px">41 seconds before midnight, December 31</td>
-</tr>
-<tr style="height: 31px">
-<td style="height: 31px;width: 429.983px">Hudson's Bay Company establishes a permanent settlement at Cumberland House in northern Saskatchewan</td>
-<td style="height: 31px;width: 142.017px">243 years ago</td>
-<td style="height: 31px;width: 233px">2 seconds before midnight, December 31</td>
-</tr>
-<tr style="height: 31px">
-<td style="height: 31px;width: 805px" colspan="3"><em>Source: Karla Panchuk (2017) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view original](https://opentextbc.ca/geology/chapter/1-6-geological-time/)
-</em></td>
-</tr>
-</tbody>
-</table>
+
+```{r table-1-2}
+tibble::tribble(
+                                                                                                                                                              ~Event,                                                                                                                                                  ~`Approximate Date`,                                                                                                                                               ~`Calendar Equivalent`,
+                                                                                                                                "Formation of oceans and continents",                                                                                                                                                     "4.5 - 4.4 Ga",                                                                                                                                            "first week of January",
+                                                                                                                       "Evolution of the first primitive life forms",                                                                                                                                                           "3.8 Ga",                                                                                                                                                  "end of February",
+                                                                                                                          "Formation of Saskatchewan’s oldest rocks",                                                                                                                                                           "3.4 Ga",                                                                                                                                                     "end of March",
+                                                                                                                       "Evolution of the first multi-celled animals",                                                                                                                                                           "600 Ma",                                                                                                                                            "beginning of November",
+                                                                                                                                   "Animals first crawled onto land",                                                                                                                                                           "360 Ma",                                                                                                                                                  "end of November",
+                                                                                        "Vancouver Island reached North America and the Rocky Mountains were formed",                                                                                                                                                            "90 Ma",                                                                                                                                                      "December 16",
+                                                                                                                             "Extinction of the non-avian dinosaurs",                                                                                                                                                            "65 Ma",                                                                                                                                                      "December 18",
+                                                                                                                              "Beginning of the Pleistocene ice age",                                                                                                                                                             "2 Ma",                                                                                                                                          "10:10 p.m., December 31",
+                                                                                           "Oldest radiocarbon date from people living in Canada (British Columbia)",                                                                                                                                                          "13.8 ka",                                                                                                                                          "11:58 p.m., December 31",
+                                                                                                               "Earliest evidence of human activity in Saskatchewan",                                                                                                                                                          "11.5 ka",                                                                                                                          "48 seconds before midnight, December 31",
+                                                                                                            "The last of the glacial ice retreats from Saskatchewan",                                                                                                                                                             "6 ka",                                                                                                                          "41 seconds before midnight, December 31",
+                                                              "Hudson's Bay Company establishes a permanent settlement at Cumberland House in northern Saskatchewan",                                                                                                                                                    "243 years ago",                                                                                                                           "2 seconds before midnight, December 31",
+) %>% 
+  knitr::kable(
+    caption = "Some Important Dates Expressed As If All of Geological Time Were Condensed Into One Year. Source: Karla Panchuk (2017) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view original](https://opentextbc.ca/geology/chapter/1-6-geological-time/)."
+  )
+```
 
 ### Uniformitarianism
 
+__Uniformitarianism__ is the notion that the geological processes occurring on Earth today are the same ones that occurred in the past. This is an important idea because it means that observations we make today about geological processes can be used to interpret and understand the rock record. While this idea might not seem remarkable today, it was ground breaking and even controversial for its time. Many people who heard about it for the first time thought about the age of the Earth in thousands of years, but uniformitarianism required them to think on timescales almost too vast to comprehend. For some, this implied questioning their most deeply held religious beliefs.
 
-__Uniformitarianism__ is the notion that the geological processes occurring on Earth today are the same ones that occurred in the past.  This is an important idea because it means that observations we make today about geological processes can be used to interpret and understand the rock record.  While this idea might not seem remarkable today, it was ground breaking and even controversial for its time.  Many people who heard about it for the first time thought about the age of the Earth in thousands of years, but uniformitarianism required them to think on timescales almost too vast to comprehend.  For some, this implied questioning their most deeply held religious beliefs.
+The Scottish geologist James Hutton initially presented the idea in 1785^[Read James Hutton's abstract at http://bit.ly/1j6tIAN. Note that the typeface prints an "s" like an "f."]. Charles Lyell, also a Scottish geologist, paraphrased this idea as "the present is the key to the past" in his book_Principles of Geology_.^[The 7th edition of Charles Lyell's_Principles of Geology_ (1847) can be found at http://bit.ly/1l3T6Zh] This is how it is often described today.
 
-The Scottish geologist James Hutton initially presented the idea in 1785[footnote]Read James Hutton's abstract at http://bit.ly/1j6tIAN. Note that the typeface prints an "s" like an "f." [/footnote].  Charles Lyell, also a Scottish geologist, paraphrased this idea as "the present is the key to the past" in his book _Principles of Geology_.[footnote]The 7th edition of Charles Lyell's _Principles of Geology_ (1847) can be found at http://bit.ly/1l3T6Zh[/footnote]  This is how it is often described today.
+To be clear, "the present is the key to the past" can be viewed as an oversimplification. Not all geological processes occurring today occurred at all times in the geological past. For example, some important chemical reactions that happened on Earth's surface today require abundant oxygen in the atmosphere, and could not have occurred prior to Earth developing an oxygen-rich atmosphere. Conversely, there was a time in Earth's history when continents as we know them hadn't yet developed. Some events, such as devastating impacts by objects from space, have never been witnessed on the same scale by humans. We must be cognizant of the fact that conditions were different at different times in Earth's history, and take that into account when interpreting the rock record.
 
-To be clear, "the present is the key to the past" can be viewed as an oversimplification. Not all geological processes occurring today occurred at all times in the geological past.  For example, some important chemical reactions that happened on Earth's surface today require abundant oxygen in the atmosphere, and could not have occurred prior to Earth developing an oxygen-rich atmosphere.  Conversely, there was a time in Earth's history when continents as we know them hadn't yet developed. Some events, such as devastating impacts by objects from space, have never been witnessed on the same scale by humans. We must be cognizant of the fact that conditions were different at different times in Earth's history, and take that into account when interpreting the rock record.
-
-Despite the different past conditions on Earth as a whole, there still exist environments today where some of these conditions are present. These environments are like little samples of what Earth used to be like.  This means we can still use present conditions to inform us about the past, but we have to think carefully about ways that such environments today differ from the ancient environments that no longer exist.
+Despite the different past conditions on Earth as a whole, there still exist environments today where some of these conditions are present. These environments are like little samples of what Earth used to be like. This means we can still use present conditions to inform us about the past, but we have to think carefully about ways that such environments today differ from the ancient environments that no longer exist.
 
 ### Plate Tectonics
 
-
-It is only within the last 50 years or so that we have been able to answer questions like, "How did that mountain range get there?" and "Why do earthquakes happen where they do?"  The theory of __plate tectonics__- the idea that Earth's surface is broken into large moving fragments, called __plates__- profoundly changed our perspective on how the Earth works.  Figure \@ref(fig:figure-1-8) shows Earth's 15 largest tectonic plates, along with arrows indicating the plates' direction of motion, and how fast they go.  (Longer arrows mean faster motion.)  There are many more plates on Earth that are too small to show conveniently in Figure \@ref(fig:figure-1-8). A more detailed map of Earth's tectonic plates can be found at [here](https://openpress.usask.ca/app/uploads/sites/29/2017/05/Plate_tectonics_map.gif).
+It is only within the last 50 years or so that we have been able to answer questions like, "How did that mountain range get there?" and "Why do earthquakes happen where they do?" The theory of __plate tectonics__- the idea that Earth's surface is broken into large moving fragments, called __plates__- profoundly changed our perspective on how the Earth works. Figure \@ref(fig:figure-1-8) shows Earth's 15 largest tectonic plates, along with arrows indicating the plates' direction of motion, and how fast they go. (Longer arrows mean faster motion.) There are many more plates on Earth that are too small to show conveniently in Figure \@ref(fig:figure-1-8). A more detailed map of Earth's tectonic plates can be found at [here](https://openpress.usask.ca/app/uploads/sites/29/2017/05/Plate_tectonics_map.gif).
 
 
 ```{r figure-1-8, fig.cap='Earth\'s fifteen largest tectonic plates. Black arrows show the direction of plate motions. The length of the arrow indicates velocity. Red arrows show how plates move relative to each other. _Source: Steven Earle (2015) CC BY 4.0. [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image043_2.png) Modified after U. S. Geological Survey (1996) Public Domain [view original](https://pubs.usgs.gov/gip/dynamic/slabs.html)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Plates_map_small.png")
 ```
 
+Prior to plate tectonics, we made observations but could only guess at mechanisms. It was like watching the hands on a clock and trying to guess what moves them. After plate tectonics it was like being able to open the clock and not only watch the gears turn, but realize for the first time that there are such things as gears. Plate tectonics not only explains why things have happened, but also allows us to predict what might happen in the future.
 
-Prior to plate tectonics, we made observations but could only guess at mechanisms.  It was like watching the hands on a clock and trying to guess what moves them.  After plate tectonics it was like being able to open the clock and not only watch the gears turn, but realize for the first time that there are such things as gears. Plate tectonics not only explains why things have happened, but also allows us to predict what might happen in the future.
-
-Plate tectonics is covered in more detail later, however the key point is that Earth's outer layer consists of rigid plates that are constantly interacting with each other as they move around the Earth.  The boundaries of plates move away from each other in some places, collide in others, and sometimes just slide past each other (illustrated by the red arrows in Figure \@ref(fig:figure-1-8)). The plates can move because they are floating on a layer of weak rock that deforms as the plates travel, much the same way the filling in a peanut butter and jelly sandwich allows you to slide the top layer of bread across the bottom layer.
+Plate tectonics is covered in more detail later, however the key point is that Earth's outer layer consists of rigid plates that are constantly interacting with each other as they move around the Earth. The boundaries of plates move away from each other in some places, collide in others, and sometimes just slide past each other (illustrated by the red arrows in Figure \@ref(fig:figure-1-8)). The plates can move because they are floating on a layer of weak rock that deforms as the plates travel, much the same way the filling in a peanut butter and jelly sandwich allows you to slide the top layer of bread across the bottom layer.
 
 Whether the plates move away from each other, collide, or just slide past each other determines things like the locations of mountain belts and volcanoes, where earthquakes happen, and the shapes and sizes of oceans and continents.
-
-###### References
-
-
-Cottrell, M. (2006) _History of Saskatchewan_. Retrieved 26 August 2017. [Visit the website](http://esask.uregina.ca/entry/history_of_saskatchewan.html)
-
 
 ## Summary
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 1.1 What is Geology?
-
+### What is Geology?
 
 Geology is the study of Earth. It is an integrated science that involves the application of many of the other sciences. Geologists must take into account the fact that the geological features we see today may have formed thousands, millions, or even billions of years ago, and over very long time spans.
 
-##### 1.2 Why Study Earth?
-
+### Why Study Earth?
 
 Geologists study Earth out of curiosity and for other, more practical reasons, including understanding the evolution of life on Earth; searching for resources; understanding risks from geological events such as earthquakes, volcanoes, and slope failures; and documenting past environmental and climate changes so that we can understand how human activities are affecting Earth.
 
-##### 1.3 What Do Geologists Do?
-
+### What Do Geologists Do?
 
 Geologists work in the resource industry, and in efforts to protect the environment. Geologists work to minimize the risks from geological hazards (e.g., earthquakes), and to help the public understand those risks. Geologists investigate Earth materials in the field, in and in the lab.
 
-##### 1.4 We Study Earth Using the Scientific Method
-
+### We Study Earth Using the Scientific Method
 
 Scientific inquiry requires a careful process of making a hypothesis and then testing it. If a hypothesis doesn't pass the test, it's time for a new one. A theory is a hypothesis that has been tested repeatedly and never failed a test. A law is a description of a natural process.
 
-##### 1.5 Three Big Ideas: Geological Time, Uniformitarianism, and Plate Tectonics
-
+### Three Big Ideas: Geological Time, Uniformitarianism, and Plate Tectonics
 
 _Geological time_: Earth is approximately 4,570,000,000 years old; that is, 4.57 billion years or 4.57 Ga or 4,570 Ma. It’s such a huge amount of time that even extremely slow geological processes can have an enormous impact.
 
-_Uniformitarianism_: Processes that occur today also occurred in the geologic past.  We can use our observations of the present to understand the processes that shaped the Earth throughout its history.
+_Uniformitarianism_: Processes that occur today also occurred in the geologic past. We can use our observations of the present to understand the processes that shaped the Earth throughout its history.
 
-_Plate tectonics_: Earth's surface is broken into plates that move and interact with each other.  The interactions between these plates are key for understanding the mechanisms behind geologic processes.
+_Plate tectonics_: Earth's surface is broken into plates that move and interact with each other. The interactions between these plates are key for understanding the mechanisms behind geologic processes.
 
-#### Review Questions
+### Review Questions
 
-
-<ol>
- 	<li>How does the element of time make geology different from the other sciences, such as chemistry and physics?</li>
- 	<li>List three ways in which geologists can contribute to society.</li>
- 	<li>The following dates are written with the abbreviations Ga, Ma, and ka. Express the dates in years. (For example, 2.3 Ma = 2,300,000 years)
-<ol>
- 	<li>2.75 ka</li>
- 	<li>0.93 Ga</li>
- 	<li>4.2 Ma</li>
- 	<li>0.2 ka.</li>
-</ol>
-</li>
- 	<li>Dinosaurs first appear in the geological record in rocks from about 215 Ma and then most became extinct at 65 Ma. What percentage of geological time does this represent?</li>
- 	<li>If sediments typically accumulate at a rate of 1 mm/year, what thickness of sediment could accumulate over a period of 30 million years?</li>
- 	<li>Does uniformitarianism mean that conditions on Earth are uniform, and never change?</li>
- 	<li>Summarize the main idea behind plate tectonics.</li>
-</ol>
-
+1. How does the element of time make geology different from the other sciences, such as chemistry and physics?
+1. List three ways in which geologists can contribute to society.
+1. The following dates are written with the abbreviations Ga, Ma, and ka. Express the dates in years. (For example, 2.3 Ma = 2,300,000 years)
+   	a. 2.75 ka
+   	a. 0.93 Ga
+   	a. 4.2 Ma
+   	a. 0.2 ka
+1. Dinosaurs first appear in the geological record in rocks from about 215 Ma and then most became extinct at 65 Ma. What percentage of geological time does this represent?
+1. If sediments typically accumulate at a rate of 1 mm/year, what thickness of sediment could accumulate over a period of 30 million years?
+1. Does uniformitarianism mean that conditions on Earth are uniform, and never change?
+1. Summarize the main idea behind plate tectonics.
 
 ## Answers to Chapter  Review Questions
 
-<ol>
- 	<li>Geology requires that we consider vast amounts of time, and think about the effects that accumulate over thousands, millions, or even billions of years.</li>
- 	<li>There are many ways that geologists contribute. Geologists provide information to reduce the risk of harm from hazards such as earthquakes, volcanoes, and slope failures; they play a critical role in the discovery of important resources; they contribute to our understanding of life and its evolution through paleontological studies; and they play a leading role in the investigation of climate change, past and present and its implications.</li>
- 	<li>Ages in years
-<ol>
- 	<li>2.75 ka = 2,750 years</li>
- 	<li>0.93 Ga = 930,000,000 years</li>
- 	<li>14.2 Ma = 14,200,000 years</li>
- 	<li>0.2 ka = 200 years.</li>
-</ol>
-</li>
- 	<li>215 - 65 = 150 Ma. Since the age of the Earth is 4570 Ma, this represents 150/4,570 = 0.033 or 3.3% of geological time.</li>
- 	<li>At 1 mm/y 30,000,000 mm of sediment would accumulate over that 30 million years. This is equivalent to 30,000 m or 30 km. Few sequences of sedimentary rock are even close to that thickness because most sediments accumulate at much lower rates, more like 0.1 mm/y. Also, over time the sediments are compressed.</li>
- 	<li>No. Uniformitarianism means that we can use the processes we observe today to help us understand what happened in the past.</li>
- 	<li>Plate tectonics is the idea that Earth's outer layer is broken into rigid plates. The plates move around and interact with each other along their margins.</li>
-</ol>
+1. Geology requires that we consider vast amounts of time, and think about the effects that accumulate over thousands, millions, or even billions of years.
+1. There are many ways that geologists contribute. Geologists provide information to reduce the risk of harm from hazards such as earthquakes, volcanoes, and slope failures; they play a critical role in the discovery of important resources; they contribute to our understanding of life and its evolution through paleontological studies; and they play a leading role in the investigation of climate change, past and present and its implications.
+1. Ages in years:
+    a. 2.75 ka = 2,750 years
+    a. 0.93 Ga = 930,000,000 years
+    a. 14.2 Ma = 14,200,000 years
+    a. 0.2 ka = 200 years
+1. 215 - 65 = 150 Ma. Since the age of the Earth is 4570 Ma, this represents 150/4,570 = 0.033 or 3.3% of geological time.
+1. At 1 mm/y 30,000,000 mm of sediment would accumulate over that 30 million years. This is equivalent to 30,000 m or 30 km. Few sequences of sedimentary rock are even close to that thickness because most sediments accumulate at much lower rates, more like 0.1 mm/y. Also, over time the sediments are compressed.
+1. No. Uniformitarianism means that we can use the processes we observe today to help us understand what happened in the past.
+1. Plate tectonics is the idea that Earth's outer layer is broken into rigid plates. The plates move around and interact with each other along their margins.
+
+## References
+
+Cottrell, M. (2006) _History of Saskatchewan_. Retrieved 26 August 2017. [Visit the website](http://esask.uregina.ca/entry/history_of_saskatchewan.html)
+
+Victoria University Library (2009) _A. P. Coleman Exhibition_. Retrieved 25 August 2017. [Visit the website](http://library.vicu.utoronto.ca/apcoleman/index.htm)

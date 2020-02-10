@@ -11,7 +11,9 @@ description: 'Adapted from "Physical Geology" written by Steven Earle for the BC
 ---
 
 ```{r setup, include=FALSE}
-# set some default chumk options
+library(tidyverse)
+
+# set some default chunk options
 knitr::opts_chunk$set(echo = FALSE)
 
 # automatically create a bib database for R packages
@@ -28,15 +30,11 @@ _Physical Geology_ is a comprehensive introductory text on the physical aspects 
 
 Unless otherwise noted, this book is released under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/) also known as a CC BY-NC-SA 4.0 license. This means you are free to copy, redistribute, remix, transform, and build upon this book, as long as you share derivative materials using a CC BY-NC-SA 4.0 license. Under this license, anyone who redistributes this textbook can do so for free providing they properly attribute the book as follows:
 
-```{block, type='textbox'}
-[Physical Geology, First University of Saskatchewan Edition](https://physicalgeology.pressbooks.com) by Karla Panchuk used under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) international license.
-```
+> [Physical Geology, First University of Saskatchewan Edition](https://physicalgeology.pressbooks.com) by Karla Panchuk used under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) international license.
 
 Additionally, if you redistribute this textbook, in whole or in part, in either a print or digital format, then you must retain on every physical and/or electronic page the following attribution:
 
-```{block, type='textbox'}
-__https://openpress.usask.ca/physicalgeology/__
-```
+> __https://openpress.usask.ca/physicalgeology/__
 
 ## Acknowledgments
 
