@@ -8,3 +8,6 @@ _book
 _bookdown_files
 libs
 physicalgeology.Rmd
+physicalgeology.log
+physicalgeology.pdf
+physicalgeology.tex
