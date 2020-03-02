@@ -269,9 +269,11 @@ Chemical composition by mass for four rock samples are shown in the following ta
 
 #### Why Is There No Ultramafic Magma Anymore?
 
-<div>Refer back to Bowen's reaction series in Figure \@ref(fig:figure-7-6). Notice that on the far right-hand side of the diagram under "Rock Types," mafic, intermediate, and felsic magma compositions are listed. At the very top of the list is __ultramafic__. Ultramafic rocks have higher MgO than mafic rocks, and even less SiO~2~.</div>
+Refer back to Bowen's reaction series in Figure \@ref(fig:figure-7-6). Notice that on the far right-hand side of the diagram under "Rock Types," mafic, intermediate, and felsic magma compositions are listed. At the very top of the list is __ultramafic__. Ultramafic rocks have higher MgO than mafic rocks, and even less SiO~2~.
 
-<div>The vast majority of silicate rocks in Earth’s lithosphere are ultramafic rocks, because the mantle is composed of ultramafic rock. However, ultramafic magma is not encountered in modern volcanic environments, and ultramafic rocks are relatively rare at Earth’s surface. The reason is that although Earth was once hot enough to have ultramafic magma, it is no longer hot enough to melt ultramafic rocks. Ultramafic volcanic rocks—called _komatiites_—do exist, but with two notable exceptions, the youngest of these is 2 billion years old.^[The komatiites of the Song Da zone in northwestern Vietnam are 270 million years old, and those on Gorgona Island, Columbia are 89 million years old. Exactly how they formed is still a bit of a mystery. See Table 1 of arXiv:physics/0512118v2 [physics.geo-ph] for a compilation of komatiite ages with references.]</div>
+
+
+The vast majority of silicate rocks in Earth’s lithosphere are ultramafic rocks, because the mantle is composed of ultramafic rock. However, ultramafic magma is not encountered in modern volcanic environments, and ultramafic rocks are relatively rare at Earth’s surface. The reason is that although Earth was once hot enough to have ultramafic magma, it is no longer hot enough to melt ultramafic rocks. Ultramafic volcanic rocks—called _komatiites_—do exist, but with two notable exceptions, the youngest of these is 2 billion years old.^[The komatiites of the Song Da zone in northwestern Vietnam are 270 million years old, and those on Gorgona Island, Columbia are 89 million years old. Exactly how they formed is still a bit of a mystery. See Table 1 of arXiv:physics/0512118v2 [physics.geo-ph] for a compilation of komatiite ages with references.]
 
 #### Partial Melting Makes Magma That Is Richer in Silica
 

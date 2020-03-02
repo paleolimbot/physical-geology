@@ -287,11 +287,16 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 ```
 
 The French geologist Alfred Lacroix described what he saw as a "nuée ardente," or thick fiery cloud. The following first-hand account was published in _Cosmopolitan Magazine_ in July of 1902, attributed to Ellery S. Scott, a sailor on the steamship _Roraima_:
-<div>_"In idle interest, I turned my glass toward Mont Pelee. It was at that very moment that the whole top of the mountain seemed blown into the air. The sound that fol­lowed was deafening. A great mass of flames, seemingly a mile in diameter, with twisting giant wreaths of smoke, rolled thousands of feet into the air, and then overbalanced and came rolling down the seamed and cracked sides of the mountain. Foot hills were overflowed by the onrush­ing mass. It was not mere flame and smoke. It was molten lava, giant blocks of stone and a hail of smaller stones, with a mass of scalding mud intermingled._</div>
 
-<div>_For one brief moment I saw the city of St. Pierre before me. Then it was blotted out by the overwhelming flood. There was no time for the people to flee. They had not even time to pray.... I had called to Carpenter Benson to start the windlass, but before he could move, the "Roraima" rolled almost on her port beam-ends, and then as suddenly went to starboard. The funnel, masts and boats went by the board in an instant. The decks were swept clean. The hatches were staved in. The next instant a hail of fire and red-hot stones was upon the ship. Then came the scalding mud. The saloon was ablaze. The ship seemed doomed. Men were struck down all around me by flaming masses of lava. From bright sun­light the air became dense as midnight. The smoke that rolled down from the cra­ter's mouth had blotted the sun from our vision."_</div>
+_"In idle interest, I turned my glass toward Mont Pelee. It was at that very moment that the whole top of the mountain seemed blown into the air. The sound that fol­lowed was deafening. A great mass of flames, seemingly a mile in diameter, with twisting giant wreaths of smoke, rolled thousands of feet into the air, and then overbalanced and came rolling down the seamed and cracked sides of the mountain. Foot hills were overflowed by the onrush­ing mass. It was not mere flame and smoke. It was molten lava, giant blocks of stone and a hail of smaller stones, with a mass of scalding mud intermingled._
 
-<div>Scott's account vividly describes of the speed of the pyroclastic flow. In some cases, pyroclastic flows travel at speeds greater than 700 km/h. They are able to travel rapidly because they behave like a fluid, and can also ride on a cushion of hot gas. Scott says the city was "blotted out by a flood," yet the lower parts of buildings remained (Figure \@ref(fig:figure-11-29)), and human remains were found in streets and homes where they had fallen. The ruins of St. Pierre look as though the top of the city were shaved off, and that is effectively what happened as the pyroclastic flow rushed across it, buoyed by gas.</div>
+
+
+_For one brief moment I saw the city of St. Pierre before me. Then it was blotted out by the overwhelming flood. There was no time for the people to flee. They had not even time to pray.... I had called to Carpenter Benson to start the windlass, but before he could move, the "Roraima" rolled almost on her port beam-ends, and then as suddenly went to starboard. The funnel, masts and boats went by the board in an instant. The decks were swept clean. The hatches were staved in. The next instant a hail of fire and red-hot stones was upon the ship. Then came the scalding mud. The saloon was ablaze. The ship seemed doomed. Men were struck down all around me by flaming masses of lava. From bright sun­light the air became dense as midnight. The smoke that rolled down from the cra­ter's mouth had blotted the sun from our vision."_
+
+
+
+Scott's account vividly describes of the speed of the pyroclastic flow. In some cases, pyroclastic flows travel at speeds greater than 700 km/h. They are able to travel rapidly because they behave like a fluid, and can also ride on a cushion of hot gas. Scott says the city was "blotted out by a flood," yet the lower parts of buildings remained (Figure \@ref(fig:figure-11-29)), and human remains were found in streets and homes where they had fallen. The ruins of St. Pierre look as though the top of the city were shaved off, and that is effectively what happened as the pyroclastic flow rushed across it, buoyed by gas.
 
 <div>
 
@@ -301,7 +306,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 
 </div>
 
-<div>The vast majority of fatalities from the eruption were caused by the heat of pyroclastic flow. Examination of the ruins of St. Pierre revealed that glass had melted, but copper had not, putting the temperature at between 700 ºC and 1000 ºC (1292 ºF to 1832 ºF).</div>
+The vast majority of fatalities from the eruption were caused by the heat of pyroclastic flow. Examination of the ruins of St. Pierre revealed that glass had melted, but copper had not, putting the temperature at between 700 ºC and 1000 ºC (1292 ºF to 1832 ºF).
 
 ### Plinian Eruptions
 

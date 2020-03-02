@@ -217,7 +217,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 </div>
 <div>
 
-<div>BIFs formed before Earth's atmosphere was fully oxygenated. At that time, seawater contained abundant soluble ferrous iron (Fe^2+^). However, once cyanobacteria began releasing oxygen into the atmosphere as a byproduct of photosynthesis, the iron in the seawater reacted with the oxygen, turning it into insoluble ferric iron (Fe^3+^). The result was that iron oxide minerals precipitated and sank to the ocean floor. The prevalence of BIFs in rocks dating from 2400 to 1800 Ma reflects a time when free oxygen was being added to the atmosphere, but removed just as quickly by chemical reactions. After 1800 Ma, little dissolved iron was left in the oceans so no more BIFs formed.</div>
+BIFs formed before Earth's atmosphere was fully oxygenated. At that time, seawater contained abundant soluble ferrous iron (Fe^2+^). However, once cyanobacteria began releasing oxygen into the atmosphere as a byproduct of photosynthesis, the iron in the seawater reacted with the oxygen, turning it into insoluble ferric iron (Fe^3+^). The result was that iron oxide minerals precipitated and sank to the ocean floor. The prevalence of BIFs in rocks dating from 2400 to 1800 Ma reflects a time when free oxygen was being added to the atmosphere, but removed just as quickly by chemical reactions. After 1800 Ma, little dissolved iron was left in the oceans so no more BIFs formed.
 
 ### Evaporites
 
