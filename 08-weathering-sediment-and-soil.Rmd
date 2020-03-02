@@ -419,85 +419,63 @@ Tillage is also a factor in soil erosion, especially on slopes, because each tim
 
 ## Soils of Canada
 
-Until the 1950s, the classification of soils in Canada was based on the system used in the United States. However, it was long recognized that the U.S system did not apply well to many parts of Canada because of climate and environmental differences. The Canadian System of Soil Classification was first outlined in 1955 and has been refined and modified numerous times since then. There are 10 orders of soil recognized in Canada (Table 8.1), and you can explore the distribution of soils using Agriculture and Agri-Food Canada's interactive map (Figure \@ref(fig:figure-8-26)). See the resources section at the bottom of the page for additional sources of information on Canadian soils, including videos.
-<table class="shaded" style="height: 527px" border="1">
-<tbody>
-<tr style="height: 17px">
-<td class="shaded" style="width: 678.1px;height: 17px;text-align: left" colspan="3">__Table 8.1 Canadian Soil Classification System__<strong>
-</strong></td>
-</tr>
-<tr style="height: 18px">
-<td style="height: 18px;width: 99px;text-align: center">__Order__</td>
-<td style="height: 18px;width: 249px;text-align: center">__Brief Description__</td>
-<td style="height: 18px;width: 298px;text-align: center">__Environment__</td>
-</tr>
-<tr style="height: 18px">
-<td style="height: 18px;width: 678.1px" colspan="3"><strong>Forests
-</strong></td>
-</tr>
-<tr style="height: 18px">
-<td style="height: 18px;width: 99px">Podzolic</td>
-<td style="height: 18px;width: 249px">Well-developed A and B horizons</td>
-<td style="height: 18px;width: 298px">Coniferous forests throughout Canada</td>
-</tr>
-<tr style="height: 36px">
-<td style="height: 36px;width: 99px">Luvisolic</td>
-<td style="height: 36px;width: 249px">Clay-rich B horizon</td>
-<td style="height: 36px;width: 298px">Northern prairies and central BC, mostly on sedimentary rocks</td>
-</tr>
-<tr style="height: 55px">
-<td style="height: 55px;width: 99px">Brunisolic</td>
-<td style="height: 55px;width: 249px">Poorly developed or immature soil, that does not have the well-defined horizons of podsol or luvisol</td>
-<td style="height: 55px;width: 298px">Boreal-forest soils in the discontinuous permafrost areas of central and western Canada, and also in southern BC.</td>
-</tr>
-<tr style="height: 36px">
-<td style="height: 36px;width: 678.1px" colspan="3">__Grasslands__</td>
-</tr>
-<tr style="height: 55px">
-<td style="height: 55px;width: 99px">Chernozemic</td>
-<td style="height: 55px;width: 249px">High levels of organic matter and an A horizon at least 10 cm thick</td>
-<td style="height: 55px;width: 298px">Southern prairies and parts of BC’s southern interior, in areas that experience summer water deficits</td>
-</tr>
-<tr style="height: 36px">
-<td style="height: 36px;width: 99px">Solonetzic</td>
-<td style="height: 36px;width: 249px">A clay-rich B horizon, commonly with a salt-bearing C horizon</td>
-<td style="height: 36px;width: 298px">Southern prairies, in areas that experience water deficits during the summer</td>
-</tr>
-<tr style="height: 18px">
-<td style="width: 678.1px;height: 18px" colspan="3"><strong>Glacial and tundra
-</strong></td>
-</tr>
-<tr style="height: 36px">
-<td style="width: 99px;height: 36px">Cryosolic</td>
-<td style="width: 249px;height: 36px">Poorly developed soil, mostly C horizon</td>
-<td style="width: 298px;height: 36px">Permafrost areas of northern Canada</td>
-</tr>
-<tr style="height: 36px">
-<td style="width: 99px;height: 36px">Vertisolic</td>
-<td style="width: 249px;height: 36px">Clay-rich soils associated with glacial lake deposits</td>
-<td style="width: 298px;height: 36px">Southern prairies</td>
-</tr>
-<tr style="height: 39px">
-<td style="height: 39px;width: 678.1px" colspan="3"><strong>Other
-</strong></td>
-</tr>
-<tr style="height: 55px">
-<td style="height: 55px;width: 99px">Organic</td>
-<td style="height: 55px;width: 249px">Dominated by organic matter; mineral horizons are typically absent</td>
-<td style="height: 55px;width: 298px">Wetland areas, especially along the western edge of Hudson Bay, and in the area between the prairies and the boreal forest</td>
-</tr>
-<tr style="height: 36px">
-<td style="height: 36px;width: 99px">Regosolic</td>
-<td style="height: 36px;width: 249px">Does not have a B horizon (i.e., no accumulation of leached minerals)</td>
-<td style="height: 36px;width: 298px">Unstable sediments including steep slopes prone to landslides, shifting sand dunes, and floodplains where sediments are frequently moved by streams</td>
-</tr>
-<tr style="height: 18px">
-<td style="width: 99px;height: 18px">Gleysolic</td>
-<td style="width: 249px;height: 18px">Colour patterns related to the absence of oxygen</td>
-<td style="width: 298px;height: 18px">Water-saturated soils</td>
-</tr>
-</tbody>
-</table>
+Until the 1950s, the classification of soils in Canada was based on the system used in the United States. However, it was long recognized that the U.S system did not apply well to many parts of Canada because of climate and environmental differences. The Canadian System of Soil Classification was first outlined in 1955 and has been refined and modified numerous times since then. There are 10 orders of soil recognized in Canada (Table \@ref(tab:table-8-1)), and you can explore the distribution of soils using Agriculture and Agri-Food Canada's interactive map (Figure \@ref(fig:figure-8-26)). See the resources section at the bottom of the page for additional sources of information on Canadian soils, including videos.
+
+```{r table-8-1}
+tibble::tibble(
+  `Order` = c(
+    "__Forests__", 
+    "Podzolic", 
+    "Luvisolic",
+    "Brunisolic", 
+    "__Grasslands__", 
+    "Chernozemic",
+    "Solonetzic",
+    "Glacial and tundra", 
+    "Cryosolic", 
+    "Vertisolic", 
+    "__Other__", 
+    "Organic",
+    "Regosolic", 
+    "Gleysolic"
+  ),
+  `Brief Description` = c(
+    "",
+    "Well-developed A and B horizons",
+    "Clay-rich B horizon", 
+    "Poorly developed or immature soil, that does not have the well-defined horizons of podsol or luvisol",
+    "", 
+    "High levels of organic matter and an A horizon at least 10 cm thick",
+    "A clay-rich B horizon, commonly with a salt-bearing C horizon",
+    "Glacial and tundra", 
+    "Poorly developed soil, mostly C horizon",
+    "Clay-rich soils associated with glacial lake deposits", 
+    "",
+    "Dominated by organic matter; mineral horizons are typically absent",
+    "Does not have a B horizon (i.e., no accumulation of leached minerals)",
+    "Colour patterns related to the absence of oxygen"
+  ),
+  `Environment` = c(
+    "",
+    "Coniferous forests throughout Canada", 
+    "Northern prairies and central BC, mostly on sedimentary rocks",
+    "Boreal-forest soils in the discontinuous permafrost areas of central and western Canada, and also in southern BC.",
+    "", 
+    "Southern prairies and parts of BC’s southern interior, in areas that experience summer water deficits",
+    "Southern prairies, in areas that experience water deficits during the summer",
+    "Glacial and tundra", "Permafrost areas of northern Canada",
+    "Southern prairies", 
+    "", 
+    "Wetland areas, especially along the western edge of Hudson Bay, and in the area between the prairies and the boreal forest",
+    "Unstable sediments including steep slopes prone to landslides, shifting sand dunes, and floodplains where sediments are frequently moved by streams",
+    "Water-saturated soils"
+  )
+) %>% 
+  knitr::kable(
+    caption = "Canadian Soil Classification System"
+  )
+```
+
 
 ```{r figure-8-26, fig.cap='Distribution of soil orders in Canada. Click [here](http://www.agr.gc.ca/atlas/agpv?webmap-en=c225cc78d5b142d58eacefae91cc535b&amp;webmap-fr=ad0b6822a33e411683f99979a1167efa) to go to the interactive map. _Source: Agrifood and Agriculture Canada. Contains information licensed under the Open Government License - Canada. Click the image for terms of use.<br>_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/soil_map_interactive.png")
@@ -515,42 +493,17 @@ In the permafrost regions of the north, where glacial retreat was most recent, t
 
 ##### Exercise: Soils of Canada {-}
 
-Examine Figure \@ref(fig:figure-8-26) showing the distribution of soils in Canada, or use the interactive map by clicking on the figure. For each of the five soils types listed below, briefly describe the distribution. Explain the distribution based on what you know about the conditions under which the soil forms and the variations in climate and vegetation related to it.
+Examine Figure \@ref(fig:figure-8-26) showing the distribution of soils in Canada, or use the interactive map by clicking on the figure. For each of the five soils types listed below, briefly describe the distribution. Explain the reason for the distribution based on what you know about the conditions under which the soil forms and the variations in climate and vegetation related to it.
 
-<table border="1">
-<tbody>
-<tr>
-<td>__Soil type__</td>
-<td>__Describe the Distribution__</td>
-<td>__Explain the Reason for This Distribution __</td>
-</tr>
-<tr>
-<td>Chernozem</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Luvisol</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Podzol</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Brunisol</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Organic</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+- Chernozem
+
+- Luvisol
+
+- Podzol
+
+- Brunisol
+
+- Organic
 
 </div>
 
@@ -567,34 +520,13 @@ Carbon cycling on Earth operates on different timescales depending on the compon
 Over the longer term, geological processes drive the carbon cycle. Geological carbon-cycle processes operate very slowly, but they affect much more of Earth's carbon than the biological component. Carbon can move from the biological cycle to the geological cycle if it is buried in sedimentary rocks. The biological carbon could be fragments of plant material or organic molecules that are preserved as coal or in organic-rich shale. It could also be calcium carbonate body parts of marine organisms that are preserved in limestone.
 
 The geological component of the carbon cycle is shown in Figure \@ref(fig:figure-8-27) The various steps in the process (not necessarily in this order) are as follows:
-<table border="1">
-<tbody>
-<tr>
-<td>__a:__</td>
-<td>Organic matter from plants is stored in peat, coal, and permafrost for thousands to millions of years.</td>
-</tr>
-<tr>
-<td>__b:__</td>
-<td>Weathering of silicate minerals converts atmospheric carbon dioxide to dissolved bicarbonate, which is stored in the oceans for thousands to tens of thousands of years.</td>
-</tr>
-<tr>
-<td>__c:__</td>
-<td>Dissolved carbon is converted by marine organisms to calcite, which is stored in carbonate rocks for tens of millions to hundreds of millions of years.</td>
-</tr>
-<tr>
-<td>__d:__</td>
-<td>Organic carbon compounds are stored in sediments for tens to hundreds of millions of years; some end up in petroleum deposits.</td>
-</tr>
-<tr>
-<td>__e:__</td>
-<td>Carbon-bearing sediments are transferred to the mantle, where the carbon may be stored for tens of millions to billions of years.</td>
-</tr>
-<tr>
-<td>__f:__</td>
-<td>During volcanic eruptions, carbon dioxide is released back to the atmosphere, where it is stored for years to decades.</td>
-</tr>
-</tbody>
-</table>
+
+- Organic matter from plants is stored in peat, coal, and permafrost for thousands to millions of years.
+- Weathering of silicate minerals converts atmospheric carbon dioxide to dissolved bicarbonate, which is stored in the oceans for thousands to tens of thousands of years.
+- Dissolved carbon is converted by marine organisms to calcite, which is stored in carbonate rocks for tens of millions to hundreds of millions of years.
+- Organic carbon compounds are stored in sediments for tens to hundreds of millions of years; some end up in petroleum deposits.
+- Carbon-bearing sediments are transferred to the mantle, where the carbon may be stored for tens of millions to billions of years.
+- During volcanic eruptions, carbon dioxide is released back to the atmosphere, where it is stored for years to decades.
 
 ```{r figure-8-27, fig.cap='The geological component of the carbon cycle includes: (a) organic carbon in peat, coal and permafrost, (b) weathering of silicate minerals converts atmospheric carbon dioxide to dissolved bicarbonate, (c) marine organisms convert dissolved carbon to calcium carbonate, (d) carbon compounds are stored in sediments, (e) carbon-bearing sediments are transferred to longer-term storage in the mantle, and (f) carbon dioxide is released back to atmosphere during volcanic eruptions. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image057.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/image057-1024x323.png")

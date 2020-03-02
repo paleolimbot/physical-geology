@@ -253,7 +253,7 @@ tibble::tibble(
     "cools on Earth's surface", 
     "Extrusive/ volcanic",
     "Rapid: heat is exchanged with the atmosphere.", 
-    "__Aphanitic __(fine-grained): crystals are too small to see without magnification."
+    "__Aphanitic__ (fine-grained): crystals are too small to see without magnification."
   )
 ) %>% 
   knitr::kable(
