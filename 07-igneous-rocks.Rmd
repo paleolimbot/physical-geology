@@ -87,10 +87,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04
 
 </div>
 
-###### References
-
-Kushiro, I. (2007). Origins of magmas in subduction zones: a review of experimental studies. _Proceedings of the Japan Academy, Series B, Physical and Biological Sciences 83_(1), 1-15. _[Read the paper ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756732/)_
-
 ## Crystallization of Magma
 
 The minerals that make up igneous rocks crystallize (solidify, freeze) at a range of different temperatures. This explains why cooling magma can have some crystals within it and yet remain predominantly liquid. The sequence in which minerals crystallize from a magma as it cools is known as __Bowen's reaction series__ (Figure \@ref(fig:figure-7-6)).
@@ -489,10 +485,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 
 </div>
 
-###### References
-
-Bally, A. W. (1989). Plate 10. Selected distribution maps, rate of accumulation maps, and lithofacies maps—Phanerozoic, North America. In A. W. Bally &amp; A. R. Palmer (Eds.), _The Geology of North America—An Overview: Volume A_. Boulder: Geological Society of America.
-
 ## Summary
 
 The topics covered in this chapter can be summarized as follows:
@@ -559,3 +551,9 @@ Magma intrudes into country rock by pushing it aside or melting through it. Intr
 9. Batholiths (or stocks) intrude into existing rock by (a) melting through the country rock, or (b) causing the country rock to break and fall into the magma (stoping), or (c) pushing the country rock aside.
 
 10. Compositional layering forms when early-crystallizing minerals sink toward the bottom of a magma chamber. This can only happen in non-viscous magma. Mafic magma is typically much less viscous than felsic magma.
+
+## References
+
+Kushiro, I. (2007). Origins of magmas in subduction zones: a review of experimental studies. _Proceedings of the Japan Academy, Series B, Physical and Biological Sciences 83_(1), 1-15. _[Read the paper ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756732/)_
+
+Bally, A. W. (1989). Plate 10. Selected distribution maps, rate of accumulation maps, and lithofacies maps—Phanerozoic, North America. In A. W. Bally &amp; A. R. Palmer (Eds.), _The Geology of North America—An Overview: Volume A_. Boulder: Geological Society of America.

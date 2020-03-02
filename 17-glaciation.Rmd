@@ -365,15 +365,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 </div>
 
-###### References
-
-Hansen, J. E., and Sato, M. (2012). _Climate Sensitivity Estimated From Earth's Climate History_. [Read the paper](http://www.columbia.edu/~jeh1/mailings/2012/20120508_ClimateSensitivity.pdf)
-
-Lisiecki, L. E., and M. E. Raymo (2005). A Pliocene-Pleistocene stack of 57 globally distributed benthic d^18^O records. _Paleoceanography_, 20, PA1003. doi:10.1029/2004PA001071. [View PDF ](http://www.lorraine-lisiecki.com/LisieckiRaymo2005.pdf)
-<p class="tighten-line-height small-space-below">Zachos, J. C., Dickens, G. R., and Zeebe, R. E. (2008). An early Cenozoic perspective on greenhouse warming and carbon-cycle dynamics. _Nature 541_, 279-283. <abbr title="Digital Object Identifier">doi</abbr>:10.1038/nature06588</p>
-
-<div class="flex-box grid-12 mq480-kill-flex standard-space-below cleared"></div>
-
 ## Summary
 
 The topics covered in this chapter can be summarized as follows:
@@ -481,3 +472,11 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
     - Glaciofluvial sand and gravel: Bedded, some fine beds of sand, and some much coarser beds. Clasts are relatively well rounded.
     - Ablation till: Poorly sorted, pebbles to boulders, no layering, large angular clasts, no apparent structures.
     - Glaciofluvial sand: Sand- and silt-sized, well-sorted, bedded and cross-bedded.
+
+## References
+
+Hansen, J. E., and Sato, M. (2012). _Climate Sensitivity Estimated From Earth's Climate History_. [Read the paper](http://www.columbia.edu/~jeh1/mailings/2012/20120508_ClimateSensitivity.pdf)
+
+Lisiecki, L. E., and M. E. Raymo (2005). A Pliocene-Pleistocene stack of 57 globally distributed benthic d^18^O records. _Paleoceanography_, 20, PA1003. doi:10.1029/2004PA001071. [View PDF ](http://www.lorraine-lisiecki.com/LisieckiRaymo2005.pdf)
+
+Zachos, J. C., Dickens, G. R., and Zeebe, R. E. (2008). An early Cenozoic perspective on greenhouse warming and carbon-cycle dynamics. _Nature 541_, 279-283. doi:10.1038/nature06588

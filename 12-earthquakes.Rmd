@@ -40,12 +40,6 @@ By studying earthquakes, geoscientists and engineers are making progress toward 
 <div>Lamontagne, M., Halchuk, S., Cassidy, J. F., and Rogers, G. C (2008) Significant Canadian Earthquakes of the Period 1600 - 2008. _Seismological Research Letters 79_(2), 211 - 223. doi: 10.1785/gssrl.79.2.211 [Read the paper](https://openpress.usask.ca/app/uploads/sites/29/2017/11/SRL2008_Lamontagne_etal.pdf)</div>
 Detailed description of the effects of the 1946 earthquake: Hodgson, E. A. (1946). British Columbia Earthquake, June 23, 1946. _The Journal of the Royal Astronomical Society of Canada XL_(8), 285 - 319. [Read the paper ](https://openpress.usask.ca/app/uploads/sites/29/2017/11/1946JRASC__40__285H.pdf)
 
-###### References
-
-Milne, W. G. (1955). Seismology in British Columbia. _The Journal of the Royal Astronomical Society of Canada XLIX_(4), 141 - 150. [Read the paper](https://openpress.usask.ca/app/uploads/sites/29/2017/11/1955JRASC__49__141M.pdf)
-
-Ministry for Culture and Heritage (2017). Christchurch earthquake kills 185. [Visit website](https://nzhistory.govt.nz/page/christchurch-earthquake-kills-185)
-
 ## What is an Earthquake?
 
 ### Earthquake Shaking Comes from Elastic Deformation
@@ -115,10 +109,6 @@ Since 2003, ETS processes have also been observed in subduction zones in Mexico 
 ###### Additional Resources
 
 [IRIS Teachable Moment slides for the October 2012 Haida Gwaii earthquake ](https://openpress.usask.ca/app/uploads/sites/29/2017/11/121028queencharlotte.pdf)
-
-###### References
-
-Wang, K., Jiangheng, H., Schulzeck, F., Hyndman, R. D., and Riedel, M. (2015). Thermal Condition of the 27 October 2012 Mw 7.8 Haida Gwaii Subduction Earthquake at the Obliquely Convergent Queen Charlotte Margin. _Bulletin of the Seismological Society of America, 105_(2B), 1290–1300. doi: 10.1785/0120140183
 
 ## Measuring Earthquakes
 
@@ -273,10 +263,6 @@ Intensity estimates are important as a way to identify regions that are especial
 
 An example of this effect is the 1985 M8 earthquake that struck the Michoacán region of western Mexico, southwest of Mexico City. There was relatively little damage near the epicentre, but 350 km away in heavily populated Mexico City there was tremendous damage and approximately 5,000 deaths. The reason is that Mexico City was built largely on the unconsolidated and water-saturated sediment of former Lake Texcoco. These sediments resonate at a frequency of about two seconds, which was similar to the frequency of the body waves that reached the city. Consequently, the shaking was amplified. Survivors of the disaster recounted that the ground in some areas moved up and down by approximately 20 cm every two seconds for over two minutes. Damage was greatest to buildings between 5 and 15 storeys tall, because they also resonated at around two seconds, which amplified the shaking.
 
-###### References
-
-Ammon, C. J. (2001). Earthquake Size [Visit website](http://eqseis.geosc.psu.edu/~cammon/HTML/Classes/IntroQuakes/Notes/earthquake_size.html)
-
 ## Earthquakes and Plate Tectonics
 
 Bands of earthquakes trace out plate boundaries (coloured dots, Figure \@ref(fig:figure-12-16)). The depths of earthquakes, and the width of the band, depend on the type of plate boundary. Mid-ocean ridges and transform margins have shallow earthquakes (usually less than 30 km deep), in narrow bands close to plate margins. Subduction zones have earthquakes at a range of depths, including some more than 700 km deep. Bands of earthquakes are wider along subduction zones because they take place throughout the subducting slab that extends beneath the opposing plate. Wide swaths of scattered earthquakes may correspond to continent-continent collision zones, such as between the Eurasian plate and the African, Arabian, and Indian plates to the south. Wide swaths of scattered earthquakes may also correspond to continental rift zones, such as in eastern Africa.
@@ -361,33 +347,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/12
 
 Intraplate earthquakes can be large earthquakes. The Charlevoix seismic zone has had five earthquakes of magnitudes between 6 and 7 since 1663. The New Madrid seismic zone in the Mississippi River Valley had a series of four earthquakes with magnitudes between 7 and 8 in the winter of 1811-1812. The population of the region was sparse at the time, but today there are major cities in the New Madrid seismic zone, including Memphis, Tennessee, and St. Louis, Missouri.
 
-###### References
-
-<header class="article__header">
-<div class="highwire-cite-title">Bao, X., and Eaton, D. W. (2016). Fault activation by hydraulic fracturing in western Canada. _Science 354_(6318), 1406-1409. doi: 10.1126/science.aag2583</div>
-</header>Buck, W. R., Lavier, L. L., &amp; Poliakov, A. N. B. (2005). Modes of faulting at mid-ocean ridges. _Nature 434_(7034), 719-23. <abbr title="Digital Object Identifier">doi</abbr>: 10.1038/nature03358
-
-Coastal and Marine Geology Program, U. S. Geological Survey (n.d.). Lake Baikal - A Touchstone for Global Change and Rift Studies. [Visit website](https://pubs.usgs.gov/fs/baikal/)
-
-DeMets, C., Gordon, R. G., &amp; Argus, D. F. (2010). Geologically current plate motions. _Geophysical Journal International 181_, 1-80. doi: 10.1111/j.1365-246X.2009.04491.x
-
-Earthquakes Canada, Natural Resources Canada (2016) Earthquake zones in Eastern Canada [Visit website](http://www.seismescanada.rncan.gc.ca/zones/eastcan-en.php)
-<div>Gendzwill, D. J., Horner, R. B., &amp; Hasegawa, H. S. (1982). Induced earthquakes at a potash mine near Saskatoon, Canada. _Canadian Journal of Earth Science 19_, 466-475. doi: 10.1139/e82-038</div>
-<div></div>
-<div>Green, H. W. II, Chen, W.-P., &amp; Brudzinski, M. R. (2010). Seismic evidence of negligible water carried below 400-km depth in subducting lithosphere. _Nature 467,_ 828-830. doi:10.1038/nature09401<em>
-</em></div>
-<div></div>
-<div>Hongyu, Y., Liu, Y., Harrington, R. M., &amp; Lamontagne, M. (2016). Seismicity along St. Lawrence Paleorift Faults Overprinted by a Meteorite Impact Structure in Charlevoix, Québec, Eastern Canada. _Bulletin of the Seismological Society of America 106_(6), 2663-2673. doi:  https://doi.org/10.1785/0120160036</div>
-<div></div>
-<div>Ives, J. D., Messerli, B. (1989). _The Himalayan Dilemma: Reconciling development and conservation._ New York: Routledge. [Access this book](http://www.nzdl.org/gsdlmod?e=d-00000-00---off-0hdl--00-0----0-10-0---0---0direct-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-10&amp;cl=CL1.8&amp;d=HASH0113acdd201c910d3d4d9d9d.5.2&amp;gt=1) courtesy of the [New Zealand Digital Library, University of Waikato](http://www.nzdl.org/gsdlmod?a=p&amp;p=home&amp;l=en&amp;w=utf-8)</div>
-<div></div>
-<div>Myhill, R., &amp; Warren, L. M. (2012). Fault plane orientations of deep earthquakes in the Izu-Bonin-Marianas subduction zone. _Journal of Geophysical Research 117, _B06307. doi:10.1029/2011JB009047</div>
-<div></div>
-<div>Nishikawa, T., &amp; Ide, S. (2015). Background seismicity rate at subduction zones linked to slab-bending-related hydration. _Geophysical Research Letters 42, _7081-7089. doi: 10.1002/2015GL064578</div>
-<div></div>
-<div>Sloan, R. A., Jackson, J. A., McKenzie, D., &amp; Priestley, K. (2011). Earthquake depth distributions in central Asia, and their relations with lithosphere thickness, shortening and extension. _Geophysics Journal International 185, _1-29. doi: 10.1111/j.1365-246X.2010.04882.x</div>
-<div></div>
-
 ## The Impacts of Earthquakes
 
 Earthquakes can have direct impacts, such as structural damage to buildings from shaking, and secondary impacts, such as triggering landslides, fires, and tsunami. The types and extent of impacts will depend on local conditions where the earthquake strikes. The geological materials in the area matter, as does the type of terrain, and whether the region is near the coast or not. The extent of impact and type of damage will depend on whether the area is predominantly urban or rural, densely or sparsely populated, highly developed or underdeveloped. It will depend on whether the infrastructure has been designed to withstand shaking.
@@ -470,14 +429,6 @@ Tsunami can have an impact across an entire ocean basin. They spread across the 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/tsunami-1024x779.png")
 ```
 
-###### References
-
-Earthquakes Canada, Natural Resources Canada (2016). The M9 Cascadia Megathrust Earthquake of January 26, 1700. [Visit website](http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/17000126-en.php)
-
-University Corporation for Atmospheric Research (2010). Propagation. _Tsunamis. _[Visit website](http://www.torbenespersen.dk/Publish/tsunami/print_4.htm#page_1.1.2)
-
-U. S. Geological Survey (2014). Indian Ocean Tsunami Remembered — Scientists reflect on the 2004 Indian Ocean that killed thousands. [Visit website](https://www2.usgs.gov/blogs/features/usgs_top_story/indian-ocean-tsunami-remembered-scientists-reflect-on-the-2004-indian-ocean-that-killed-thousands/)
-
 ## Forecasting Earthquakes and Minimizing Impacts
 
 It has long been a dream of seismologists, geologists, and public safety officials to be able to accurately predict the location, magnitude, and timing of earthquakes on time scales that would be useful for minimizing danger to the public and damage to infrastructure (e.g., weeks, days, hours). Many methods of prediction that have been explored. These include using observations of warning foreshocks, changes in magnetic fields, episodic tremor and slip, changing groundwater levels, strange animal behaviour, patterns in the timing between earthquakes, and how stress is transferred after a rupture. So far, none of these has provided a reliable method. Although there are some reports of successful earthquake predictions, they are rare, and many are surrounded by doubtful circumstances.
@@ -513,15 +464,6 @@ The program in British Columbia illustrates a challenge with seismic upgrades of
 ### Earthquake Preparedness
 
 Earthquake preparedness involves the formulation of public emergency plans, including escape routes, medical facilities, shelters, and food and water supplies. It also includes personal planning, such as emergency supplies (food, water, shelter, and warmth), escape routes from houses and offices, and communication strategies (with a focus on ones that don’t involve the cellular network).
-
-###### References
-
-Finn, W. D. L., &amp; Dexter, A. (2012). Risk Management Plan for School Seismic Mitigation Program. [View report](https://www2.gov.bc.ca/assets/gov/education/administration/resource-management/capital-planning/risk_management_plan_school_seismic_mitigation_program_2012.pdf)
-
-Province of British Columbia (n.d.). Seismic Mitigation Program. [Visit website](https://www2.gov.bc.ca/gov/content/education-training/administration/resource-management/capital-planning/seismic-mitigation-program)
-
-Province of British Columbia (2017). Seismic Mitigation Program Progress Report. [View report](https://www2.gov.bc.ca/assets/gov/education/administration/resource-management/capital-planning/seismic-mitigation/progress_report.pdf)
-<div></div>
 
 ## Summary
 
@@ -608,3 +550,51 @@ b) The plate to the right of the chain of earthquakes is the subducting plate. T
 12. We should know about the history of past large earthquakes, the typical locations of small earthquakes, the types of geological materials beneath the surface (especially soft water-saturated sediments), the types of infrastructure that is present, and the various ways that people can be evacuated from an area or assistance can be brought in.
 
 13. Forecasting involves estimating the risk of an earthquake happening in a region within a period of time. Prediction involves stating that an earthquake is likely to happen at a certain location on a specific day or month or year in the future. With our current state of knowledge of earthquakes, prediction is not possible.
+
+## References
+
+Milne, W. G. (1955). Seismology in British Columbia. _The Journal of the Royal Astronomical Society of Canada XLIX_(4), 141 - 150. [Read the paper](https://openpress.usask.ca/app/uploads/sites/29/2017/11/1955JRASC__49__141M.pdf)
+
+Ministry for Culture and Heritage (2017). Christchurch earthquake kills 185. [Visit website](https://nzhistory.govt.nz/page/christchurch-earthquake-kills-185)
+
+Wang, K., Jiangheng, H., Schulzeck, F., Hyndman, R. D., and Riedel, M. (2015). Thermal Condition of the 27 October 2012 Mw 7.8 Haida Gwaii Subduction Earthquake at the Obliquely Convergent Queen Charlotte Margin. _Bulletin of the Seismological Society of America, 105_(2B), 1290–1300. doi: 10.1785/0120140183
+
+Ammon, C. J. (2001). Earthquake Size [Visit website](http://eqseis.geosc.psu.edu/~cammon/HTML/Classes/IntroQuakes/Notes/earthquake_size.html)
+
+###### References
+
+Bao, X., and Eaton, D. W. (2016). Fault activation by hydraulic fracturing in western Canada. _Science 354_(6318), 1406-1409. doi: 10.1126/science.aag2583
+
+Buck, W. R., Lavier, L. L., &amp; Poliakov, A. N. B. (2005). Modes of faulting at mid-ocean ridges. _Nature 434_(7034), 719-23. doi: 10.1038/nature03358
+
+Coastal and Marine Geology Program, U. S. Geological Survey (n.d.). Lake Baikal - A Touchstone for Global Change and Rift Studies. [Visit website](https://pubs.usgs.gov/fs/baikal/)
+
+DeMets, C., Gordon, R. G., &amp; Argus, D. F. (2010). Geologically current plate motions. _Geophysical Journal International 181_, 1-80. doi: 10.1111/j.1365-246X.2009.04491.x
+
+Earthquakes Canada, Natural Resources Canada (2016) Earthquake zones in Eastern Canada [Visit website](http://www.seismescanada.rncan.gc.ca/zones/eastcan-en.php)
+
+Gendzwill, D. J., Horner, R. B., &amp; Hasegawa, H. S. (1982). Induced earthquakes at a potash mine near Saskatoon, Canada. _Canadian Journal of Earth Science 19_, 466-475. doi: 10.1139/e82-038
+
+Green, H. W. II, Chen, W.-P., &amp; Brudzinski, M. R. (2010). Seismic evidence of negligible water carried below 400-km depth in subducting lithosphere. _Nature 467,_ 828-830. doi:10.1038/nature09401
+
+Hongyu, Y., Liu, Y., Harrington, R. M., &amp; Lamontagne, M. (2016). Seismicity along St. Lawrence Paleorift Faults Overprinted by a Meteorite Impact Structure in Charlevoix, Québec, Eastern Canada. _Bulletin of the Seismological Society of America 106_(6), 2663-2673. doi:  https://doi.org/10.1785/0120160036
+
+Ives, J. D., Messerli, B. (1989). _The Himalayan Dilemma: Reconciling development and conservation._ New York: Routledge. [Access this book](http://www.nzdl.org/gsdlmod?e=d-00000-00---off-0hdl--00-0----0-10-0---0---0direct-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-10&amp;cl=CL1.8&amp;d=HASH0113acdd201c910d3d4d9d9d.5.2&amp;gt=1) courtesy of the [New Zealand Digital Library, University of Waikato](http://www.nzdl.org/gsdlmod?a=p&amp;p=home&amp;l=en&amp;w=utf-8)
+
+Myhill, R., &amp; Warren, L. M. (2012). Fault plane orientations of deep earthquakes in the Izu-Bonin-Marianas subduction zone. _Journal of Geophysical Research 117, _B06307. doi:10.1029/2011JB009047
+
+Nishikawa, T., &amp; Ide, S. (2015). Background seismicity rate at subduction zones linked to slab-bending-related hydration. _Geophysical Research Letters 42, _7081-7089. doi: 10.1002/2015GL064578
+
+Sloan, R. A., Jackson, J. A., McKenzie, D., &amp; Priestley, K. (2011). Earthquake depth distributions in central Asia, and their relations with lithosphere thickness, shortening and extension. _Geophysics Journal International_ 185, 1-29. doi: 10.1111/j.1365-246X.2010.04882.x
+
+Earthquakes Canada, Natural Resources Canada (2016). The M9 Cascadia Megathrust Earthquake of January 26, 1700. [Visit website](http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/17000126-en.php)
+
+University Corporation for Atmospheric Research (2010). Propagation. _Tsunamis. _[Visit website](http://www.torbenespersen.dk/Publish/tsunami/print_4.htm#page_1.1.2)
+
+U. S. Geological Survey (2014). Indian Ocean Tsunami Remembered — Scientists reflect on the 2004 Indian Ocean that killed thousands. [Visit website](https://www2.usgs.gov/blogs/features/usgs_top_story/indian-ocean-tsunami-remembered-scientists-reflect-on-the-2004-indian-ocean-that-killed-thousands/)
+
+Finn, W. D. L., &amp; Dexter, A. (2012). Risk Management Plan for School Seismic Mitigation Program. [View report](https://www2.gov.bc.ca/assets/gov/education/administration/resource-management/capital-planning/risk_management_plan_school_seismic_mitigation_program_2012.pdf)
+
+Province of British Columbia (n.d.). Seismic Mitigation Program. [Visit website](https://www2.gov.bc.ca/gov/content/education-training/administration/resource-management/capital-planning/seismic-mitigation-program)
+
+Province of British Columbia (2017). Seismic Mitigation Program Progress Report. [View report](https://www2.gov.bc.ca/assets/gov/education/administration/resource-management/capital-planning/seismic-mitigation/progress_report.pdf)

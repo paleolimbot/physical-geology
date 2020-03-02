@@ -126,10 +126,6 @@ Many different geologic structures can form when stress is applied to rocks. Str
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/Structure_types.png")
 ```
 
-###### References
-
-Heard, H. C. (1960). Transition from Brittle Fracture to Ductile Flow in Solenhofen Limestone as a Function of Temperature, Confining Pressure, and Interstitial Fluid Pressure. In D. Griggs &amp; D. Handin (Eds.), _Rock Deformation (A Symposium): Geological Society of America Memoir 79_ (pp. 193-226). https://doi.org/10.1130/MEM79
-
 ## Folds
 
 __Folds__ are a type of ductile deformation. They form when rocks bend in response to stress. The sides of a fold are its __limbs__ (Figure \@ref(fig:figure-13-10)). The limbs meet in a region of curvature called the __hinge zone__. A fold's __axial surface__ is an imaginary surface that runs along the hinge zone and cuts the fold in half. The line that forms when the axial surface intersects another surface, such as the top of a bed, is called the __axial trace__. Axial traces are sometimes marked on geological maps to show the location of the fold's hinge zone.
@@ -199,10 +195,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 </div>
-
-###### References
-
-Symonds, W. S. (1872). _Records of the rocks; or, Notes on the geology, natural history, and antiquities of North &amp; South Wales, Devon, &amp; Cornwall_. London: J. Murray [Read the book](https://archive.org/details/recordsofrocksor00symoiala)
 
 ## Fractures, Joints, and Faults
 
@@ -468,3 +460,9 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```{r figure-13-42, fig.cap='Geological map with strike and dip symbols. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/09/rocks2.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/rocks2-e1442870488882.png")
 ```
+
+## References
+
+Heard, H. C. (1960). Transition from Brittle Fracture to Ductile Flow in Solenhofen Limestone as a Function of Temperature, Confining Pressure, and Interstitial Fluid Pressure. In D. Griggs &amp; D. Handin (Eds.), _Rock Deformation (A Symposium): Geological Society of America Memoir 79_ (pp. 193-226). https://doi.org/10.1130/MEM79
+
+Symonds, W. S. (1872). _Records of the rocks; or, Notes on the geology, natural history, and antiquities of North &amp; South Wales, Devon, &amp; Cornwall_. London: J. Murray [Read the book](https://archive.org/details/recordsofrocksor00symoiala)

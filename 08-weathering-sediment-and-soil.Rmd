@@ -213,10 +213,6 @@ For each of the following reactions, indicate which chemical weathering processâ
 </div>
 </div>
 
-###### References
-
-Bienfait, B., &amp; Ertl P. (2013). JSME: a free molecule editor in JavaScript. _Journal of Cheminformatics_ _5_(24). [https://doi.org/10.1186/1758-2946-5-24 ](https://doi.org/10.1186/1758-2946-5-24)
-
 ## Controls on Weathering Processes and Rates
 
 Weathering does not happen at the same rate in all environments. The same types of weathering do not happen in all environments. There are a variety of factors that determine what kinds of weathering will occur, and how fast the processes will proceed.
@@ -339,14 +335,6 @@ Sample B: Quartz and rock fragments from a glacial stream deposit near Osoyoos, 
 Sample C: Grains of olivine (green) and volcanic glass (black) from a beach on the big island of Hawai'i. The grains are approximately 1 mm in diameter.
 
 </div>
-</div>
-
-###### References
-
-<div>
-
-Reagan, M.K., Pearce, J.A., Petronotis, K., and the Expedition 352 Scientists, (2015). _Pr_<em class="Emphasis">oceedings of the International Ocean Discovery Program,</em> Volume 352, publications.iodp.org, doi:10.14379/iodp.proc.352.102.2015
-
 </div>
 
 ## Weathering and Soil Formation
@@ -715,3 +703,9 @@ The geological component of the carbon cycle affects Earth's climate over the lo
 12. Brunisolic soils are found in the northern half of Saskatchewan where forest cover is common.
 
 13. The weathering of feldspar to clay involves the conversion of atmospheric carbon dioxide to dissolved bicarbonate, which ends up in the ocean.
+
+## References
+
+Bienfait, B., &amp; Ertl P. (2013). JSME: a free molecule editor in JavaScript. _Journal of Cheminformatics_ _5_(24). [https://doi.org/10.1186/1758-2946-5-24 ](https://doi.org/10.1186/1758-2946-5-24)
+
+Reagan, M.K., Pearce, J.A., Petronotis, K., and the Expedition 352 Scientists, (2015). _Proceedings of the International Ocean Discovery Program_, Volume 352, publications.iodp.org, doi:10.14379/iodp.proc.352.102.2015

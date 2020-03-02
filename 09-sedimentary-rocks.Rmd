@@ -614,10 +614,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Comox-Formation.png")
 ```
 
-###### References
-
-Mustard, P. (1994). The Upper Cretaceous Nanaimo Group, Georgia Basin. In J. Monger (Ed.), Geology and Geological Hazards of the Vancouver Region. _Geological Survey of Canada Bulletin 481_, 27-95.
-
 ## Summary
 
 The topics covered in this chapter can be summarized as follows:
@@ -705,3 +701,8 @@ Sedimentary sequences are classified into groups, formations, and members so tha
 13. A formation is a series of beds that is distinct from other beds above and below it, and is thick enough to be shown on the geological maps that are widely used within the area in question.
 
 14. The Nanaimo Group was actively mined for coal for many decades. During that time the names were given to members and individual beds that were important to the coal miners.
+
+## References
+
+Mustard, P. (1994). The Upper Cretaceous Nanaimo Group, Georgia Basin. In J. Monger (Ed.), Geology and Geological Hazards of the Vancouver Region. _Geological Survey of Canada Bulletin 481_, 27-95.
+

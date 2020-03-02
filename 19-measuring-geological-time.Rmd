@@ -71,10 +71,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 
 Most of the boundaries between the periods and epochs of the geological timescale have been fixed on the basis of significant changes in the fossil record. For example, the boundary between the Cretaceous and the Paleogene coincides exactly with the extinction of the dinosaurs. This is not a coincidence. Many other types of organisms went extinct at this time, and the boundary between the two periods marks the division between sedimentary rocks containing Cretaceous organisms below, and those containing Paleogene organisms above.
 
-###### References
-
-Smith, W. (1815). A delineation of the strata of England and Wales with part of Scotland [map].
-
 ## Relative Dating Methods
 
 ### Relative Dating Principles
@@ -230,15 +226,6 @@ There are different techniques of correlation. The easiest technique is to corre
 Another technique, __biostratigraphic correlation__, involves correlation based on fossil content. This technique uses fossil assemblages (fossils of different organisms that occur together) to correlate rocks between regions. The best fossils to use are those that are widely spread, abundant, and lived for a relatively short period of time.
 
 Yet another technique, __chronostratigraphic correlation__, is to correlate rocks that have the same age. This can be the most difficult way to correlate, because rocks are generally diachronous. That is, if we trace a given rock unit across any appreciable lateral distance, the age of that rock actually changes. To give a familiar example, when you go to the beach, you know that the beach itself and the lake bottom in the shallow water is sandy. But if you swim out to deeper water and touch bottom, the bottom feels muddy. The difference in sediment type has to do with the energy of deposition, with the waves at and near the beach keeping any fine sediments away, only depositing them in deeper quieter waters. If you think of this example in time, you realize that the sand at and near the beach is being deposited at the same time as the mud in deeper water. But if lake levels drop, the beach sands will slowly migrate outwards and cover some of the deeper water muds. If lake levels rise, the deeper water muds will slowly migrate landwards and cover some of the shallower water sands. This is an example of __Walther's Law__, which states that sedimentary rocks that we see one on top of each other in the rock record actually formed adjacent to one another at the time of deposition. In order to correlate rock units in time, we must target marker beds that formed instantaneously. An example of such would be an ash layer from a nearby volcano that erupted and blanketed an entire region in ash. But such marker beds are usually rare to absent, making such correlation extremely difficult.
-<div>
-
-###### References
-
-Harries, P.J., Kauffman, E.G., Crampton, J.S. (Redacteurs), Bengtson, P., Cech, S., Crame, J.A., Dhondt, A.V., Ernst, G., Hilbrecht, H., Lopez, Mortimore, G.R., Tröger, K.-A., Walaszcyk, I., &amp; Wood, C.J. (1996). Mitteilungen aus dem Geologisch - Paläontologischen Museum der Universität Hamburg, _77_, 641-671.[ Full text](http://www.fuhrmann-hilbrecht.de/Heinz/geology/InoIntro/InoIntro.html)
-
-Scott, R. (2014). A Cretaceous chronostratigraphic database: construction and applications, _Carnets de Géologie,_ _14_(2), 15-37. [Full text](http://paleopolis.rediris.es/cg/1402/)
-
-</div>
 
 ## Isotopic Dating Methods
 
@@ -324,14 +311,8 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/decay-curve.png")
 ```
 
-###### [h5p id="2"]
-
 </div>
 </div>
-
-###### References
-
-Clague, J. (1976). Quadra Sand and its relation to late Wisconsin glaciation of southeast British Columbia. _Canadian Journal of Earth Sciences_, _13_, 803-815.
 
 ## Other Dating Methods
 
@@ -390,10 +371,6 @@ How old is a rock that is limited to 2.6 to 3.2 Ma by fossils, and which has rev
 </div>
 </div>
 
-###### References
-
-Yamaguchi, D.K., Atwater, B.F., Bunker, D.E., Benson, B.E., &amp; Reid, M. S. (1997). Tree-ring dating the 1700 Cascadia earthquake. _Nature_, _389_, 922 - 923.
-
 ## Understanding Geological Time
 
 It is one thing to know the facts about geological time — how long it is, how we measure it, how we divide it into smaller time intervals, and what we call the various periods and epochs — but it is quite another to really understand geological time. The problem is that our lives are short and our memories are even shorter. Our experiences span only a few decades, so we really don’t have a way of knowing what 11,700 years means. What’s more, it is hard for us to understand how 11,700 years differs from 65.5 Ma, or even from 1.8 Ga. It is not that we cannot comprehend what the numbers mean, it is that we cannot really appreciate how much time is involved.
@@ -419,10 +396,6 @@ Finally, go to the Foundation for Global Community’s [Walk through Time websit
 
 </div>
 </div>
-
-###### References
-
-NASA Goddard Institute for Space Studies (n.d.). _GLOBAL Station Temperature Index in 0.01 degrees Celsius base period: 1951-1980_ [data file]. Retrieved from http://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts.txt
 
 ## Summary
 
@@ -499,3 +472,17 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 9. William Smith was familiar with the different diagnostic fossils of the rocks of England and Wales and was able to use them to identify rocks of different ages.
 
 10. The last age of the Cretaceous is the Maastrichtian (71.2 to 66.0 Ma) and the first age of the Paleogene is the Danian (66.0 to 61.6 Ma).
+
+## References
+
+Smith, W. (1815). A delineation of the strata of England and Wales with part of Scotland [map].
+
+Harries, P.J., Kauffman, E.G., Crampton, J.S. (Redacteurs), Bengtson, P., Cech, S., Crame, J.A., Dhondt, A.V., Ernst, G., Hilbrecht, H., Lopez, Mortimore, G.R., Tröger, K.-A., Walaszcyk, I., &amp; Wood, C.J. (1996). Mitteilungen aus dem Geologisch - Paläontologischen Museum der Universität Hamburg, _77_, 641-671.[ Full text](http://www.fuhrmann-hilbrecht.de/Heinz/geology/InoIntro/InoIntro.html)
+
+Scott, R. (2014). A Cretaceous chronostratigraphic database: construction and applications, _Carnets de Géologie,_ _14_(2), 15-37. [Full text](http://paleopolis.rediris.es/cg/1402/)
+
+Clague, J. (1976). Quadra Sand and its relation to late Wisconsin glaciation of southeast British Columbia. _Canadian Journal of Earth Sciences_, _13_, 803-815.
+
+Yamaguchi, D.K., Atwater, B.F., Bunker, D.E., Benson, B.E., &amp; Reid, M. S. (1997). Tree-ring dating the 1700 Cascadia earthquake. _Nature_, _389_, 922 - 923.
+
+NASA Goddard Institute for Space Studies (n.d.). _GLOBAL Station Temperature Index in 0.01 degrees Celsius base period: 1951-1980_ [data file]. Retrieved from http://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts.txt
