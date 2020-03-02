@@ -640,7 +640,7 @@ Canada has a range of soil types related to our unique conditions. The main type
 
 The geological component of the carbon cycle affects Earth's climate over the long term by changing atmospheric carbon dioxide levels. Carbon is added to the atmosphere during volcanic eruptions. It is extracted from the atmosphere when silicate minerals are weathered, and when it is transformed into organic matter by plants. Organic matter can be stored in soil, permafrost, and rocks. Burning of fossil fuels involves moving carbon from geological reservoirs to the atmosphere on timescales much faster than the geological carbon cycle operates.
 
-## Chatper Review Questions
+## Chapter Review Questions
 
 1. What must happen to a body of rock before exfoliation can occur?
 

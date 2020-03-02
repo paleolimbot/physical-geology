@@ -385,7 +385,7 @@ Glacial deposits form as materials are transported and deposited in a variety of
 
 There have been many glaciations in Earth’s past, the oldest known starting about 2.4 Ga. The late Proterozoic "Snowball Earth" glaciations were thought to be sufficiently intense to affect the entire planet. The Pleistocene Glaciation was a series of glacial events over the past 2.85 Ma. The periodicity of glaciations in the Pleistocene is related to subtle changes in Earth’s orbital characteristics (Milankovitch cycles), which are exaggerated by positive climate feedback processes. North America was most recently glaciated during the Wisconsinan Glaciation, from 150-50 ka.
 
-## Chatper Review Questions
+## Chapter Review Questions
 
 1. What feature of a continental glacier causes it to flow?
 

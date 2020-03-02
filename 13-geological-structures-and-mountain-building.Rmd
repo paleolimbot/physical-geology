@@ -405,7 +405,7 @@ Mountain building in zones of plate collision is called orogeny. The mountains t
 
 The strike and dip of planar surfaces, such as a bedding planes, fractures or faults are measured to help understand the geological history of a region. Special symbols are used to show the orientation of structural features on geological maps.
 
-## Chatper Review Questions
+## Chapter Review Questions
 
 1. What types of plate boundaries are most likely to contribute to (a) compression, (b) extension, and (c) shearing?
 

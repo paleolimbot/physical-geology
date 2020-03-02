@@ -522,7 +522,7 @@ Metamorphic facies are groups of metamorphic rocks that form under the same rang
 
 Contact metamorphism takes place around magma bodies that have intruded into cool rocks in the crust. Heat from magma is transferred to the surrounding country rock, resulting in mineralogical and textural changes. Hot water from a cooling body of magma, or from convection of groundwater driven by the heat of the pluton, can lead to hydrothermal alteration. When large volumes of fluid are flushed through rocks experiencing metamorphic pressures and temperatures, metasomatism results. Metasomatism can cause valuable metals to accumulate in the surrounding rocks.
 
-## Chatper Review Questions
+## Chapter Review Questions
 
 1. What are the two main agents of metamorphism, and what are their respective roles in producing metamorphic rocks?
 

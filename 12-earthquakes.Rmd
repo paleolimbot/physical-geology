@@ -490,7 +490,7 @@ Damage to buildings is the most serious consequence of most large earthquakes. T
 
 There is no reliable technology for predicting earthquakes, but the probability of one happening within a certain time period can be forecast. We can minimize earthquake impacts by ensuring that the public is aware of the risk, that building codes are enforced, that existing buildings like schools and hospitals are seismically sound, and that both public and personal emergency plans are in place.
 
-## Chatper Review Questions
+## Chapter Review Questions
 
 1. What causes the shaking during an earthquake?
 
