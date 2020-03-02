@@ -195,65 +195,22 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01
 
 #### Earthquake Intensity
 
-Intensity scales were first used in the late 19th century, and then adapted in the early 20th century by Giuseppe Mercalli and modified later by others to form what we now call the __Modified Mercalli Intensity Scale__ (Table 12.1). To determine the intensity of an earthquake, reports are collected about what people felt and how much damage was done. The reports are then used to assign intensity ratings to regions where the earthquake was felt.
-<table>
-<tbody>
-<tr>
-<td colspan="2">__Table 12.1 Modified Mercalli Intensity Scale__</td>
-</tr>
-<tr>
-<td>__I Not felt__</td>
-<td>Not felt except by a very few under especially favourable conditions</td>
-</tr>
-<tr>
-<td>__II Weak__</td>
-<td>Felt only by a few persons at rest, especially on upper floors of buildings</td>
-</tr>
-<tr>
-<td>__III Weak__</td>
-<td>Felt quite noticeably by persons indoors, especially on upper floors of buildings; many people do not recognize it as an earthquake; standing motor cars may rock slightly; vibrations similar to the passing of a truck; duration estimated</td>
-</tr>
-<tr>
-<td>__IV Light__</td>
-<td>Felt indoors by many, outdoors by few during the day; at night, some awakened; dishes, windows, doors disturbed; walls make cracking sound; sensation like heavy truck striking building; standing motor cars rocked noticeably</td>
-</tr>
-<tr>
-<td>__V Moderate__</td>
-<td>Felt by nearly everyone; many awakened; some dishes, windows broken; unstable objects overturned; pendulum clocks may stop</td>
-</tr>
-<tr>
-<td>__VI Strong__</td>
-<td>Felt by all, many frightened; some heavy furniture moved; a few instances of fallen plaster; damage slight</td>
-</tr>
-<tr>
-<td>__VII Very Strong__</td>
-<td>Damage negligible in buildings of good design and construction; slight to moderate in well-built ordinary structures; considerable damage in poorly built or badly designed structures; some chimneys broken</td>
-</tr>
-<tr>
-<td>__VIII Severe__</td>
-<td>Damage slight in specially designed structures; considerable damage in ordinary substantial buildings with partial collapse; damage great in poorly built structures; fall of chimneys, factory stacks, columns, monuments, walls; heavy furniture overturned</td>
-</tr>
-<tr>
-<td>__IX Violent__</td>
-<td>Damage considerable in specially designed structures; well-designed frame structures thrown out of plumb; damage great in substantial buildings, with partial collapse; buildings shifted off foundations</td>
-</tr>
-<tr>
-<td>__X Extreme__</td>
-<td>Some well-built wooden structures destroyed; most masonry and frame structures destroyed with foundations; rails bent</td>
-</tr>
-<tr>
-<td>__XI Extreme__</td>
-<td>Few, if any (masonry), structures remain standing; bridges destroyed; broad fissures in ground; underground pipelines completely out of service; earth slumps and land slips in soft ground; rails bent greatly</td>
-</tr>
-<tr>
-<td>__XII Extreme__</td>
-<td>Damage total; waves seen on ground surfaces; lines of sight and level distorted; objects thrown upward into the air</td>
-</tr>
-<tr>
-<td colspan="2">Source: U. S. Geological Survey (1989). _The Severity of an Earthquake_. USGS General Interest Publication 1989-288-913 [view source](https://pubs.usgs.gov/gip/earthq4/severitygip.html)</td>
-</tr>
-</tbody>
-</table>
+Intensity scales were first used in the late 19th century, and then adapted in the early 20th century by Giuseppe Mercalli and modified later by others to form what we now call the __Modified Mercalli Intensity Scale__ (Table 12.1). To determine the intensity of an earthquake, reports are collected about what people felt and how much damage was done. The reports are then used to assign intensity ratings to regions where the earthquake was felt. The Modified Mercalli Intensity Scale is as follows:
+
+- __I Not felt__: Not felt except by a very few under especially favourable conditions
+- __II Weak__: Felt only by a few persons at rest, especially on upper floors of buildings
+- __III Weak__: Felt quite noticeably by persons indoors, especially on upper floors of buildings; many people do not recognize it as an earthquake; standing motor cars may rock slightly; vibrations similar to the passing of a truck; duration estimated
+- __IV Light__: Felt indoors by many, outdoors by few during the day; at night, some awakened; dishes, windows, doors disturbed; walls make cracking sound; sensation like heavy truck striking building; standing motor cars rocked noticeably
+- __V Moderate__: Felt by nearly everyone; many awakened; some dishes, windows broken; unstable objects overturned; pendulum clocks may stop
+- __VI Strong__: Felt by all, many frightened; some heavy furniture moved; a few instances of fallen plaster; damage slight
+- __VII Very Strong__: Damage negligible in buildings of good design and construction; slight to moderate in well-built ordinary structures; considerable damage in poorly built or badly designed structures; some chimneys broken
+- __VIII Severe__: Damage slight in specially designed structures; considerable damage in ordinary substantial buildings with partial collapse; damage great in poorly built structures; fall of chimneys, factory stacks, columns, monuments, walls; heavy furniture overturned
+- __IX Violent__
+<td>Damage considerable in specially designed structures; well-designed frame structures thrown out of plumb; damage great in substantial buildings, with partial collapse; buildings shifted off foundations
+- __X Extreme__: Some well-built wooden structures destroyed; most masonry and frame structures destroyed with foundations; rails bent
+- __XI Extreme__: Few, if any (masonry), structures remain standing; bridges destroyed; broad fissures in ground; underground pipelines completely out of service; earth slumps and land slips in soft ground; rails bent greatly
+- __XII Extreme__: Damage total; waves seen on ground surfaces; lines of sight and level distorted; objects thrown upward into the air
+
 Intensity values are assigned to locations, rather than to the earthquake itself. This means that intensity can vary for a given earthquake, depending on the proximity to the epicentre and local conditions. For the 1946 M7.3 Vancouver Island earthquake, intensity was greatest in the central island region (Figure \@ref(fig:figure-12-15)). In some communities within this region, chimneys were damaged on more than 75% of buildings. Some roads were made impassable, and a major rock slide occurred. The earthquake was felt as far north as Prince Rupert, as far south as Portland Oregon, and as far east as the Rockies, but with less intensity.
 
 ```{r figure-12-15, fig.cap='Intensity map for the M7.3 Vancouver Island earthquake on June 23, 1946. _Source: Earthquakes Canada, Natural Resources Canada (2016) [view source](http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/19460623-en.php). Click the image for terms of use._'}
@@ -591,6 +548,8 @@ Sloan, R. A., Jackson, J. A., McKenzie, D., &amp; Priestley, K. (2011). Earthqua
 Earthquakes Canada, Natural Resources Canada (2016). The M9 Cascadia Megathrust Earthquake of January 26, 1700. [Visit website](http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/17000126-en.php)
 
 University Corporation for Atmospheric Research (2010). Propagation. _Tsunamis. _[Visit website](http://www.torbenespersen.dk/Publish/tsunami/print_4.htm#page_1.1.2)
+
+U. S. Geological Survey (1989). _The Severity of an Earthquake_. USGS General Interest Publication 1989-288-913 [view source](https://pubs.usgs.gov/gip/earthq4/severitygip.html)
 
 U. S. Geological Survey (2014). Indian Ocean Tsunami Remembered — Scientists reflect on the 2004 Indian Ocean that killed thousands. [Visit website](https://www2.usgs.gov/blogs/features/usgs_top_story/indian-ocean-tsunami-remembered-scientists-reflect-on-the-2004-indian-ocean-that-killed-thousands/)
 

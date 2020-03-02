@@ -578,40 +578,32 @@ Contact metamorphism takes place around magma bodies that have intruded into coo
 
 13. Parent rocks and metamorphic grades and types:
 
-<table>
-<tbody>
-<tr>
-<td>__Metamorphic Rock__</td>
-<td>__Likely Parent Rock__</td>
-<td>__Grade and/or Type of Metamorphism__</td>
-</tr>
-<tr>
-<td>Chlorite schist</td>
-<td>A rock enriched in ferromagnesian minerals, such as basalt</td>
-<td>Low-grade regional metamorphism</td>
-</tr>
-<tr>
-<td>Slate</td>
-<td>Mudrock (shale, mudstone)</td>
-<td>Very low grade regional metamorphism</td>
-</tr>
-<tr>
-<td>Mica-garnet schist</td>
-<td>A rock that is rich in aluminum, which includes most clay-bearing rocks</td>
-<td>Medium-grade regional metamorphism</td>
-</tr>
-<tr>
-<td>Amphibolite</td>
-<td>A rock enriched in ferromagnesian minerals, such as basalt</td>
-<td>Medium- to high-grade regional metamorphism</td>
-</tr>
-<tr>
-<td>Marble</td>
-<td>Limestone or dolomite</td>
-<td>Regional or contact metamorphism</td>
-</tr>
-</tbody>
-</table>
+```{r}
+tibble::tibble(
+  `Metamorphic Rock` = c(
+    "Chlorite schist",
+    "Slate", 
+    "Mica-garnet schist", 
+    "Amphibolite", 
+    "Marble"
+  ),
+  `Likely Parent Rock` = c(
+    "A rock enriched in ferromagnesian minerals, such as basalt",
+    "Mudrock (shale, mudstone)", 
+    "A rock that is rich in aluminum, which includes most clay-bearing rocks",
+    "A rock enriched in ferromagnesian minerals, such as basalt",
+    "Limestone or dolomite"
+  ),
+  `Grade and/or Type of Metamorphism` = c(
+    "Low-grade regional metamorphism",
+    "Very low grade regional metamorphism", 
+    "Medium-grade regional metamorphism",
+    "Medium- to high-grade regional metamorphism", 
+    "Regional or contact metamorphism"
+  )
+) %>% 
+  knitr::kable()
+```
 
 ## References
 
