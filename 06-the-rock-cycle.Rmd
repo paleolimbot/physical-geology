@@ -11,7 +11,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 <div class="textbox shaded">
 
-#### Learning Objectives
+##### Learning Objectives {-}
 
 
 After reading this chapter and answering the _Review Questions_ at the end, you should be able to:

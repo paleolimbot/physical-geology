@@ -6,7 +6,7 @@
 
 <div class="bcc-box bcc-highlight">
 
-#### __Learning Objectives__
+##### Learning Objectives {-}
 
 
 After reading this chapter, completing the exercises within it, and answering the questions at the end, you should be able to:

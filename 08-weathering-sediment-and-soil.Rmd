@@ -9,7 +9,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 ```
 
 
-### __ ____Learning Objectives__
+##### Learning Objectives {-}
 
 
 <div class="bcc-box bcc-highlight">
