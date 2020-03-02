@@ -157,6 +157,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 1. The surfaces G and H in Figure \@ref(fig:figure-19-12) are unconformities. What kind?
 1. If erosion at the surface stopped and sediments were deposited once again, what kind of unconformity would exist between the layer I and younger rocks?
 1. Provide a list of the events that affected the rocks in Figure \@ref(fig:figure-19-12) in order from the oldest event to the most recent event. Note that C and D are faults. The sedimentary rocks labelled A are folded, but the other sedimentary rocks are horizontal.
+
 ```{r figure-19-12, fig.cap='Block diagram showing sedimentary and igneous rocks affected by faults, folds, and erosion. _Source: Karla Panchuk (2018) CC BY-SA 4.0, modified after Woudloper (2009) CC BY-SA 1.0 [view source](https://commons.wikimedia.org/wiki/File:Cross-cutting_relations.svg) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/relative_dating_2nd.png")
 ```
@@ -465,6 +466,7 @@ While understanding geological time is relatively easy, actually comprehending t
 1. We cannot use magnetic chronology to date anything older than ~780,000 years. Why?
 1. How did William Smith apply the principle of faunal succession to determine the relative ages of the sedimentary rocks of England and Wales?
 1. Access a copy of the geological time scale at http://www.stratigraphy.org/index.php/ics-chart-timescale. What are the names of the last age of the Cretaceous and the first age of the Paleogene? Print out the time scale and stick it on the wall above your desk!
+
 ```{r figure-19-29, fig.cap='Geological cross-section (left) and decay curve for ^14^C ages. _Source: Left- Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/geological-cross-section.png). Right- Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/diagram.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Ch19_review-1024x375.png")
 ```

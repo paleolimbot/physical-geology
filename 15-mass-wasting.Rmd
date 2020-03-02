@@ -46,6 +46,7 @@ The shear force pulls the block down the slope, but the block does not move unle
 ```{r figure-15-2, fig.cap='| Differences in the shear and normal components of the gravitational force on slopes with differing steepness. The total gravitational force is the same in all three cases. In (a) the shear force (red line aligned with slope) is substantially less than the shear strength (green arrow), so the block is stable. In (b) the shear force and shear strength are nearly equal, so the block may or may not move. In (c) the shear force is greater than the shear strength, so the block will move. _Source: Steven Earle (2015) CC BY 4.0. [view source ](https://opentextbc.ca/geology/)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Differences-in-the-shear-and-normal-components-1024x919.png")
 ```
+
 Slopes are created by uplift in the Earth’s crust and modified by erosion. In areas with relatively recent uplift (such as most of British Columbia and the western part of Alberta in Canada), slopes tend to be quite steep. This is especially true where glaciation has taken place because glaciers in mountainous terrain create steep-sided U-shaped valleys. In areas without recent uplift (such as central Canada), slopes are less steep because they have been subjected to erosion, including mass wasting, for long periods of time. Note that mass wasting can happen even on relatively gentle slopes if the shear stress acting on the materials is greater than the materials’ shear strength.
 
 ### Slope Strength

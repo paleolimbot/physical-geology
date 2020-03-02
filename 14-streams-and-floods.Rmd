@@ -45,6 +45,7 @@ Water is stored in various reservoirs as it moves across and through the Earth. 
 ```{r figure-14-3, fig.cap='The storage reservoirs for water on Earth. Glacial ice is represented by the white band, groundwater the red band, and surface water the very thin blue band at the top. The 0.001% stored in the atmosphere is not shown. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/storage-reservoirs.png), data from USGS Water Science School (2016) [view source](http://bit.ly/USGSH2O)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/storage-reservoirs.png")
 ```
+
 To put these percentages in perspective, we can compare a 1 litre container of water to the entirety of the Earth’s water supply (Figure \@ref(fig:figure-14-4)). We start by almost filling the container with 970 ml of water and 34 g of salt, to simulate all the sea water on Earth. Then we add one regular-sized (_ca_ 20 ml) ice cube (representing glacial ice) and two teaspoons (_ca_ 10 ml) of groundwater. All of the water that we see around us in lakes and streams and in the atmosphere can be represented by adding three more drops of water from an eyedropper.
 
 ```{r figure-14-4, fig.cap='Representation of the Earth’s water in a 1 litre container. The three drops represent all of the fresh water in lakes, streams, and wetlands, plus all of the water in the atmosphere. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Earth%E2%80%99s-water.png)'}
@@ -82,6 +83,7 @@ The ocean is the ultimate base level, but lakes and other rivers act as base lev
 ```{r figure-14-6, fig.cap='Profile of the main portion of Cawston Creek near Keremeos, BC. The maximum elevation of the drainage basin is about 1,840 m, near Mount Kobau. The base level is 275 m, at the Similkameen River. As shown, the gradient of the stream can be determined by dividing the change in elevation between any two points (rise) by the distance between those two points (run). Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Cawston-Creek-profile.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Cawston-Creek-profile.png")
 ```
+
 The water supply for the Vancouver, BC metropolitan area comes from three large drainage basins on the north shore of Burrard Inlet, as shown in Figure \@ref(fig:figure-14-7) This map illustrates the concept of a drainage basin divide. The boundary between two drainage basins is the ridge of land between them. A drop of rain falling on the boundary between the Capilano and Seymour drainage basins, for example, could flow into either basin. Rain falling on the Capilano basin side cannot flow into the Seymour drainage basin, because of the drainage basin divide.
 
 ```{r figure-14-7, fig.cap='The three drainage basins that supply water to the metropolitan Vancouver, BC area. Source: Wikimedia user “Alaidlaw” (2016) CC BY-SA 2.0. [view source](https://en.wikipedia.org/wiki/Metro_Vancouver_watersheds#/media/File:Metro_Vancouver_Watershed_Boundaries.jpg)'}
@@ -97,6 +99,7 @@ __Rectangular patterns__ develop in areas that have very little topography and a
 ```{r figure-14-8, fig.cap='Typical dendritic, trellis, and rectangular stream drainage patterns. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/dendritic.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/dendritic.png")
 ```
+
 In many parts of Canada, especially relatively flat areas with thick glacial sediments, and throughout much of Canadian Shield in eastern and central Canada, drainage patterns are chaotic , also known as __deranged__ (Figure \@ref(fig:figure-14-9), left). Lakes and wetlands are common in this type of environment.
 
 __Radial __drainage (Figure \@ref(fig:figure-14-9), right) is a pattern that forms around isolated mountains (such as volcanoes) or hills. The individual streams that radiate out from the hill typically have dendritic drainage patterns.
@@ -104,6 +107,7 @@ __Radial __drainage (Figure \@ref(fig:figure-14-9), right) is a pattern that for
 ```{r figure-14-9, fig.cap='Left: a typical deranged pattern; right: a typical radial drainage pattern developed around a mountain or hill. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/deranged-radial-2.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/deranged-and-radial.png")
 ```
+
 The process of a stream eroding downward into bedrock is called __downcutting__. Over geological time, and during tectonic quiescence, a stream will erode its drainage basin into a smooth profile similar to that shown in Figure \@ref(fig:figure-14-10) This is called a __graded stream__. Graded streams are steepest in their headwaters and their gradient gradually decreases toward their mouths. __Ungraded streams__ are still in the process of rapidly eroding and downcutting their drainage basin, they have steep sections at various points, and typically have rapids and waterfalls at numerous locations along their lengths (e.g., Cawston Creek, Figure \@ref(fig:figure-14-6)).
 
 ```{r figure-14-10, fig.cap='The topographic profile of a typical graded stream. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/typical-graded-stream.png)'}
@@ -133,6 +137,7 @@ In the late 19th century, American geologist William Davis proposed that streams
 ```{r figure-14-14, fig.cap='A depiction of the Davis cycle of erosion: a: initial stage, b: youthful stage, c: mature stage, and d: old age . Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Davis-cycle-of-erosion.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Davis-cycle-of-erosion.png")
 ```
+
 Davis’s work was done long before the idea of plate tectonics, and he was also not familiar with the impacts of glacial erosion on streams and their environments. While some parts of his idea are out of date, it is still a useful way to understand streams and their evolution. Plate tectonic activity and other processes such as isostatic rebound after glaciation results in uplift that alters stream gradients, so streams are constantly adjusting due to these changing conditions. It would be relatively rare to find a stream that is able to mature through all of these stages without interruption.
 <div class="bcc-box bcc-info">
 <div class="textbox exercises">
@@ -142,6 +147,7 @@ Davis’s work was done long before the idea of plate tectonics, and he was also
 ```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Revelstoke-Dam-and-Revelstoke-Lake.jpg) Revelstoke Dam and Revelstoke Lake on the Columbia River at Revelstoke, BC. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Revelstoke-Dam-and-Revelstoke-Lake.jpg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Revelstoke-Dam-and-Revelstoke-Lake.jpg")
 ```
+
 When a dam is built on a stream, a reservoir (artificial lake) forms behind the dam. The dam reservoir temporarily (for many decades at least) creates a new base level for the part of the stream above the reservoir. How does the formation of a dam reservoir affect the stream where it enters the reservoir, and what happens to the sediment it was carrying? The water leaving the dam has no sediment in it. Why? How does this affect the stream below the dam?</div>
 </div>
 
@@ -164,6 +170,7 @@ If you drop a piece of gravel into a glass of water, it will sink quickly to the
 ```{r figure-14-16, fig.cap='How quickly a grain settles to the bottom of a stream depends on its mass (affecting the force of gravity acting on it), and the friction between the grain and the water, which slows the fall of the grain. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/grain.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/grain-225x300.png")
 ```
+
 One of the key principles of sedimentary geology is that the ability of a moving medium (air or water) to move sedimentary particles and keep them moving is dependent on the velocity of flow. The faster the medium flows, the larger the particles it can move. As you probably know from intuition and from experience, streams that flow rapidly tend to be __turbulent __(flow paths are chaotic and the water surface appears rough) and the water may be muddy. In contrast, streams that flow more slowly tend to have __laminar flow __(straight-line flow and a smooth water surface) and clearer water. Turbulent flow is more effective than laminar flow at keeping sediments suspended within the water.
 
 Particles within a stream are transported in different ways depending on their size (Figure \@ref(fig:figure-14-17)). Large particles which rest on the stream bed are known as the ____bedload__.__ __<span style="font-weight: normal">The bedload m__</span>ay only be transported when the flow rate is rapid and under flood conditions. They are transported by ____saltation__ __(bouncing along, and colliding with other particles) and by ____traction____ (being pushed along by the force of the flow).
@@ -240,16 +247,19 @@ Braided streams can develop anywhere where there is more sediment than a stream 
 ```{r figure-14-22, fig.cap='The braided Coldwater River, Mt. St. Helens, Washington. Source: Steven Earle (2015) CC BY 4.0 [view source ](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Coldwater-River.jpg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Coldwater-River.jpg")
 ```
+
 A stream that occupies a wide, flat flood plain with a low gradient typically carries only sand-sized and finer sediments and develops a sinuous flow pattern. As you saw in Figure \@ref(fig:figure-14-15), when a stream flows around a bend, the main current of the stream flows near the outside portion of the bend. This leads to erosion of the banks on the outside of the bend, and deposition of a __point bar__ on the inside of the bend (Figure \@ref(fig:figure-14-23)). Over time, the sinuosity of the stream becomes increasingly exaggerated, and the channel migrates throughout its flood plain, forming a __meandering__ pattern.
 
 ```{r figure-14-23, fig.cap='The meandering channel of the Bonnell Creek, Nanoose, BC. The stream is flowing toward the viewer. The sand and gravel point bar must have formed when the creek was higher and the flow faster than it was when the photo was taken, as the current stream velocity is too low to carry such coarse sediments. Most erosion and deposition take place during flooding events. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Bonnell-Creek.jpg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Bonnell-Creek.jpg")
 ```
+
 A well-developed meandering river is shown in Figure \@ref(fig:figure-14-24). The meander in the middle of the photo has reached the point where the thin neck of land between two parts of the channel is about to be eroded through. When this happens, an oxbow lake will form. These are small cut off bends from earlier curves in the river; several are visible outside the path of the main stream in Figure \@ref(fig:figure-14-24).
 
 ```{r figure-14-24, fig.cap='The meandering channel of the Nowitna River, Alaska. Numerous oxbow lakes are present, and another meander cutoff will soon take place. Source: Oliver Kumis (2002) CC-BY-SA 2.0 [view source](http://bit.ly/1SmQL7B)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Nowitna-River.jpg")
 ```
+
 At the point where a stream enters a body of water such as a lake or the ocean, the flow rates drops dramatically, and sediment is deposited. Over time, as more and more sediments are deposited, the sediments form a distinctive triangular shape (with the bottom broad part of the triangle facing the ocean or lake and the point of the triangle facing upstream). This is called a __delta__; these are named after the Greek letter delta which is in the shape of a triangle. The Fraser River has created a large delta in BC where the river meets the Strait of Georgia (Figure \@ref(fig:figure-14-25)). Much of the Fraser delta is very young in geological terms. Shortly after the end of the last glaciation (10,000 years ago), the delta did not extend past New Westminster. Since that time, all of the land that makes up Richmond, Delta, and parts of New Westminster and south Surrey has formed from sediment depositing from the Fraser River. You can see a more detailed description of the Fraser delta on the Geoscape Vancouver website: [http://www.cgenarchive.org/vancouver-fraserdelta.html](http://www.cgenarchive.org/vancouver-fraserdelta.html)
 
 ```{r figure-14-25, fig.cap='The delta of the Fraser River and the plume of sediment that extends across the Strait of Georgia. The land outlined in red has formed over the past 10,000 years. Source: Steven Earle (2015) CC BY 4.0 [view source](http://bit.ly/FrasR) after NASA, September 2011 [view source ](http://bit.ly/FrasR)'}
@@ -440,6 +450,7 @@ The largest flood recorded along the Bow River over that period of time was the 
 1. Calculate the recurrence interval for the second largest flood (1932, 1,520 m3/s).
 1. What is the probability that a flood of 1,520 m3/s will happen next year?
 1. Examine the 100-year trend for floods along the Bow River. If you ignore the major floods (the labelled ones), what is the general trend of peak discharges over this time?
+
 ```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Water-Surveys-of-Canada.png) Source: Steven Earle (2015) CC BY 4.0[ view source](http://wateroffice.ec.gc.ca/search/searchDownload_e.html), from data at Water Surveys of Canada, Environment Canada [view source ](http://wateroffice.ec.gc.ca/search/searchDownload_e.html)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Water-Surveys-of-Canada.png")
 ```

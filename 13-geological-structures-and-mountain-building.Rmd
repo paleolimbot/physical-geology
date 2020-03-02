@@ -283,6 +283,7 @@ Thrust faults are a type of reverse fault with a very low-angle fault plane. The
 ```{r figure-13-28, fig.cap='A thrust fault. Top: prior to faulting. Bottom: after significant fault offset. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/thrust-fault.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/thrust-fault.png")
 ```
+
 There are numerous thrust faults in the Rocky Mountains, and a well-known example is the McConnell Thrust, along which a sequence of sedimentary rocks about 800 m thick has been pushed for about 40 km from west to east over underlying rock (Figure \@ref(fig:figure-13-29)). The thrusted rocks range in age from Cambrian to Cretaceous, so in the area around Mt. Yamnuska Cambrian-aged rock (around 500 Ma) has been thrust over, and now lies on top of Cretaceous-aged rock (around 75 Ma) (Figure \@ref(fig:figure-13-30)).
 
 ```{r figure-13-29, fig.cap='The McConnell Thrust in the eastern part of the Rockies. The rock within the faded area has been eroded. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/McConnell-Thrust.png)_'}

@@ -110,12 +110,14 @@ Use Figures 9.6 and 9.7 to give the appropriate name to the sandstone in each of
 ```{r figure-9-8a, fig.cap='Sandstone 1. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/thin-2.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Exercise-6.2.2.png")
 ```
+
 </td>
 <td style="width: 50%">
 
 ```{r figure-9-8b, fig.cap='Sandstone 2. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/thin-3.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Exercise-6.2.3.png")
 ```
+
 </td>
 </tr>
 <tr>

@@ -28,11 +28,13 @@ After reading this chapter, completing the exercises within it, and answering th
 ```{r figure-18-1, fig.cap='The open pit (background) and waste-rock piles (middle) of the Highland Valley Copper Mine at Logan Lake, British Columbia [Photo by Russell Hartlaub, used with permission]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Highland-Valley-Copper-Mine-at-Logan-Lake-1024x572.jpg")
 ```
+
 Virtually everything we use every day is made from resources from Earth. For example, let’s look at a tablet computer (Figure \@ref(fig:figure-18-2)). Most of the case is made of a plastic known as ABS, which is made from either gas or petroleum. Some tablets have a case made from aluminum. The glass of a touch screen is made mostly from quartz combined with smaller amounts of sodium oxide (Na~2~O), sodium carbonate (Na~2~CO~3~), and calcium oxide (CaO). To make it work as a touch screen, the upper surface is coated with indium tin oxide. When you touch the screen you’re actually pushing a thin layer of polycarbonate plastic (made from petroleum) against the coated glass — completing an electrical circuit. The computer is then able to figure out exactly where you touched the screen. Computer processors are made from silica wafers (more quartz) and also include a significant amount of copper and gold. Gold is used because it is a better conductor than copper and doesn’t tarnish the way silver or copper does. Most computers have nickel-metal-hydride (NiMH) batteries, which contain nickel, of course, along with cadmium, cobalt, manganese, aluminum, and the rare-earth elements lanthanum, cerium, neodymium, and praseodymium. The processor and other electronic components are secured to a circuit board, which is a thin layer of fibreglass sandwiched between copper sheets coated with small amounts of tin and lead. Various parts are put together with steel screws that are made of iron and molybdenum.
 
 ```{r figure-18-2, fig.cap='The main components of a tablet computer [SE, base photograph from https://upload.wikimedia.org/wikipedia/commons/8/8d/IPad_Air.png]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/main-components-of-a-tablet-computer.png")
 ```
+
 That’s not everything that goes into a tablet computer, but to make just those components we need a pure-silica sand deposit, a salt mine for sodium, a rock quarry for calcium, an oil well, a gas well, an aluminum mine, an iron mine, a manganese mine, a copper-molybdenum-gold mine, a cobalt-nickel mine, a rare-earth element and indium mine, and a source of energy to transport all of the materials, process them, put them together, and finally transport the computer to your house or the store where you bought it.
 <div class="bcc-box bcc-info">
 <div class="textbox exercises">
@@ -44,6 +46,7 @@ Look around you and find at least five objects (other than a computer or a phone
 ```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Where-Does-It-Come-From.png) [https://upload.wikimedia.org/wikipedia/commons/f/fd/Ballpoint-pen-parts.jpg]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Where-Does-It-Come-From.png")
 ```
+
 </div>
 </div>
 
@@ -173,6 +176,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ```{r figure-18-8, fig.cap='Model of the formation of unconformity-type uranium deposits of the Athabasca Basin, Saskatchewan [SE]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/20.8.png")
 ```
+
 There are several different types of uranium deposits, but some of the largest and richest are those within the Athabasca Basin of northern Saskatchewan. These are called __unconformity-type__ __uranium deposits__ because they are all situated very close to the unconformity between the Proterozoic Athabasca Group sandstone and the much older Archean sedimentary, volcanic, and intrusive igneous rock (Figure \@ref(fig:figure-18-8)). The origin of unconformity-type U deposits is not perfectly understood, but it is thought that two particular features are important: (1) the relative permeability of the Athabasca Group sandstone, and (2) the presence of graphitic schist within the underlying Archean rocks. The permeability of the sandstone allowed groundwater to flow through it and leach out small amounts of U, which stayed in solution in the oxidized form U^6+^. The graphite (C) created a reducing environment (non-oxidizing) that converted the U from U^6+^ to insoluble U^4+^, at which point it was precipitated as the mineral uraninite (UO~2~).
 <div class="bcc-box bcc-info">
 <div class="textbox exercises">
@@ -233,6 +237,7 @@ In many cases, the near-surface part of an ore body is mined with an open pit, w
 ```{r figure-18-11, fig.cap='Entrance to an exploratory decline (white arrow) for the New Afton Mine situated in the side of the open pit of the old Afton Mine, near Kamloops, B.C. [SE]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Entrance-to-an-exploratory-decline-1024x545.png")
 ```
+
 A typical metal deposit might contain a few percent of ore minerals (e.g., chalcopyrite or sphalerite), mixed with the minerals of the original rock (e.g., quartz or feldspar). Other sulphide minerals are commonly present within the ore, especially pyrite.
 
 When ore is processed (typically very close to the mine), it is ground to a fine powder and the ore minerals are physically separated from the rest of the rock to make a __concentrate__. At a molybdenum mine, for example, this concentrate may be almost pure molybdenite (MoS~2~). The rest of the rock is known as __tailings__. It comes out of the concentrator as a wet slurry and must be stored near the mine, in most cases, in a tailings pond.
@@ -270,11 +275,13 @@ The best types of __aggregate__ (sand and gravel) resources are those that have 
 ```{r figure-18-15, fig.cap='Sand and gravel in an aggregate pit near Nanaimo, BC. [SE]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Sand-and-gravel-in-an-aggregate-pit-1024x529.jpg")
 ```
+
 Approximately 80 million tonnes of concrete are used in Canada each year — a little over 2 tonnes per person. The cement used for concrete is made from approximately 80% calcite (CaCO~3~) and 20% clay. This mixture is heated to 1450°C to produce the required calcium silicate compounds (e.g., Ca~2~SiO~4~). The calcite typically comes from limestone quarries like the one on Texada Island, B.C. (Figure \@ref(fig:figure-18-16)). Limestone is also used as the source material for many other products that require calcium compounds, including steel and glass, pulp and paper, and plaster products for construction.
 
 ```{r figure-18-16, fig.cap='Triassic Quatsino Formation limestone being quarried on Texada Island, B.C. [SE]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Triassic-Quatsino-Formation-limestone-1024x535.jpg")
 ```
+
 Sodium is required for a wide range of industrial processes, and the most convenient source is sodium chloride (rock salt), which is mined from evaporite beds in various parts of Canada. The largest salt mine in the world is at Goderich, Ontario, where salt is recovered from the 100 m thick Silurian Salina Formation. The same formation is mined in the Windsor area. Rock salt is also used as a source of sodium and chlorine in the chemical industry to melt ice on roads, as part of the process of softening water, and as a seasoning. Under certain conditions, the mineral sylvite (KCl) accumulates in evaporite beds, and this rock is called potash. This happened across the Canadian prairies during the Devonian, creating the Prairie evaporite formation (Figure \@ref(fig:figure-18-16)). Potassium is used as a crop fertilizer, and Canada is the world’s leading supplier, with most of that production coming from Saskatchewan.
 
 Another evaporite mineral, gypsum (CaSO~4~.2H~2~0), is the main component of plasterboard (drywall) that is widely used in the construction industry. One of the main mining areas for gypsum in Canada is in the Milford Station area of Nova Scotia, site of the world’s largest gypsum mine.
@@ -336,16 +343,19 @@ As the depth of burial increases, so does the temperature — due to the geother
 ```{r figure-18-20, fig.cap='The depth and temperature limits for biogenic gas, oil, and thermogenic gas [SE]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/depth-and-temperature-limits-for-biogenic-gas.png")
 ```
+
 The organic matter-bearing rock within which the formation of gas and oil takes place is known to petroleum geologists as the __source rock__. Both liquid oil and gaseous methane are lighter than water, so as liquids and gases form, they tend to move slowly toward the surface, out of the source rock and into __reservoir rocks__. Reservoir rocks are typically relatively permeable because that allows migration of the fluids from the source rocks, and also facilitates recovery of the oil or gas. In some cases, the liquids and gases make it all the way to the surface, where they are oxidized, and the carbon is returned to the atmosphere. But in other cases, they are contained by overlying impermeable rocks (e.g., mudrock) in situations where anticlines, faults, stratigraphy changes, and reefs or salt domes create traps (Figure \@ref(fig:figure-18-21)).
 
 ```{r figure-18-21, fig.cap='Migration of oil and gas from source rocks into traps in reservoir rocks [SE]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Migration-of-oil-and-gas.png")
 ```
+
 The liquids and gases that are trapped within reservoirs become separated into layers based on their density, with gas rising to the top, oil below it, and water underneath the oil. The proportions of oil and gas depend primarily on the temperature in the source rocks. Some petroleum fields, such as many of those in Alberta, are dominated by oil, while others, notably those in northeastern B.C., are dominated by gas.
 
 ```{r figure-18-22, fig.cap='Seismic section through the East Breaks Field in the Gulf of Mexico. The dashed red line marks the approximate boundary between deformed rocks and younger undeformed rocks. The wiggly arrows are interpreted migration paths. The total thickness of this section is approximately 5 km. [SE after http://wiki.aapg.org/File:Sedimentary-basin-analysis_fig4-55.png]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Seismic-section-through-the-East-Breaks-Field.png")
 ```
+
 In general, petroleum fields are not visible from the surface, and their discovery involves the search for structures in the subsurface that have the potential to form traps. Seismic surveys are the most commonly used tool for early-stage petroleum exploration, as they can reveal important information about the stratigraphy and structural geology of subsurface sedimentary rocks. An example from the Gulf of Mexico south of Texas is shown in Figure \@ref(fig:figure-18-22). In this area, a thick evaporite deposit (“salt”) has formed domes because salt is lighter than other sediments and tends to rise slowly toward the surface; this has created traps. The sequence of deformed rocks is capped with a layer of undeformed rock.
 <div class="bcc-box bcc-info">
 <div class="textbox exercises">
@@ -384,6 +394,7 @@ Shale gas is gas that is trapped within rock that is too impermeable for the gas
 ```{r figure-18-24, fig.cap='Depiction of the process of directional drilling and fracking to recover gas from impermeable rocks. The light blue arrows represent the potential for release of fracking chemicals to aquifers. [by SE, after https://en.wikipedia.org/wiki/Hydraulic_fracturing#/media/File:HydroFrac2.svg]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Depiction-of-the-process-of-directional-drilling-and-fracking-1024x434.png")
 ```
+
 During the process that converts organic matter to coal, some methane is produced, which is stored within the pores of the coal. When coal is mined, methane is released into the mine where it can become a serious explosion hazard. Modern coal-mining machines have methane detectors on them and actually stop operating if the methane levels are dangerous. It is possible to extract the methane from coal beds without mining the coal; gas recovered this way is known as __coal-bed methane__.
 
 ## Diamonds
