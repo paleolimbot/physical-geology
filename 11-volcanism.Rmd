@@ -53,7 +53,7 @@ As Volaire's painting suggests, curiosity alone would be enough to make people w
 A __volcano __is a location where molten rock flows out, or __erupts__, onto Earth’s surface as __lava__. Volcanic eruptions can happen on land or underwater. Some volcanic eruptions flow from mountains (such as Mount Garibaldi in Figure \@ref(fig:figure-11-1)), but others do not. __Fissure eruptions __(Figure \@ref(fig:figure-11-3)) are volcanic eruptions flowing from long cracks in the Earth.
 
 
-```{r figure-11-3, fig.cap='Kamoamoa fissure eruption on the flanks of the Hawai\'ian <span>Kīlauea Volcano</span> in March of 2011. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Photograph: U. S. Geological Survey (2011) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Kamoamoa_2011-03-06.jpg). Click the image for more attributions._'}
+```{r figure-11-3, fig.cap='Kamoamoa fissure eruption on the flanks of the Hawai\'ian Kīlauea Volcano in March of 2011. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Photograph: U. S. Geological Survey (2011) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Kamoamoa_2011-03-06.jpg). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Kamoamoa_Fissure_Eruption-1.png")
 ```
 
@@ -83,7 +83,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08
 The island of Santorini (Figure \@ref(fig:figure-11-6)) is an example of a caldera. The island itself is the rim of the caldera, and the bay is the flooded basin. The two small islands in the middle of the bay formed from magma refilling the chamber that feeds the volcano, as in the far right of Figure \@ref(fig:figure-11-5). The caldera formed after an enormous eruption between 1627 and 1600 BCE[footnote]Friedrich, W. L., Kromer, B., Friedrich, M., Heinemeier, J., Pfeiffer, T., &amp; Talamo, S. (2006). Santorini Eruption Radiocarbon Dated 1627-1600 B.C. Science (312)5773, 548. doi: 10.1126/science.1125087[/footnote]. The eruption is thought to have contributed to the downfall of the Minoan civilization, and some speculate that it might also be the source of the myth of Atlantis, a story about a lost continent that sank beneath the sea after a natural disaster.
 
 
-```{r figure-11-6, fig.cap='The Greek Island of Santorini. Left: Aerial view of the island forming a ring around a flooded caldera. Right: A view from the rim of the caldera. The other side of the rim is visible in the distance. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Satellite image: NASA/GSFC/MITI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team (2000) Public Domain [view source](https://visibleearth.nasa.gov/view.php?id=55717); Caldera photograph: <span>Klearchos Kapoutsis (2010) CC BY 2.0</span> [view source](https://flic.kr/p/7PKuhk) Click the image for more attributions._'}
+```{r figure-11-6, fig.cap='The Greek Island of Santorini. Left: Aerial view of the island forming a ring around a flooded caldera. Right: A view from the rim of the caldera. The other side of the rim is visible in the distance. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Satellite image: NASA/GSFC/MITI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team (2000) Public Domain [view source](https://visibleearth.nasa.gov/view.php?id=55717); Caldera photograph: Klearchos Kapoutsis (2010) CC BY 2.0 [view source](https://flic.kr/p/7PKuhk) Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Santorini_caldera_photo.png")
 ```
 
