@@ -446,20 +446,36 @@ Over the shorter term, however, volcanic eruptions can have the opposite effect,
 
 <div class="hlFld-Title">
 <div class="publicationContentTitle">
-<p class="hanging-indent">Caesar, I., Rahmstorf, S., Robinson, A., Feulner, G., &amp; Saba, V. (2018). Observed fingerprint of a weakening Atlantic Ocean overturning circulation. _Nature 556. _194-196. https://doi.org/10.1038/s41586-018-0006-5 [View abstract](https://doi.org/10.1038/s41586-018-0006-5)</p>
-<p class="hanging-indent">Ingleby, B., &amp; Huddleston, M. (2007). Quality control of ocean temperature and salinity profiles—Historical and real-time data. _Journal of Marine Systems, 65, _158-175. doi:10.1016/j.jmarsys.2005.11.019 [Full text](https://icdc.cen.uni-hamburg.de/fileadmin/user_upload/icdc_Dokumente/EN4/inglebyandhuddleston_QualityControlofOceanTemperatureandSalinityProfiles_HistoricalandRealTimeData_JMARSYS_65_158-175_2007.pdf)</p>
+
+Caesar, I., Rahmstorf, S., Robinson, A., Feulner, G., &amp; Saba, V. (2018). Observed fingerprint of a weakening Atlantic Ocean overturning circulation. _Nature 556. _194-196. https://doi.org/10.1038/s41586-018-0006-5 [View abstract](https://doi.org/10.1038/s41586-018-0006-5)
+
+
+
+Ingleby, B., &amp; Huddleston, M. (2007). Quality control of ocean temperature and salinity profiles—Historical and real-time data. _Journal of Marine Systems, 65, _158-175. doi:10.1016/j.jmarsys.2005.11.019 [Full text](https://icdc.cen.uni-hamburg.de/fileadmin/user_upload/icdc_Dokumente/EN4/inglebyandhuddleston_QualityControlofOceanTemperatureandSalinityProfiles_HistoricalandRealTimeData_JMARSYS_65_158-175_2007.pdf)
 
 <div class="row ng-scope">
 <p class="col-md-12 ng-binding hanging-indent">Jouzel, J., Masson-Delmotte, V., Cattani, O., Dreyfus, G., Falourd, S., Hoffmann, G., Minster, B., Nouet, J., Barnola, J.M., Chappellaz, J.A., Fischer, H., Gallet, J.C., Johnsen, S.J., Leuenberger, M., Loulergue, L., Luethi, D., Oerter, H., Parrenin, F., Raisbeck, G.M., Raynaud, D., Schilt, A., Schwander, J., Selmo, E., Souchez, R., Spahni, R., Stauffer, B., Steffensen, J.P., Stenni, B., Stocker, T.F., Tison, J.L., Werner, M., &amp; Wolff, E.W. (2007). Orbital and Millennial Antarctic Climate Variability over the Past 800,000 Years. _Science 317_(5839), 793-797. [Get data](https://www.ncdc.noaa.gov/paleo-search/study/6080)</p>
 
 </div>
 <p class="col-md-12 ng-binding hanging-indent">Lüthi, D., Le Floch, M., Bereiter, B.; Blunier, T., Barnola, J.M., Siegenthaler, U., Raynaud, D., Jouzel, J., Fischer, H., Kawamura, K., &amp; Stocker, T.F. (2008). High-resolution carbon dioxide concentration record 650,000-800,000 years before present. Nature (453), 379-382. [Get data](https://www.ncdc.noaa.gov/paleo-search/study/6091)</p>
-<p class="hanging-indent">Met Office Hadley Centre (n.d.) _EN3: quality controlled subsurface ocean temperature and salinity data._ [Visit website (data available)](https://www.metoffice.gov.uk/hadobs/en3/). Note: EN4 data set (new version) available [here](https://www.metoffice.gov.uk/hadobs/en4/).</p>
-<p class="hanging-indent">RAPID-AMOC (n.d.) _RAPID: monitoring the Atlantic Meridional Overturning Circulation at 26.5°N since 2004._ [Visit website (data available)](http://www.rapid.ac.uk/)</p>
-<p class="hanging-indent">Robson, J., Hodson, D., Hawkins, E., &amp; Sutton, R. (2014). Atlantic overturning in decline? _Nature Geoscience 7_(2-3). https://doi.org/10.1038/ngeo2050 [Open access version](https://www.climate-lab-book.ac.uk/2013/amoc-decline/)</p>
+
+Met Office Hadley Centre (n.d.) _EN3: quality controlled subsurface ocean temperature and salinity data._ [Visit website (data available)](https://www.metoffice.gov.uk/hadobs/en3/). Note: EN4 data set (new version) available [here](https://www.metoffice.gov.uk/hadobs/en4/).
+
+
+
+RAPID-AMOC (n.d.) _RAPID: monitoring the Atlantic Meridional Overturning Circulation at 26.5°N since 2004._ [Visit website (data available)](http://www.rapid.ac.uk/)
+
+
+
+Robson, J., Hodson, D., Hawkins, E., &amp; Sutton, R. (2014). Atlantic overturning in decline? _Nature Geoscience 7_(2-3). https://doi.org/10.1038/ngeo2050 [Open access version](https://www.climate-lab-book.ac.uk/2013/amoc-decline/)
+
 <p class="chaptertitle hanging-indent">Shaffrey, L.C., Stevens, I., Norton, W. A., Roberts, M. J., Vidale, P. L., Harle, J. D., Jrrar, A., Stevens, D. P., Woodage, M. J., Demory, M. E., Donners, J., Clark, D. B., Clayton, A., Cole, J. W., Wilson, S. S., Connelley, W. M., Davies, T. M., Iwi, A. M., Johns, T. C., King, J. D., New, A. L., Singlo, J. M., Slingo, A., Steenman-Clark, L., &amp; Martin, G. M. (2009). U.K. HiGEM: The New U.K. High-Resolution Global Environment Model—Model Description and Basic Evaluation. _Journal of Climate 22_, 1861 - 1896. doi:10.1175/2008JCLI2508.1 [Full text](https://doi.org/10.1175/2008JCLI2508.1)</p>
-<p class="hanging-indent">Smith, D. M., &amp; Murphy, J. M. (2007). An objective ocean temperature and salinity analysis using covariances from a global climate model. _Journal of Geophysical Research, 112_(C02022). doi:10.1029/2005JC003172</p>
-<p class="hanging-indent">Thornalley, D. J. R., Oppo, D. W., Ortega, P., Robson, J. I., Brierley, C. M., Davis, R., Hall, I. R., Moffa-Sanchez, P., Rose, N. L., Spooner, P. T., Yashayaev, I., &amp; Keigwin, L. D. (2018). Anomalously weak Labrador Sea convection and Atlantic overturning during the past 150 years. _Nature 556, _227-230. https://doi.org/10.1038/s41586-018-0007-4 [View abstract](https://www.nature.com/articles/s41586-018-0007-4)</p>
+
+Smith, D. M., &amp; Murphy, J. M. (2007). An objective ocean temperature and salinity analysis using covariances from a global climate model. _Journal of Geophysical Research, 112_(C02022). doi:10.1029/2005JC003172
+
+
+
+Thornalley, D. J. R., Oppo, D. W., Ortega, P., Robson, J. I., Brierley, C. M., Davis, R., Hall, I. R., Moffa-Sanchez, P., Rose, N. L., Spooner, P. T., Yashayaev, I., &amp; Keigwin, L. D. (2018). Anomalously weak Labrador Sea convection and Atlantic overturning during the past 150 years. _Nature 556, _227-230. https://doi.org/10.1038/s41586-018-0007-4 [View abstract](https://www.nature.com/articles/s41586-018-0007-4)
 
 </div>
 </div>
@@ -589,10 +605,11 @@ Varves can be counted to determine the age of the sediment, and the pollen and s
 
 ###### References
 
+Ridge, J.C. (2008) The North American Glacial Varve Project. Retrieved from http://eos.tufts.edu/varves
 
-<p class="hanging-indent">Ridge, J.C. (2008) The North American Glacial Varve Project. Retrieved from http://eos.tufts.edu/varves</p>
-<p class="hanging-indent">Zhang, J., &amp; Crowley, T. (1989). Historical Climate Records in China and Reconstruction of Past Climates. _Journal of Climate 2_(8), 833-849. https://doi.org/10.1175/1520-0442(1989)002&lt;0833:HCRICA&gt;2.0.CO;2 [Full text](https://journals.ametsoc.org/doi/abs/10.1175/1520-0442%281989%29002%3C0833%3AHCRICA%3E2.0.CO%3B2)</p>
 
+
+Zhang, J., &amp; Crowley, T. (1989). Historical Climate Records in China and Reconstruction of Past Climates. _Journal of Climate 2_(8), 833-849. https://doi.org/10.1175/1520-0442(1989)002&lt;0833:HCRICA&gt;2.0.CO;2 [Full text](https://journals.ametsoc.org/doi/abs/10.1175/1520-0442%281989%29002%3C0833%3AHCRICA%3E2.0.CO%3B2)
 
 ## Computer Models of the Earth System
 
@@ -675,10 +692,11 @@ Using Earth-system models to predict the future is a different kind of modeling 
 
 ###### References
 
+Simons, T. J., &amp; Schertzer, W. M. (1989) _The circulation of Lake Ontario during the summer of 1982 and the winter of 1982/83_. Burlington, ON: Environment Canada. [Full text](http://publications.gc.ca/site/eng/9.854046/publication.html)
 
-<p class="hanging-indent">Simons, T. J., &amp; Schertzer, W. M. (1989) _The circulation of Lake Ontario during the summer of 1982 and the winter of 1982/83_. Burlington, ON: Environment Canada. [Full text](http://publications.gc.ca/site/eng/9.854046/publication.html)</p>
-<p class="hanging-indent">Slingerland, R., &amp; Kump, L. (2011). _Mathematical Modeling of Earth's Dynamical Systems__: __A Primer_. Princeton, NJ: Princeton University Press.</p>
 
+
+Slingerland, R., &amp; Kump, L. (2011). _Mathematical Modeling of Earth's Dynamical Systems__: __A Primer_. Princeton, NJ: Princeton University Press.
 
 ## Humans in the Earth System
 
@@ -819,19 +837,36 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 ###### References
 
+Bajželj, B., Allwood, J. M., and Cullen, J. M. (2013). Designing Climate Change Mitigation Plans That Add Up. _Environmental Science &amp; Technology 47_, 8062-8069. doi: 10.1021/es400399h. Retrieved from [http://pubs.acs.org/doi/pdf/10.1021/es400399h](http://pubs.acs.org/doi/pdf/10.1021/es400399h)
 
-<p class="hanging-indent">Bajželj, B., Allwood, J. M., and Cullen, J. M. (2013). Designing Climate Change Mitigation Plans That Add Up. _Environmental Science &amp; Technology 47_, 8062-8069. doi: 10.1021/es400399h. Retrieved from [http://pubs.acs.org/doi/pdf/10.1021/es400399h](http://pubs.acs.org/doi/pdf/10.1021/es400399h)</p>
-<p class="hanging-indent">Bamber, J. L., Westaway, R. M., Marzeion, B., &amp; Wouters, B. (2018). The land ice contribution to sea level during the satellite era. _Environmental Research Letters 13_(2018). https://doi.org/10.1088/1748-9326/aac2f0 [Full text](http://iopscience.iop.org/article/10.1088/1748-9326/aac2f0/meta)</p>
-<p class="hanging-indent">Böhm, F., Haase-Schramm, A., Eisenhauer, A., Dullo, W.-C., Joachimski, M. M., Lehnert, H., &amp; Reitner, J. (2002). Evidence for preindustrial variations in the marine surface water carbonate system from coralline sponges. _Geochem. Geophys. Geosyst., 3_(3), 10.1029/2001GC000264. Retrieved from [http://onlinelibrary.wiley.com/doi/10.1029/2001GC000264/epdf](http://onlinelibrary.wiley.com/doi/10.1029/2001GC000264/epdf)</p>
+
+
+Bamber, J. L., Westaway, R. M., Marzeion, B., &amp; Wouters, B. (2018). The land ice contribution to sea level during the satellite era. _Environmental Research Letters 13_(2018). https://doi.org/10.1088/1748-9326/aac2f0 [Full text](http://iopscience.iop.org/article/10.1088/1748-9326/aac2f0/meta)
+
+
+
+Böhm, F., Haase-Schramm, A., Eisenhauer, A., Dullo, W.-C., Joachimski, M. M., Lehnert, H., &amp; Reitner, J. (2002). Evidence for preindustrial variations in the marine surface water carbonate system from coralline sponges. _Geochem. Geophys. Geosyst., 3_(3), 10.1029/2001GC000264. Retrieved from [http://onlinelibrary.wiley.com/doi/10.1029/2001GC000264/epdf](http://onlinelibrary.wiley.com/doi/10.1029/2001GC000264/epdf)
 
 <div>
-<p class="hanging-indent">Earth System Research Laboratory, Global Monitoring Division, NOAA (n.d.). _The Data: What 14C Tells Us. _[Visit website](https://www.esrl.noaa.gov/gmd/outreach/isotopes/c14tellsus.html)</p>
+
+Earth System Research Laboratory, Global Monitoring Division, NOAA (n.d.). _The Data: What 14C Tells Us. _[Visit website](https://www.esrl.noaa.gov/gmd/outreach/isotopes/c14tellsus.html)
 
 </div>
-<p class="hanging-indent">Fischedick M., Roy, J., Abdel-Aziz, A., Acquaye, A., Allwood, J. M., Ceron, J.-P., Y. Geng, Y., Kheshgi, H., Lanza, A., Perczyk, D., Price, L., Santalla, E., Sheinbaum, C., and Tanaka, K. (2014). Industry. In: _Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change_. Edenhofer, O., Pichs-Madruga, R., Sokona, Y., Farahani, E., Kadner, S., Seyboth, K., Adler, A., Baum, I., Brunner, S., Eickemeier, P., Kriemann, B., Savolainen, J., Schlömer, S., von Stechow, C., Zwickel, T., and Minx, J. C. (eds.). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. Retrieved from [https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter10.pdf ](https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter10.pdf)</p>
-<p class="hanging-indent">Madrigal, A. C. (2017, September 5) _The Houston Flooding Pushed the Earth's Crust Down 2 Centimeters_. [View at _The Atlantic_](https://www.theatlantic.com/technology/archive/2017/09/hurricane-harvey-deformed-the-earths-crust-around-houston/538866/).</p>
-<p class="hanging-indent">Medley, B., McConnell, J. R., Neumann, T. A., Reijmer, C. H., Chellman, N., Sigl, M., &amp; Kipfstuhl, S. (2018). Temperature and Snowfall in Western Queen Maud Land Increasing Faster Than Climate Model Projections. _Geophysical Research Letters 45_(3), 1472-1480.[ https://doi.org/10.1002/2017GL075992 ](https://doi.org/10.1002/2017GL075992)</p>
-<p class="hanging-indent">Rahmstorf, S. (2013). _Most Comprehensive Paleoclimate Reconstruction Confirms Hockey Stick_. [View at ThinkProgress.org ](https://thinkprogress.org/most-comprehensive-paleoclimate-reconstruction-confirms-hockey-stick-e7ce8c3a2384/)</p>
+
+Fischedick M., Roy, J., Abdel-Aziz, A., Acquaye, A., Allwood, J. M., Ceron, J.-P., Y. Geng, Y., Kheshgi, H., Lanza, A., Perczyk, D., Price, L., Santalla, E., Sheinbaum, C., and Tanaka, K. (2014). Industry. In: _Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change_. Edenhofer, O., Pichs-Madruga, R., Sokona, Y., Farahani, E., Kadner, S., Seyboth, K., Adler, A., Baum, I., Brunner, S., Eickemeier, P., Kriemann, B., Savolainen, J., Schlömer, S., von Stechow, C., Zwickel, T., and Minx, J. C. (eds.). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. Retrieved from [https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter10.pdf ](https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter10.pdf)
+
+
+
+Madrigal, A. C. (2017, September 5) _The Houston Flooding Pushed the Earth's Crust Down 2 Centimeters_. [View at _The Atlantic_](https://www.theatlantic.com/technology/archive/2017/09/hurricane-harvey-deformed-the-earths-crust-around-houston/538866/).
+
+
+
+Medley, B., McConnell, J. R., Neumann, T. A., Reijmer, C. H., Chellman, N., Sigl, M., &amp; Kipfstuhl, S. (2018). Temperature and Snowfall in Western Queen Maud Land Increasing Faster Than Climate Model Projections. _Geophysical Research Letters 45_(3), 1472-1480.[ https://doi.org/10.1002/2017GL075992 ](https://doi.org/10.1002/2017GL075992)
+
+
+
+Rahmstorf, S. (2013). _Most Comprehensive Paleoclimate Reconstruction Confirms Hockey Stick_. [View at ThinkProgress.org ](https://thinkprogress.org/most-comprehensive-paleoclimate-reconstruction-confirms-hockey-stick-e7ce8c3a2384/)
+
 <p class="citation-guideline hanging-indent">Roser, M., &amp; Ortiz-Ospina E. (2018). _World Population Growth_. [View at OurWorldInData.com ](https://ourworldindata.org/world-population-growth)</p>
 
 <div class="article-content"><section>
@@ -971,15 +1006,35 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 ###### References
 
+Berwyn, B. (2017, 27 March). _Climate Change-Fueled Jet Stream Linked to Brutal Floods and Heatwaves, Says Study_. [View at _Inside Climate News_](https://insideclimatenews.org/news/27032017/climate-change-global-warming-extreme-weather-jet-stream-michael-mann-penn-state)
 
-<p class="hanging-indent">Berwyn, B. (2017, 27 March). _Climate Change-Fueled Jet Stream Linked to Brutal Floods and Heatwaves, Says Study_. [View at _Inside Climate News_](https://insideclimatenews.org/news/27032017/climate-change-global-warming-extreme-weather-jet-stream-michael-mann-penn-state)</p>
-<p class="hanging-indent">Charley, S. (2013, 13 June). _Hurricane Sandy took highly unusual path, but climate change doesn’t get the blame – yet._ [View at GeoSpace](https://blogs.agu.org/geospace/2013/06/03/hurricane-sandy-took-highly-unusual-path-but-climate-change-doesnt-get-the-blame-yet/)</p>
-<p class="hanging-indent">European Academies’ Science Advisory Council. (2013). _Trends in Extreme Weather Events in Europe: Implications for National and European Union Adaptation Strategies._ Halle (Saale), Germany: German National Academy of Sciences. [Full text](https://easac.eu/publications/details/trends-in-extreme-weather-events-in-europe/)</p>
-<p class="hanging-indent">European Academies’ Science Advisory Council. (2018). _Extreme weather events in Europe. Preparing for climate change adaptation: An update on EASAC’s 2013 study._ Halle (Saale), Germany: German National Academy of Sciences. [Full text](https://www.knaw.nl/shared/resources/internationaal/bestanden/EASACStatement_Extreme_Weather_EventsMarch2018.pdf)</p>
-<p class="hanging-indent">Furphy, D. (2013, 28 September). _What on earth is an RCP? A quick guide to carbon dioxide emissions scenarios used by the IPCC Assessment Report 5._ [View at _Medium_](https://medium.com/@davidfurphy/what-on-earth-is-an-rcp-bbb206ddee26)</p>
-<p class="hanging-indent">Intergovernmental Panel on Climate Change. (2013). _Summary for Policymakers. In: Climate Change 2013: The Physical Science Basis. __Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change _[Stocker,T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. [Full text](https://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)</p>
-<p class="hanging-indent">Scott, M. (2011, 6 April). _Heavy Rains and Dry Lands Don’t Mix: Reflections on the 2010 Pakistan Flood_. [View at _Earth Observatory_](https://earthobservatory.nasa.gov/Features/PakistanFloods)</p>
-<p class="hanging-indent">World Meteorological Organization. (2014). _Atlas of Mortality and Economic Losses from Weather, Climate, and Water Extremes (1970-2012)_. Geneva, Switzerland: World Meteorological Association. [Full text](https://public.wmo.int/en/resources/library/atlas-mortality-and-economic-losses-weather-and-climate-extremes-1970-2012)</p>
+
+
+Charley, S. (2013, 13 June). _Hurricane Sandy took highly unusual path, but climate change doesn’t get the blame – yet._ [View at GeoSpace](https://blogs.agu.org/geospace/2013/06/03/hurricane-sandy-took-highly-unusual-path-but-climate-change-doesnt-get-the-blame-yet/)
+
+
+
+European Academies’ Science Advisory Council. (2013). _Trends in Extreme Weather Events in Europe: Implications for National and European Union Adaptation Strategies._ Halle (Saale), Germany: German National Academy of Sciences. [Full text](https://easac.eu/publications/details/trends-in-extreme-weather-events-in-europe/)
+
+
+
+European Academies’ Science Advisory Council. (2018). _Extreme weather events in Europe. Preparing for climate change adaptation: An update on EASAC’s 2013 study._ Halle (Saale), Germany: German National Academy of Sciences. [Full text](https://www.knaw.nl/shared/resources/internationaal/bestanden/EASACStatement_Extreme_Weather_EventsMarch2018.pdf)
+
+
+
+Furphy, D. (2013, 28 September). _What on earth is an RCP? A quick guide to carbon dioxide emissions scenarios used by the IPCC Assessment Report 5._ [View at _Medium_](https://medium.com/@davidfurphy/what-on-earth-is-an-rcp-bbb206ddee26)
+
+
+
+Intergovernmental Panel on Climate Change. (2013). _Summary for Policymakers. In: Climate Change 2013: The Physical Science Basis. __Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change _[Stocker,T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. [Full text](https://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)
+
+
+
+Scott, M. (2011, 6 April). _Heavy Rains and Dry Lands Don’t Mix: Reflections on the 2010 Pakistan Flood_. [View at _Earth Observatory_](https://earthobservatory.nasa.gov/Features/PakistanFloods)
+
+
+
+World Meteorological Organization. (2014). _Atlas of Mortality and Economic Losses from Weather, Climate, and Water Extremes (1970-2012)_. Geneva, Switzerland: World Meteorological Association. [Full text](https://public.wmo.int/en/resources/library/atlas-mortality-and-economic-losses-weather-and-climate-extremes-1970-2012)
 
 <div></div>
 <div><cite> </cite></div>

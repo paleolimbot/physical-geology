@@ -368,9 +368,7 @@ Which metamorphic rock is described in each of the following?
 
 ###### References
 
-
-<p class="hanging-indent">Farkašovský, R., Bónová, K., &amp; Košuth, M. (2016). Microstructural, modal and geochemical changes as a result of granodiorite mylonitisation – a case study from the Rolovská shear zone (Čierna hora Mts, Western Carpathians, Slovakia). _Geologos 22_(3), 171-190. doi: 10.1515/logos-2016-0019 [View full text](https://content.sciendo.com/view/journals/logos/22/3/article-p171.xml)</p>
-
+Farkašovský, R., Bónová, K., &amp; Košuth, M. (2016). Microstructural, modal and geochemical changes as a result of granodiorite mylonitisation – a case study from the Rolovská shear zone (Čierna hora Mts, Western Carpathians, Slovakia). _Geologos 22_(3), 171-190. doi: 10.1515/logos-2016-0019 [View full text](https://content.sciendo.com/view/journals/logos/22/3/article-p171.xml)
 
 ## Types of Metamorphism and Where They Occur
 
@@ -508,10 +506,11 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 ###### References
 
+Bucher, K., &amp; Grapes, R. (2011) _Petrogenesis of Metamorphic Rocks, 8th Edition_. Springer.
 
-<p class="hanging-indent">Bucher, K., &amp; Grapes, R. (2011) _Petrogenesis of Metamorphic Rocks, 8th Edition_. Springer.</p>
-<p class="hanging-indent">French, B.M. (1998). _Traces of Catastrophe: A Handbook of Shock-Metamorphic Effects in Terrestrial Meteorite Impact Structures_. Houston, TX: Lunar and Planetary Institute [ Read full text](https://www.lpi.usra.edu/publications/books/CB-954/CB-954.intro.html)</p>
 
+
+French, B.M. (1998). _Traces of Catastrophe: A Handbook of Shock-Metamorphic Effects in Terrestrial Meteorite Impact Structures_. Houston, TX: Lunar and Planetary Institute [ Read full text](https://www.lpi.usra.edu/publications/books/CB-954/CB-954.intro.html)
 
 ## Metamorphic Facies and Index Minerals
 
@@ -608,10 +607,11 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 ###### References
 
+Keppie, D., &amp; Muecke, G. (1979). _Metamorphic map of Nova Scotia_. (Nova Scotia Department of Mines and Energy, Map 1979-006).
 
-<p class="hanging-indent">Keppie, D., &amp; Muecke, G. (1979). _Metamorphic map of Nova Scotia_. (Nova Scotia Department of Mines and Energy, Map 1979-006).</p>
-<p class="hanging-indent">White, C. E., &amp; Barr, S. M. (2012) Meguma Terrane Revisted: Stratigraphy, Metamorphism, Paleontology and Provenance. _Geoscience Canada_ _39_(1). [Full text](https://journals.lib.unb.ca/index.php/GC/article/view/19450/21005)</p>
 
+
+White, C. E., &amp; Barr, S. M. (2012) Meguma Terrane Revisted: Stratigraphy, Metamorphism, Paleontology and Provenance. _Geoscience Canada_ _39_(1). [Full text](https://journals.lib.unb.ca/index.php/GC/article/view/19450/21005)
 
 ## Metamorphic Hydrothermal Processes and Metasomatism
 

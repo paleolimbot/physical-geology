@@ -714,9 +714,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 ###### References
 
-
-<p class="hanging-indent">Mustard, P. (1994). The Upper Cretaceous Nanaimo Group, Georgia Basin. In J. Monger (Ed.), Geology and Geological Hazards of the Vancouver Region. _Geological Survey of Canada Bulletin 481_, 27-95.</p>
-
+Mustard, P. (1994). The Upper Cretaceous Nanaimo Group, Georgia Basin. In J. Monger (Ed.), Geology and Geological Hazards of the Vancouver Region. _Geological Survey of Canada Bulletin 481_, 27-95.
 
 ## Summary
 

@@ -292,9 +292,11 @@ Yet another technique, __chronostratigraphic correlation__, is to correlate rock
 
 ###### References
 
+Harries, P.J., Kauffman, E.G., Crampton, J.S. (Redacteurs), Bengtson, P., Cech, S., Crame, J.A., Dhondt, A.V., Ernst, G., Hilbrecht, H., Lopez, Mortimore, G.R., Tröger, K.-A., Walaszcyk, I., &amp; Wood, C.J. (1996). Mitteilungen aus dem Geologisch - Paläontologischen Museum der Universität Hamburg, _77_, 641-671.[ Full text](http://www.fuhrmann-hilbrecht.de/Heinz/geology/InoIntro/InoIntro.html)
 
-<p class="hanging-indent">Harries, P.J., Kauffman, E.G., Crampton, J.S. (Redacteurs), Bengtson, P., Cech, S., Crame, J.A., Dhondt, A.V., Ernst, G., Hilbrecht, H., Lopez, Mortimore, G.R., Tröger, K.-A., Walaszcyk, I., &amp; Wood, C.J. (1996). Mitteilungen aus dem Geologisch - Paläontologischen Museum der Universität Hamburg, _77_, 641-671.[ Full text](http://www.fuhrmann-hilbrecht.de/Heinz/geology/InoIntro/InoIntro.html)</p>
-<p class="hanging-indent">Scott, R. (2014). A Cretaceous chronostratigraphic database: construction and applications, _Carnets de Géologie,_ _14_(2), 15-37. [Full text](http://paleopolis.rediris.es/cg/1402/)</p>
+
+
+Scott, R. (2014). A Cretaceous chronostratigraphic database: construction and applications, _Carnets de Géologie,_ _14_(2), 15-37. [Full text](http://paleopolis.rediris.es/cg/1402/)
 
 </div>
 
@@ -411,9 +413,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 ###### References
 
-
-<p class="hanging-indent">Clague, J. (1976). Quadra Sand and its relation to late Wisconsin glaciation of southeast British Columbia. _Canadian Journal of Earth Sciences_, _13_, 803-815.</p>
-
+Clague, J. (1976). Quadra Sand and its relation to late Wisconsin glaciation of southeast British Columbia. _Canadian Journal of Earth Sciences_, _13_, 803-815.
 
 ## Other Dating Methods
 
@@ -485,9 +485,7 @@ How old is a rock that is limited to 2.6 to 3.2 Ma by fossils, and which has rev
 
 ###### References
 
-
-<p class="hanging-indent">Yamaguchi, D.K., Atwater, B.F., Bunker, D.E., Benson, B.E., &amp; Reid, M. S. (1997). Tree-ring dating the 1700 Cascadia earthquake. _Nature_, _389_, 922 - 923.</p>
-
+Yamaguchi, D.K., Atwater, B.F., Bunker, D.E., Benson, B.E., &amp; Reid, M. S. (1997). Tree-ring dating the 1700 Cascadia earthquake. _Nature_, _389_, 922 - 923.
 
 ## Understanding Geological Time
 
@@ -517,9 +515,7 @@ Finally, go to the Foundation for Global Community’s [Walk through Time websit
 
 ###### References
 
-
-<p class="hanging-indent">NASA Goddard Institute for Space Studies (n.d.). _GLOBAL Station Temperature Index in 0.01 degrees Celsius base period: 1951-1980_ [data file]. Retrieved from http://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts.txt</p>
-
+NASA Goddard Institute for Space Studies (n.d.). _GLOBAL Station Temperature Index in 0.01 degrees Celsius base period: 1951-1980_ [data file]. Retrieved from http://data.giss.nasa.gov/gistemp/tabledata_v3/GLB.Ts.txt
 
 ## Summary
 

@@ -110,10 +110,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04
 
 ###### References
 
-
-<p class="hanging-indent">Kushiro, I. (2007). Origins of magmas in subduction zones: a review of experimental studies. _Proceedings of the Japan Academy, Series B, Physical and Biological Sciences 83_(1), 1-15. _[Read the paper ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756732/)_</p>
-
-
+Kushiro, I. (2007). Origins of magmas in subduction zones: a review of experimental studies. _Proceedings of the Japan Academy, Series B, Physical and Biological Sciences 83_(1), 1-15. _[Read the paper ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3756732/)_
 
 ## Crystallization of Magma
 
@@ -595,9 +592,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 
 ###### References
 
-
-<p class="hanging-indent">Bally, A. W. (1989). Plate 10. Selected distribution maps, rate of accumulation maps, and lithofacies maps—Phanerozoic, North America. In A. W. Bally &amp; A. R. Palmer (Eds.), _The Geology of North America—An Overview: Volume A_. Boulder: Geological Society of America.</p>
-
+Bally, A. W. (1989). Plate 10. Selected distribution maps, rate of accumulation maps, and lithofacies maps—Phanerozoic, North America. In A. W. Bally &amp; A. R. Palmer (Eds.), _The Geology of North America—An Overview: Volume A_. Boulder: Geological Society of America.
 
 ## Summary
 
