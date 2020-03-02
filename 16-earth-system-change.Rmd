@@ -258,23 +258,15 @@ Albedo is a measure of the reflectivity of a surface. Earth’s various surfaces
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Typical-albedo-values-for-Earth-surfaces-1024x339-1024x339.png")
 ```
 
-##### Albedo, Feedbacks, and the Acceptance of Milanković Cycles as a Climate Forcing Mechanism
+##### Albedo, Feedbacks, and the Acceptance of Milanković Cycles as a Climate Forcing Mechanism {-}
 
 When Milanković published his hypothesis in 1924, it was widely ignored, partly because it was evident to climate scientists that the forcing produced by the orbital variations alone was not strong enough to drive the climate changes of the glacial cycles. Those scientists did not recognize the power of positive feedbacks. It wasn’t until 1973, 15 years after Milanković’s death, that sufficiently high-resolution data were available to show that the Pleistocene glaciations were indeed driven by the orbital cycles, and it became evident that the orbital cycles were just the first step, initiating a range of feedback mechanisms that made the climate change, many of which were related to albedo.
 
 Consider the following:
 
-- Explain why it is useful to think of Earth as a system.
-- Describe the effect of feedbacks on the climate system.
-- Explain the difference between weather and climate.
-- Describe the climate-forcing mechanisms related to insolation, heat transport over Earth's surface, and changes in the atmosphere's energy budget.
-- Explain the difference between direct and proxy data about Earth's climate, and give examples of each.
-- Describe the role of computer models for understanding the Earth system.
-- Summarize the history of human influence on the Earth system.
-- Explain how carbon isotopes link rising atmospheric CO~2~ levels to fossil fuels burned by humans.
-- Describe how humans have affected the present-day carbon cycle and why the human contribution is significant.
-- Summarize the kinds of observations that show signals of present-day climate change.
-- Describe the current and projected state of the Earth system in the Anthropocene Epoch.
+- When large volumes of ice melt — such as the continental ice sheets of Antarctica and Greenland, as well as alpine glaciers— this decreases albedo. More solar energy is then absorbed by land, amplifying the increase in temperature.
+- When sea ice melts and exposes water, the albedo of the exposed area decreases drastically, from approximately 80% to less than 10%. Far more solar energy can be absorbed by the water compared to the previous ice cover, amplifying the temperature increase.
+- Sea level rises when ice and snow melt on land, and because seawater expands when heated. Higher sea level means a larger proportion of the planet is covered with water, which has a lower albedo than land. More heat is absorbed, amplifying the temperature increase. Since the last glaciation, a rise in sea level of approximately 125 m has flooded vast areas of land.
 
 <div class="textbox textbox-exercise">
 
@@ -336,17 +328,11 @@ Whereas _weather_ refers to day-to-day variations in temperature, precipitation,
 
 __Proxy data __are information derived from natural materials with characteristics that are affected by climate in a systematic way. This could also be said of some instrumental data: an alcohol thermometer uses the fact that the volume of alcohol changes in a consistent way in response to temperature. Proxy data rely on relationships that are also as systematic and consistent, but there are important differences:
 
-- Explain why it is useful to think of Earth as a system.
-- Describe the effect of feedbacks on the climate system.
-- Explain the difference between weather and climate.
-- Describe the climate-forcing mechanisms related to insolation, heat transport over Earth's surface, and changes in the atmosphere's energy budget.
-- Explain the difference between direct and proxy data about Earth's climate, and give examples of each.
-- Describe the role of computer models for understanding the Earth system.
-- Summarize the history of human influence on the Earth system.
-- Explain how carbon isotopes link rising atmospheric CO~2~ levels to fossil fuels burned by humans.
-- Describe how humans have affected the present-day carbon cycle and why the human contribution is significant.
-- Summarize the kinds of observations that show signals of present-day climate change.
-- Describe the current and projected state of the Earth system in the Anthropocene Epoch.
+- Instruments are designed so that the response of the instrument reflects only one characteristic of the environment (e.g., an alcohol thermometer is sealed so that only temperature affects the level of alcohol, not air pressure or evaporation), but proxy data may need to be carefully analyzed to account for other processes.
+- Data from instruments are lost if observations are not made and recorded. A thermometer is constantly changing in response to temperature, and will not stay in a particular state once conditions change. Proxy records capture information about the environment in a way that can persist over the long term, for as long as the materials last in usable form. Some proxy records preserve information from billions of years ago.
+- Instruments transform characteristics of the environment into information that we can access immediately (e.g., you can read a temperature directly from a thermometer), but materials from which we derive proxy data require processing, often with specialized laboratory equipment, to get data we can use.
+- Instruments measure only what we design them to measure, and measure only as well as we design them to do so. Because proxy data come from materials that persist through time, it is possible to improve the techniques used to analyze materials, and redo earlier measurements. Discovering new proxies is an ongoing area of research, and regularly reveals ways to determine characteristics of past states of the Earth system that we didn’t think were knowable.
+- Instrumental records and other direct observations can be well constrained in time. In other words, we often know the exact dates the observations were made. Proxy data may come from materials that are difficult to pin down to an exact date, and additional information may be required to determine when the records were formed. Sometimes proxy data can only be extracted as an average over a number of years. The relevant question becomes whether the resolution of the record (how detailed it is) is high enough for the time frame of interest. For example, an annual average would be no use at all to understand monthly climate variations, but would provide exceptionally high resolution for geological processes operating over tens of thousands of years.
 
 ### Types of Direct Data
 
@@ -476,17 +462,10 @@ Using models to investigate the Earth system requires careful consideration of h
 
 Using Earth-system models to predict the future is a different kind of modeling challenge, because we don't already know what the right answer is. The situation being modeled hasn't happened yet. Scientists who try to predict the future of the Earth system have to do things a bit differently in order to have some confidence in the reliability of their model outcomes:
 
-- Explain why it is useful to think of Earth as a system.
-- Describe the effect of feedbacks on the climate system.
-- Explain the difference between weather and climate.
-- Describe the climate-forcing mechanisms related to insolation, heat transport over Earth's surface, and changes in the atmosphere's energy budget.
-- Explain the difference between direct and proxy data about Earth's climate, and give examples of each.
-- Describe the role of computer models for understanding the Earth system.
-- Summarize the history of human influence on the Earth system.
-- Explain how carbon isotopes link rising atmospheric CO~2~ levels to fossil fuels burned by humans.
-- Describe how humans have affected the present-day carbon cycle and why the human contribution is significant.
-- Summarize the kinds of observations that show signals of present-day climate change.
-- Describe the current and projected state of the Earth system in the Anthropocene Epoch.
+- They must come up with reasonable forcing scenarios for the model. A model used to predict the future of Earth’s climate will need input about what atmospheric greenhouse gas levels will be. That will depend on what actions humans take. Scientists deal with this unknown variable by testing multiple scenarios for greenhouse gas levels, such as what would happen if fossils fuels continue to be used as they have been, or alternatively, what would happen if we completely stopped using fossil fuels tomorrow. The scenarios they choose span a range of possibilities, including extreme cases, to make sure they understand what the possible range of outcomes could be.
+- Scientists use some of the data they have to set the model up so that it is a realistic representation of the Earth system at a particular time in history. They then test the model to see if it can reproduce a different set of data later in history. This is a way to see if the model can get the right answer for a time when we know the right answer. Finally, after determining that the model gives reasonable results for times when we know the right answer, it is run for future scenarios.
+- To be confident about predictions of future Earth-system change, scientists may collaborate to run their scenarios on many different Earth-system models designed by many different research groups at many different institutions. These models are set up with slightly different mathematical representations of processes, or different levels of detail in geographic representations. The scientists who built the various models might disagree on what numbers to assign some of the variables, or even which parts of the Earth system are necessary to include. If all the models produce similar results for a particular scenario in spite of representing a wide range of ideas about how such models should work, scientists can be more confident in those results.
+- Scientists report __uncertainty__ with their model results. It is a common misconception that uncertainty means the same thing as in everyday language—that we just don’t know something, or can’t say for sure. But for models, uncertainty is a number that indicates the likelihood that a model result is within a certain range of values. It is determined using methods that are themselves the product of careful research. A meaningful discussion of uncertainty will concern a specific model or set of models, a specific variable, and include a specific range of values. It will also include information about how large the uncertainty is compared to the changes they are investigating. If these details are missing from the conversation, it’s a clue that "uncertainty" is being used in a common-language way rather than the way that modellers use it. Note that reporting uncertainty is not exclusive to models predicting the future, but it is particularly important for those models because of the great scrutiny Earth-system models receive when they are used to investigate future climate change.
 
 ## Humans in the Earth System
 

@@ -1,8 +1,7 @@
 
 # Streams and Floods
 
-<p style="text-align: center">Adapted by Joyce M. McBeth, University of Saskatchewan
-from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle</p>
+_Adapted by Joyce M. McBeth, University of Saskatchewan from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
 
 <div class="textbox learning-objectives">
 
@@ -341,21 +340,17 @@ In late June and early July, the discharges of several rivers in the area, inclu
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Flooding-in-Calgary.png")
 ```
 
-<div class="textbox textbox-exercise">
+<div class="textbox">
+
+##### Flood Mitigation {-}
 
 One of the things that the 2013 flood of the Bow River teaches us is that we cannot predict when a flood will occur nor how big it will be, so in order to minimize damage and casualties we need to be prepared. Some ways of preparing include:
 
-- Explain the hydrological cycle, its relevance to streams, and describe the residence time of water in these systems
-- Describe what a drainage basin is, and explain the origins of the different types of drainage patterns
-- Explain how streams become graded, and how certain geological and anthropogenic changes can result in a stream becoming ungraded
-- Describe the formation of stream terraces
-- Describe the processes that move sediments in streams, and how changes in stream velocity affect the types of sediments that are moved by the stream
-- Explain the origin of natural stream levees
-- Describe the process of stream evolution and the types of environments where one would expect to find straight-channel, braided, and meandering streams
-- Describe the annual flow characteristics of typical streams in Canada and the processes that lead to flooding
-- Describe some of the important historical floods in Canada
-- Determine the probability of floods of various magnitudes, based on the flood history of a stream
-- Explain some of the steps that we can take to limit damage from flooding
+- Mapping flood plains and not building within them
+- Building dykes or dams where necessary
+- Monitoring the winter snowpack, the weather, and stream discharges
+- Creating emergency plans
+- Educating the public on how to prepare for and respond to the threat of flooding
 
 </div>
 

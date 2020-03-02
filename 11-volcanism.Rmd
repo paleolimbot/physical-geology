@@ -338,14 +338,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 
 There are four main scenarios to consider:
 
-- Explain what a volcano is.
-- Describe the different kinds of materials produced by volcanoes.
-- Describe the structures of shield volcanoes, composite volcanoes, and cinder cones.
-- Explain how the style of a volcanic eruption is related to magma composition.
-- Describe the role of plate tectonics in volcanism and magma formation.
-- Summarize the hazards that volcanic eruptions pose to people and infrastructure.
-- Describe how volcanoes are monitored, and the signals that indicate a volcano could be ready to erupt.
-- Provide an overview of Canadian volcanic activity.
+- Divergent boundaries where melting is triggered by decompression
+- Subduction zones (ocean-ocean and ocean-continent convergent boundaries) where flux melting occurs as water is released from subducting ocean crust
+- __Hot spots__ where plumes of hot mantle material rise up, then melt as a result of decompression.
+- Melting by conduction when magma transfers heat to rocks having a lower melting temperature.
 
 ### Decompression Causes Volcanism Along Spreading Centres and Rift Zones
 

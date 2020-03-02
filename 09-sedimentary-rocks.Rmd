@@ -17,11 +17,7 @@ After reading this chapter and answering the review questions at the end, you sh
 - Describe some of the specific kinds of rocks in each of the four categories, and the depositional environments in which they form.
 - Describe the various terrestrial and marine sedimentary depositional environments, and explain how the formation of sedimentary basins is related to plate tectonic processes.
 - Apply your understanding of the features of sedimentary rocks, including grain characteristics, sedimentary structures, and fossils, to the interpretation of past depositional environments and climates.
-
-- Explain the differences between the four kinds of sedimentary rocks: clastic, chemical, biochemical, and organic.
-- Describe some of the specific kinds of rocks in each of the four categories, and the depositional environments in which they form.
-- Describe the various terrestrial and marine sedimentary depositional environments, and explain how the formation of sedimentary basins is related to plate tectonic processes.
-- Apply your understanding of the features of sedimentary rocks, including grain characteristics, sedimentary structures, and fossils, to the interpretation of past depositional environments and climates.
+- Explain what groups, formations, and members are in sedimentary rocks, and why such terminology is used.
 
 </div>
 
@@ -319,10 +315,10 @@ A __foreland basin__ is caused by the mass of a mountain range depressing the cr
 
 Through careful observation over the past few centuries, geologists have discovered that the accumulation of sediments and sedimentary rocks takes place according to some important geological principles that can be summarized as follows:
 
-- Explain the differences between the four kinds of sedimentary rocks: clastic, chemical, biochemical, and organic.
-- Describe some of the specific kinds of rocks in each of the four categories, and the depositional environments in which they form.
-- Describe the various terrestrial and marine sedimentary depositional environments, and explain how the formation of sedimentary basins is related to plate tectonic processes.
-- Apply your understanding of the features of sedimentary rocks, including grain characteristics, sedimentary structures, and fossils, to the interpretation of past depositional environments and climates.
+- The __principle of original horizontality__ states that sediments accumulate in essentially horizontal layers. The implication is that tilted sedimentary layers observed today must have been subjected to tectonic forces that tilted them.
+- The __principle of superposition states__ that sedimentary layers are deposited in sequence, and that unless the entire sequence has been turned over by tectonic processes, the layers at the bottom are older than those at the top.
+- The __principle of inclusions__ states that any rock fragments in a sedimentary layer must be older than the layer that contains them. For example, the cobbles in a conglomerate must have been formed before the conglomerate.
+- The __principle of faunal succession__ states that there is a well-defined order in which organisms have evolved through geological time, and therefore the identification of specific fossils in a rock can be used to determine its age.
 
 These and other principles are discussed in more detail in [Chapter 19](https://openpress.usask.ca/physicalgeology/chapter/19-2-relative-dating-methods-2/).
 
@@ -368,9 +364,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The various structures described above are critical to understanding and interpreting the formation of sedimentary rocks. In addition to these structures, geologists also look very closely at sedimentary grains to determine their mineralogy or lithology (in order to make inferences about the type of source rock and the weathering processes), their degree of rounding, their sizes, and the extent to which they have been sorted by transportation and depositional processes.
 
-##### A Note About Fossils
+<div class="textbox">
+
+##### A Note About Fossils {-}
 
 Fossils are not covered in detail in this book, but they are extremely important for understanding sedimentary rocks. Fossils can be used to date sedimentary rocks, but just as importantly, they tell us a great deal about the depositional environment of the sediments and the climate at the time: they can help to differentiate marine, aquatic, and terrestrial environments; estimate the depth of the water; detect the existence of currents; and estimate average temperature and precipitation.
+
+</div>
 
 <div class="textbox textbox-exercise">
 
@@ -378,10 +378,10 @@ Fossils are not covered in detail in this book, but they are extremely important
 
 Sedimentary rocks can tell us a great deal about the environmental conditions that existed during the time of their formation. For each of the following rocks, make some inferences about the following:
 
-- Explain the differences between the four kinds of sedimentary rocks: clastic, chemical, biochemical, and organic.
-- Describe some of the specific kinds of rocks in each of the four categories, and the depositional environments in which they form.
-- Describe the various terrestrial and marine sedimentary depositional environments, and explain how the formation of sedimentary basins is related to plate tectonic processes.
-- Apply your understanding of the features of sedimentary rocks, including grain characteristics, sedimentary structures, and fossils, to the interpretation of past depositional environments and climates.
+- source rock
+- weathering
+- sediment transportation (medium of transport, transport distance)
+- depositional conditions
 
 __Quartz sandstone:__ no feldspar, well-sorted and well-rounded quartz grains, cross-bedded
 

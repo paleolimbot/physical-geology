@@ -39,13 +39,11 @@ Most metamorphism results from the burial of igneous, sedimentary, or pre-existi
 
 The main factors that control metamorphic processes are:
 
-- Summarize the factors that influence the nature of metamorphic rocks.
-- Explain how foliation forms in metamorphic rocks.
-- Classify metamorphic rocks based on their texture and mineral content, and explain the origins of both.
-- Describe the various settings in which metamorphic rocks are formed and explain the links between plate tectonics and metamorphism
-- Describe the different types of metamorphism, including burial metamorphism, regional metamorphism, seafloor metamorphism, subduction zone metamorphism, contact metamorphism, shock metamorphism, and dynamic metamorphism.
-- Explain how metamorphic facies and index minerals are used to characterize metamorphism in a region.
-- Explain why fluids are important for metamorphism and describe what happens during metasomatism.
+- The chemical composition of the parent rock
+- The temperature at which metamorphism takes place
+- The pressure applied, and whether the pressure is equal in all directions or not
+- The amount and type of fluid (mostly water) that is present during metamorphism
+- The amount of time over which metamorphic conditions are sustained
 
 ### Mineral composition
 

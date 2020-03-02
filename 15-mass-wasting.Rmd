@@ -1,8 +1,7 @@
 
 # Mass Wasting
 
-<p style="text-align: center">Adapted by Joyce M. McBeth, University of Saskatchewan
-from [_Physical Geology_](https://opentextbc.ca/geology/) by Steven Earle</p>
+_Adapted by Joyce M. McBeth, University of Saskatchewan from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
 
 <div class="textbox learning-objectives">
 
@@ -125,14 +124,14 @@ One other process that can weaken a body of rock or sediment is shaking. The mos
 
 ## Classification of Mass Wasting
 
-- Explain how slope stability is related to slope angle
-- Summarize some of the factors that influence the strength of materials on slopes, including the type of rock, the presence and orientation of planes of weakness such as bedding planes or fractures, the type of unconsolidated material upon the slope, and the effects of water flowing upon or within the slope material
-- Explain what types of events can trigger mass wasting
-- Summarize the types of motion that can happen during mass wasting
-- Describe the difference between a translational and a rotational slope failure
-- Describe the main types of mass wasting — creep, slump, slide, fall, and debris or mud flow — in terms of the types of materials involved, the type of motion, and the likely rates of motion
-- Explain what steps we can take to delay mass wasting, and why we cannot prevent it permanently
-- Describe some of the measures that can be taken to mitigate the risks associated with mass wasting
+- There are three criteria used to classify slope failures:
+- The type of material that failed (e.g., bedrock or unconsolidated sediment),
+- The mechanism of the failure (how the material moved as it failed), and
+- The rate of movement (how quickly the material moved).
+- The mechanism of the failure is the most important characteristic of a slope failure. There are three main mechanisms of slope failure:
+- Fall: in falls, the material falls through the air, either vertically or nearly vertically,
+- Slide: in slides, the material moves as a coherent mass along a sloping surface (with little to no internal motion within the mass), and
+- Flow: in flows the failing material has internal motion (like a fluid) as it moves.
 
 While we do not classify slope failures by the shape of the rupture surface, it is nevertheless an important feature used to describe mass wasting processes. The __rupture surface__ is the boundary between the slope and the sliding material. Slope failures with curved rupture surfaces are called __rotational slope failures__, and slope failures with planar rupture surfaces are called __translational slope failures.__
 
@@ -432,11 +431,7 @@ knitr::include_graphics(
 7. Residents at risk from Mt. Rainier lahars need to know what the warnings mean and roughly how much time they have between receiving a warning and being in actual danger. They need to create a plan to exit their residence quickly, and they need to know which way to go to get to safety as efficiently as possible.
 
 8. Some of the important factors include:
-    - Explain how slope stability is related to slope angle
-    - Summarize some of the factors that influence the strength of materials on slopes, including the type of rock, the presence and orientation of planes of weakness such as bedding planes or fractures, the type of unconsolidated material upon the slope, and the effects of water flowing upon or within the slope material
-    - Explain what types of events can trigger mass wasting
-    - Summarize the types of motion that can happen during mass wasting
-    - Describe the difference between a translational and a rotational slope failure
-    - Describe the main types of mass wasting — creep, slump, slide, fall, and debris or mud flow — in terms of the types of materials involved, the type of motion, and the likely rates of motion
-    - Explain what steps we can take to delay mass wasting, and why we cannot prevent it permanently
-    - Describe some of the measures that can be taken to mitigate the risks associated with mass wasting
+    - The steepness of the slope
+    - Any existing erosion processes happening at the base of the slope (e.g., wave or stream erosion)
+    - The nature of surface or shallow sub-surface drainage in the upper part of the slope, and any effects that the construction might have on the drainage
+    - The weight of the building (unless it is to be constructed in an excavation that represents more mass than the building itself)

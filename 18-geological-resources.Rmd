@@ -399,15 +399,12 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ## Answers to Chapter Review Questions
 
 1. Some of the components of a compact fluorescent lightbulb (and the resources used to make one) are as follows:
-    - Describe the importance of geological resources to our way of life
-    - Summarize the types of materials mined in Canada and explain some of the processes involved in the formation of metal deposits
-    - Explain how a metal deposit is developed into a mine
-    - Define acid rock drainage (ARD) and discuss why some mines can lead to ARD and contamination of the environment by metals
-    - Summarize some of the important industrial materials extracted in Canada and describe what they are used for
-    - Describe the processes that lead to the formation of coal deposits
-    - Explain the processes that lead to the formation of oil and gas, the distinction between source rocks and reservoir rocks, and the importance of traps
-    - Describe the origins and recovery of some of the unconventional fossil fuels
-    - Describe the origins, discovery, and extraction of diamonds in Canada
+    - Steel (iron, carbon from coal plus some manganese, nickel, chromium, molybdenum)
+    - Plastic housing (petroleum)
+    - Glass coil (silica from sand, plus minor amounts of sodium, calcium, and magnesium)
+    - Copper conductors, lead solder, and basal contact
+    - Silica (sand), plastics (petroleum), ceramics (clay), aluminum, gold, copper, etc. in the electronics
+    - Mercury inside the tube (less than 5 mg)
 
 2. Nickel deposits form within mafic and ultramafic igneous bodies because the original magma have relatively high nickel levels to begin with, while intermediate or felsic magma have low levels.
 
