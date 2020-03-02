@@ -494,7 +494,7 @@ Basalt often shows textural features related to lava freezing around gas bubbles
 #### Glassy Volcanic Rocks
 
 
-Crystal size is a function of cooling rate. The faster magma or lava cools, the smaller the crystals it contains. It is possible for lava to cool so rapidly that no crystals can form. The result is called __volcanic glass__. Volcanic glass can be smooth like __obsidian__ or vesicular like __scoria __(mafic) and __pumice__ (felsic; Figure \@ref(fig:figure-7-2)0). Pumice can float on water because of its low-density felsic composition and enclosed vesicles.
+Crystal size is a function of cooling rate. The faster magma or lava cools, the smaller the crystals it contains. It is possible for lava to cool so rapidly that no crystals can form. The result is called __volcanic glass__. Volcanic glass can be smooth like __obsidian__ or vesicular like __scoria __(mafic) and __pumice__ (felsic; Figure \@ref(fig:figure-7-20)). Pumice can float on water because of its low-density felsic composition and enclosed vesicles.
 
 
 ```{r figure-7-20, fig.cap='Glassy volcanic rocks. Obsidian has a glassy lustre, but scoria and pumice are highly vesicular. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photos by R. Weller/Cochise College. Click the image for links to photos._'}
@@ -518,7 +518,7 @@ In most cases, a body of hot magma is less dense than the rock surrounding it, s
 - Explain how chilled margins form.
 
 
-When magma forces itself into cracks, breaks off pieces of rock, and then envelops them, this is called __stoping__.  The resulting fragments are xenoliths[footnote]From the Greek words _xenos_, meaning "foreigner" or "stranger," and _lithos_ for "stone."[/footnote]. Xenoliths may appear as dark patches within a rock (Figure \@ref(fig:figure-7-2)1).
+When magma forces itself into cracks, breaks off pieces of rock, and then envelops them, this is called __stoping__.  The resulting fragments are xenoliths[footnote]From the Greek words _xenos_, meaning "foreigner" or "stranger," and _lithos_ for "stone."[/footnote]. Xenoliths may appear as dark patches within a rock (Figure \@ref(fig:figure-7-21)).
 
 
 ```{r figure-7-21, fig.cap='Xenoliths of mafic rock in granite, Victoria, B.C. The fragments of dark rock have been broken off and incorporated into the light-coloured granite._ Source: Steven Earle (2015) CC BY 4.0_ [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/xenoliths2.jpg)'}
@@ -526,7 +526,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 ```
 
 
-Some of the magma may reach the surface, resulting in volcanic eruptions, but most cools within the crust. The resulting body of rock is called a __pluton__.[footnote]After Pluto was demoted from planet status, astronomers tried to come up with a name for objects like Pluto. For a while they considered "pluton" however geologists rightly objected that they had first claim on the word. In the end the International Astronomical Union settled on "dwarf planet" instead.[/footnote] Plutons can have different shapes and different relationships with the surrounding country rock (Figure \@ref(fig:figure-7-2)2). These characteristics determine what name the pluton is given.
+Some of the magma may reach the surface, resulting in volcanic eruptions, but most cools within the crust. The resulting body of rock is called a __pluton__.[footnote]After Pluto was demoted from planet status, astronomers tried to come up with a name for objects like Pluto. For a while they considered "pluton" however geologists rightly objected that they had first claim on the word. In the end the International Astronomical Union settled on "dwarf planet" instead.[/footnote] Plutons can have different shapes and different relationships with the surrounding country rock (Figure \@ref(fig:figure-7-22)). These characteristics determine what name the pluton is given.
 
 Large, irregularly shaped plutons are called __stocks__ or __batholiths__, depending upon their size. Tabular plutons are called __dikes__ if they cut across existing structures, and __sills__ if they are parallel to existing structures. __Laccoliths__ are like sills, except they have caused the overlying rocks to bulge upward. __Pipes__ are cylindrical conduits.
 
@@ -545,7 +545,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 
 Large irregular-shaped plutons are called either __stocks__ or __batholiths__, depending on their area. If an irregularly shaped body has an area greater than 100 km<sup>2</sup>, then it’s a batholith, otherwise it's a stock. Note that our knowledge of the size of a body can be limited to what we see at the surface. A body with an area of less than 100 km<sup>2 </sup> exposed at the surface might in fact be much larger at depth. It might be classified as a stock initially, until someone is able to map out its true extent.
 
-Batholiths are typically formed when a number of stocks coalesce beneath the surface to create one large body. One of the largest batholiths in the world is the Coast Range Plutonic Complex[footnote]Also referred to as the Coast Range Batholith[/footnote], which extends all the way from the Vancouver region to southeastern Alaska (Figure \@ref(fig:figure-7-2)3).
+Batholiths are typically formed when a number of stocks coalesce beneath the surface to create one large body. One of the largest batholiths in the world is the Coast Range Plutonic Complex[footnote]Also referred to as the Coast Range Batholith[/footnote], which extends all the way from the Vancouver region to southeastern Alaska (Figure \@ref(fig:figure-7-23)).
 
 
 ```{r figure-7-23, fig.cap='The Coast Range Plutonic Complex (also called the Coast Range Batholith) is the largest in the world. It is part of a chain of batholiths along the western coast of North America. _Source: Karla Panchuk (2018) CC BY 4.0. Modified after Bally (1989)._'}
@@ -570,7 +570,7 @@ A __pipe__, as the name suggests, is a cylindrical body with a circular, ellipti
 
 As discussed already, plutons can interact with the rocks into which they are intruded. Partial melting of the country rock may occur, or stoping may form xenoliths. The heat from magma can even cause causing mineralogical and textural changes in country rock. However, country rock can also affect the magma.
 
-The most obvious effect that country rock can have on magma is a __chilled margin__ along the edges of the pluton (Figure \@ref(fig:figure-7-2)4). The country rock is much cooler than the magma, so magma that comes into contact with the country rock cools faster than magma toward the interior of the pluton. Rapid cooling leads to smaller crystals, so the texture along the edges of the pluton is different from that of the interior of the pluton, and the colour may be darker.
+The most obvious effect that country rock can have on magma is a __chilled margin__ along the edges of the pluton (Figure \@ref(fig:figure-7-24)). The country rock is much cooler than the magma, so magma that comes into contact with the country rock cools faster than magma toward the interior of the pluton. Rapid cooling leads to smaller crystals, so the texture along the edges of the pluton is different from that of the interior of the pluton, and the colour may be darker.
 
 
 ```{r figure-7-24, fig.cap='A mafic dike with chilled margins within basalt at Nanoose, B.C. The coin is 24 mm in diameter. The dike is about 25 cm across and the chilled margins are 2 cm wide. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/mafic-dyke2.png)_'}

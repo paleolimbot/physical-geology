@@ -166,7 +166,7 @@ Heard, H. C. (1960). Transition from Brittle Fracture to Ductile Flow in Solenho
 
 ## Folds
 
-__Folds__ are a type of ductile deformation. They form when rocks bend in response to stress. The sides of a fold are its __limbs__ (Figure \@ref(fig:figure-13-1)0). The limbs meet in a region of curvature called the __hinge zone__. A fold's __axial surface__ is an imaginary surface that runs along the hinge zone and cuts the fold in half. The line that forms when the axial surface intersects another surface, such as the top of a bed, is called the __axial trace__. Axial traces are sometimes marked on geological maps to show the location of the fold's hinge zone.
+__Folds__ are a type of ductile deformation. They form when rocks bend in response to stress. The sides of a fold are its __limbs__ (Figure \@ref(fig:figure-13-10)). The limbs meet in a region of curvature called the __hinge zone__. A fold's __axial surface__ is an imaginary surface that runs along the hinge zone and cuts the fold in half. The line that forms when the axial surface intersects another surface, such as the top of a bed, is called the __axial trace__. Axial traces are sometimes marked on geological maps to show the location of the fold's hinge zone.
 
 
 ```{r figure-13-10, fig.cap='The parts of a fold. A fold consists of limbs that meet at the hinge zone. An axial surface bisects the fold along the hinge zone. The axial trace is where the axial surface intersects another surface, such as the top of a bed. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photo: Ron Schott (2009) CC BY-NC-SA 2.0 [view source](https://flic.kr/p/7NNKZp)_'}
@@ -183,7 +183,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 #### Synclines and Anticlines
 
 
-Folds can be classified according to the whether the limbs slope toward or away from the hinge zone. If the limbs slope toward the hinge zone (i.e., the hinge zone points downward), as in the fold in the left of Figure \@ref(fig:figure-13-1)1, the fold is called a __syncline__. If the limbs slope away from the hinge zone  (i.e., the hinge zone points upward), the fold is called an __anticline__.  There is an anticline on the right side of Figure \@ref(fig:figure-13-1)1. The fold in Figure \@ref(fig:figure-13-1)0 is also an anticline. Sometimes an anticline or a syncline will occur by itself, but they can also occur in a series of alternating synclines and anticlines, similar to the way the anticline and syncline share a limb in Figure \@ref(fig:figure-13-1)1. A sequence of linked anticlines and synclines is called a __fold train__.
+Folds can be classified according to the whether the limbs slope toward or away from the hinge zone. If the limbs slope toward the hinge zone (i.e., the hinge zone points downward), as in the fold in the left of Figure \@ref(fig:figure-13-11), the fold is called a __syncline__. If the limbs slope away from the hinge zone  (i.e., the hinge zone points upward), the fold is called an __anticline__.  There is an anticline on the right side of Figure \@ref(fig:figure-13-11). The fold in Figure \@ref(fig:figure-13-10) is also an anticline. Sometimes an anticline or a syncline will occur by itself, but they can also occur in a series of alternating synclines and anticlines, similar to the way the anticline and syncline share a limb in Figure \@ref(fig:figure-13-11). A sequence of linked anticlines and synclines is called a __fold train__.
 
 
 ```{r figure-13-11, fig.cap='An asymmetrical syncline linked to an anticline on a beach in Cornwall, United Kingdom. The beds slope toward the hinge at different angles on either side of the axial surface. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photo: Harry Soar (2014) CC BY-NC-SA 2.0 [view source](https://flic.kr/p/nBP8JV)_'}
@@ -194,9 +194,9 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 #### Symmetrical, Asymmetrical, Overturned, and Recumbent
 
 
-In a __symmetrical fold__, the limbs slope at approximately the same angle on either side of the axial surface. The fold in Figure \@ref(fig:figure-13-1)0 is symmetrical. In an __asymmetrical fold__, the limbs slope at different angles on either side of the axial surface. The syncline in Figure \@ref(fig:figure-13-1)1 is asymmetrical. The limb on the left side of the syncline slopes toward the hinge at a steeper angle than the limb on the right.
+In a __symmetrical fold__, the limbs slope at approximately the same angle on either side of the axial surface. The fold in Figure \@ref(fig:figure-13-10) is symmetrical. In an __asymmetrical fold__, the limbs slope at different angles on either side of the axial surface. The syncline in Figure \@ref(fig:figure-13-11) is asymmetrical. The limb on the left side of the syncline slopes toward the hinge at a steeper angle than the limb on the right.
 
-If the fold is sufficiently tilted that the beds on one side have been tilted past vertical, and are sloping in the same direction, the fold is __overturned__ (Figure \@ref(fig:figure-13-1)2).
+If the fold is sufficiently tilted that the beds on one side have been tilted past vertical, and are sloping in the same direction, the fold is __overturned__ (Figure \@ref(fig:figure-13-12)).
 
 
 ```{r figure-13-12, fig.cap='Overturned folds in Andalusia in southern Spain. Some limbs have been overturned far enough to be sloping in the same direction on either side of the axial trace. _Source: Karla Panchuk (2018) CC BY-NC-SA 2.0. Photo: Ignacio Benvenuty Cabral (2017) CC BY-NC-SA 4.0 [view source](https://flic.kr/p/EB9FXy)_'}
@@ -204,7 +204,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ```
 
 
-It is possible for rocks to be folded so tightly that the fold limbs are nearly parallel. Folds with parallel limbs are called __isoclinal folds__. A __recumbent fold__ is an isoclinal fold that has been overturned to the extent that the limbs are horizontal (Figure \@ref(fig:figure-13-1)3).
+It is possible for rocks to be folded so tightly that the fold limbs are nearly parallel. Folds with parallel limbs are called __isoclinal folds__. A __recumbent fold__ is an isoclinal fold that has been overturned to the extent that the limbs are horizontal (Figure \@ref(fig:figure-13-13)).
 
 
 ```{r figure-13-13, fig.cap='A recumbent fold has limbs that are nearly parallel, and an axial trace that is nearly horizontal. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photo: Ignacio Benvenuty Cabral (2017) CC BY-NC-SA 4.0 [view source](https://flic.kr/p/8DVMGH)_'}
@@ -215,7 +215,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ### Folds in the Landscape
 
 
-Folds can be of any size, and it’s very common to have smaller folds within larger folds (Figure \@ref(fig:figure-13-1)4).  Large folds can extend over 10s of kilometres, and very small ones might only be visible under a microscope.
+Folds can be of any size, and it’s very common to have smaller folds within larger folds (Figure \@ref(fig:figure-13-14)).  Large folds can extend over 10s of kilometres, and very small ones might only be visible under a microscope.
 
 
 ```{r figure-13-14, fig.cap='Folded limestone (grey) and chert (rust-coloured) in rocks of the Triassic Quatsino Formation on Quadra Island, British Columbia.  The image is about 1 m across. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Triassic-Quatsino.jpg)_'}
@@ -223,7 +223,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 
-When folded rocks are weathered and eroded, they can alter the landscape by forming long ridges and valleys (Figure \@ref(fig:figure-13-1)5). Ridges and valleys curve into V-shapes if the hinge of the fold is not horizontal. A fold with a hinge that slopes downward is called a __plunging fold__ (Figure \@ref(fig:figure-13-1)6).
+When folded rocks are weathered and eroded, they can alter the landscape by forming long ridges and valleys (Figure \@ref(fig:figure-13-15)). Ridges and valleys curve into V-shapes if the hinge of the fold is not horizontal. A fold with a hinge that slopes downward is called a __plunging fold__ (Figure \@ref(fig:figure-13-16)).
 
 
 ```{r figure-13-15, fig.cap='Ridges and valleys in central Pennsylvania formed from weathered and eroded folds. The V-shapes indicate the folds are plunging. _Source: NASA on the Commons (2001) Public Domain [view source](https://flic.kr/p/pzkX9K)_'}
@@ -239,7 +239,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ```
 
 
-Folds can create landforms, but anticlines are not necessarily expressed as ridges in the terrain. Likewise, synclines do not necessarily appear as valleys. When folded rocks erode, the landform that results depends how resistant individual layers are to erosion. For example, if the rocks in the interior of an anticline are more resistant to weathering than the surrounding rocks, a ridge will result (e.g., the low hill represented by units 4 and 5 in Figure \@ref(fig:figure-13-1)7, top). On the other hand, if rocks in the interior of the anticline are weaker, a valley will result (Figure \@ref(fig:figure-13-1)7, bottom, units d<sup>1</sup> and d<sup>2</sup>). Similarly, a syncline with stronger rocks in the interior will weather to form a ridge, and a syncline with weaker rocks in the interior will weather to form a valley.
+Folds can create landforms, but anticlines are not necessarily expressed as ridges in the terrain. Likewise, synclines do not necessarily appear as valleys. When folded rocks erode, the landform that results depends how resistant individual layers are to erosion. For example, if the rocks in the interior of an anticline are more resistant to weathering than the surrounding rocks, a ridge will result (e.g., the low hill represented by units 4 and 5 in Figure \@ref(fig:figure-13-17), top). On the other hand, if rocks in the interior of the anticline are weaker, a valley will result (Figure \@ref(fig:figure-13-17), bottom, units d<sup>1</sup> and d<sup>2</sup>). Similarly, a syncline with stronger rocks in the interior will weather to form a ridge, and a syncline with weaker rocks in the interior will weather to form a valley.
 
 
 ```{r figure-13-17, fig.cap='Cross-sections of eroded folds expressed as hills and valleys, from an early study on the geology of Wales, Devon, and Cornwall. Top- An anticline in Shropshire, England. Beds in the interior of the anticline form a gentle hill. Bottom- An anticline in Herefordshire, England in which beds in the interior of an anticline weathered to form a valley. _Source: Symonds (1872) Public Domain. View source: [Top](https://archive.org/stream/recordsofrocksor00symoiala#page/152/mode/2up) /  _[_Bottom_](https://archive.org/stream/recordsofrocksor00symoiala#page/194/mode/2up)'}
@@ -273,7 +273,7 @@ Symonds, W. S. (1872). _Records of the rocks; or, Notes on the geology, natural 
 
 ## Fractures, Joints, and Faults
 
-When rocks break in response to stress, the resulting break is called a __fracture__. If rocks on one side of the break shift relative to rocks on the other side, then the fracture is a __fault__. If there is no movement of one side relative to the other, and if there are many other fractures with the same orientation, then the fractures are called __joints__. Joints with a common orientation make up a __joint set__ (Figure \@ref(fig:figure-13-1)9).
+When rocks break in response to stress, the resulting break is called a __fracture__. If rocks on one side of the break shift relative to rocks on the other side, then the fracture is a __fault__. If there is no movement of one side relative to the other, and if there are many other fractures with the same orientation, then the fractures are called __joints__. Joints with a common orientation make up a __joint set__ (Figure \@ref(fig:figure-13-19)).
 
 
 ```{r figure-13-19, fig.cap='Joint sets have broken these siltstone and shale beds into long rectangular planks. _Source: Michael C. Rygel (2008) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Joints_1.jpg)_'}
@@ -284,7 +284,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ### Jointing
 
 
-Most joints form when the overall stress regime is one of tension (pulling apart) rather than compression. The tension can be from a rock contracting, such as during the cooling of volcanic rock (Figure \@ref(fig:figure-13-9), upper left). It can also be from a body of rock expanding. __Exfoliation__ __joints__, which make the rock appear to be flaking off in sheets (Figure \@ref(fig:figure-13-2)0), occur when a body of rock expands in response to reduced pressure, such as when overlying rocks have been removed by erosion.
+Most joints form when the overall stress regime is one of tension (pulling apart) rather than compression. The tension can be from a rock contracting, such as during the cooling of volcanic rock (Figure \@ref(fig:figure-13-9), upper left). It can also be from a body of rock expanding. __Exfoliation__ __joints__, which make the rock appear to be flaking off in sheets (Figure \@ref(fig:figure-13-20)), occur when a body of rock expands in response to reduced pressure, such as when overlying rocks have been removed by erosion.
 
 
 ```{r figure-13-20, fig.cap='Half Dome at Yosemite National Park is an exposed granite batholith that displays exfoliation joints, causing sheets of rock to break off. _Source: HylgeriaK (2010) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Half_dome_yosemite_nationalpark_t1.JPG)_'}
@@ -292,7 +292,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ```
 
 
-Nevertheless, it is possible for joints to develop where the overall regime is one of compression. Joints can develop where rocks are being folded, because the hinge zone of the fold is under tension as it stretches to accommodate the bending (Figure \@ref(fig:figure-13-2)1).
+Nevertheless, it is possible for joints to develop where the overall regime is one of compression. Joints can develop where rocks are being folded, because the hinge zone of the fold is under tension as it stretches to accommodate the bending (Figure \@ref(fig:figure-13-21)).
 
 
 ```{r figure-13-21, fig.cap='Joints developed in the hinge zone of folded rocks. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/depiction-of-joints.png)_'}
@@ -300,7 +300,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 
-Joints can also develop in a rock a rock under compression as a way to accommodate the change in shape (Figure \@ref(fig:figure-13-2)2).  The joints accommodate the larger compression stress  (larger red arrows) by allowing the rock to stretch in the up-down direction (along the green arrows).
+Joints can also develop in a rock a rock under compression as a way to accommodate the change in shape (Figure \@ref(fig:figure-13-22)).  The joints accommodate the larger compression stress  (larger red arrows) by allowing the rock to stretch in the up-down direction (along the green arrows).
 
 
 ```{r figure-13-22, fig.cap='Joints developing to accommodate the larger horizontal component of compression (large red arrows). _Source: Steven Earle CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/joints-developed-in-a-rock.png)_'}
@@ -309,7 +309,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 <h1><strong>
 </strong> Faulting</h1>
-A fault is a boundary between two bodies of rock along which there has been relative motion (e.g., Figure \@ref(fig:figure-13-2)3). Some large faults, like the San Andreas fault in California or the Tintina fault, extending from northern British Columbia through central Yukon and into Alaska, show evidence of hundreds of kilometres of motion. Other faults show only centimetres of movement. In order to estimate the amount of motion on a fault, it is necessary to find a feature that shows up on both sides of the fault, and has been offset by the fault. This could be the edge of a bed or dike as in Figure \@ref(fig:figure-13-2)3, or it could be a landscape feature, such as a fence or a stream.
+A fault is a boundary between two bodies of rock along which there has been relative motion (e.g., Figure \@ref(fig:figure-13-23)). Some large faults, like the San Andreas fault in California or the Tintina fault, extending from northern British Columbia through central Yukon and into Alaska, show evidence of hundreds of kilometres of motion. Other faults show only centimetres of movement. In order to estimate the amount of motion on a fault, it is necessary to find a feature that shows up on both sides of the fault, and has been offset by the fault. This could be the edge of a bed or dike as in Figure \@ref(fig:figure-13-23), or it could be a landscape feature, such as a fence or a stream.
 
 
 ```{r figure-13-23, fig.cap='View looking down on a fault (white dashed line) in intrusive rocks on Quadra Island, British Columbia. The pink dyke has been offset approximately 10 cm by the fault (length of the white arrow). _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/intrusive-rocks-on-Quadra-Island.png)_'}
@@ -325,7 +325,7 @@ Different kinds of faults develop under different stress conditions. We describe
 ##### Dip-Slip Faults
 
 
-__Dip-slip faults__ are so named because the dominant motion involves moving up or down the dipping (tilting) fault plane. In dip-slip faults we identify rock above the fault as the __hanging wall__, (or __headwall__) and the rock beneath as the __footwall__. These terms were originally used by miners to describe the rocks above and below an ore body (Figure \@ref(fig:figure-13-2)4).
+__Dip-slip faults__ are so named because the dominant motion involves moving up or down the dipping (tilting) fault plane. In dip-slip faults we identify rock above the fault as the __hanging wall__, (or __headwall__) and the rock beneath as the __footwall__. These terms were originally used by miners to describe the rocks above and below an ore body (Figure \@ref(fig:figure-13-24)).
 
 
 ```{r figure-13-24, fig.cap='The hanging wall (or headwall) of a fault is the rock above the fault. The footwall is the rock below. These terms were originally used by miners to describe the rocks above and below an ore body. _Source: Photo- Gold Hill Mine, Yukon Territory, by Eric A. Hegg (1898) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Three_miners_using_pickaxes_in_underground_gold_mine_lit_by_candlelight,_Gold_Hill,_Yukon_Territory,_ca_1898_(HEGG_515).jpeg). Diagram- Karla Panchuk (2018) CC BY 4.0_'}
@@ -333,7 +333,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ```
 
 
-Tension produces __normal faults__, in which the crust undergoes extension. This permits the hanging wall to slide down the footwall in response to gravity (Figure \@ref(fig:figure-13-2)5, left). Compression produces __reverse faults__, pushing the hanging wall up relative to the footwall. Reverse faults shorten and thicken the crust (Figure \@ref(fig:figure-13-2)5, right).
+Tension produces __normal faults__, in which the crust undergoes extension. This permits the hanging wall to slide down the footwall in response to gravity (Figure \@ref(fig:figure-13-25), left). Compression produces __reverse faults__, pushing the hanging wall up relative to the footwall. Reverse faults shorten and thicken the crust (Figure \@ref(fig:figure-13-25), right).
 
 
 ```{r figure-13-25, fig.cap='Dip slip faults. Normal faults are caused by tension, while reverse faults happen during compression. _Source: Karla Panchuk (2018) CC BY-SA 4.0, modifed after Woudloper (2010) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Inverse_fault_EN-FR.svg)_'}
@@ -344,7 +344,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ##### Strike-Slip Faults
 
 
-Faults where the motion is mostly horizontal and along the “strike” or the length of the fault are called __strike-slip faults__ (Figure \@ref(fig:figure-13-2)6 bottom). These happen where shear stress causes bodies of rock to slide sideways with respect to each other, as is the case along a transform boundary. If the far side moves to the right, as in Figures 13.23 and 13.26 (right), it is a __right-handed__,__ right-lateral__,or __dextral __strike-slip fault. If the far side moves to the left it is a __left-handed__,__ left-lateral__, or __sinistral__ strike-slip fault.
+Faults where the motion is mostly horizontal and along the “strike” or the length of the fault are called __strike-slip faults__ (Figure \@ref(fig:figure-13-26) bottom). These happen where shear stress causes bodies of rock to slide sideways with respect to each other, as is the case along a transform boundary. If the far side moves to the right, as in Figures 13.23 and 13.26 (right), it is a __right-handed__,__ right-lateral__,or __dextral __strike-slip fault. If the far side moves to the left it is a __left-handed__,__ left-lateral__, or __sinistral__ strike-slip fault.
 
 
 ```{r figure-13-26, fig.cap='Strike-slip faults. Rocks on either side of the fault move parallel to the fault. In dextral strike-slip faults the far side moves to the right of the observer. In sinistral strike-slip faults the far side moves to the left of the observer. _Source: Karla Panchuk (2018) CC BY 4.0_'}
@@ -370,13 +370,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ##### Thrust Faults
 
 
-Thrust faults are a type of reverse fault with a very low-angle fault plane. The fault planes of thrust faults typically slope at less than 30°. Thrust faults are relatively common in mountain belts that were created by continent-continent collisions. Some represent tens of kilometres of thrusting, where thick sheets of sedimentary rock have been pushed up and over other layers of rock (Figure \@ref(fig:figure-13-2)8).
+Thrust faults are a type of reverse fault with a very low-angle fault plane. The fault planes of thrust faults typically slope at less than 30°. Thrust faults are relatively common in mountain belts that were created by continent-continent collisions. Some represent tens of kilometres of thrusting, where thick sheets of sedimentary rock have been pushed up and over other layers of rock (Figure \@ref(fig:figure-13-28)).
 
 
 ```{r figure-13-28, fig.cap='A thrust fault. Top: prior to faulting. Bottom: after significant fault offset. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/thrust-fault.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/thrust-fault.png")
 ```
-There are numerous thrust faults in the Rocky Mountains, and a well-known example is the McConnell Thrust, along which a sequence of sedimentary rocks about 800 m thick has been pushed for about 40 km from west to east over underlying rock (Figure \@ref(fig:figure-13-2)9). The thrusted rocks range in age from Cambrian to Cretaceous, so in the area around Mt. Yamnuska Cambrian-aged rock (around 500 Ma) has been thrust over, and now lies on top of Cretaceous-aged rock (around 75 Ma) (Figure \@ref(fig:figure-13-3)0).
+There are numerous thrust faults in the Rocky Mountains, and a well-known example is the McConnell Thrust, along which a sequence of sedimentary rocks about 800 m thick has been pushed for about 40 km from west to east over underlying rock (Figure \@ref(fig:figure-13-29)). The thrusted rocks range in age from Cambrian to Cretaceous, so in the area around Mt. Yamnuska Cambrian-aged rock (around 500 Ma) has been thrust over, and now lies on top of Cretaceous-aged rock (around 75 Ma) (Figure \@ref(fig:figure-13-30)).
 
 
 ```{r figure-13-29, fig.cap='The McConnell Thrust in the eastern part of the Rockies. The rock within the faded area has been eroded. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/McConnell-Thrust.png)_'}
@@ -429,7 +429,7 @@ Mountain building along convergent margins is referred to as __orogeny__, and th
 
 In ocean-continent collision zones, folding and faulting of rocks combines with volcanism to build mountains. An example of mountains built this way is the Sierra Nevada mountain range in Utah and Nevada. The orogeny that formed the Sierra Nevada range began around 140 million years ago.
 
-The mountain range was built up by igneous intrusions and volcanic eruptions along a continental volcanic arc (Figure \@ref(fig:figure-13-3)2). The terrain was altered further inland as well. Sheets of rock were thrust on top of each other, and pushed inland along a detachment fault, similar to the example of the McConnell Thrust in Figure \@ref(fig:figure-13-2)9.
+The mountain range was built up by igneous intrusions and volcanic eruptions along a continental volcanic arc (Figure \@ref(fig:figure-13-32)). The terrain was altered further inland as well. Sheets of rock were thrust on top of each other, and pushed inland along a detachment fault, similar to the example of the McConnell Thrust in Figure \@ref(fig:figure-13-29).
 
 
 ```{r figure-13-32, fig.cap='Orogeny in an ocean-continent collision zone. Mountains form from subduction zone volcanism, and from large sheets of rock that are thrust inland and folded. Materials accumulating on the leading edge of the continent in an accretionary wedge are eventually smashed onto the continent, adding to continental crust. _Source: Karla Panchuk (2018) CC BY 4.0. Modified after Ron Blakey, NAU Geology (n.d.) [view source](http://jan.ucc.nau.edu/rcb7/Sevier.jpg). Click the image for terms of use._'}
@@ -441,7 +441,7 @@ Continental crust flexed downward because of the weight of the mountains, and th
 
 __Continent-Continent Collision__
 
-When two continents collide, it means the closure of a subduction zone, and an end to volcanism. The Alleghenian Orogeny, which brought together North America and Africa, helping to form Pangea, is an example of mountain building in a continent-continent collision zone. Before the continents came into contact with each other, mountain building on the eastern coast of North America would have involved deformation from an ocean-continent collision, as with Figure \@ref(fig:figure-13-3)2. But as subduction proceeded, the subducting plate drew Africa closer and closer to North America. The gap between the two continents began to close, and fill with sediments (Figure \@ref(fig:figure-13-3)3, top).
+When two continents collide, it means the closure of a subduction zone, and an end to volcanism. The Alleghenian Orogeny, which brought together North America and Africa, helping to form Pangea, is an example of mountain building in a continent-continent collision zone. Before the continents came into contact with each other, mountain building on the eastern coast of North America would have involved deformation from an ocean-continent collision, as with Figure \@ref(fig:figure-13-32). But as subduction proceeded, the subducting plate drew Africa closer and closer to North America. The gap between the two continents began to close, and fill with sediments (Figure \@ref(fig:figure-13-33), top).
 
 
 ```{r figure-13-33, fig.cap='Orogeny by continent-continent collision. The formation of Pangea included the merging of Africa and North America. This closed an ocean basin and stopped subduction along the coast of North America. Volcanism ended with the closure of the ocean basin, but mountains continued to grow through folding and faulting. _Source: Karla Panchuk (2018) CC BY 4.0. Modified after Ron Blakey, NAU Geology (n.d.) [view source](http://jan.ucc.nau.edu/rcb7/Appalachian.jpg). Click the image for terms of use._'}
@@ -449,12 +449,12 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ```
 
 
-While a subduction zone existed, the addition of water to the mantle permitted partial melting of mantle rocks, and thus volcanic activity. However, when the two continents collided, the subduction zone closed off and volcanism was no longer possible. As the continents smashed together, deep faults formed and stacked blocks of crust on top of each other. Old faults were reactivated. Rocks also began to shift along the boundary between an earlier orogen, the Taconic Orogen, and North America (Figure \@ref(fig:figure-13-3)3, bottom).  When the continents had finally merged, Africa met North America along a __suture zone__ with remnants of a continental volcanic arc on one side, and folded and faulted sedimentary rocks on the other.
+While a subduction zone existed, the addition of water to the mantle permitted partial melting of mantle rocks, and thus volcanic activity. However, when the two continents collided, the subduction zone closed off and volcanism was no longer possible. As the continents smashed together, deep faults formed and stacked blocks of crust on top of each other. Old faults were reactivated. Rocks also began to shift along the boundary between an earlier orogen, the Taconic Orogen, and North America (Figure \@ref(fig:figure-13-33), bottom).  When the continents had finally merged, Africa met North America along a __suture zone__ with remnants of a continental volcanic arc on one side, and folded and faulted sedimentary rocks on the other.
 
 ### Mountain Building Along Divergent Margins
 
 
-When continents begin to split apart, normal faults form. This can lead to large blocks of crust that are tilted, raised, or lowered compared to adjacent blocks. Blocks that are elevated compared to adjacent blocks can form another type of mountain, called a __fault-block mountain__. Fault block mountains formed in eastern North America when Pangea began to split up, and Africa pulled away from North America (Figure \@ref(fig:figure-13-3)4).
+When continents begin to split apart, normal faults form. This can lead to large blocks of crust that are tilted, raised, or lowered compared to adjacent blocks. Blocks that are elevated compared to adjacent blocks can form another type of mountain, called a __fault-block mountain__. Fault block mountains formed in eastern North America when Pangea began to split up, and Africa pulled away from North America (Figure \@ref(fig:figure-13-34)).
 
 
 ```{r figure-13-34, fig.cap='Fault-block mountains formed in a rift zone. Magma can move up along normal faults, resulting in igneous intrusions, or volcanic eruptions. Over time, valleys between elevated blocks will fill with sediment as the blocks erode. _Source: Karla Panchuk (2018) CC BY 4.0. Modified after Ron Blakey, NAU Geology (n.d.) [view source](http://jan.ucc.nau.edu/rcb7/Palisades.jpg). Click the image for terms of use._'}
@@ -462,14 +462,14 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ```
 
 
-Over time, elevated blocks erode, filling up valleys with sediment. The thinning of continental crust that occurs with rifting can decrease the pressure on mantle rocks enough to trigger partial melting. Magma can move up along the normal faults, forming igneous intrusions, or feeding volcanoes. The Palisades Sill in New York and New Jersey is a result of rift-zone magmatism. It is a cliff-like feature resulting from erosion that exposed the tip of a structure like the sills in Figure \@ref(fig:figure-13-3)4.
+Over time, elevated blocks erode, filling up valleys with sediment. The thinning of continental crust that occurs with rifting can decrease the pressure on mantle rocks enough to trigger partial melting. Magma can move up along the normal faults, forming igneous intrusions, or feeding volcanoes. The Palisades Sill in New York and New Jersey is a result of rift-zone magmatism. It is a cliff-like feature resulting from erosion that exposed the tip of a structure like the sills in Figure \@ref(fig:figure-13-34).
 
 
 ## Measuring Geological Structures
 
 Documenting the characteristics of geological structures is used to understand the geological history of a region. One of the key features to measure is the orientation, or __attitude__, of bedding. We know that sedimentary beds are deposited in horizontal layers, so if the layers are no longer horizontal, then we can infer that tectonic forces have folded or tilted them.
 
-The orientation of a planar feature, such as a bed of sedimentary rock, can be described with two values. The __strike __of the bed is the compass orientation of a horizontal line on the surface of the bed. The __dip __is the angle at which the surface tilts down from the horizontal (Figure \@ref(fig:figure-13-3)5). The dip is measured perpendicular to strike, otherwise the dip angle that is measured will be smaller than the actual tilt of the bed.
+The orientation of a planar feature, such as a bed of sedimentary rock, can be described with two values. The __strike __of the bed is the compass orientation of a horizontal line on the surface of the bed. The __dip __is the angle at which the surface tilts down from the horizontal (Figure \@ref(fig:figure-13-35)). The dip is measured perpendicular to strike, otherwise the dip angle that is measured will be smaller than the actual tilt of the bed.
 
 
 ```{r figure-13-35, fig.cap='Strike and dip for tilted sedimentary beds. Water provides a horizontal surface. The strike and dip symbol is a T with the long horizontal bar representing the strike direction, and the small tick mark indicating the dip direction. The dip angle is written next to the tick mark. _Source: Karla Panchuk (2018) CC BY 4.0. Modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/strike-and-dip-of-some-tilted-sedimentary-beds.png)_'}
@@ -481,7 +481,7 @@ It may help to imagine a vertical surface, such as a wall in your house. The st
 
 When reporting the dip, include the direction. For example, if the strike runs north-south and the dip is 30˚, it would be necessary to specify “to the west” or “to the east.”  Similarly if the strike is northeast-southwest and the dip is 60˚, it would be necessary to say “to the northwest” or “to the southeast.” In the case of the vertical wall with a dip angle of 90˚, there is no dip direction. The dip points straight down, not toward any compass direction.
 
-Measurement of geological features is done with a special compass that has a built-in __clinometer__, which is a device for measuring vertical angles. The strike is measured by aligning the compass along a horizontal line on the surface of the feature (Figure \@ref(fig:figure-13-3)6, left). The dip is measured by turning the compass on its side and aligning it along the dip direction (Figure \@ref(fig:figure-13-3)6, right).
+Measurement of geological features is done with a special compass that has a built-in __clinometer__, which is a device for measuring vertical angles. The strike is measured by aligning the compass along a horizontal line on the surface of the feature (Figure \@ref(fig:figure-13-36), left). The dip is measured by turning the compass on its side and aligning it along the dip direction (Figure \@ref(fig:figure-13-36), right).
 
 
 ```{r figure-13-36, fig.cap='Measurement of strike (left) and dip (right) using a geological compass with a clinometer.  _Source: Steven Earle (2015) CC BY 4.0 view source [left](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/figure-12.19.png)/ [right](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/figure12.192.png)_'}
@@ -489,7 +489,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 ```
 
 
-Strike and dip are used to describe any other planar features, including joints, faults, dykes, sills, and even the foliation planes in metamorphic rocks. Figure \@ref(fig:figure-13-3)7 shows an example of how we would depict the beds that make up an anticline on a map. The beds on the west (left) side of the map are dipping at various angles to the west. The beds on the east side are dipping to the east. The beds in the middle are horizontal; this is denoted by a cross within a circle on the map. The dyke is dipping at 80˚ to the west. The hinge line of the fold is denoted with a dashed line on the map, with two arrows pointing away from it, indicating the general dip directions of the limbs.  If it were a syncline, the arrows would point inward toward the line.
+Strike and dip are used to describe any other planar features, including joints, faults, dykes, sills, and even the foliation planes in metamorphic rocks. Figure \@ref(fig:figure-13-37) shows an example of how we would depict the beds that make up an anticline on a map. The beds on the west (left) side of the map are dipping at various angles to the west. The beds on the east side are dipping to the east. The beds in the middle are horizontal; this is denoted by a cross within a circle on the map. The dyke is dipping at 80˚ to the west. The hinge line of the fold is denoted with a dashed line on the map, with two arrows pointing away from it, indicating the general dip directions of the limbs.  If it were a syncline, the arrows would point inward toward the line.
 
 
 ```{r figure-13-37, fig.cap='A depiction of an anticline and a dyke in cross-section (looking from the side) and in map view (or plan view) with the appropriate strike-dip and anticline symbols. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/anticline-and-a-dyke-in-cross-section.png)_'}
@@ -559,7 +559,7 @@ The strike and dip of planar surfaces, such as a bedding planes, fractures or fa
 
 3. List some of the factors that influence whether a rock will undergo ductile deformation or break when placed under stress.
 
-4. Draw in the axial traces of the folds in Figure \@ref(fig:figure-13-3)9, and label each with the appropriate type (e.g., overturned syncline).
+4. Draw in the axial traces of the folds in Figure \@ref(fig:figure-13-39), and label each with the appropriate type (e.g., overturned syncline).
 
 
 ```{r figure-13-39, fig.cap='A cross-section showing folds. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://openpress.usask.ca/app/uploads/sites/29/2017/05/label-any-of-the-important-features-of-the-folds.png)_'}
@@ -573,7 +573,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 7. What type of fault would you expect to see at a transform plate boundary?
 
-8. Figure \@ref(fig:figure-13-4)0 is a map of the geology of a region. The coloured areas represent sedimentary beds.
+8. Figure \@ref(fig:figure-13-40) is a map of the geology of a region. The coloured areas represent sedimentary beds.
 
 (i) Describe in words the _general_ attitude (strike and dip) of these beds.
 
