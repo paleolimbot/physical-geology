@@ -14,18 +14,12 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 After reading this chapter and answering the review questions at the end, you should be able to:
 
 - Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
-
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
-
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
-
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
-
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
-
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
-
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+- Describe the main processes of mechanical weathering, and the materials that are produced.
+- Describe the main processes of chemical weathering, and common chemical weathering products.
+- Explain the characteristics used to describe sediments, and what those characteristics can tell us about the origins of the sediments.
+- Discuss the relationships between weathering and soil formation, and the origins of soil horizons.
+- Describe and explain the distribution of Canadian soil types.
+- Explain how changing weathering rates affect the carbon cycle and the climate system.
 
 </div>
 
@@ -221,7 +215,11 @@ Weathering does not happen at the same rate in all environments. The same types 
 
 Water and temperature are key factors controlling both weathering rates and the types of weathering that occur:
 
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+- Water is required for chemical weathering reactions to occur.
+- Water must be present for ice wedging to happen.
+- Higher temperatures speed up chemical reactions.
+- Climate will determine whether water is present mostly in liquid form, solid form (ice), or both.
+- Climate will determine what plant life is available to force rocks apart with their roots, and to contribute organic acids to soils to aid in chemical weathering.
 
 This means, for example, that chemical weathering will be faster in a tropical rainforest than in the Arctic, a cold desert. It means physical weathering will be the predominant form of weathering in the Arctic.
 
@@ -237,7 +235,10 @@ The minerals making up a rock will determine what kinds of chemical weathering r
 
 In general, differences in the rates of chemical weathering among minerals can be broken down as follows:
 
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+
+- Minerals that weather by dissolution (e.g., halite, gypsum, calcite) are the easiest to weather.
+- Silicate minerals with lower silica to oxygen ratios (e.g., silicates made of isolated silica tetrahedra or single chains) are easier to weather than silicate minerals with higher ratios (e.g., those made of silica tetrahedra arranged sheets or frameworks).
+- Minerals that are by-products of chemical weathering are some of the most resistant to further chemical weathering, although they may be more prone to physical weathering (e.g., clay minerals).
 
 ### Weathering Makes Weathering Go Faster
 
@@ -349,7 +350,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 Soil forms through the mechanical and chemical weathering of rocks and sediments, and the accumulation and decay of organic matter. The factors that affect the nature of soil and the rate of its formation include:
 
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+- Climate, especially average temperature and precipitation amounts, and the consequent types of vegetation
+- The parent rock or sediment that was weathered to make the soil
+- The slope of the surface where soil is accumulating
+- How long soil has been forming at a location
 
 #### Climate
 
@@ -389,7 +393,11 @@ Because soil takes so long to form, human activities that damage soils have long
 
 When soils form, the downward movement of clay, water, and dissolved ions can lead to the development of chemically and texturally distinct layers known as __soil horizons__. In temperate climates, common soil horizons that develop are the following (Figure \@ref(fig:figure-8-23)):
 
-- Explain why rocks formed at depth in the crust are susceptible to weathering at the surface.
+- O horizon: A layer of organic matter
+- A horizon: Partially decayed organic matter mixed with mineral material
+- E horizon: The eluviated (leached) layer from which some of the clay and iron have been removed to create a pale layer that may be sandier than the other layers
+- B horizon: Where clay, iron, and other elements from the overlying soil accumulate
+- C horizon: Contains broken fragments of rock. Weathering of the underlying bedrock or sediments is not yet complete.
 
 ```{r figure-8-23, fig.cap='Typical horizons in a temperate soil, from Wales. Source: Karla Panchuk (2018) CC BY 4.0. Photograph: Richard Hartnup (2005) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Podzol.jpg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/soil-horizons.png")
