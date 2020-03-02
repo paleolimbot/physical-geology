@@ -1,7 +1,7 @@
 
 # Geological Resources
 
-_Adapted from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 <div class="textbox learning-objectives">
 

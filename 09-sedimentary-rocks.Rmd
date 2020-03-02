@@ -1,7 +1,7 @@
 
 # Sedimentary Rocks
 
-_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-9-1, fig.cap='Cretaceous sedimentary rocks exposed along a road near Drumheller, Alberta, Canada. Sedimentary rocks form in layers called beds, and the planar boundaries that separate each bed are called contacts. Each bed tells a story about the conditions in which it formed. In this picture the beds are indicating that sea level repeatedly rose and fell. The black layer about halfway up the picture is a coal seam. It tells us that the environment at that time was swampy. _Source: Karla Panchuk (2008) CC BY 4.0_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Drumheller-roadside-1024x768.jpg")

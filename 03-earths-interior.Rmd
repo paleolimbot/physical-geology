@@ -1,7 +1,7 @@
 
 # Earth's Interior
 
-_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-3-1, fig.cap='The red rocks of the Tablelands in Gros Morne National Park are a sample of Earth\'s mantle. Top: The red rocks of the Tablelands are on the right, and stand in contrast with the green surroundings. Bottom: A closer view of Tablelands terrain, showing rocks weathered red, and a near absence of plant life. _Source: Top photograph- Leos Kral (2008) CC BY-NC-SA 2.0 [view source](https://flic.kr/p/6J9p2G); Bottom photograph: Tara Joyce (2013) CC BY-SA 2.0 [view source](https://flic.kr/p/ghdf6j). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Tablelands.png")

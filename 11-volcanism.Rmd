@@ -1,7 +1,7 @@
 
 # Volcanism
 
-_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-11-1, fig.cap='Mt. Garibaldi (in the background), near Squamish BC, is one of Canada’s most recently active volcanoes, last erupted approximately 10,000 years ago. It is also one of the tallest, at 2,678 m in height. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Photograph: Michael Scheltgen (2006) CC BY 2.0 [view source](https://commons.wikimedia.org/wiki/File:Mount_Garibaldi3.jpg) Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Mt_Garibaldi_with_location.png")

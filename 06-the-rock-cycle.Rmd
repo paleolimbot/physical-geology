@@ -1,7 +1,7 @@
 
 # The Rock Cycle
 
-_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-6-1, fig.cap='A petrified beach near Rock Springs, Wisconsin, U. S. A. The wrinkled face of this vertical cliff displays ripples from an ancient beach. Flowing water moved sand grains to form ripples, and over time the sand was transformed into a solid sedimentary rock. The petrified beach was buried deeper and deeper, and the higher pressures and temperatures caused the sand grains to lose their individual boundaries and merge together. Thus, the sedimentary rock was transformed into a different type of rock, called a metamorphic rock. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Ablemans_Gorge_ripples.png")

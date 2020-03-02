@@ -1,7 +1,7 @@
 
 # Metamorphism and Metamorphic Rocks
 
-_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-10-1, fig.cap='Grey and white striped metamorphic rocks (called gneiss) at Pemaquid Point were transformed by extreme heat and pressure during plate tectonic collisions. _Source: Karla Panchuk (2018) CC BY 4.0. Photos by Joyce McBeth (2009) CC BY 4.0 view source [left](https://flic.kr/p/24BLzLH)/ [right](https://flic.kr/p/24BLC5v). Map by Flappiefh (2013), derivative of Reisio (2005), Public Domain [view source](https://en.m.wikipedia.org/wiki/File:Blankmap-ao-090W-americas.png)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06/Pemaquid-Point.png")

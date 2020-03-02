@@ -1,7 +1,7 @@
 
 # Igneous Rocks
 
-_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-7-1, fig.cap='Lava lake of Mount Nyiragongo, a volcano in the Democratic Republic of Congo. Igneous rocks form when melted rock freezes. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photo by Baron Reznik (2015) CC BY-NC-SA 2.0 [view source](https://flic.kr/p/Djj4js). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/Nyiragongo.png")

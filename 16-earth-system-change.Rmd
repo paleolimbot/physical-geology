@@ -1,7 +1,7 @@
 
 # Earth-System Change
 
-_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/chapter/chapter-19-climate-change/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-16-1, fig.cap='Antarctic Peninsula. Antarctica was not always covered by ice. A change in the Earth system triggered the onset of Antarctic glaciation approximately 40 million years ago. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Photo: Liam Quinn (2011) [view source](https://flic.kr/p/aeGSmH). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Lemaire_Channel.png")

@@ -1,7 +1,7 @@
 
 # Glaciation
 
-_Adapted by Joyce McBeth, University of Saskatchewan from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Joyce M. McBeth) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-17-1, fig.cap='Glaciers in the Alberta Rockies: Athabasca Glacier (centre left), Dome Glacier (right), and the Columbia Icefield (visible above both glaciers). The Athabasca Glacier has prominent lateral moraines on both sides. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Glaciers-in-the-Alberta-Rockies.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/athabasca-2.png")

@@ -1,7 +1,7 @@
 
 # Measuring Geological Time
 
-_Adapted by Tim Prokopiuk &amp; Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Tim Prokopiuk and Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-19-1, fig.cap='Arizona’s Grand Canyon is an icon for geological time; 1,450 million years are represented by this photo. The light-coloured layers of rocks at the top formed at ~ 250 Ma, and the dark ones at the bottom of the canyon at ~ 1,700 Ma. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Arizona%E2%80%99s-Grand-Canyon.jpg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Arizona-Grand-Canyon-SE-1024x401.jpg")

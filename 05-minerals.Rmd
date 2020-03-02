@@ -1,7 +1,7 @@
 
 # Minerals
 
-_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-5-1, fig.cap='Giant crystals of gypsum in the Naica Mine in Mexico. The crystals formed in volcanically heated water, and became accessible when the cave was drained as part of mining activities. The cave was very hot, making it fatal for visitors to enter without cooling equipment and respirators. When mining activities ceased, caverns were allowed to flood again. _Source: Karla Panchuk CC BY-NC-SA 4.0. Photograph- Paul Williams (2009) CC BY-NC 2.0 [view source](https://flic.kr/p/j1VaYH). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Naica_mine.png")

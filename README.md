@@ -5,9 +5,9 @@ _Physical Geology_ is a comprehensive introductory text on the physical aspects 
 
 ## How to edit this book
 
-The easiest way to edit this book is to click the "edit" button on the top of any page of the [rendered book](https://paleolimbot.github.io/physical-geology). This will link you to the appropriate page, which you can edit (you may have to create a GitHub account and "fork" this repository, but it's all pretty well explained!).
+The easiest way to edit this book is to click the "edit" button on the top of any page of the [rendered book](https://paleolimbot.github.io/physical-geology). This will link you to the appropriate page, which you can edit (you may have to create a GitHub account and "fork" this repository).
 
-If you'd like make many edits to the sources of this book, you should "fork" the repo or download the complete source (using the green button at the top right of this page) and open the project in RStudio. RStudio provides a number of tools to edit bookdown projects, with built-in support for rendering and bulk editing.
+If you'd like make many edits to the sources of this book, you should "fork" the repo or download the complete source (using the green button at the top right of this page) and open the project in RStudio. RStudio provides a number of tools to edit bookdown projects, with built-in support for rendering and bulk editing. You can [get started with bookdown](https://bookdown.org/yihui/bookdown/get-started.html) at <https://bookdown.org>.
 
 ## Copyright
 

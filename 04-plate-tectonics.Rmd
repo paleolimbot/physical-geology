@@ -1,7 +1,7 @@
 
 # Plate Tectonics
 
-_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
+_Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-4-1, fig.cap='Iceland is known for its volcanoes, which are present because Iceland is located on the Mid-Atlantic Ridge, where the Atlantic Ocean is spreading apart and new crust is forming. In fact, Iceland exists because that volcanic activity has built up the island from the ocean floor. Iceland is cut by rift zones (white lines on the map at left) where the island is splitting apart along with the rest of the Atlantic Ocean. Rift zones are marked by belts of young volcanic rocks (dark green). You can stand on a rift zone if you visit Thingvellir National Park (right). Rifting has produced a valley where the crust has settled downward. The margins of the North American and Eurasian tectonic plates are visible as ridges on either side of the valley. The photographer was standing on a ridge on the North American side. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Photo: Ruth Hartnup (2005) CC BY 2.0 [view source](https://flic.kr/p/46R5g). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Thingvellir_rift-1024x330.png")
