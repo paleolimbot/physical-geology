@@ -42,20 +42,20 @@ Streams are the most important agents of erosion and transportation of sediments
 <p class="NormalOT">Water is constantly on the move. It is evaporated from the oceans, lakes, streams, the surface of the land, and from plants (transpiration) by solar energy (Figure \@ref(fig:figure-14-2)). It is transported in its gaseous form through the atmosphere by the wind and condenses to form clouds of water droplets or ice crystals. It falls to the Earth’s surface as rain or snow and flows through streams, into lakes, and eventually back to the oceans. Water on the surface and in streams and lakes infiltrates the ground to become groundwater. Groundwater slowly moves through soils, surficial materials, and pores and cracks in the rock. The groundwater flow paths can intersect with the surface and the water can then move back into streams, lakes and oceans.</p>
 
 
-```{r figure-14-2, fig.cap='The various components of the water cycle. Black or white text indicates the movement or transfer of water from one reservoir to another. Yellow text indicates the storage of water . Source: Steven Earle (2015) CC BY-SA 3.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/water-cycle.png) after Wikimedia user “Ingwik” (2010) CC-BY-SA 3.0. [view source](https://commons.wikimedia.org/wiki/File:Water_cycle_blank.svg)'}
+```{r figure-14-2, fig.cap='The various components of the water cycle. Black or white text indicates the movement or transfer of water from one reservoir to another. Yellow text indicates the storage of water . Source: Steven Earle (2015) CC BY-SA 3.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/water-cycle.png) after Wikimedia user “Ingwik” (2010) CC-BY-SA 3.0. [view source](https://commons.wikimedia.org/wiki/File:Water_cycle_blank.svg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/water-cycle.png")
 ```
 
 <p class="NormalOT">Water is stored in various reservoirs as it moves across and through the Earth. A __reservoir__ is a space that stores water. It can be a space we can easily visualize (such as a lake) or a space that is more difficult to visualize (such as the atmosphere or the groundwater in a region). The largest reservoir is the ocean, accounting for 97% of the total volume of water on Earth (Figure \@ref(fig:figure-14-3)). Ocean water is salty, but the remaining 3% of water on Earth is fresh water. Two-thirds of our fresh water is stored in the ground and one-third is stored in ice. The remaining fresh water (about 0.03% of the total) is stored in lakes, streams, vegetation, and the atmosphere.</p>
 
 
-```{r figure-14-3, fig.cap='The storage reservoirs for water on Earth. Glacial ice is represented by the white band, groundwater the red band, and surface water the very thin blue band at the top. The 0.001% stored in the atmosphere is not shown.  Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/storage-reservoirs.png), data from USGS Water Science School (2016) [view source](http://bit.ly/USGSH2O)'}
+```{r figure-14-3, fig.cap='The storage reservoirs for water on Earth. Glacial ice is represented by the white band, groundwater the red band, and surface water the very thin blue band at the top. The 0.001% stored in the atmosphere is not shown. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/storage-reservoirs.png), data from USGS Water Science School (2016) [view source](http://bit.ly/USGSH2O)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/storage-reservoirs.png")
 ```
 To put these percentages in perspective, we can compare a 1 litre container of water to the entirety of the Earth’s water supply (Figure \@ref(fig:figure-14-4)). We start by almost filling the container with 970 ml of water and 34 g of salt, to simulate all the sea water on Earth. Then we add one regular-sized (_ca_ 20 ml) ice cube (representing glacial ice) and two teaspoons (_ca_ 10 ml) of groundwater. All of the water that we see around us in lakes and streams and in the atmosphere can be represented by adding three more drops of water from an eyedropper.
 
 
-```{r figure-14-4, fig.cap='Representation of the Earth’s water in a 1 litre container. The three drops represent all of the fresh water in lakes, streams, and wetlands, plus all of the water in the atmosphere.  Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Earth%E2%80%99s-water.png)'}
+```{r figure-14-4, fig.cap='Representation of the Earth’s water in a 1 litre container. The three drops represent all of the fresh water in lakes, streams, and wetlands, plus all of the water in the atmosphere. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Earth%E2%80%99s-water.png)'}
 knitr::include_graphics("http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Earth’s-water.png#fixme#fixme")
 ```
 
@@ -67,7 +67,7 @@ knitr::include_graphics("http://opentextbc.ca/geology/wp-content/uploads/sites/1
 ##### Exercise 14.1 How Long Does Water Stay in the Atmosphere?
 
 
-The residence time of a water molecule in the atmosphere (or any of the other reservoirs) can be estimated by dividing the total amount of water in the reservoir by the rate at which it is removed. For the atmosphere, we know that the reservoir size is 13,000 km<sup>3</sup>, and the rate is 1,580 km<sup>3</sup>/day. If we divide 13,000 km<sup>3</sup> by 1,580 km<sup>3</sup>/day, we get 8.22 days. This means that, _on average_, a molecule of water stays in the atmosphere for just over eight days. “Average” needs to be emphasized here because some molecules remain in the air for only a few hours, while others may remain in the air for weeks.
+The residence time of a water molecule in the atmosphere (or any of the other reservoirs) can be estimated by dividing the total amount of water in the reservoir by the rate at which it is removed. For the atmosphere, we know that the reservoir size is 13,000 km<sup>3</sup>, and the rate is 1,580 km<sup>3</sup>/day. If we divide 13,000 km<sup>3</sup> by 1,580 km<sup>3</sup>/day, we get 8.22 days. This means that, _on average_, a molecule of water stays in the atmosphere for just over eight days. “Average” needs to be emphasized here because some molecules remain in the air for only a few hours, while others may remain in the air for weeks.
 
 The volume of the oceans is 1,338,000,000 km<sup>3</sup> and the rate of removal of water from the oceans is approximately the same as the atmosphere (1,580 km<sup>3</sup>/day). What is the average residence time of a water molecule in the ocean?
 
@@ -80,13 +80,13 @@ The volume of the oceans is 1,338,000,000 km<sup>3</sup> and the rate of removal
 A stream is a body of flowing surface water of any size, ranging from a tiny trickle to a mighty river. The area from which the water flows to form a stream is known as its drainage basin or watershed. All of the precipitation (rain or snow) that falls within a drainage basin eventually flows into its stream, unless some of this water is able to cross into an adjacent drainage basin via groundwater flow. An example of a drainage basin is shown in Figure \@ref(fig:figure-14-5)
 
 
-```{r figure-14-5, fig.cap='A schematic diagram of the drainage basin of Cawston Creek near Keremeos, BC. The blue line shows the extent of the drainage basin. The dashed red line is the drainage basin of one of its tributaries.  Source: Steven Earle (2015) CC BY 4.0 [view source ](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/cawston-2.png)'}
+```{r figure-14-5, fig.cap='A schematic diagram of the drainage basin of Cawston Creek near Keremeos, BC. The blue line shows the extent of the drainage basin. The dashed red line is the drainage basin of one of its tributaries. Source: Steven Earle (2015) CC BY 4.0 [view source ](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/cawston-2.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Cawston-Creek-e1438915203759.png")
 ```
 
 <p class="NormalOT">An important characteristic of streams is their __gradient__, the rate of change in elevation with distance along the stream. A steep gradient has a rapid change in elevation with horizontal distance, and a shallow gradient has a slow change in elevation with horizontal distance. Cawston Creek drainage basin in BC is approximately 25 km<sup><span class="sup">2</span></sup> and is a typical small drainage basin within a very steep glaciated valley. As shown in Figure \@ref(fig:figure-14-6), the upper and middle parts of the creek have steep <span class="bold">gradients </span>averaging about 200 m/km but ranging from 100 to 350 m/km, and the lower part, within the valley of the Similkameen River, is relatively flat at &lt;5 m/km.</p>
 <p class="NormalOT">The shape of the valley has changed through time to result in the shape we see now. First, there was tectonic uplift (related to tectonic plate convergence). Then the landscape changed due to stream erosion and mass wasting (landslides). This was followed by several episodes of glacial erosion. Finally, there was post-glacial stream erosion up to the present time. The lowest elevation of Cawston Creek (275 m, where the creek flows into the Similkameen River) is its <span class="bold">base level</span>. Cawston Creek cannot erode below this level unless the Similkameen River erodes deeper into its flood plain (the area that is inundated during a flood). Base level is the elevation where a stream will no longer erode deeper into the bedrock or sediments it flows through, because the elevation of the stream does not drop below this level, and further erosion can only occur if there is an elevation drop to propel the water deeper due to the force of gravity.</p>
-The ocean is the ultimate base level, but lakes and other rivers act as base levels  for many smaller streams.
+The ocean is the ultimate base level, but lakes and other rivers act as base levels for many smaller streams.
 
 
 ```{r figure-14-6, fig.cap='Profile of the main portion of Cawston Creek near Keremeos, BC. The maximum elevation of the drainage basin is about 1,840 m, near Mount Kobau. The base level is 275 m, at the Similkameen River. As shown, the gradient of the stream can be determined by dividing the change in elevation between any two points (rise) by the distance between those two points (run). Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Cawston-Creek-profile.png)'}
@@ -107,12 +107,12 @@ __Rectangular patterns__ develop in areas that have very little topography and a
 ```{r figure-14-8, fig.cap='Typical dendritic, trellis, and rectangular stream drainage patterns. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/dendritic.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/dendritic.png")
 ```
-In many parts of Canada, especially relatively flat areas with thick glacial sediments, and throughout much of Canadian Shield in eastern and central Canada, drainage patterns are chaotic , also known as __deranged__ (Figure \@ref(fig:figure-14-9), left). Lakes and wetlands are common in this type of environment.
+In many parts of Canada, especially relatively flat areas with thick glacial sediments, and throughout much of Canadian Shield in eastern and central Canada, drainage patterns are chaotic , also known as __deranged__ (Figure \@ref(fig:figure-14-9), left). Lakes and wetlands are common in this type of environment.
 
 __Radial __drainage (Figure \@ref(fig:figure-14-9), right) is a pattern that forms around isolated mountains (such as volcanoes) or hills. The individual streams that radiate out from the hill typically have dendritic drainage patterns.
 
 
-```{r figure-14-9, fig.cap='Left: a typical deranged pattern; right: a typical radial drainage pattern developed around a mountain or hill.  Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/deranged-radial-2.png)'}
+```{r figure-14-9, fig.cap='Left: a typical deranged pattern; right: a typical radial drainage pattern developed around a mountain or hill. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/deranged-radial-2.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/deranged-and-radial.png")
 ```
 The process of a stream eroding downward into bedrock is called __downcutting__. Over geological time, and during tectonic quiescence, a stream will erode its drainage basin into a smooth profile similar to that shown in Figure \@ref(fig:figure-14-10) This is called a __graded stream__. Graded streams are steepest in their headwaters and their gradient gradually decreases toward their mouths. __Ungraded streams__ are still in the process of rapidly eroding and downcutting their drainage basin, they have steep sections at various points, and typically have rapids and waterfalls at numerous locations along their lengths (e.g., Cawston Creek, Figure \@ref(fig:figure-14-6)).
@@ -149,10 +149,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11
 In the late 19th century, American geologist William Davis proposed that streams and the surrounding terrain develop in a cycle of erosion (Figure \@ref(fig:figure-14-14)). Following tectonic uplift, the stream patterns are immature. Streams erode quickly, developing deep V-shaped valleys that tend to follow relatively straight paths. Gradients are high, and profiles are ungraded. Rapids and waterfalls are common. As the landscape matures, the streams erode wider valleys and deposited thick sediment layers. Even after maturity, gradients are slowly reduced and grading increases. In old age, streams are surrounded by rolling hills, and they occupy wide sediment-filled valleys. Meandering patterns are common, and erosion now is focussed towards the channel walls, with little downcutting.
 
 
-```{r figure-14-14, fig.cap='A depiction of the Davis cycle of erosion: a: initial stage, b: youthful stage, c: mature stage, and d: old age . Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Davis-cycle-of-erosion.png)'}
+```{r figure-14-14, fig.cap='A depiction of the Davis cycle of erosion: a: initial stage, b: youthful stage, c: mature stage, and d: old age . Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Davis-cycle-of-erosion.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Davis-cycle-of-erosion.png")
 ```
-Davis’s work was done long before the idea of plate tectonics, and he was also not familiar with the impacts of glacial erosion on streams and their environments. While some parts of his idea are out of date, it is still a useful way to understand streams and their evolution.  Plate tectonic activity and other processes such as isostatic rebound after glaciation results in uplift that alters stream gradients, so streams are constantly adjusting due to these changing conditions. It would be relatively rare to find a stream that is able to mature through all of these stages without interruption.
+Davis’s work was done long before the idea of plate tectonics, and he was also not familiar with the impacts of glacial erosion on streams and their environments. While some parts of his idea are out of date, it is still a useful way to understand streams and their evolution. Plate tectonic activity and other processes such as isostatic rebound after glaciation results in uplift that alters stream gradients, so streams are constantly adjusting due to these changing conditions. It would be relatively rare to find a stream that is able to mature through all of these stages without interruption.
 <div class="bcc-box bcc-info">
 <div class="textbox exercises">
 
@@ -176,7 +176,7 @@ When a dam is built on a stream, a reservoir (artificial lake) forms behind the 
 <p class="NormalOT">Flowing water is a very important mechanism for both erosion and deposition. Water flow in a stream is primarily related to the stream’s gradient, but it is also controlled by the geometry of the stream channel. As shown in Figure \@ref(fig:figure-14-15), water flow velocity decreases due to friction along the stream bed. The stream is thus slowest at the bottom and edges and fastest near the surface and in the middle of the stream (where there is the least amount of friction). The velocity just below the surface of the water is typically a little higher than right at the surface because of friction between the water and the air. On a curved section of a stream, flow is fastest on the outside of the curve and slowest on the inside of the curve.</p>
 
 
-```{r figure-14-15, fig.cap='The relative velocity of stream flow depending on whether the stream channel is straight or curved (left). (Right) it is also dependent on the water depth. The length of each of the arrows indicates the relative velocity of the stream at that position in the channel. Shorter arrows mean slower flow . Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/meandering.png)'}
+```{r figure-14-15, fig.cap='The relative velocity of stream flow depending on whether the stream channel is straight or curved (left). (Right) it is also dependent on the water depth. The length of each of the arrows indicates the relative velocity of the stream at that position in the channel. Shorter arrows mean slower flow . Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/meandering.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/relative-velocity-of-stream-flow.png")
 ```
 
@@ -189,7 +189,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 <p class="NormalOT">If you drop a piece of gravel into a glass of water, it will sink quickly to the bottom. If you drop a grain of sand into the same glass, it will sink more slowly. A grain of silt will take longer yet to get to the bottom, and a particle of fine clay will take a long time settle out. The rate of settling is determined by the balance between gravity and friction, as shown in Figure \@ref(fig:figure-14-16).</p>
 
 
-```{r figure-14-16, fig.cap='How quickly a grain settles to the bottom of a stream depends on its mass (affecting the force of gravity acting on it), and the friction between the grain and the water, which slows the fall of the grain.  Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/grain.png)'}
+```{r figure-14-16, fig.cap='How quickly a grain settles to the bottom of a stream depends on its mass (affecting the force of gravity acting on it), and the friction between the grain and the water, which slows the fall of the grain. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/grain.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/grain-225x300.png")
 ```
 One of the key principles of sedimentary geology is that the ability of a moving medium (air or water) to move sedimentary particles and keep them moving is dependent on the velocity of flow. The faster the medium flows, the larger the particles it can move. As you probably know from intuition and from experience, streams that flow rapidly tend to be __turbulent __(flow paths are chaotic and the water surface appears rough) and the water may be muddy. In contrast, streams that flow more slowly tend to have __laminar flow __(straight-line flow and a smooth water surface) and clearer water. Turbulent flow is more effective than laminar flow at keeping sediments suspended within the water.
@@ -198,7 +198,7 @@ One of the key principles of sedimentary geology is that the ability of a moving
 Stream water also has a __dissolved load__, which represents (on average) about 15% of the mass of material transported, and includes ions such as calcium (Ca<sup>+2</sup>) and chloride (Cl<sup>-</sup>) in solution. The solubility of these ions is not affected by flow velocity.
 
 
-```{r figure-14-17, fig.cap='Modes of transportation of sediments and dissolved ions (represented by red dots with + and – signs) in a stream . Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/transportation-of-sediments.png)'}
+```{r figure-14-17, fig.cap='Modes of transportation of sediments and dissolved ions (represented by red dots with + and – signs) in a stream . Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/transportation-of-sediments.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/transportation-of-sediments.png")
 ```
 
@@ -248,7 +248,7 @@ Refer to the Hjulström-Sundborg diagram in Figure \@ref(fig:figure-14-18) to an
 A stream typically reaches its greatest velocity when it is close to flooding over its banks. This is known as the__ bank-full__ stage, as shown in Figure \@ref(fig:figure-14-19). When the flooding stream overtops its banks and occupies the wide area of its flood plain, the water has a much larger area to flow through and the velocity drops dramatically. As water flows from the channel out across the flood plain, it slows down and starts to deposit its sediment load. This forms an elevated bank known as a __levee__ along the edges of the channel__. __The coarsest and thickest sediments are deposited near the channel banks, with particle size and thickness decreasing as you move further into the flood plain. People also build levees as flood control measures; the idea for this engineered solution to floods came from the naturally-build levees that form during floods.
 
 
-```{r figure-14-19, fig.cap='The development of natural levees during flooding of a stream. The sediments of the levee become increasingly fine away from the stream channel, and even finer sediments — clay, silt, and very fine sand — are deposited across most of the flood plain .  Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/natural-lev%C3%A9es.png)'}
+```{r figure-14-19, fig.cap='The development of natural levees during flooding of a stream. The sediments of the levee become increasingly fine away from the stream channel, and even finer sediments — clay, silt, and very fine sand — are deposited across most of the flood plain . Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/natural-lev%C3%A9es.png)'}
 knitr::include_graphics("http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/natural-levées.png#fixme#fixme")
 ```
 
@@ -260,7 +260,7 @@ knitr::include_graphics("http://opentextbc.ca/geology/wp-content/uploads/sites/1
 <p class="NormalOT">__<span class="bold">Youthful streams</span> __that are actively downcutting their channels tend to be relatively straight and are typically ungraded (meaning that rapids and waterfalls are common). As shown in Figures 14.1 and 14.20, youthful streams commonly have a__ <span class="bold">step-pool</span> __morphology, meaning that the stream consists of a series of pools connected by rapids and waterfalls. They also have steep gradients, and steep and narrow V-shaped valleys. In some cases these valley walls are steep enough to be called canyons.</p>
 
 
-```{r figure-14-20, fig.cap='The Cascade Falls area of the Kettle River, near Christina Lake, BC. This stream has a step-pool morphology and a deep bedrock channel.  Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Cascade-Falls-area.jpg)'}
+```{r figure-14-20, fig.cap='The Cascade Falls area of the Kettle River, near Christina Lake, BC. This stream has a step-pool morphology and a deep bedrock channel. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Cascade-Falls-area.jpg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Cascade-Falls-area.jpg")
 ```
 
@@ -310,7 +310,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 
 
-The gradient is the key factor controlling stream velocity, and stream velocity controls sediment erosion and deposition. This map shows the elevations of Priest Creek in the Kelowna area. The length of the creek between 1,600 m and 1,300 m elevation is 2.4 km, so the gradient is (1,600 m - 1,300 m)/2.4  km = 125 m/km.
+The gradient is the key factor controlling stream velocity, and stream velocity controls sediment erosion and deposition. This map shows the elevations of Priest Creek in the Kelowna area. The length of the creek between 1,600 m and 1,300 m elevation is 2.4 km, so the gradient is (1,600 m - 1,300 m)/2.4 km = 125 m/km.
 <ol>
  	<li>Use the scale bar to estimate the distance between 1,300 m and 600 m and calculate the gradient between these two elevations.</li>
  	<li>Estimate the gradient between 600 and 400 m.</li>
@@ -439,21 +439,21 @@ __Table 14.1__ Ranking of the maximum stage and discharge values for the Fraser 
 <p class="NormalOT">After the 1950 Red River flood, the Manitoba government built a channel around the city of Winnipeg to reduce the potential of flooding in the city (Figure \@ref(fig:figure-14-28)). Known as the Red River Floodway, the channel was completed in 1964 at a cost of $63 million. Since then it has been used many times to alleviate flooding in Winnipeg, and is estimated to have saved many billions of dollars in flood damage. The massive 1997 flood (Figure \@ref(fig:figure-14-28), right side) was almost too much for the floodway; in fact the amount of water diverted was greater than the designed capacity. The floodway has recently been expanded so that it can be used to divert even more of the Red River’s flow away from Winnipeg.</p>
 
 
-```{r figure-14-28, fig.cap='(left) map of the Red River Floodway around Winnipeg, Manitoba; (right) aerial view of the southern (inlet) end of the floodway during the 1997 Red River flood. Sources: (left) Wikimedia user “Kmusser” (2007) CC BY 2.5[ view source,](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/winnipeg-2.png) (right) Natural Resources Canada 2012, courtesy of the Geological Survey of Canada (Photo 2000-118 by G.R. Brooks ).'}
+```{r figure-14-28, fig.cap='(left) map of the Red River Floodway around Winnipeg, Manitoba; (right) aerial view of the southern (inlet) end of the floodway during the 1997 Red River flood. Sources: (left) Wikimedia user “Kmusser” (2007) CC BY 2.5[ view source,](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/winnipeg-2.png) (right) Natural Resources Canada 2012, courtesy of the Geological Survey of Canada (Photo 2000-118 by G.R. Brooks ).'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Red-river-Floodway.png")
 ```
 
 <p class="NormalOT">Canada’s most costly flood ever was the June 2013 flood in southern Alberta. The flooding was initiated by snowmelt and worsened by heavy rains in the Rockies due to an anomalous flow of moist air from the Pacific and the Caribbean. At Canmore, AB rainfall amounts exceeded 200 mm in 36 hours, and at High River, AB 325 mm of rain fell in 48 hours.</p>
 
 
-```{r figure-14-29, fig.cap='Map of the communities most affected by the 2013 Alberta floods  (in orange) Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Alberta-floods.png)'}
+```{r figure-14-29, fig.cap='Map of the communities most affected by the 2013 Alberta floods (in orange) Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Alberta-floods.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Alberta-floods.png")
 ```
 
 <p class="NormalOT">In late June and early July, the discharges of several rivers in the area, including the Bow River in Banff, Canmore, and Exshaw, the Bow and Elbow Rivers in Calgary, the Sheep River in Okotoks, and the Highwood River in High River, reached levels that were 5 to 10 times higher than normal for that time of year (see Exercise 14.5). Large areas of Calgary, Okotoks, and High River were flooded, and five people died (see Figures 14.29 and 14.30). The cost of the 2013 flood is estimated to be approximately $5 billion.</p>
 
 
-```{r figure-14-30, fig.cap='Flooding in Calgary (June 21, left) and Okotoks (June 20, right) during the 2013 southern Alberta flood. Sources: (left) Wikimedia user Ryan L.C. Quan (2013) CC BY-SA 3.0 [view source](https://en.wikipedia.org/wiki/2013_Alberta_floods#/media/File:Riverfront_Ave_Calgary_Flood_2013.jpg) (right) Wikimedia user “Stephanie N. Jones” (2013) CC BY-SA 3.0 [view source ](https://en.wikipedia.org/wiki/2013_Alberta_floods#/media/File:Okotoks_-_June_20,_2013_-_Flood_waters_in_local_campground_playground-03.JPG)'}
+```{r figure-14-30, fig.cap='Flooding in Calgary (June 21, left) and Okotoks (June 20, right) during the 2013 southern Alberta flood. Sources: (left) Wikimedia user Ryan L.C. Quan (2013) CC BY-SA 3.0 [view source](https://en.wikipedia.org/wiki/2013_Alberta_floods#/media/File:Riverfront_Ave_Calgary_Flood_2013.jpg) (right) Wikimedia user “Stephanie N. Jones” (2013) CC BY-SA 3.0 [view source ](https://en.wikipedia.org/wiki/2013_Alberta_floods#/media/File:Okotoks_-_June_20,_2013_-_Flood_waters_in_local_campground_playground-03.JPG)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Flooding-in-Calgary.png")
 ```
 
@@ -488,7 +488,7 @@ The largest flood recorded along the Bow River over that period of time was the 
 <ol>
  	<li>Calculate the recurrence interval for the second largest flood (1932, 1,520 m3/s).</li>
  	<li>What is the probability that a flood of 1,520 m3/s will happen next year?</li>
- 	<li>Examine the 100-year trend for floods along the Bow River. If you ignore the major floods  (the labelled ones), what is the general trend of peak discharges over this time?</li>
+ 	<li>Examine the 100-year trend for floods along the Bow River. If you ignore the major floods (the labelled ones), what is the general trend of peak discharges over this time?</li>
 </ol>
 
 ```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Water-Surveys-of-Canada.png) Source: Steven Earle (2015) CC BY 4.0[ view source](http://wateroffice.ec.gc.ca/search/searchDownload_e.html), from data at Water Surveys of Canada, Environment Canada [view source ](http://wateroffice.ec.gc.ca/search/searchDownload_e.html)'}
@@ -569,7 +569,7 @@ Most streams in Canada have their highest discharge rates in spring and early su
 
 8. A braided stream can develop where there is more sediment available than can be carried in the amount of water present at the rate at which that water is flowing. This may happen where the gradient drops suddenly, or where there is a dramatic increase in the amount of sediment available (e.g., following an explosive volcanic eruption).
 
-9. If a meander is cut off it reduces the length of a stream so it increases the gradient.
+9. If a meander is cut off it reduces the length of a stream so it increases the gradient.
 
 10. The average gradient of the Fraser River between Hope and the Pacific Ocean is 0.28 m/km (or 28 cm/km).
 

@@ -46,7 +46,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 __<span style="font-family: Times">Transportation</span>__ is the movement of sediments or dissolved ions from the site of erosion to a site of deposition. This can be by wind, flowing water, glacial ice, or mass movement down a slope. __<span style="font-family: Times">Deposition</span>__ takes place where the conditions change enough so that the sediments can no longer be transported. This could happen if the current slows down.
 
-__<span style="font-family: Times">Burial</span>__ occurs when sediments are deposited upon existing sediments, covering and compacting them. __<span style="font-family: Times">Lithification</span>__ is what happens when those compacted sediments become cemented together to form solid sedimentary rock. Lithification occurs at depths of hundreds to thousands of metres within Earth.
+__<span style="font-family: Times">Burial</span>__ occurs when sediments are deposited upon existing sediments, covering and compacting them. __<span style="font-family: Times">Lithification</span>__ is what happens when those compacted sediments become cemented together to form solid sedimentary rock. Lithification occurs at depths of hundreds to thousands of metres within Earth.
 
 ### Four Types of Sedimentary Rocks
 
@@ -69,7 +69,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 __Cementation__ is the next step. Groundwater flowing through the remaining pore spaces contains ions, and these ions may precipitate, leaving behind minerals in the pore spaces. These minerals bind the grains together, and are referred to collectively as __cement__. Quartz and calcite are common cement minerals, but depending on pressure, temperature, and chemical conditions, cement might also include other minerals such as hematite and clay.
 
-Figure \@ref(fig:figure-9-4) shows sandstone viewed under a microscope. The grains are all quartz but they appear different shades of grey because they are being viewed through cross-polarized light. It is difficult to tell the grains from the cement in this case because both are made of quartz, but in the image on the right the more obvious grain boundaries are marked with dashed lines.  Some of the cement is marked with blue shading. Using the image on the right, see if you can pick out the grain boundaries in the image on the left.
+Figure \@ref(fig:figure-9-4) shows sandstone viewed under a microscope. The grains are all quartz but they appear different shades of grey because they are being viewed through cross-polarized light. It is difficult to tell the grains from the cement in this case because both are made of quartz, but in the image on the right the more obvious grain boundaries are marked with dashed lines. Some of the cement is marked with blue shading. Using the image on the right, see if you can pick out the grain boundaries in the image on the left.
 
 
 ```{r figure-9-4, fig.cap='Sandstone under a microscope. Grains and cement are quartz. Left- Original image. Right- Visible grain boundaries are marked with dashed lines, and some of the cement is shaded in blue. _Source: Karla Panchuk (2018) CC BY 4.0 modified after Woudloper, Public Domain [view source](http://bit.ly/218II28)_'}
@@ -83,7 +83,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 Clastic sedimentary rocks are named according to the characteristics of clasts (rock and mineral fragments) that comprise them. These characteristics include grain size, shape, and sorting. The different types of clastic sedimentary rocks are summarized in Figure \@ref(fig:figure-9-5)
 
 
-```{r figure-9-5, fig.cap='Types of clastic sedimentary rocks. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0, Photos by James St. John and  R. Weller/ Cochise College. Click the image for more attributions._'}
+```{r figure-9-5, fig.cap='Types of clastic sedimentary rocks. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0, Photos by James St. John and R. Weller/ Cochise College. Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/clastic_table.png")
 ```
 
@@ -91,7 +91,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 #### Coarse-Grained Clastic Rocks
 
 
-Clastic sedimentary rocks in which a significant proportion of the clasts are larger than 2 mm are known as conglomerate if the clasts are well rounded, or breccia if they are angular (Figure \@ref(fig:figure-9-5), top row). Conglomerates form in high-energy environments, such as fast-flowing rivers, where the particles can become rounded as they bump into each other while being carried along.  Breccias typically form where the particles are not transported a significant distance, such as in alluvial fans and talus slopes.
+Clastic sedimentary rocks in which a significant proportion of the clasts are larger than 2 mm are known as conglomerate if the clasts are well rounded, or breccia if they are angular (Figure \@ref(fig:figure-9-5), top row). Conglomerates form in high-energy environments, such as fast-flowing rivers, where the particles can become rounded as they bump into each other while being carried along. Breccias typically form where the particles are not transported a significant distance, such as in alluvial fans and talus slopes.
 
 #### Medium-Grained Clastic Rocks
 
@@ -108,7 +108,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 
 
-__Wacke__ is a "dirty" sandstone, containing 15-75% fine-grained particles (clay, silt) in its matrix.  A wacke can have more fine-grained particles than cement in its matrix, making for a crumbly rock.  Wackes are subdivided in the same way that arenites are: quartz wacke, feldspathic wacke, and lithic wacke. Another name for a lithic wacke is __greywacke__.
+__Wacke__ is a "dirty" sandstone, containing 15-75% fine-grained particles (clay, silt) in its matrix. A wacke can have more fine-grained particles than cement in its matrix, making for a crumbly rock. Wackes are subdivided in the same way that arenites are: quartz wacke, feldspathic wacke, and lithic wacke. Another name for a lithic wacke is __greywacke__.
 
 Figure \@ref(fig:figure-9-7) shows thin sections[footnote]Thin sections are slivers of rock sliced thinly enough so that light can pass through them, and they can be examined under a microscope.[/footnote] (microscopic views) of quartz arenite, arkose, and lithic wacke. In the images, quartz grains are marked Q, feldspar grains are marked F, and lithic fragments are marked L. Notice the relative abundances of each component in the three types of rocks.
 
@@ -171,19 +171,19 @@ Maturity in sediments refers to the extent to which sediment characteristics ref
 
 ## Chemical and Biochemical Sedimentary Rocks
 
-Clastic sedimentary rocks are dominated by components that have been transported as solid clasts (clay, silt, sand, etc.). In contrast, chemical and biochemical sedimentary rocks are dominated by components that have been transported as ions in solution (e.g., Na<sup>+</sup>, Ca<sup>2+</sup>, HCO<sub>3<sup>–</sup></sub>, etc.). There is some overlap between the two because almost all clastic sedimentary rocks contain cement formed from dissolved ions, and many chemical sedimentary rocks include some clasts. The difference between chemical and biochemical sedimentary rocks is that in biochemical sedimentary rocks, organisms play a role in turning the ions into sediment. This means the presence and nature of biochemical sedimentary rocks are linked to the life requirements of the organisms that comprise them. In chemical sedimentary rocks, the process is inorganic, often resulting from a body of water evaporating and concentrating the ions.  It is possible for one type of sedimentary rock to form from both chemical (inorganic) and biochemical (organically mediated) processes.
+Clastic sedimentary rocks are dominated by components that have been transported as solid clasts (clay, silt, sand, etc.). In contrast, chemical and biochemical sedimentary rocks are dominated by components that have been transported as ions in solution (e.g., Na<sup>+</sup>, Ca<sup>2+</sup>, HCO<sub>3<sup>–</sup></sub>, etc.). There is some overlap between the two because almost all clastic sedimentary rocks contain cement formed from dissolved ions, and many chemical sedimentary rocks include some clasts. The difference between chemical and biochemical sedimentary rocks is that in biochemical sedimentary rocks, organisms play a role in turning the ions into sediment. This means the presence and nature of biochemical sedimentary rocks are linked to the life requirements of the organisms that comprise them. In chemical sedimentary rocks, the process is inorganic, often resulting from a body of water evaporating and concentrating the ions. It is possible for one type of sedimentary rock to form from both chemical (inorganic) and biochemical (organically mediated) processes.
 
-Chemical and biochemical sedimentary rocks are classified based on the minerals they contain, and are frequently dominated by a single mineral. It is true that some clastic sedimentary rocks, such as quartz arenite, can also be dominated by a single mineral, but the reasons for this are different. A clastic sedimentary rock can contain whatever minerals were present in the parent rock.  The minerals the clastic rock ends up containing will depend on how much “processing” the sediments undergo by physical and chemical weathering, and transport, before the sediment was cemented. On the other hand, chemical sedimentary rocks are limited largely to those minerals that are highly soluble in water.  Because mineral content is a defining characteristic of chemical and biochemical sedimentary rocks, we will use it to organize our discussion of these rocks.
+Chemical and biochemical sedimentary rocks are classified based on the minerals they contain, and are frequently dominated by a single mineral. It is true that some clastic sedimentary rocks, such as quartz arenite, can also be dominated by a single mineral, but the reasons for this are different. A clastic sedimentary rock can contain whatever minerals were present in the parent rock. The minerals the clastic rock ends up containing will depend on how much “processing” the sediments undergo by physical and chemical weathering, and transport, before the sediment was cemented. On the other hand, chemical sedimentary rocks are limited largely to those minerals that are highly soluble in water. Because mineral content is a defining characteristic of chemical and biochemical sedimentary rocks, we will use it to organize our discussion of these rocks.
 
 ### Carbonate Rocks
 
 
-Carbonate rocks are those in which the dominant mineral contains the carbonate anion (CO<sub>3</sub><sup>2-</sup>).  The main carbonate minerals are calcite and aragonite. Both minerals have the formula CaCO<sub>3</sub> but they have different crystal structures.  A less common carbonate mineral that is still important for forming carbonate rocks is dolomite, which has the formula CaMg(CO<sub>3</sub>)<sub>2</sub>. It is similar to calcite and aragonite, except that some of the calcium is replaced with magnesium. Dolomite is more common as a replacement mineral, which has replaced calcite in carbonate rocks.
+Carbonate rocks are those in which the dominant mineral contains the carbonate anion (CO<sub>3</sub><sup>2-</sup>). The main carbonate minerals are calcite and aragonite. Both minerals have the formula CaCO<sub>3</sub> but they have different crystal structures. A less common carbonate mineral that is still important for forming carbonate rocks is dolomite, which has the formula CaMg(CO<sub>3</sub>)<sub>2</sub>. It is similar to calcite and aragonite, except that some of the calcium is replaced with magnesium. Dolomite is more common as a replacement mineral, which has replaced calcite in carbonate rocks.
 
 #### Limestone
 
 
-__Limestone__ is comprised of calcite and aragonite. It can occur as a chemical sedimentary rock, forming inorganically due to precipitation, but most limestone is biochemical in origin.  In fact, limestone is by far the most common biochemical sedimentary rock.
+__Limestone__ is comprised of calcite and aragonite. It can occur as a chemical sedimentary rock, forming inorganically due to precipitation, but most limestone is biochemical in origin. In fact, limestone is by far the most common biochemical sedimentary rock.
 
 Almost all limestone forms in marine (i.e., oceans or salty seas) environments, and most of that forms on the shallow continental shelves, especially in tropical regions with coral reefs. Today continental shelves are relatively narrow zones along the margins of continents, but for large parts of geologic history sea-level was much higher, and large parts of the interiors of continents were flooded.
 
@@ -198,7 +198,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 Figure \@ref(fig:figure-9-10) shows a cross-section through a typical reef environment in a tropical region (normally between 40° N and 40° S). Reefs tend to form near the edges of steep drop-offs because the reef organisms thrive on nutrient-rich upwelling currents. As the reef builds up, it is eroded by waves and currents to produce carbonate sediments that are transported into the steep offshore __fore-reef__ area and the shallower inshore __back-reef__ area. Reef-derived sediments are dominated by reef-type carbonate fragments of all sizes, including mud.
 
 
-```{r figure-9-10, fig.cap='Cross-section through a typical tropical reef. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/tropical-reef.png)_'}
+```{r figure-9-10, fig.cap='Cross-section through a typical tropical reef. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/tropical-reef.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/tropical-reef.png")
 ```
 
@@ -242,7 +242,7 @@ Calcite and dolomite can be distinguished from one another by applying a drop of
 ### Chert
 
 
-Chert is made of silica (SiO<sub>2</sub>). It has the same chemical formula as quartz, but is __cryptocrystalline__, meaning that the quartz crystals comprising chert are so small that it is difficult to see them even under a microscope.  Chert can be a chemical sedimentary rock, often forming as beds within limestone (Figure \@ref(fig:figure-9-14)), or as irregular lenses or blobs (nodules). It can also be biochemical. Some tiny marine organisms (e.g., diatoms and radiolaria) make their tests from silica. When they die their tiny shells (or tests) settle slowly to the bottom of the lake or ocean, where they accumulate and are transformed into chert.
+Chert is made of silica (SiO<sub>2</sub>). It has the same chemical formula as quartz, but is __cryptocrystalline__, meaning that the quartz crystals comprising chert are so small that it is difficult to see them even under a microscope. Chert can be a chemical sedimentary rock, often forming as beds within limestone (Figure \@ref(fig:figure-9-14)), or as irregular lenses or blobs (nodules). It can also be biochemical. Some tiny marine organisms (e.g., diatoms and radiolaria) make their tests from silica. When they die their tiny shells (or tests) settle slowly to the bottom of the lake or ocean, where they accumulate and are transformed into chert.
 
 
 ```{r figure-9-14, fig.cap='Chert (brown layers) interbedded with limestone, Triassic Quatsino Fm, Quadra Island, BC. All of the layers have been folded, and the chert, being more resistant to weathering than limestone, stands out. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Chert.png)_'}
@@ -256,7 +256,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 <div>
 <div>
 
-Some ancient chert beds — most dating to between 1800 and 2400 Ma — are also part of a rock known as a  __banded iron formation (BIF)__. It is a deep sea-floor deposit of iron oxide that is a common ore of iron. These rocks consist of alternating layers of dark iron oxide minerals (magnetite and hematite) and chert stained red by hematite (Figure \@ref(fig:figure-9-15)).
+Some ancient chert beds — most dating to between 1800 and 2400 Ma — are also part of a rock known as a __banded iron formation (BIF)__. It is a deep sea-floor deposit of iron oxide that is a common ore of iron. These rocks consist of alternating layers of dark iron oxide minerals (magnetite and hematite) and chert stained red by hematite (Figure \@ref(fig:figure-9-15)).
 
 </div>
 
@@ -269,7 +269,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 </div>
 <div>
 <div></div>
-<div>BIFs formed before Earth's atmosphere was fully oxygenated.  At that time, seawater contained abundant soluble ferrous iron (Fe<sup>2+</sup>).  However, once cyanobacteria began releasing oxygen into the atmosphere as a byproduct of photosynthesis, the iron in the seawater reacted with the oxygen, turning it into insoluble ferric iron (Fe<sup>3+</sup>). The result was that iron oxide minerals precipitated and sank to the ocean floor. The prevalence of BIFs in rocks dating from 2400 to 1800 Ma reflects a time when free oxygen was being added to the atmosphere, but removed just as quickly by chemical reactions. After 1800 Ma, little dissolved iron was left in the oceans so no more BIFs formed.</div>
+<div>BIFs formed before Earth's atmosphere was fully oxygenated. At that time, seawater contained abundant soluble ferrous iron (Fe<sup>2+</sup>). However, once cyanobacteria began releasing oxygen into the atmosphere as a byproduct of photosynthesis, the iron in the seawater reacted with the oxygen, turning it into insoluble ferric iron (Fe<sup>3+</sup>). The result was that iron oxide minerals precipitated and sank to the ocean floor. The prevalence of BIFs in rocks dating from 2400 to 1800 Ma reflects a time when free oxygen was being added to the atmosphere, but removed just as quickly by chemical reactions. After 1800 Ma, little dissolved iron was left in the oceans so no more BIFs formed.</div>
 
 ### Evaporites
 
@@ -332,7 +332,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 At some point the swamp deposit is covered with more sediment — typically because a river changes its course or sea level rises (Figure \@ref(fig:figure-9-18)b). As more sediments are added, the organic matter is compressed and heated as temperatures increase with depth. This has the effect of concentrating the carbon within the coal. The amount of heating will determine how far this process progresses.
 
-The further the process does progress, the more the coal will go from having obvious pieces of plant material within it, to being a black, shiny mass.  Low-grade __lignite__ coal forms at depths between 100 m to 1,500 m and temperatures up to ~50°C (Figure \@ref(fig:figure-9-18)c). This is still a relatively early stage in the coal formation process, so the lignite commonly displays plant fossils that have not yet been destroyed in the process of coalification (Figure \@ref(fig:figure-9-19) upper right).
+The further the process does progress, the more the coal will go from having obvious pieces of plant material within it, to being a black, shiny mass. Low-grade __lignite__ coal forms at depths between 100 m to 1,500 m and temperatures up to ~50°C (Figure \@ref(fig:figure-9-18)c). This is still a relatively early stage in the coal formation process, so the lignite commonly displays plant fossils that have not yet been destroyed in the process of coalification (Figure \@ref(fig:figure-9-19) upper right).
 
 At between 1,000 m to 5,000 m depth and temperatures up to 150°C m, __bituminous__ __coal__ forms (Figure \@ref(fig:figure-9-18)d, 9.19 lower right). At depths beyond 5,000 m and temperatures over 150°C, __anthracite__ coal forms (Figure \@ref(fig:figure-9-19) lower left). In fact, as temperatures rise, the lower-grade forms of coal are actually being transformed from sedimentary to metamorphic rocks.
 
@@ -766,7 +766,7 @@ Sedimentary sequences are classified into groups, formations, and members so tha
  	<li>What long-term environmental change on Earth led to the deposition of banded iron formations?</li>
  	<li>Name two important terrestrial depositional environments and two important marine ones.</li>
  	<li>What is the origin of a foreland basin, and how does it differ from a forearc basin?</li>
- 	<li>Explain the origins of  (a) bedding, (b) cross-bedding, (c) graded bedding, and (d) mud cracks.</li>
+ 	<li>Explain the origins of (a) bedding, (b) cross-bedding, (c) graded bedding, and (d) mud cracks.</li>
  	<li>Under what conditions will reverse-graded bedding form?</li>
  	<li>What are the criteria for the application of a formation name to a series of sedimentary rocks?</li>
  	<li>Explain why some of the Nanaimo Group formations have been divided into members, while others have not.</li>
@@ -776,7 +776,7 @@ Sedimentary sequences are classified into groups, formations, and members so tha
 
 ## Answers to Chapter  Review Questions
 
-1. Sand grains range in size from 1/16 mm to 2 mm.
+1. Sand grains range in size from 1/16 mm to 2 mm.
 
 2. Conglomerate cannot be deposited by a slow-flowing river because clasts larger than 2 mm are not transported by slow-moving water.
 
@@ -796,7 +796,7 @@ Sedimentary sequences are classified into groups, formations, and members so tha
 
 10. A foreland basin forms in the vicinity of a large range of mountains where the weight of the mountains depresses the crust on either side. A forearc basin lies between a subduction zone and the related volcanic arc.
 
-11. (a) Bedding forms where there is an interruption or change in the depositional process, or a change in the composition of the material being deposited. (b) Cross-bedding forms in fluvial or aeolian environments where sand-sized sediments are being moved and ripples or dunes are present. (c) Graded bedding forms when transport energy decreases, depositing finer and finer particles. (d) Mud cracks form where fine-grained sediments (silt or clay) are allowed to dry.
+11. (a) Bedding forms where there is an interruption or change in the depositional process, or a change in the composition of the material being deposited. (b) Cross-bedding forms in fluvial or aeolian environments where sand-sized sediments are being moved and ripples or dunes are present. (c) Graded bedding forms when transport energy decreases, depositing finer and finer particles. (d) Mud cracks form where fine-grained sediments (silt or clay) are allowed to dry.
 
 12. Reverse-graded bedding forms during gravity flows, such as debris flows.
 

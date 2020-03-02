@@ -4,7 +4,7 @@
 
 
 
-```{r figure-11-1, fig.cap='Mt. Garibaldi (in the background), near Squamish BC, is one of Canada’s most recently active volcanoes, last erupted approximately 10,000 years ago. It is also one of the tallest, at 2,678 m in height. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Photograph: Michael Scheltgen (2006) CC BY 2.0 [view source](https://commons.wikimedia.org/wiki/File:Mount_Garibaldi3.jpg) Click the image for more attributions._'}
+```{r figure-11-1, fig.cap='Mt. Garibaldi (in the background), near Squamish BC, is one of Canada’s most recently active volcanoes, last erupted approximately 10,000 years ago. It is also one of the tallest, at 2,678 m in height. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Photograph: Michael Scheltgen (2006) CC BY 2.0 [view source](https://commons.wikimedia.org/wiki/File:Mount_Garibaldi3.jpg) Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Mt_Garibaldi_with_location.png")
 ```
 
@@ -83,7 +83,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08
 The island of Santorini (Figure \@ref(fig:figure-11-6)) is an example of a caldera. The island itself is the rim of the caldera, and the bay is the flooded basin. The two small islands in the middle of the bay formed from magma refilling the chamber that feeds the volcano, as in the far right of Figure \@ref(fig:figure-11-5). The caldera formed after an enormous eruption between 1627 and 1600 BCE[footnote]Friedrich, W. L., Kromer, B., Friedrich, M., Heinemeier, J., Pfeiffer, T., &amp; Talamo, S. (2006). Santorini Eruption Radiocarbon Dated 1627-1600 B.C. Science (312)5773, 548. doi: 10.1126/science.1125087[/footnote]. The eruption is thought to have contributed to the downfall of the Minoan civilization, and some speculate that it might also be the source of the myth of Atlantis, a story about a lost continent that sank beneath the sea after a natural disaster.
 
 
-```{r figure-11-6, fig.cap='The Greek Island of Santorini. Left: Aerial view of the island forming a ring around a flooded caldera. Right: A view from the rim of the caldera. The other side of the rim is visible in the distance. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Satellite image: NASA/GSFC/MITI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team (2000) Public Domain [view source](https://visibleearth.nasa.gov/view.php?id=55717); Caldera photograph: <span>Klearchos Kapoutsis (2010) CC BY 2.0</span> [view source](https://flic.kr/p/7PKuhk) Click the image for more attributions._'}
+```{r figure-11-6, fig.cap='The Greek Island of Santorini. Left: Aerial view of the island forming a ring around a flooded caldera. Right: A view from the rim of the caldera. The other side of the rim is visible in the distance. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Satellite image: NASA/GSFC/MITI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team (2000) Public Domain [view source](https://visibleearth.nasa.gov/view.php?id=55717); Caldera photograph: <span>Klearchos Kapoutsis (2010) CC BY 2.0</span> [view source](https://flic.kr/p/7PKuhk) Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Santorini_caldera_photo.png")
 ```
 
@@ -113,7 +113,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/06
 ### Lava
 
 
-The ease with which lava flows and the structures it forms depend on how much silica and gas the lava contains. The more silica, the more __polymerization __(formation of long molecules) occurs, stiffening the lava. The stiffness of lava is described in terms of __viscosity__- lava that flows easily has low viscosity, and lava that is sticky and stiff has high viscosity.
+The ease with which lava flows and the structures it forms depend on how much silica and gas the lava contains. The more silica, the more __polymerization __(formation of long molecules) occurs, stiffening the lava. The stiffness of lava is described in terms of __viscosity__- lava that flows easily has low viscosity, and lava that is sticky and stiff has high viscosity.
 
 In general, high-silica lava contains more gas than low-silica lava. When the gas forms into bubbles, viscosity increases further. Consider the pop analogy again. If you were to shake the bottle vigorously and then open it, the pop would come gushing out in a thick, frothy flow. In contrast, if you took care to not shake the bottle before opening it, you could pour out a thin stream of fluid.
 
@@ -136,7 +136,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/06
 ```
 
 
-Low-viscosity basaltic lava flows may travel extended distances if they move through conduits called __lava tubes__. These are tunnels within older solidified lava flows. Figure \@ref(fig:figure-11-10) (top) shows a view into a lava tube through a hole in the overlying rock, called a __skylight__. Figure \@ref(fig:figure-11-10) (bottom) shows the interior of a lava tube, with a person for scale. Lava tubes form naturally and readily because flowing mafic lava preferentially cools near its margins, forming solid __lava levées__ that eventually close over the top of the flow. Lava within tubes can flow for 10s of km because the tubes insulate the lava from the atmosphere and slow the rate at which the lava cools. The Hawai'ian volcanoes are riddled with thousands of old, drained lava tubes, some as long as 50 km.
+Low-viscosity basaltic lava flows may travel extended distances if they move through conduits called __lava tubes__. These are tunnels within older solidified lava flows. Figure \@ref(fig:figure-11-10) (top) shows a view into a lava tube through a hole in the overlying rock, called a __skylight__. Figure \@ref(fig:figure-11-10) (bottom) shows the interior of a lava tube, with a person for scale. Lava tubes form naturally and readily because flowing mafic lava preferentially cools near its margins, forming solid __lava levées__ that eventually close over the top of the flow. Lava within tubes can flow for 10s of km because the tubes insulate the lava from the atmosphere and slow the rate at which the lava cools. The Hawai'ian volcanoes are riddled with thousands of old, drained lava tubes, some as long as 50 km.
 
 
 ```{r figure-11-10, fig.cap='Lava tubes. Top: An opening in the roof of a lava tube (called a skylight) permitting a view of lava flowing through the tube (Puʻu ʻŌʻō crater, Kīlauea). The opening is approximately 6 m across. Bottom: Inside a lava tube that channelled lava away from Mt. St. Helens in an eruption 1,895 years ago. _Sources: Top: U. S. Geological Survey (2016) Public Domain. [view source](https://flic.kr/p/JuvsfJ) Bottom: Thomas Shahan (2013) CC BY-NC 2.0 [view source](https://flic.kr/p/s3RDMf)<br>_'}
@@ -212,10 +212,10 @@ Collectively, loose material thrown from a volcano is referred to as __tephra__.
 #### Volcanic Ash
 
 
-Particles less than 2 mm in diameter are called __volcanic ash__. Volcanic ash consists of small mineral grains and glass. Figure \@ref(fig:figure-11-16) shows volcanic ash on three scales: in the upper left is ash from the 2010 eruption of Eyjafjallajökull in Iceland. The image was taken with a scanning electron microscope at approximately 1000 times magnification. In the upper right is ash from the 1980 eruption of Mt. St. Helens, collected in Yakima, Washington, about 137 km northeast of Mt. St. Helens. Individual particles are under 1 mm in size. Figure \@ref(fig:figure-11-16) (bottom) shows a village near Mt. Merapi in Indonesia dusted in ash after an eruption 2010.
+Particles less than 2 mm in diameter are called __volcanic ash__. Volcanic ash consists of small mineral grains and glass. Figure \@ref(fig:figure-11-16) shows volcanic ash on three scales: in the upper left is ash from the 2010 eruption of Eyjafjallajökull in Iceland. The image was taken with a scanning electron microscope at approximately 1000 times magnification. In the upper right is ash from the 1980 eruption of Mt. St. Helens, collected in Yakima, Washington, about 137 km northeast of Mt. St. Helens. Individual particles are under 1 mm in size. Figure \@ref(fig:figure-11-16) (bottom) shows a village near Mt. Merapi in Indonesia dusted in ash after an eruption 2010.
 
 
-```{r figure-11-16, fig.cap='Volcanic ash. Upper left: Ash from 2010 eruption of Eyjafjallajökull in Iceland, magnified approximately 1000x. Upper right- Ash from the 1980 eruption of Mt. St. Helens, collected at Yakima, Washington. Bottom: Indonesian village after the eruption of Mt. Merapi in 2010. _Sources: Upper left: Birgit Hartinger, AEC (2010) CC BY-NC-ND 2.0. [view source](https://flic.kr/p/86G3Nz) Upper right: James St. John (2014) CC BY 2.0 (scale added) [view source](https://flic.kr/p/oUPZxZ) Bottom: AusAID/Jeong Park (2010) CC BY 2.0. [view source](https://flic.kr/p/hfkWdo)  _'}
+```{r figure-11-16, fig.cap='Volcanic ash. Upper left: Ash from 2010 eruption of Eyjafjallajökull in Iceland, magnified approximately 1000x. Upper right- Ash from the 1980 eruption of Mt. St. Helens, collected at Yakima, Washington. Bottom: Indonesian village after the eruption of Mt. Merapi in 2010. _Sources: Upper left: Birgit Hartinger, AEC (2010) CC BY-NC-ND 2.0. [view source](https://flic.kr/p/86G3Nz) Upper right: James St. John (2014) CC BY 2.0 (scale added) [view source](https://flic.kr/p/oUPZxZ) Bottom: AusAID/Jeong Park (2010) CC BY 2.0. [view source](https://flic.kr/p/hfkWdo) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Volcanic_ash.png")
 ```
 
@@ -234,10 +234,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08
 #### Blocks and Bombs
 
 
-Fragments larger than 64 mm are classified as blocks or bombs, depending on their origin. __Blocks__ are solid fragments of the volcano that form when an explosive eruption shatters the pre-existing rocks. Figure \@ref(fig:figure-11-18) shows one of many blocks from an explosive eruption at the Halema‘uma‘u crater at Kīlauea Volcano in May of 1924. The block has a mass of approximately 7 tonnes and landed 1 km from the crater.
+Fragments larger than 64 mm are classified as blocks or bombs, depending on their origin. __Blocks__ are solid fragments of the volcano that form when an explosive eruption shatters the pre-existing rocks. Figure \@ref(fig:figure-11-18) shows one of many blocks from an explosive eruption at the Halema‘uma‘u crater at Kīlauea Volcano in May of 1924. The block has a mass of approximately 7 tonnes and landed 1 km from the crater.
 
 
-```{r figure-11-18, fig.cap='Volcanic block weighing approximately 7 tonnes thrown 1 km from the Halema‘uma‘u crater at Kīlauea Volcano on May 18, 1924. _Source: U. S. Geological Survey (1924) Public Domain [view source](https://volcanoes.usgs.gov/vsc/images/image_mngr/5000-5099/img5019_900w_652h.jpg)_'}
+```{r figure-11-18, fig.cap='Volcanic block weighing approximately 7 tonnes thrown 1 km from the Halema‘uma‘u crater at Kīlauea Volcano on May 18, 1924. _Source: U. S. Geological Survey (1924) Public Domain [view source](https://volcanoes.usgs.gov/vsc/images/image_mngr/5000-5099/img5019_900w_652h.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Kilauea-Block.jpg")
 ```
 
@@ -320,7 +320,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 Composite volcanoes, like Cotopaxi in Figure \@ref(fig:figure-11-24) (top), consist of layers of lava alternating with layers of tephra (blocks, bombs, lapilli, and ash; Figure \@ref(fig:figure-11-24), bottom). The layers (strata) is where the alternative name, stratovolcano comes from. Cotopaxi displays the characteristic shape of composite volcanoes, which have slopes that get steeper near the top of the volcano. The change in the slope reflects the accumulation of tephra fragments near the volcano's vent. Composite volcanoes typically erupt higher viscosity andesitic and rhyolitic lavas, which do not travel as far from the vent as basaltic lavas do. This results in volcanoes of smaller diameter than shield volcanoes. A notable exception is Mt. Fuji in Japan, which erupts basaltic lava.
 
 
-```{r figure-11-24, fig.cap='Composite volcano. Top: Cotopaxi in Ecuador exhibits the upward-steepening cone characteristic of composite volcanoes. Bottom: Diagram of a composite volcano showing alternating layers of lava and tephra. _Sources: Karla Panchuk (2017) CC BY 4.0; Top photo by Simon Matzinger (2014) CC BY 2.0 [view source](https://flic.kr/p/kGjpq3). Click the image for more attributions. _'}
+```{r figure-11-24, fig.cap='Composite volcano. Top: Cotopaxi in Ecuador exhibits the upward-steepening cone characteristic of composite volcanoes. Bottom: Diagram of a composite volcano showing alternating layers of lava and tephra. _Sources: Karla Panchuk (2017) CC BY 4.0; Top photo by Simon Matzinger (2014) CC BY 2.0 [view source](https://flic.kr/p/kGjpq3). Click the image for more attributions. _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/stratovolcano_Cotopaxi.png")
 ```
 
@@ -359,10 +359,10 @@ There are four types of eruptions with properties determined mostly by the silic
 
 Hawai‘ian eruptions are named after the characteristic eruptions of volcanoes of the Hawai‘ian islands. Hawai‘ian eruptions are __effusive__ (flowing) rather than explosive because they erupt low-viscosity basaltic lava. Hawai‘ian eruptions form shield volcanoes and can also take the form of __fissure eruptions__. Fissure eruptions occur when lava erupts from long cracks in the ground rather than from a central vent.
 
-Figure \@ref(fig:figure-11-26) shows examples from two eruptions on of Hawai‘i. In the upper left and right are images from the November 1959 eruption of Kīlauea Iki Crater. The upper left shows a fissure eruption and effusive flow of lava. Burning trees appear as bright spots toward the bottom of the photo. Figure \@ref(fig:figure-11-26) (right) shows a lava fountain reaching 425 m above Kīlauea Iki Crater. U. S. Geological Survey scientists reported that volcanic bombs up to 60 cm across smashed the guard rail and dented the asphalt on the road. Figure \@ref(fig:figure-11-26) (lower left) shows Hawaiian Volcano Observatory (HVO) scientists making a quick getaway, with lava fountains from Mauna Loa Volcano in the background.
+Figure \@ref(fig:figure-11-26) shows examples from two eruptions on of Hawai‘i. In the upper left and right are images from the November 1959 eruption of Kīlauea Iki Crater. The upper left shows a fissure eruption and effusive flow of lava. Burning trees appear as bright spots toward the bottom of the photo. Figure \@ref(fig:figure-11-26) (right) shows a lava fountain reaching 425 m above Kīlauea Iki Crater. U. S. Geological Survey scientists reported that volcanic bombs up to 60 cm across smashed the guard rail and dented the asphalt on the road. Figure \@ref(fig:figure-11-26) (lower left) shows Hawaiian Volcano Observatory (HVO) scientists making a quick getaway, with lava fountains from Mauna Loa Volcano in the background.
 
 
-```{r figure-11-26, fig.cap='Hawai‘ian eruptions. Top left: Fissure eruption at Kīlauea Iki Crater in November of 1959. Bottom left: Lava fountains from an eruption of Mauna Loa Volcano in 1984. Right: Lava fountain from Kīlauea Iki Crater eruption in November of 1959. _Sources: Top left- U. S. Geological Survey (1959) Public Domain. [view source](https://volcanoes.usgs.gov/volcanoes/kilauea/geo_hist_kilauea_iki.html) Bottom left: R. B. Moore, U. S. Geological Survey (1984) Public Domain. [view source](https://flic.kr/p/qP8tH2) Right- U. S. Geological Survey (1959) Public Domain. [view source](https://volcanoes.usgs.gov/volcanoes/kilauea/geo_hist_kilauea_iki.html)    _'}
+```{r figure-11-26, fig.cap='Hawai‘ian eruptions. Top left: Fissure eruption at Kīlauea Iki Crater in November of 1959. Bottom left: Lava fountains from an eruption of Mauna Loa Volcano in 1984. Right: Lava fountain from Kīlauea Iki Crater eruption in November of 1959. _Sources: Top left- U. S. Geological Survey (1959) Public Domain. [view source](https://volcanoes.usgs.gov/volcanoes/kilauea/geo_hist_kilauea_iki.html) Bottom left: R. B. Moore, U. S. Geological Survey (1984) Public Domain. [view source](https://flic.kr/p/qP8tH2) Right- U. S. Geological Survey (1959) Public Domain. [view source](https://volcanoes.usgs.gov/volcanoes/kilauea/geo_hist_kilauea_iki.html) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09/Hawaiian_eruption.png")
 ```
 
@@ -375,7 +375,7 @@ The photographs of the Kīlauea Iki Crater and Mauna Loa Volcano eruptions make 
 Strombolian eruptions, named for Mt. Stromboli in Italy, occur when basaltic lava has higher viscosity and higher gas content. The sticky lava is ejected in loud, violent, but short-lived spattery eruptions. Clumps of gas-rich lava thrown 10s to 100s of metres in the air accumulate as scoria in a pile around the vent, forming cinder cones. Figure \@ref(fig:figure-11-27) shows a strombolian eruption in the crater of Mt. Etna. A smaller cinder cone is forming around the vent as lava sputters out of it.
 
 
-```{r figure-11-27, fig.cap='Strombolian eruption of Mt. Etna. Sputtering lava forms a smaller cinder cone around a vent within the crater of Etna. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Photograph- Robin Wylie (2012) CC BY 2.0. [view source](https://flic.kr/p/cGD8Gy) Click the image for more attributions.  _'}
+```{r figure-11-27, fig.cap='Strombolian eruption of Mt. Etna. Sputtering lava forms a smaller cinder cone around a vent within the crater of Etna. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Photograph- Robin Wylie (2012) CC BY 2.0. [view source](https://flic.kr/p/cGD8Gy) Click the image for more attributions. _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09/Strombolian_Etna.png")
 ```
 
@@ -395,8 +395,8 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 ```
 
 
-The French geologist Alfred Lacroix described what he saw as a "nuée ardente," or thick fiery cloud. The following first-hand account was published in _Cosmopolitan Magazine_ in July of 1902, attributed to Ellery S. Scott, a sailor on the steamship _Roraima_:
-<div>_"In idle interest, I turned my glass toward Mont Pelee. It was at that very moment that the whole top of the mountain seemed blown into the air. The sound that fol­lowed was deafening. A great mass of flames, seemingly a mile in diameter, with twisting giant wreaths of smoke, rolled thousands of feet into the air, and then overbalanced and came rolling down the seamed and cracked sides of the mountain.  Foot hills were overflowed by the onrush­ing mass. It was not mere flame and smoke. It was molten lava, giant blocks of stone and a hail of smaller stones, with a mass of scalding mud intermingled._</div>
+The French geologist Alfred Lacroix described what he saw as a "nuée ardente," or thick fiery cloud. The following first-hand account was published in _Cosmopolitan Magazine_ in July of 1902, attributed to Ellery S. Scott, a sailor on the steamship _Roraima_:
+<div>_"In idle interest, I turned my glass toward Mont Pelee. It was at that very moment that the whole top of the mountain seemed blown into the air. The sound that fol­lowed was deafening. A great mass of flames, seemingly a mile in diameter, with twisting giant wreaths of smoke, rolled thousands of feet into the air, and then overbalanced and came rolling down the seamed and cracked sides of the mountain. Foot hills were overflowed by the onrush­ing mass. It was not mere flame and smoke. It was molten lava, giant blocks of stone and a hail of smaller stones, with a mass of scalding mud intermingled._</div>
 <div></div>
 <div>_For one brief moment I saw the city of St. Pierre before me. Then it was blotted out by the overwhelming flood. There was no time for the people to flee. They had not even time to pray.... I had called to Carpenter Benson to start the windlass, but before he could move, the "Roraima" rolled almost on her port beam-ends, and then as suddenly went to starboard. The funnel, masts and boats went by the board in an instant. The decks were swept clean. The hatches were staved in. The next instant a hail of fire and red-hot stones was upon the ship. Then came the scalding mud. The saloon was ablaze. The ship seemed doomed. Men were struck down all around me by flaming masses of lava. From bright sun­light the air became dense as midnight. The smoke that rolled down from the cra­ter's mouth had blotted the sun from our vision."_</div>
 <div></div>
@@ -412,7 +412,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 
 </div>
 <div></div>
-<div>The vast majority of fatalities from the eruption were caused by the heat of pyroclastic flow. Examination of the ruins of St. Pierre revealed that glass had melted, but copper had not, putting the temperature at between 700 ºC and 1000 ºC (1292 ºF to 1832 ºF).</div>
+<div>The vast majority of fatalities from the eruption were caused by the heat of pyroclastic flow. Examination of the ruins of St. Pierre revealed that glass had melted, but copper had not, putting the temperature at between 700 ºC and 1000 ºC (1292 ºF to 1832 ºF).</div>
 
 ### Plinian Eruptions
 
@@ -445,9 +445,9 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 
 Bressan, D (2012). _Geology Scene Investigation: Death by Volcanic Fire_. [Visit website](https://blogs.scientificamerican.com/history-of-geology/geology-scene-investigation-death-by-volcanic-fire)
 
-British Geological Survey (n.d.). _Eyjafjallajökull eruption, Iceland | April/May 2010. _[Visit website](http://www.bgs.ac.uk/research/volcanoes/icelandic_ash.html)_  _
+British Geological Survey (n.d.). _Eyjafjallajökull eruption, Iceland | April/May 2010. _[Visit website](http://www.bgs.ac.uk/research/volcanoes/icelandic_ash.html)_  _
 
-Digital History Project (2011). _"Eyewitness Account to Eruption of Mont Pelee Matinique St Pierre Fort de France" By Ellery S. Scott. _[Visit website](http://www.digitalhistoryproject.com/2011/09/eyewitness-account-to-eruption-of-mont.html)_ _
+Digital History Project (2011). _"Eyewitness Account to Eruption of Mont Pelee Matinique St Pierre Fort de France" By Ellery S. Scott. _[Visit website](http://www.digitalhistoryproject.com/2011/09/eyewitness-account-to-eruption-of-mont.html)_ _
 
 Rosen, J. (2015). _Benchmarks: May 8, 1902: The deadly eruption of Mount Pelée._ [Visit website](https://www.earthmagazine.org/article/benchmarks-may-8-1902-deadly-eruption-mount-pelee)
 
@@ -490,7 +490,7 @@ Continental rift zones can have a range of volcano types. If mafic magma erupts,
 ### Water Causes Partial Melting Along Subduction Zones
 
 
-At an ocean-continent convergent boundary (Figure \@ref(fig:figure-11-32), right) or ocean-ocean convergent boundary (Figure \@ref(fig:figure-11-32), left), oceanic crust is pushed down into the mantle. Although temperatures are high, the slab is kept from melting by high pressures. However, under these conditions minerals in the slab release water from within their crystal structures. The water lowers the melting point of rock above the slab, and partial melting is triggered within the mantle. Mafic magma rises through the mantle to the base of the crust. There it contributes to partial melting of crustal rock, and more felsic material is added to the magma. The magma, now intermediate in composition, continues to rise and assimilate crustal material. In the upper part of the crust, it accumulates into plutons. Over time, fractional crystallization of magma within the pluton can make it even more silica-rich. From time to time, the magma from the plutons rises toward surface, leading to volcanic eruptions. <strong>
+At an ocean-continent convergent boundary (Figure \@ref(fig:figure-11-32), right) or ocean-ocean convergent boundary (Figure \@ref(fig:figure-11-32), left), oceanic crust is pushed down into the mantle. Although temperatures are high, the slab is kept from melting by high pressures. However, under these conditions minerals in the slab release water from within their crystal structures. The water lowers the melting point of rock above the slab, and partial melting is triggered within the mantle. Mafic magma rises through the mantle to the base of the crust. There it contributes to partial melting of crustal rock, and more felsic material is added to the magma. The magma, now intermediate in composition, continues to rise and assimilate crustal material. In the upper part of the crust, it accumulates into plutons. Over time, fractional crystallization of magma within the pluton can make it even more silica-rich. From time to time, the magma from the plutons rises toward surface, leading to volcanic eruptions. <strong>
 </strong>
 
 Composite volcanoes with Vulcanian or Plinian eruption styles are characteristic of the volcanic arcs that form in subduction zones, although in the Trans-Mexico Volcanic Belt, Strombolian eruptions produce short-lived cinder cones. Where two margins of oceanic crust collide, the volcanic arc will be a chain of volcanic islands. Where continental and oceanic crust collide, there will be a volcanic arc on the continental crust.
@@ -539,7 +539,7 @@ When the mantle plume rises to the base of the lithosphere, the pressure is low 
 Many shield volcanoes are associated with mantle plumes, including those that make up the Hawai'ian islands. All of the Hawai'ian volcanoes are related to the mantle plume that currently lies beneath Mauna Loa, Kilauea, and <span class="st">Lōʻihi </span>(Figure \@ref(fig:figure-11-35), top). There is evidence of crustal magma chambers beneath all three active Hawai'ian volcanoes. At Kīlauea, the magma chamber appears to be several kilometres in diameter, and is situated between 8 km and 11 km below surface (Lin et al., 2014). In this area, the Pacific Plate is moving northwest at a rate of about 7 cm/year. This means that the earlier formed — and now extinct — volcanoes have now moved well away from the mantle plume. The hotspot has in fact been present for at least 85 million years (Regelous et al., 2003), as evidenced by the long chain of eroded and submerged mountains stretching to the Aleutian Trench (Figure \@ref(fig:figure-11-35), bottom).
 
 
-```{r figure-11-35, fig.cap='Hawai\'ian hotspot volcanoes and volcanic chain. Top- A mantle plume beneath Hawai\'i supplies magma to Mauna Loa Volcano, Kīlauea Volcano, and <span class="st">Lōʻihi Seamount. Volcanoes to the northwest are no longer active because they have moved away from the plume. Bottom- Bathymetric (depth) map showing the chain of islands stretching toward the Aleutian Trench, and marking the progress of the Pacific Plate over the mantle plume. _Source: Top- J. E. Robinson, U. S. Geological Survey (2006) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Hawaii_hotspot_cross-sectional_diagram.jpg). Bottom- National Geophysical Data Center/ U. S. Geological Survey (2006) Public Domain (labels added) [view source](https://commons.wikimedia.org/wiki/File:Hawaii_hotspot.jpg)._</span>'}
+```{r figure-11-35, fig.cap='Hawai\'ian hotspot volcanoes and volcanic chain. Top- A mantle plume beneath Hawai\'i supplies magma to Mauna Loa Volcano, Kīlauea Volcano, and <span class="st">Lōʻihi Seamount. Volcanoes to the northwest are no longer active because they have moved away from the plume. Bottom- Bathymetric (depth) map showing the chain of islands stretching toward the Aleutian Trench, and marking the progress of the Pacific Plate over the mantle plume. _Source: Top- J. E. Robinson, U. S. Geological Survey (2006) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Hawaii_hotspot_cross-sectional_diagram.jpg). Bottom- National Geophysical Data Center/ U. S. Geological Survey (2006) Public Domain (labels added) [view source](https://commons.wikimedia.org/wiki/File:Hawaii_hotspot.jpg)._</span>'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09/Hawaiian_hotspot.png")
 ```
 
@@ -564,7 +564,7 @@ Most other LIP eruptions are much bigger. The Siberian Traps (also basalt), whic
 #### Kimberlites
 
 
-__Kimberlite__ pipes are carrot-shaped cones of ultramafic rock. They form from the explosive eruption of mantle plumes originating at depths of 150 to 450 km in the mantle. The plume makes its way to the surface quickly (over hours to days), having little interaction with the surrounding rocks, and thus preserving a sample of the ultramafic mantle. As the plume nears the surface, a build-up of gas causes it to pick up speed, and by the time it reaches the surface it may be travelling faster than the speed of sound. The explosiveness of kimberlite eruptions means that they do not form volcanic mountains on the surface, but leave circular holes in the ground.
+__Kimberlite__ pipes are carrot-shaped cones of ultramafic rock. They form from the explosive eruption of mantle plumes originating at depths of 150 to 450 km in the mantle. The plume makes its way to the surface quickly (over hours to days), having little interaction with the surrounding rocks, and thus preserving a sample of the ultramafic mantle. As the plume nears the surface, a build-up of gas causes it to pick up speed, and by the time it reaches the surface it may be travelling faster than the speed of sound. The explosiveness of kimberlite eruptions means that they do not form volcanic mountains on the surface, but leave circular holes in the ground.
 
 Kimberlite eruptions that originate at depths greater than 200 km beneath old, thick, continental crust travel through the region of the mantle where diamond is stable. In some cases, such as in Saskatchewan and the Northwest Territories, kimberlites bring diamond-bearing material to the surface. All of Earth's diamond deposits are thought to have originated in this way.
 
@@ -579,11 +579,11 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 ###### References
 
 
-Kiser, E., Palomeras, I., <span class="highwire-citation-authors"><span class="highwire-citation-author"><span class="nlm-surname">Levander</span></span>, A., <span class="highwire-citation-author has-tooltip hasTooltip"><span class="nlm-given-names"></span><span class="nlm-surname">Zelt</span></span>, C., <span class="highwire-citation-author"><span class="nlm-surname">Harder</span></span>, S., <span class="highwire-citation-author"><span class="nlm-surname">Schmandt</span></span>, B., <span class="highwire-citation-author"><span class="nlm-surname">Hansen</span></span>, S., <span class="highwire-citation-author has-tooltip hasTooltip"><span class="nlm-surname">Creager</span></span>, K., &amp; <span class="highwire-citation-author has-tooltip hasTooltip"><span class="nlm-surname">Ulberg, C. (2016). </span></span></span>Magma reservoirs from the upper crust to the Moho inferred from high-resolution Vp and Vs models beneath Mount St. Helens, Washington State, USA. _Geology (44)_6, 411-414. <span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="label">DOI:</span> 10.1130/G37591.1</span>
+Kiser, E., Palomeras, I., <span class="highwire-citation-authors"><span class="highwire-citation-author"><span class="nlm-surname">Levander</span></span>, A., <span class="highwire-citation-author has-tooltip hasTooltip"><span class="nlm-given-names"></span><span class="nlm-surname">Zelt</span></span>, C., <span class="highwire-citation-author"><span class="nlm-surname">Harder</span></span>, S., <span class="highwire-citation-author"><span class="nlm-surname">Schmandt</span></span>, B., <span class="highwire-citation-author"><span class="nlm-surname">Hansen</span></span>, S., <span class="highwire-citation-author has-tooltip hasTooltip"><span class="nlm-surname">Creager</span></span>, K., &amp; <span class="highwire-citation-author has-tooltip hasTooltip"><span class="nlm-surname">Ulberg, C. (2016). </span></span></span>Magma reservoirs from the upper crust to the Moho inferred from high-resolution Vp and Vs models beneath Mount St. Helens, Washington State, USA. _Geology (44)_6, 411-414. <span class="highwire-cite-metadata-doi highwire-cite-metadata"><span class="label">DOI:</span> 10.1130/G37591.1</span>
 
 Lin, G, Amelung, F, Lavallee, Y, and Okubo, P. (2014). Seismic evidence for a crustal magma reservoir beneath the upper east rift zone of Kilauea volcano, Hawaii. _Geology, 42_(3), 187-190. DOI: 10.1130/G35001.1
 
-Regelous, M., Hofmann, A. W., Abouchami, W., &amp; Galer, S. J. G. (2003) Geochemistry of lavas from the Emperor Seamounts, and the geochemical evolution of Hawaiian magmatism from 85 to 42 Ma. _Journal of Petrology 44_(1), 113-140. DOI: 10.1093/petrology/44.1.113 [view PDF ](https://watermark.silverchair.com/api/watermark?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAecwggHjBgkqhkiG9w0BBwagggHUMIIB0AIBADCCAckGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFfSjnUAz-sCqDY9NAgEQgIIBmoLZRa4UBGlf984AIb_QVR-R_Zct49jTpQ5EJrBDeHlrOBfy7mCWZ8bNz5j-yPnkP5BK_2V3C6svwNpPWTl1qleO-bN5riQmZnqSfhF7cy3m93Pc6bvsHApRj2zGPiGe0hQgDsBu40zJdWuDRhaIv4G-yyzcWCaSqWhU5c-te5H1YSqsfzkMWKav8qLnaKaXYz-kuOyyfuAsFu4Kw2H0XzUtqTwQPLpTvx7I2kTGeQ-FqFKYxb0v9tLGnYwUUCEdd_XuTnu0K5nmRkYLb3EKyiJ47dbZUzEIr-chunPA860MGTncJrSyjBg3WmTHnoF74hPIYZQnclcCVBRW0Xfq2xgxPlzFVg29z-_N8S-eef8-xFboSGakgcr2vCwVXDujdQZjYYKv4vVmpkQTOKcGC7yr1O1Mruv42_aLPDCidcMow-Q6NZ-VfBQaWx0HFpO-59p7mlerggUzGMRZxIQgRmBUiZ_Za4Uw1-yYzh_e6VWr7XjjknRdjrlOuQ0nQ5HJt987GQAJisMTzd6uXRYSKdwhI5B2mh7MPN2F)
+Regelous, M., Hofmann, A. W., Abouchami, W., &amp; Galer, S. J. G. (2003) Geochemistry of lavas from the Emperor Seamounts, and the geochemical evolution of Hawaiian magmatism from 85 to 42 Ma. _Journal of Petrology 44_(1), 113-140. DOI: 10.1093/petrology/44.1.113 [view PDF ](https://watermark.silverchair.com/api/watermark?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAecwggHjBgkqhkiG9w0BBwagggHUMIIB0AIBADCCAckGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMFfSjnUAz-sCqDY9NAgEQgIIBmoLZRa4UBGlf984AIb_QVR-R_Zct49jTpQ5EJrBDeHlrOBfy7mCWZ8bNz5j-yPnkP5BK_2V3C6svwNpPWTl1qleO-bN5riQmZnqSfhF7cy3m93Pc6bvsHApRj2zGPiGe0hQgDsBu40zJdWuDRhaIv4G-yyzcWCaSqWhU5c-te5H1YSqsfzkMWKav8qLnaKaXYz-kuOyyfuAsFu4Kw2H0XzUtqTwQPLpTvx7I2kTGeQ-FqFKYxb0v9tLGnYwUUCEdd_XuTnu0K5nmRkYLb3EKyiJ47dbZUzEIr-chunPA860MGTncJrSyjBg3WmTHnoF74hPIYZQnclcCVBRW0Xfq2xgxPlzFVg29z-_N8S-eef8-xFboSGakgcr2vCwVXDujdQZjYYKv4vVmpkQTOKcGC7yr1O1Mruv42_aLPDCidcMow-Q6NZ-VfBQaWx0HFpO-59p7mlerggUzGMRZxIQgRmBUiZ_Za4Uw1-yYzh_e6VWr7XjjknRdjrlOuQ0nQ5HJt987GQAJisMTzd6uXRYSKdwhI5B2mh7MPN2F)
 
 U. S. Geological Survey, Volcano Hazards Program (n.d.). _Indian Heaven Volcanic Field _[visit website](https://volcanoes.usgs.gov/volcanoes/indian_heaven/)
 
@@ -731,7 +731,7 @@ Southwestern British Columbia is at the northern end of the Juan de Fuca subduct
 The Garibaldi Volcanic Belt has several __volcanic centres __, or regions where volcanism has caused multiple volcanoes to develop (Figure \@ref(fig:figure-11-46)).
 
 
-```{r figure-11-46, fig.cap='Volcanic centres within the Garibaldi Volcanic Belt. The most recent eruption was 2,350 years ago at Mt. Meager. _Source: Sémhur (2007) CC BY-SA 4.0 [view source](https://commons.wikimedia.org/wiki/File:Garibaldi_Volcanic_Belt-en.svg). Click the image to enlarge._'}
+```{r figure-11-46, fig.cap='Volcanic centres within the Garibaldi Volcanic Belt. The most recent eruption was 2,350 years ago at Mt. Meager. _Source: Sémhur (2007) CC BY-SA 4.0 [view source](https://commons.wikimedia.org/wiki/File:Garibaldi_Volcanic_Belt-en.svg). Click the image to enlarge._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09/Garibaldi_Volcanic_Belt-en.svg_.png")
 ```
 
@@ -750,7 +750,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 The chain of volcanic complexes and cones extending from Milbanke Sound to Nazko Cone is interpreted as being related to a mantle plume currently situated close to the Nazko Cone, just west of Quesnel (Figure \@ref(fig:figure-11-48)). The North American Plate is moving in a westerly direction at about 2 cm per year with respect to this plume, and the series of now partly eroded shield volcanoes between Nazco and the coast is interpreted to have been formed by the plume as the continent moved over it.
 
 
-```{r figure-11-48, fig.cap='Anahim Volcanic Belt, the result of a mantle plume beneath the North American Plate. _Source: Sémhur (2007) CC BY-SA 4.0 [view source](https://commons.wikimedia.org/wiki/File:Anahim_Volcanic_Belt-en.svg) Click the image to enlarge._'}
+```{r figure-11-48, fig.cap='Anahim Volcanic Belt, the result of a mantle plume beneath the North American Plate. _Source: Sémhur (2007) CC BY-SA 4.0 [view source](https://commons.wikimedia.org/wiki/File:Anahim_Volcanic_Belt-en.svg) Click the image to enlarge._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09/1024px-Anahim_Volcanic_Belt-en.svg_.png")
 ```
 
@@ -774,7 +774,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 ```
 
 
-The Stikine Volcanic Belt includes Canada's most recent volcanic eruption, a cinder cone and mafic lava flow that formed around 250 years ago at the Tseax River Cone in the Nass River area north of Terrace.  According to Nisga’a oral history, lava overran a village on the Nass River, and 2,000 people were lost. The region is now part of the Anhluut’ukwsim La<u>x</u>mihl Angwinga’asanskwhl Nis<u>g</u>a’a (Nis<u>g</u>a’a Memorial Lava Bed Park).
+The Stikine Volcanic Belt includes Canada's most recent volcanic eruption, a cinder cone and mafic lava flow that formed around 250 years ago at the Tseax River Cone in the Nass River area north of Terrace. According to Nisga’a oral history, lava overran a village on the Nass River, and 2,000 people were lost. The region is now part of the Anhluut’ukwsim La<u>x</u>mihl Angwinga’asanskwhl Nis<u>g</u>a’a (Nis<u>g</u>a’a Memorial Lava Bed Park).
 
 The Mount Edziza Volcanic Field near the Stikine River is a large area of lava flows, sulphurous ridges, and cinder cones. The most recent eruption in this area was about 1,000 years ago. While most of the other volcanism in the Edziza region is mafic and involves lava flows and cinder cones, Mt. Edziza itself (Figure \@ref(fig:figure-11-51)) is a composite volcano with rock compositions ranging from rhyolite to basalt. A possible explanation for the presence of composite volcanism in an area dominated by mafic flows and cinder cones is that there is a magma chamber beneath this area, within which magma differentiation is taking place.
 
@@ -849,7 +849,7 @@ Volcanism is closely related to plate tectonics. Most volcanoes are associated w
 ##### 11.6 Volcanic Hazards
 
 
-Most direct volcanic hazards are related to volcanoes that erupt explosively, especially composite volcanoes. Pyroclastic flows, some as hot as 1000 ˚C, can move at hundreds of km/h and will kill anything in the way. Lahars, volcano-related mudflows, can be large enough to destroy entire towns.  Lava flows are also destructive, but tend to move slowly enough to permit people to get to safety. Indirect hazards claim far more lives than direct hazards, and include famine related to volcanically-induced climate cooling.
+Most direct volcanic hazards are related to volcanoes that erupt explosively, especially composite volcanoes. Pyroclastic flows, some as hot as 1000 ˚C, can move at hundreds of km/h and will kill anything in the way. Lahars, volcano-related mudflows, can be large enough to destroy entire towns.  Lava flows are also destructive, but tend to move slowly enough to permit people to get to safety. Indirect hazards claim far more lives than direct hazards, and include famine related to volcanically-induced climate cooling.
 
 ##### 11.7 Monitoring Volcanoes and Predicting Eruptions
 
@@ -896,7 +896,7 @@ British Columbia and the Yukon Territory include examples of volcanoes that form
  	<li>The lava that forms shield volcanoes is typically low viscosity. It can flow easily and also tends to form lava tubes. As a result, it is able to travel a long way from the vent, forming a low broad shield.</li>
  	<li>Cinder cones erode rapidly because they are mostly piles of tephra. Composite volcanoes are more resistant to weathering and erosion than cinder cones because lava flows help hold together tephra, but composite volcanoes still don't last as long as shield volcanoes. Shield volcanoes are stronger because they consist more of lava flows than tephra.</li>
  	<li>Weak seismic activity is associated with all stages of a volcanic eruption. In the early stages magma is moving at depth and pushing rock aside, creating small earthquakes. The flow of magma can also produce special type of seismic response known as a harmonic tremor.</li>
- 	<li>GPS technology is used to determine if there is any slow deformation of the flanks of a volcano related to movement of magma toward the surface.</li>
+ 	<li>GPS technology is used to determine if there is any slow deformation of the flanks of a volcano related to movement of magma toward the surface.</li>
  	<li>The Nazko Cone is thought to be related to a mantle plume.</li>
  	<li>One hypothesis to explain the lower rate of volcanism in British Columbia than in adjacent Washington and Oregon is that the northern part of the Juan de Fuca Plateis not subducting as quickly as the rest of the plate.</li>
 </ol>

@@ -31,7 +31,7 @@ After reading this chapter, completing the exercises within it, and answering th
 <p class="NormalOT"><span lang="EN-US">Early in the morning of January 9, 1965, 47 million cubic metres of rock broke away from the steep upper slopes of Johnson Peak (16 km southeast of Hope, B.C.) and tumbled 2,000 m down the mountain, gouging out the contents of a small lake at the bottom, and continuing a few hundred metres up the other side of the valley (Figure \@ref(fig:figure-15-1)). Four people were killed who had been stopped on the highway by a snow avalanche. Many more people might have become victims, except that a Greyhound bus driver, en route to Vancouver, turned his bus around upon seeing the avalanche. The rock failed along foliation planes of the metamorphic rock on Johnson Peak, in an area that had been eroded into a steep slope by glacial ice. There is no evidence that it was triggered by any specific event, and there was no warning that it was about to happen. Even if there had been warning, nothing could have been done to prevent it. There are hundreds of similar sites throughout mountainous regions of British Columbia and elsewhere in Canada where large mass wasting events could occur.</span></p>
 
 
-```{r figure-15-1, fig.cap='| The site of the 1965 Hope Slide, photographed in 2014. The initial failure is thought to have taken place along foliation planes in the rock and a sill.  _Source: Steven Earle (2015) CC BY 4.0._[View Source](https://opentextbc.ca/geology/)'}
+```{r figure-15-1, fig.cap='| The site of the 1965 Hope Slide, photographed in 2014. The initial failure is thought to have taken place along foliation planes in the rock and a sill. _Source: Steven Earle (2015) CC BY 4.0._[View Source](https://opentextbc.ca/geology/)'}
 knitr::include_graphics("https://physicalgeology.pressbooks.com/wp-content/uploads/sites/44994/2015/10/1965-Hope-Slide-as-seen-in-2014.png")
 ```
 
@@ -66,7 +66,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 <p class="NormalOT"><span lang="EN-US">Internal variations in the composition and structure of rocks can significantly affect their strength. Schist, for example, may have layers that are rich in sheet silicates (micas) and these will tend to form weak layers. Some minerals tend to be more susceptible to weathering than others, and the weathered products are commonly quite weak (e.g., clay formed from feldspar). The side of Johnson Peak that failed in 1965 (Hope Slide) is made up of chlorite schist (metamorphosed sea-floor basalt) that has feldspar-bearing sills within it. The foliation and the sills are parallel to the steep slope. The schist is relatively weak to begin with, and the feldspar in the sills, which has been altered to clay, makes it even weaker.</span></p>
-Unconsolidated sediments are generally weaker than sedimentary rocks because they are not cemented and, in most cases, have not been significantly compressed by overlying materials. Unconsolidated sediments can still bind together, and the strength of that binding is called cohesion. A cohesive sediment binds together strongly and if you picked it up with a shovel it would stick together in a lump (e.g., sand mixed with clay, clay). A sediment that is not very cohesive is weakly bound and would probably fall apart if you picked it up with a shovel (e.g., sand, silt). The deposits that make up the cliffs at Point Grey, Vancouver, B.C. include sand, silt, and clay, overlain by sand. The finer deposits at Point Grey are relatively cohesive (they maintain a steep slope, Figure \@ref(fig:figure-15-4) left).  The overlying sand is not very cohesive (relatively weak) and has a shallower slope because there are many slope failures in the sand deposit.
+Unconsolidated sediments are generally weaker than sedimentary rocks because they are not cemented and, in most cases, have not been significantly compressed by overlying materials. Unconsolidated sediments can still bind together, and the strength of that binding is called cohesion. A cohesive sediment binds together strongly and if you picked it up with a shovel it would stick together in a lump (e.g., sand mixed with clay, clay). A sediment that is not very cohesive is weakly bound and would probably fall apart if you picked it up with a shovel (e.g., sand, silt). The deposits that make up the cliffs at Point Grey, Vancouver, B.C. include sand, silt, and clay, overlain by sand. The finer deposits at Point Grey are relatively cohesive (they maintain a steep slope, Figure \@ref(fig:figure-15-4) left). The overlying sand is not very cohesive (relatively weak) and has a shallower slope because there are many slope failures in the sand deposit.
 
 
 ```{r figure-15-4, fig.cap='Left: Glacial outwash deposits at Point Grey, Vancouver, B.C. The dark lower layer is made up of sand, silt, and clay. The light upper layer is well-sorted sand, which has experienced slope failure and formed a cone of talus. Right: Glacial till on Quadra Island, B.C. The till is strong enough to have formed a near-vertical slope. _Source: Steven Earle (2015) CC BY 4.0. [View source ](https://opentextbc.ca/geology/)_'}
@@ -75,7 +75,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 <p class="NormalOT"><span lang="EN-US">In contrast to poorly cohesive sediment deposits, glacial till can be as strong as some sedimentary rock. Glacial till is typically a mixture of clay, silt, sand, gravel, and larger clasts and forms and is compressed beneath tens to thousands of metres of glacial ice (Figure \@ref(fig:figure-15-4), right).</span></p>
 <p class="NormalOT"><span lang="EN-US">Apart from the type of material on a slope, the amount of water that the material contains is the most important factor controlling its strength. This is especially true for unconsolidated materials (e.g., Figure \@ref(fig:figure-15-4)), but it also applies to bodies of rock. Granular sediments, like the sand at Point Grey, have lots of pore spaces between the grains. These spaces may be completely dry (filled only with air), moist (some spaces are water filled), or completely saturated (Figure \@ref(fig:figure-15-5)).</span></p>
-Unconsolidated sediments tend to be strongest when they are moist because the small amounts of water at grain boundaries holds the grains together due to surface tension. Surface tension is the tension at the surface of a fluid that allows the liquid to resist an external force. Liquids always tend to acquire the lowest surface area possible; this happens because molecules at the surface of the fluid are attracted to the molecules below the surface). This is the property of liquid water that allows insects to walk over it.  Dry sediments are held together only by the friction between grains, and if they are well sorted or well rounded, or both, this cohesion is weak, due to minimal grain contact. Saturated sediments tend to be the weakest of all because the water pushes the grains apart, decreasing friction between grains. Water will also reduce the strength of solid rock, if the rock has porosity, fractures, bedding planes, and/or clay-bearing zones, especially when the rock is saturated with water (saturated conditions).
+Unconsolidated sediments tend to be strongest when they are moist because the small amounts of water at grain boundaries holds the grains together due to surface tension. Surface tension is the tension at the surface of a fluid that allows the liquid to resist an external force. Liquids always tend to acquire the lowest surface area possible; this happens because molecules at the surface of the fluid are attracted to the molecules below the surface). This is the property of liquid water that allows insects to walk over it. Dry sediments are held together only by the friction between grains, and if they are well sorted or well rounded, or both, this cohesion is weak, due to minimal grain contact. Saturated sediments tend to be the weakest of all because the water pushes the grains apart, decreasing friction between grains. Water will also reduce the strength of solid rock, if the rock has porosity, fractures, bedding planes, and/or clay-bearing zones, especially when the rock is saturated with water (saturated conditions).
 
 
 ```{r figure-15-5, fig.cap='| Depiction of dry, moist, and saturated sand. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
@@ -194,7 +194,7 @@ Unfortunately, classifying slope failure is not as simple as the classification 
 </tr>
 </tbody>
 </table>
-__Table 15.1__ | Classification of slope failures based on type of material and motion.  _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _
+__Table 15.1__ | Classification of slope failures based on type of material and motion. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _
 
 ### Rock Fall
 
@@ -244,7 +244,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11
 <p class="NormalOT"><span lang="EN-US">If a rock slides and then starts moving quickly (m/s), the rock is likely to break into many small pieces. At this point it is considered to be a <span class="bold">rock avalanche</span>, in which the large and small fragments of rock move in a fluid manner supported by a cushion of air within and beneath the moving mass. The 1965 Hope Slide (Figure \@ref(fig:figure-15-1)) was a rock avalanche, as was the famous 1903 Frank Slide in southwestern Alberta. The 2010 slide at Mt. Meager (west of Lillooet) was also a rock avalanche and rivals the Hope Slide as the largest slope failure in Canada during historical times (Figure \@ref(fig:figure-15-11)).</span></p>
 
 
-```{r figure-15-11, fig.cap='| The 2010 Mt. Meager landslide, showing where the slide originated (arrow, 4 km upstream). It then raced down a steep narrow valley and out into the wider valley in the foreground.  Source: Mika McKinnon (2011) CC BY-SA-NC, [View source](http://www.geomika.com/blog/2011/01/05/the-trouble-with-landslides/)'}
+```{r figure-15-11, fig.cap='| The 2010 Mt. Meager landslide, showing where the slide originated (arrow, 4 km upstream). It then raced down a steep narrow valley and out into the wider valley in the foreground. Source: Mika McKinnon (2011) CC BY-SA-NC, [View source](http://www.geomika.com/blog/2011/01/05/the-trouble-with-landslides/)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/2010-Mt.-Meager-rock-avalanche-.png")
 ```
 
@@ -256,7 +256,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 <p class="NormalOT"><span lang="EN-US">Creep can be facilitated by freezing and thawing because, as shown in Figure \@ref(fig:figure-15-12), particles are lifted perpendicular to the surface by the growth of ice crystals within the soil, and then move downwards vertically due to gravity when the ice melts. The same effect can be produced by frequent wetting and drying of the soil. In cold environments,__ solifluction__ is a more intense form of freeze-thaw-triggered creep.</span></p>
 
 
-```{r figure-15-12, fig.cap='| A depiction of the contribution of freeze-thaw to creep. The blue arrows represent uplift caused by freezing in the wet soil underneath, while the red arrows represent depression by gravity during thawing. The uplift is perpendicular to the slope, while the drop is vertical.  _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
+```{r figure-15-12, fig.cap='| A depiction of the contribution of freeze-thaw to creep. The blue arrows represent uplift caused by freezing in the wet soil underneath, while the red arrows represent depression by gravity during thawing. The uplift is perpendicular to the slope, while the drop is vertical. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/depiction-of-the-contribution-of-freeze-thaw.png")
 ```
 
@@ -275,7 +275,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11
 <p class="NormalOT"><span lang="EN-US">A slide is a mass movement where the material moves as a coherent mass. A __slump__ is a type of slide that takes place within thick unconsolidated deposits (typically thicker than 10 m). Slumps involve movement along one or more curved failure surfaces, and are thus rotational slope failures. Slumps have downward motion near the top and outward motion toward the bottom (Figure \@ref(fig:figure-15-14)). They are typically caused by high water pressure within these materials on a steep slope.</span></p>
 
 
-```{r figure-15-14, fig.cap='| The motion of unconsolidated sediments in an area of slumping. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
+```{r figure-15-14, fig.cap='| The motion of unconsolidated sediments in an area of slumping. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/motion-of-unconsolidated-sediments-in-an-area-of-slumping-1024x456.png")
 ```
 
@@ -301,7 +301,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 <p class="NormalOT"><span lang="EN-US">A typical west-coast debris flow is shown in Figure \@ref(fig:figure-15-17). This event took place in November 2006 in response to very heavy rainfall. There was enough energy in the flow to move large boulders and to knock over large trees.</span></p>
 
 
-```{r figure-15-17, fig.cap='The lower part of debris flow within a steep stream channel near Buttle Lake, B.C., in November 2006.  Note the trees along the edges of the stream that have been damaged by the rocks in the debris flow. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
+```{r figure-15-17, fig.cap='The lower part of debris flow within a steep stream channel near Buttle Lake, B.C., in November 2006. Note the trees along the edges of the stream that have been damaged by the rocks in the debris flow. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/lower-part-of-debris-flow-within-a-steep-stream.png")
 ```
 
@@ -315,12 +315,12 @@ These four photos show some of the different types of slope failures described a
 <table>
 <tbody>
 <tr>
-<td> [<img class="wp-image-1284 alignnone" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures1.jpg" alt="Classifying Slope Failures1" width="227" height="181" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures1.jpg)</td>
+<td> [<img class="wp-image-1284 alignnone" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures1.jpg" alt="Classifying Slope Failures1" width="227" height="181" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures1.jpg)</td>
 <td>[<img class="wp-image-1285 alignnone" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures2.jpg" alt="Classifying Slope Failures2" width="226" height="190" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures2.jpg)</td>
 </tr>
 <tr>
-<td>__ [<img class="alignnone wp-image-1286" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures3.jpg" alt="Classifying Slope Failures3" width="228" height="188" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures3.jpg)__</td>
-<td><strong> [<img class="wp-image-1287 alignnone" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures4.jpg" alt="Classifying Slope Failures4" width="220" height="186" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures4.jpg)
+<td>__ [<img class="alignnone wp-image-1286" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures3.jpg" alt="Classifying Slope Failures3" width="228" height="188" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures3.jpg)__</td>
+<td><strong> [<img class="wp-image-1287 alignnone" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures4.jpg" alt="Classifying Slope Failures4" width="220" height="186" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures4.jpg)
 </strong></td>
 </tr>
 </tbody>
@@ -379,7 +379,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 <p class="NormalOT"><span lang="EN-US">Warning systems are helpful in some areas where there is a risk of mass wasting. They let us know if conditions have changed at a known slide area, or if a rapid failure, such as a debris flow, is on its way downslope. The Downie Slide above the Revelstoke Reservoir is continuously-monitored with a range of devices, such as inclinometers (slope-change detectors), bore-hole motion sensors, and GPS survey instruments. A simple mechanical device for monitoring the nearby Checkerboard Slide (which is also above the Revelstoke Reservoir) is shown in Figure \@ref(fig:figure-15-19). Both of these slides are very slow-moving, but it is important to be able to detect changes in their rates of motion. A rapid failure would result in large bodies of rock plunging into the reservoir and sending a wall of water over the Revelstoke Dam, potentially destroying the nearby town of Revelstoke.</span></p>
 
 
-```{r figure-15-19, fig.cap='| Part of a motion-monitoring device at the Checkerboard Slide near Revelstoke, BC. The lower end of the cable (extending out from the top of the device to the right) is attached to a block of rock that is unstable. Any incremental motion of this block will move the cable, which will be detectable by this device. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
+```{r figure-15-19, fig.cap='| Part of a motion-monitoring device at the Checkerboard Slide near Revelstoke, BC. The lower end of the cable (extending out from the top of the device to the right) is attached to a block of rock that is unstable. Any incremental motion of this block will move the cable, which will be detectable by this device. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/motion-monitoring-device-at-the-Checkerboard-Slide-near-Revelstoke.jpg")
 ```
 
@@ -406,22 +406,22 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11
 <p class="NormalOT"><span lang="EN-US">In situations where we cannot predict, prevent, or delay mass-wasting hazards, some effective measures can be taken to minimize the associated risk. For example, many highways in BC and western Alberta have avalanche shelters like the one shown in Figure \@ref(fig:figure-15-22). In some parts of the world, similar structures have been built to protect infrastructure from other types of mass wasting.</span></p>
 
 
-```{r figure-15-22, fig.cap='| A snow avalanche shelter on the Coquihalla Highway (bottom centre of the image). The expected path of the avalanche is the steep and treeless slope above. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
+```{r figure-15-22, fig.cap='| A snow avalanche shelter on the Coquihalla Highway (bottom centre of the image). The expected path of the avalanche is the steep and treeless slope above. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/snow-avalanche-shelter.png")
 ```
 
 <p class="NormalOT"><span lang="EN-US">Debris flows are inevitable, unpreventable, and unpredictable in many parts of BC, but nowhere more so than along the Sea-to-Sky Highway between Horseshoe Bay and Squamish. The results have been deadly and expensive many times in the past. It would be very expensive to develop a new route in this region, so provincial authorities have taken steps to protect residents, and traffic on the highway and railway. Debris flow defensive structures have been constructed in several drainage basins, as shown in Figure \@ref(fig:figure-15-23). One strategy is to allow the debris flow to flow quickly through to the ocean along a smooth channel. Another is to capture the debris within a constructed basin that allows the excess water to continue through.</span></p>
 
 
-```{r figure-15-23, fig.cap='| Two strategies for mitigating debris flows on the Sea-to-Sky Highway. Left: A concrete –lined channel on Alberta Creek allows debris to flow quickly through to the ocean. Right: A debris flow catchment basin on Charles Creek. In 2010, a debris flow filled the basin to the level of the dotted white line. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
+```{r figure-15-23, fig.cap='| Two strategies for mitigating debris flows on the Sea-to-Sky Highway. Left: A concrete –lined channel on Alberta Creek allows debris to flow quickly through to the ocean. Right: A debris flow catchment basin on Charles Creek. In 2010, a debris flow filled the basin to the level of the dotted white line. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/mitigating-debris-flows-on-the-Sea-to-Sky-Highway-1024x313.png")
 ```
 
 
-Finally, in situations where we cannot do anything to delay, predict, contain, or mitigate slope failures, the responsible and ethical thing to do is to avoid building in or using the risky area. Sometimes this may require relocating a community after discovering a previously-unidentified risk. There is a famous example of this in BC at a site known as Garibaldi, 25 km south of Whistler. In the early 1980s the village of Garibaldi had a population of about 100, with construction underway on some new homes, and plans for many more. In the months that followed the deadly 1980 eruption of Mt. St. Helens in Washington State, the BC Ministry of Transportation commissioned a geological study to assess risks along their highways.  The study revealed that a steep cliff known as The Barrier (Figure \@ref(fig:figure-15-24)) had collapsed in 1855, leading to a large rock avalanche, and that it was likely to collapse again unpredictably, putting the village of Garibaldi at extreme risk. In an ensuing court case, it was ruled that the Garibaldi site was not a safe place for people to live. Those who already had homes there were compensated, and everyone was ordered to leave.
+Finally, in situations where we cannot do anything to delay, predict, contain, or mitigate slope failures, the responsible and ethical thing to do is to avoid building in or using the risky area. Sometimes this may require relocating a community after discovering a previously-unidentified risk. There is a famous example of this in BC at a site known as Garibaldi, 25 km south of Whistler. In the early 1980s the village of Garibaldi had a population of about 100, with construction underway on some new homes, and plans for many more. In the months that followed the deadly 1980 eruption of Mt. St. Helens in Washington State, the BC Ministry of Transportation commissioned a geological study to assess risks along their highways. The study revealed that a steep cliff known as The Barrier (Figure \@ref(fig:figure-15-24)) had collapsed in 1855, leading to a large rock avalanche, and that it was likely to collapse again unpredictably, putting the village of Garibaldi at extreme risk. In an ensuing court case, it was ruled that the Garibaldi site was not a safe place for people to live. Those who already had homes there were compensated, and everyone was ordered to leave.
 
 
-```{r figure-15-24, fig.cap='| The Barrier, south of Whistler, BC, was the site of a huge rock avalanche in 1855, which extended from the cliff visible here 4 km down the valley and across the current location of the Sea-to-Sky Highway and the Cheakamus River. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
+```{r figure-15-24, fig.cap='| The Barrier, south of Whistler, BC, was the site of a huge rock avalanche in 1855, which extended from the cliff visible here 4 km down the valley and across the current location of the Sea-to-Sky Highway and the Cheakamus River. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/The-Barrier.jpg")
 ```
 
@@ -448,7 +448,7 @@ The key criteria for classifying mass wasting are the nature of the movement tha
 
 <div class="bcc-box bcc-info">
 
-#### Questions for Review
+#### Questions for Review
 
 
 
@@ -483,7 +483,7 @@ Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geolog
 
 6. In what ways does a debris flow differ from a mudflow?
 
-7. In the situation described in the chapter regarding lahar warnings at Mt. Rainier, the residents of the affected regions have to assume some responsibility and take precautions for their own safety. What sort of preparation should the residents make to ensure that they can respond appropriately when they hear lahar warnings? What other considerations do officials have to make in their emergency plan, other than just sounding a warning?
+7. In the situation described in the chapter regarding lahar warnings at Mt. Rainier, the residents of the affected regions have to assume some responsibility and take precautions for their own safety. What sort of preparation should the residents make to ensure that they can respond appropriately when they hear lahar warnings? What other considerations do officials have to make in their emergency plan, other than just sounding a warning?
 
 8. What factors are likely to be important when considering the construction of a house near the crest of a slope that is underlain by glacial sediments?
 

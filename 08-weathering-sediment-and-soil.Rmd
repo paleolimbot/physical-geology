@@ -9,7 +9,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 ```
 
 
-### __ ____Learning Objectives__
+### __ ____Learning Objectives__
 
 
 <div class="bcc-box bcc-highlight">
@@ -57,7 +57,7 @@ After reading this chapter and answering the review questions at the end, you sh
 
 __Weathering__ occurs when rock is exposed to the “weather” — to the forces and conditions that exist at Earth’s surface. Rocks that form deep within Earth experience relatively constant temperature, high pressure, have no contact with the atmosphere, and little or no interaction with moving water. Once overlying layers are eroded away and a rock is exposed at the surface, conditions change dramatically. Temperatures vary widely, and pressure is much lower. Reactive gases like oxygen and carbon dioxide are plentiful, and in many climates, water is abundant.
 
-Weathering can be characterized as __mechanical __(or __physical__), and __chemical__. In mechanical weathering, physical processes break rock into smaller pieces. In chemical weathering, chemical reactions change minerals into forms that are less affected by chemical reactions that occur at Earth's surface. Mechanical and chemical weathering reinforce each other, because mechanical weathering provides new fresh surfaces for attack by chemical processes, and chemical weathering weakens the rock so that it is more susceptible to mechanical weathering. Together, these processes create the particles and ions that can eventually become sedimentary rock.  They also create soil, which is necessary for our existence on Earth.
+Weathering can be characterized as __mechanical __(or __physical__), and __chemical__. In mechanical weathering, physical processes break rock into smaller pieces. In chemical weathering, chemical reactions change minerals into forms that are less affected by chemical reactions that occur at Earth's surface. Mechanical and chemical weathering reinforce each other, because mechanical weathering provides new fresh surfaces for attack by chemical processes, and chemical weathering weakens the rock so that it is more susceptible to mechanical weathering. Together, these processes create the particles and ions that can eventually become sedimentary rock. They also create soil, which is necessary for our existence on Earth.
 
 
 
@@ -101,7 +101,7 @@ In wedging, a pre-existing crack in a rock is made larger by forcing it open.
 #### Frost Wedging
 
 
-__Frost wedging__ (or __ice wedging__) happens when water seeps into cracks, then expands upon freezing. The expansion enlarges the cracks (Figure \@ref(fig:figure-8-4)). The effectiveness of frost wedging depends on how often freezing and thawing occur.  Frost wedging won’t be as important in warm areas where freezing is infrequent, in very cold areas where thawing is infrequent, or in very dry areas, where there is little water to seep into cracks.
+__Frost wedging__ (or __ice wedging__) happens when water seeps into cracks, then expands upon freezing. The expansion enlarges the cracks (Figure \@ref(fig:figure-8-4)). The effectiveness of frost wedging depends on how often freezing and thawing occur. Frost wedging won’t be as important in warm areas where freezing is infrequent, in very cold areas where thawing is infrequent, or in very dry areas, where there is little water to seep into cracks.
 
 
 ```{r figure-8-4, fig.cap='A rock broken by ice wedging sits in a stream in Mount Revelstoke National Park, Canada. Rocks break apart when ice expands in pre-existing cracks. _Source: Karla Panchuk (2018) CC BY 4.0._'}
@@ -109,7 +109,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 ```
 
 
-Frost wedging is most effective in Canada's climate, where for at least part of the year temperatures oscillate between warm and freezing. In many parts of Canada, the temperature swings between freezing at night and thawing in the day tens to hundreds of times a year. Even in warm coastal areas of southern British Columbia, freezing and thawing transitions are common at higher elevations. A common feature in areas of effective frost wedging is a talus slope — a fan-shaped deposit of fragments removed by frost wedging from the steep rocky slopes above (Figure \@ref(fig:figure-8-5)).
+Frost wedging is most effective in Canada's climate, where for at least part of the year temperatures oscillate between warm and freezing. In many parts of Canada, the temperature swings between freezing at night and thawing in the day tens to hundreds of times a year. Even in warm coastal areas of southern British Columbia, freezing and thawing transitions are common at higher elevations. A common feature in areas of effective frost wedging is a talus slope — a fan-shaped deposit of fragments removed by frost wedging from the steep rocky slopes above (Figure \@ref(fig:figure-8-5)).
 
 
 ```{r figure-8-5, fig.cap='An area with very effective frost wedging near Keremeos, BC. The fragments that were wedged away from the cliffs above have accumulated in a talus deposit at the base of the slope. The rocks in this area are variable in colour, which is reflected in the colours of the talus. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image011.jpg)_'}
@@ -155,10 +155,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 
 </div>
 
-###  Erosion
+### Erosion
 
 
-Mechanical weathering is greatly facilitated by __erosion__.  Erosion is the removal of weathering products, such as fragments of rock. This exposes more rock to weathering, accelerating the process. A good example of weathering and erosion working together is the talus shown in Figure \@ref(fig:figure-8-5). The rock fragments forming the talus piles were broken off the steep rock faces at the top of the cliff by ice wedging, and then removed by gravity.
+Mechanical weathering is greatly facilitated by __erosion__. Erosion is the removal of weathering products, such as fragments of rock. This exposes more rock to weathering, accelerating the process. A good example of weathering and erosion working together is the talus shown in Figure \@ref(fig:figure-8-5). The rock fragments forming the talus piles were broken off the steep rock faces at the top of the cliff by ice wedging, and then removed by gravity.
 
 Gravity does not always work alone to remove weathering products. Other agents of erosion include water in streams, ice in glaciers, and waves on coasts.
 
@@ -188,7 +188,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 
 While rainwater and atmospheric CO<sub>2</sub> can combine to create carbonic acid, the amount of CO<sub>2</sub> in the air is enough to make only very weak carbonic acid. In contrast, biological processes acting in soil can result in a much higher concentration of CO<sub>2</sub> within soil, as well as adding organic acids. Water that percolates through the soil can become significantly more acidic.
 
-Calcite is a major component of the sedimentary rock called limestone (typically more than 95%). In the presence of acidic groundwater, limestone can dissolve underground.  Over time the dissolution can remove enough of the calcite to form caves.
+Calcite is a major component of the sedimentary rock called limestone (typically more than 95%). In the presence of acidic groundwater, limestone can dissolve underground. Over time the dissolution can remove enough of the calcite to form caves.
 
 If dissolution of limestone or other materials removes enough rock to undermine support near the surface, the surface may collapse, creating a __sinkhole__ such as the one in Figure \@ref(fig:figure-8-10), downstream of the Mosul Dam in Iraq.
 
@@ -226,9 +226,9 @@ Hydration reactions involve water being added to the chemical structure of a min
 __Oxidation __happens when free oxygen (i.e., oxygen not bound up in molecules with other elements) is involved in chemical reactions. Oxidation reactions provide valuable insight into Earth’s early surface conditions because there is a clear transition in the rock record from rocks containing no minerals that are products of oxidation reactions, to rocks containing abundant minerals produced by oxidation. This reflects a transition from an oxygen-free atmosphere to an oxygenated one.
 
 In iron-rich minerals such as olivine, the oxidation reaction begins with taking iron out of the mineral and putting it into solution as an ion. Olivine reacts with carbonic acid, leaving dissolved iron, bicarbonate, and silicic acid:
-<p style="text-align: center">Fe<sub>2</sub>SiO<sub>4</sub> + 4H<sub>2</sub>CO<sub>3 </sub>→ 2Fe<sup><sub>2</sub>+</sup> +  4HCO<sub>3</sub><sup>-</sup> +  H<sub>4</sub>SiO<sub>4</sub></p>
+<p style="text-align: center">Fe<sub>2</sub>SiO<sub>4</sub> + 4H<sub>2</sub>CO<sub>3 </sub>→ 2Fe<sup><sub>2</sub>+</sup> + 4HCO<sub>3</sub><sup>-</sup> + H<sub>4</sub>SiO<sub>4</sub></p>
 Iron and oxygen dissolved in water react in the presence of bicarbonate to produce hematite and carbonic acid:
-<p style="text-align: center">2Fe<sup><sub>2</sub>+</sup>  + ½ O<sub>2</sub> + 2H<sub>2</sub>O + 4HCO<sub>3</sub><sup>-</sup>  → Fe<sub>2</sub>O<sub>3  </sub>+ 4H<sub>2</sub>CO<sub>3</sub></p>
+<p style="text-align: center">2Fe<sup><sub>2</sub>+</sup> + ½ O<sub>2</sub> + 2H<sub>2</sub>O + 4HCO<sub>3</sub><sup>-</sup> → Fe<sub>2</sub>O<sub>3 </sub>+ 4H<sub>2</sub>CO<sub>3</sub></p>
 When the olivine in basalt is oxidized, the basalt takes on a reddish colour that is distinct from the dark grey or black of unweathered basalt (Figure \@ref(fig:figure-8-12)).
 
 
@@ -253,7 +253,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 
 
 Oxidation reactions can pose an environmental problem in areas where rocks have elevated levels of sulphide minerals such as pyrite. This is because when oxygen and water react with pyrite, sulphuric acid is produced:
-<p style="text-align: center">2FeS<sub>2</sub> + 7O<sub>2</sub> + 2H<sub>2</sub>O → 2FeSO<sub>4</sub> + 2H<sub>2</sub>SO<sub>4</sub></p>
+<p style="text-align: center">2FeS<sub>2</sub> + 7O<sub>2</sub> + 2H<sub>2</sub>O → 2FeSO<sub>4</sub> + 2H<sub>2</sub>SO<sub>4</sub></p>
 The runoff from areas where this process is taking place is known as __acid rock drainage__ (ARD), and even a rock with 1% or 2% pyrite can produce significant ARD. Some of the worst examples of ARD are at metal mine sites, especially where pyrite-bearing rock and waste material have been mined from deep underground, and then piled up and left exposed to water and oxygen. In these cases the problem is referred to as __acid mine drainage__. One example is the Mt. Washington Mine near Courtenay on Vancouver Island (Figure \@ref(fig:figure-8-12)), but there are many similar sites across Canada and around the world.
 
 
@@ -273,7 +273,7 @@ At many ARD sites, the pH of the runoff water is less than 4 (very acidic). Unde
 
 For each of the following reactions, indicate which chemical weathering process—dissolution, hydrolysis, hydration, or oxidation—is the primary mechanism.
 <ol>
- 	<li>Pyrite → hematite</li>
+ 	<li>Pyrite → hematite</li>
  	<li>Calcite → calcium and bicarbonate ions</li>
  	<li>Feldspar → clay</li>
  	<li>Olivine → serpentine</li>
@@ -342,9 +342,9 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 ## Weathering and Erosion Produce Sediments
 
-The visible products of weathering and erosion are the unconsolidated materials that we find around us on slopes, beneath glaciers, in stream valleys, on beaches, and in deserts. The loose collection of material is referred to as __sediment__, and the individual pieces that make it up are called __clasts__.  Clasts can be of any size: sand-sized and smaller (in which case they might be referred to as particles or grains), or larger than a house.
+The visible products of weathering and erosion are the unconsolidated materials that we find around us on slopes, beneath glaciers, in stream valleys, on beaches, and in deserts. The loose collection of material is referred to as __sediment__, and the individual pieces that make it up are called __clasts__. Clasts can be of any size: sand-sized and smaller (in which case they might be referred to as particles or grains), or larger than a house.
 
-Clasts can range widely in size and shape (Figure \@ref(fig:figure-8-16)) depending on the processes involved in making and transporting them. If and when deposits like these are turned into sedimentary rocks, the mineralogy and textures of these rocks will vary significantly. Importantly, when we describe sedimentary rocks that formed millions of years in the past, we can study the mineralogy and textures to make inferences about the conditions that existed during the deposition of the sediment, and the later burial and formation of sedimentary rock.  The properties we look at are __composition__, __grain size__, __sorting__, __rounding__, and __sphericity__.
+Clasts can range widely in size and shape (Figure \@ref(fig:figure-8-16)) depending on the processes involved in making and transporting them. If and when deposits like these are turned into sedimentary rocks, the mineralogy and textures of these rocks will vary significantly. Importantly, when we describe sedimentary rocks that formed millions of years in the past, we can study the mineralogy and textures to make inferences about the conditions that existed during the deposition of the sediment, and the later burial and formation of sedimentary rock. The properties we look at are __composition__, __grain size__, __sorting__, __rounding__, and __sphericity__.
 
 
 
@@ -357,7 +357,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 ### Composition
 
 
-Composition refers to the mineral or minerals making up the clast. Small clasts might be single mineral grains, but larger ones can have several different mineral grains, or even several different pieces of rock within them.  The composition can tell us about what rock the sediments came from, and about the geological setting from which the sediment was derived.
+Composition refers to the mineral or minerals making up the clast. Small clasts might be single mineral grains, but larger ones can have several different mineral grains, or even several different pieces of rock within them. The composition can tell us about what rock the sediments came from, and about the geological setting from which the sediment was derived.
 
 Not all minerals have the same hardness and resistance to weathering, so as weathering and erosion proceed, some minerals become more abundant than others within sediments. Quartz is one example of a mineral that is more abundant. It is highly resistant to weathering by weak acids or reaction with oxygen. This makes it unique among the minerals that are common in igneous rocks. Quartz is also very hard, so it is resistant to mechanical weathering.
 
@@ -366,7 +366,7 @@ In contrast, feldspar and iron- and magnesium-bearing minerals are not as resist
 ### Grain Size
 
 
-Whether a grain is large or small tells us about its journey from its source to where it was deposited.  Mechanical weathering can break off large pieces from rock.  Large pieces carried along by streams will bump into each other, causing smaller pieces to break off.  Over time the grains get smaller and smaller still. If we find grains that are very small, we can conclude that they travelled over a long distance.
+Whether a grain is large or small tells us about its journey from its source to where it was deposited. Mechanical weathering can break off large pieces from rock. Large pieces carried along by streams will bump into each other, causing smaller pieces to break off. Over time the grains get smaller and smaller still. If we find grains that are very small, we can conclude that they travelled over a long distance.
 
 Geologists have a specific set of definitions to describe the size of grains (Figure \@ref(fig:figure-8-17)).
 
@@ -376,7 +376,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 ```
 
 
-The scale has some of the grain sizes listed in microns (µm). There are 1000 µm in 1 mm. The particles classified as sand are what you would intuitively think of as being sand-sized, so an easy way to remember the scale is that anything smaller than sand is fine-grained, and anything larger is coarse-grained. Fine sand grains are still easily discernible with the naked eye. Silt grains are barely discernible in rocks, and silty rocks feel gritty when rubbed. Clay grains are invisible to the naked eye, and rocks comprised of clay feel smooth when rubbed.
+The scale has some of the grain sizes listed in microns (µm). There are 1000 µm in 1 mm. The particles classified as sand are what you would intuitively think of as being sand-sized, so an easy way to remember the scale is that anything smaller than sand is fine-grained, and anything larger is coarse-grained. Fine sand grains are still easily discernible with the naked eye. Silt grains are barely discernible in rocks, and silty rocks feel gritty when rubbed. Clay grains are invisible to the naked eye, and rocks comprised of clay feel smooth when rubbed.
 
 One other thing to notice about this scale is that the finest-grained particle is referred to as clay. While a clay-sized particle could be composed of clay minerals (and often they are), it doesn’t have to be. Any particle of that size would be referred to as clay.
 
@@ -385,7 +385,7 @@ One other thing to notice about this scale is that the finest-grained particle i
 
 The grain size of sediments is not just for purposes of description. It's also a valuable clue to the processes that have acted on those sediments, because the size of the clast determines how much energy is required to move it.
 
-Whether or not a medium such as water or air has the ability to move a clast of a particular size and keep it moving depends on the velocity of the flow.  For the most part, the faster the medium flows, the larger the clasts that can be moved. Figure \@ref(fig:figure-8-18) shows a stream bed that now contains only a trickle of water—barely enough to move particles of sand or cool puppy feet. But the velocity of water in the stream changes from season to season, as does the volume of water.  All of the clasts in the stream bed were transported there by water at some point.
+Whether or not a medium such as water or air has the ability to move a clast of a particular size and keep it moving depends on the velocity of the flow. For the most part, the faster the medium flows, the larger the clasts that can be moved. Figure \@ref(fig:figure-8-18) shows a stream bed that now contains only a trickle of water—barely enough to move particles of sand or cool puppy feet. But the velocity of water in the stream changes from season to season, as does the volume of water. All of the clasts in the stream bed were transported there by water at some point.
 
 
 
@@ -403,12 +403,12 @@ Very fine-grained particles are the exception to rule that the larger the clasts
 Weathering can break off large fragments of rock, and erosion and transport can break these fragments down to smaller and smaller sizes. The extent to which the grains in sediment differ in size is described by __sorting__ (Figure \@ref(fig:figure-8-19), top).
 
 
-```{r figure-8-19, fig.cap='Top: Sorting of grains, ranging from well sorted where the grains are similar in size, to poorly sorted, where the grains vary greatly in size. Bottom: Rounding refers to how smooth or rough the edges of a clast are.  Clasts with sharp edges and corners are angular. Clasts with smooth surfaces are rounded.  Clasts that fall in between are sub-angular or sub-rounded. Source: Reagan et al. (2015) CC BY 3.0 [view source](http://publications.iodp.org/proceedings/352/102/figures/02_F05.png)'}
+```{r figure-8-19, fig.cap='Top: Sorting of grains, ranging from well sorted where the grains are similar in size, to poorly sorted, where the grains vary greatly in size. Bottom: Rounding refers to how smooth or rough the edges of a clast are. Clasts with sharp edges and corners are angular. Clasts with smooth surfaces are rounded. Clasts that fall in between are sub-angular or sub-rounded. Source: Reagan et al. (2015) CC BY 3.0 [view source](http://publications.iodp.org/proceedings/352/102/figures/02_F05.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/IODP-sorting-and-rounding.png")
 ```
 
 
-If the grains in a sample of sediment are the same size or very nearly so, the sediment is said to be well sorted.  If the grains vary substantially in size, the sediment is poorly sorted. Because grains become progressively smaller as they are transported, sorting improves the further the sediments are from their source.
+If the grains in a sample of sediment are the same size or very nearly so, the sediment is said to be well sorted. If the grains vary substantially in size, the sediment is poorly sorted. Because grains become progressively smaller as they are transported, sorting improves the further the sediments are from their source.
 
 ### Rounding
 
@@ -418,7 +418,7 @@ __Rounding__ refers to whether clasts have sharp edges and corners or not (Figur
 ### Sphericity
 
 
-__Sphericity__ describes whether a grain is elongate or not.  Grains that are longer than they are wide (like an ellipse) have low sphericity, whereas grains that have the same diameter no matter where you measure it (like a sphere) have high sphericity. In the bottom row of boxes in Figure \@ref(fig:figure-8-19) the grains at the top of each box exhibit high sphericity, and the grains at the bottom exhibit low sphericity.  Notice that a grain can be angular but still have high sphericity.  It can be rounded, but still have low sphericity. Sphericity also increases the further the sediments are from their source.
+__Sphericity__ describes whether a grain is elongate or not. Grains that are longer than they are wide (like an ellipse) have low sphericity, whereas grains that have the same diameter no matter where you measure it (like a sphere) have high sphericity. In the bottom row of boxes in Figure \@ref(fig:figure-8-19) the grains at the top of each box exhibit high sphericity, and the grains at the bottom exhibit low sphericity. Notice that a grain can be angular but still have high sphericity. It can be rounded, but still have low sphericity. Sphericity also increases the further the sediments are from their source.
 
 
 <div class="textbox textbox--exercises"><header class="textbox__header">
@@ -492,7 +492,7 @@ Soil forms through the mechanical and chemical weathering of rocks and sediments
 #### Climate
 
 
-Both the mechanical breakup of rocks and the chemical weathering of minerals contribute to soil formation.  The downward percolation of water brings dissolved ions and also facilitates chemical reactions. Soil forms most readily under temperate to tropical conditions, and moderate precipitation.  Temperature matters because chemical weathering reactions and those facilitated by organisms proceed fastest under warm conditions, and plant growth is enhanced in warm climates. Where the climate is cooler, the rates of chemical weathering reactions decrease, and when water is frozen, may cease entirely.
+Both the mechanical breakup of rocks and the chemical weathering of minerals contribute to soil formation. The downward percolation of water brings dissolved ions and also facilitates chemical reactions. Soil forms most readily under temperate to tropical conditions, and moderate precipitation. Temperature matters because chemical weathering reactions and those facilitated by organisms proceed fastest under warm conditions, and plant growth is enhanced in warm climates. Where the climate is cooler, the rates of chemical weathering reactions decrease, and when water is frozen, may cease entirely.
 
 Although water is needed for chemical weathering to take place, too much water can lead to soils that lack nutrients. In rain forests, for example, high rainfall contributes so much water that important nutrients are leached away, and acidic soils are left behind. In humid and poorly drained regions, swampy conditions may prevail, producing soil that is dominated by organic matter, but low in inorganic nutrients.
 
@@ -511,7 +511,7 @@ Parent material for soils can be any type of bedrock, and any type of unconsolid
 
 Sandy soils develop from quartz-rich parent material, such as granite, sandstone, or loose sand. Quartz-poor material, such as shale or basalt, generates soils with little sand.
 
-Parent materials provide important nutrients to residual soils. For example, a minor constituent of granitic rocks is the calcium-phosphate mineral apatite, which is a source of the important soil nutrient phosphorus. Basaltic parent material tends to generate very fertile soils because, in addition to phosphorus, it provides significant amounts of iron, magnesium, and calcium.  The iron, magnesium, and calcium come from minerals such as olivine ((Mg,Fe)<sub>2</sub>SiO<sub>4</sub>) and plagioclase feldspar (CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub>) in the basalt.
+Parent materials provide important nutrients to residual soils. For example, a minor constituent of granitic rocks is the calcium-phosphate mineral apatite, which is a source of the important soil nutrient phosphorus. Basaltic parent material tends to generate very fertile soils because, in addition to phosphorus, it provides significant amounts of iron, magnesium, and calcium. The iron, magnesium, and calcium come from minerals such as olivine ((Mg,Fe)<sub>2</sub>SiO<sub>4</sub>) and plagioclase feldspar (CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub>) in the basalt.
 
 Some unconsolidated materials, such as river-flood deposits, make for especially good soils because they tend to be rich in clay minerals. Clay minerals have large surface areas with negative charges that are attractive to positively charged elements like calcium, magnesium, iron, and potassium — important nutrients for plant growth.
 
@@ -551,7 +551,7 @@ Although rare in Canada, another type of layer that develops in hot arid regions
 ### How Soil Is Lost
 
 
-Like all geological materials, soil is subject to erosion.  Under natural conditions on gentle slopes, the rate of soil formation either balances or exceeds the rate of erosion. However, human practices related to forestry and agriculture have significantly upset this balance.
+Like all geological materials, soil is subject to erosion. Under natural conditions on gentle slopes, the rate of soil formation either balances or exceeds the rate of erosion. However, human practices related to forestry and agriculture have significantly upset this balance.
 
 Soils are held in place by vegetation. When vegetation is removed, either through cutting trees or routinely harvesting crops and tilling the soil, this protection is lost. When soil is not protected, wind and water can easily erode it away.
 
@@ -730,7 +730,7 @@ Examine Figure \@ref(fig:figure-8-26) showing the distribution of soils in Canad
 
 ## Weathering and Climate Change
 
-Carbon cycling on Earth operates on different timescales depending on the components of the Earth system that are involved. Over the short term, biological processes are important. In particular, living organisms — mostly plants — consume carbon dioxide from the atmosphere to make their tissues.  After they die, the carbon is released back into the atmosphere over years to decades as the plant matter decays.
+Carbon cycling on Earth operates on different timescales depending on the components of the Earth system that are involved. Over the short term, biological processes are important. In particular, living organisms — mostly plants — consume carbon dioxide from the atmosphere to make their tissues. After they die, the carbon is released back into the atmosphere over years to decades as the plant matter decays.
 
 Over the longer term, geological processes drive the carbon cycle. Geological carbon-cycle processes operate very slowly, but they affect much more of Earth's carbon than the biological component. Carbon can move from the biological cycle to the geological cycle if it is buried in sedimentary rocks. The biological carbon could be fragments of plant material or organic molecules that are preserved as coal or in organic-rich shale. It could also be calcium carbonate body parts of marine organisms that are preserved in limestone.
 
@@ -826,7 +826,7 @@ The geological component of the carbon cycle affects Earth's climate over the lo
  	<li>What must happen to a body of rock before exfoliation can occur?</li>
  	<li>Saskatchewan's climate is consistently cold in the winter and consistently warm in the summer. What times of year would frost wedging to be an important weathering mechanism?</li>
  	<li>What are the products of the hydrolysis of the feldspar albite (NaAlSi<sub>3</sub>O<sub>8</sub>)?</li>
- 	<li>Oxidation weathering of  pyrite (FeS<sub>2</sub>) can lead to acid rock drainage (ARD). What are the environmental impacts of ARD?</li>
+ 	<li>Oxidation weathering of pyrite (FeS<sub>2</sub>) can lead to acid rock drainage (ARD). What are the environmental impacts of ARD?</li>
  	<li>Imagine that you and a friend encounter an old graveyard on a walk through the forest. You see a granite tombstone with the date 1705 carved into it. The tombstone next to it is too badly weathered to read the date. Your friend looks at the badly weathered stone and declares, "Look how weathered this stone is! It must be from _way_ before 1705." Do you agree?</li>
  	<li>Many sand deposits are dominated by quartz, with very little feldspar. What weathering and erosion conditions are required to get feldspar-rich sand?</li>
  	<li>What ultimately happens to most of the clay that forms during the hydrolysis of silicate minerals?</li>
@@ -844,7 +844,7 @@ The geological component of the carbon cycle affects Earth's climate over the lo
 <ol>
  	<li>Rock must be exposed at surface. It has to be uplifted from where it formed deep in the crust, and the material on top has to be eroded.</li>
  	<li>Frost wedging is most effective when temperatures swing between freezing and thawing from day to day. In Saskatchewan that happens consistently in the early spring and late fall.</li>
- 	<li>The feldspar albite (NaAlSi<sub>3</sub>O<sub>8</sub>) will be converted to a clay (such as kaolinite) and sodium ions in solution.</li>
+ 	<li>The feldspar albite (NaAlSi<sub>3</sub>O<sub>8</sub>) will be converted to a clay (such as kaolinite) and sodium ions in solution.</li>
  	<li>Acid rock drainage (ARD) creates acidic stream runoff. It also increases the solubility of a wide range of metals, some of which are toxic to wildlife and humans.</li>
  	<li>If the stones are both granite, then it would be reasonable to conclude that the badly weathered tombstone is much older than the other, because it has been exposed to weathering for much longer. On the other hand, if the badly weathered stone is a rock that is less resistant to weathering, like limestone, then the badly weathered stone could be the same age, or even younger than the granite one.</li>
  	<li>Feldspar-rich sand is formed where granitic rocks are being weathered and where mechanical weathering predominates over chemical weathering. For a deposit of feldspar-rich sand to be preserved, the sand must be deposited close to its source to limit the opportunities for chemical weathering.</li>

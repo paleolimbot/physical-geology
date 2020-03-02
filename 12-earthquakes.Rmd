@@ -41,7 +41,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11
 
 Time and time again earthquakes have caused massive damage and many, many casualties. Recording earthquakes and determining their location of origin is important for establishing what geological conditions are responsible for the earthquakes, and understanding the risk they pose. After new, more sensitive instruments were installed at the Dominion Astrophysical Observatory in Victoria, geologists quickly learned that they had underestimated earthquake activity in the area. Between June of 1948 and August of 1951, 224 local earthquakes were recorded!
 
-By studying earthquakes, geoscientists and engineers are making progress toward learning how to minimize earthquake damage, and how to reduce the number of people affected by earthquakes.  This knowledge can be communicated to governments, so they are aware of what is needed to keep the population safe. It can also be communicated to individuals, so they know what to expect and do in the event of an earthquake, and can be adequately prepared with emergency supplies.
+By studying earthquakes, geoscientists and engineers are making progress toward learning how to minimize earthquake damage, and how to reduce the number of people affected by earthquakes. This knowledge can be communicated to governments, so they are aware of what is needed to keep the population safe. It can also be communicated to individuals, so they know what to expect and do in the event of an earthquake, and can be adequately prepared with emergency supplies.
 
 ###### Additional Resources
 
@@ -79,7 +79,7 @@ Ruptures can also occur along pre-existing faults (Figure \@ref(fig:figure-12-3)
 ### Rupture Surfaces Are Where the Action Happens
 
 
-Images like 12.3 are useful for illustrating elastic deformation and rupture, but they can be misleading.  The rupture that happens doesn't occur as in 12.3, with the block being ruptured through and through.  The rupture and displacement only happen along a subsection of a fault, called the __rupture surface__.  In Figure \@ref(fig:figure-12-4), the rupture surface is the dark pink patch.  It takes up only a part of the __fault plane__ (lighter pink). The fault plane represents the surface where the fault exists, and where ruptures have happened in the past.  Although the fault plane is drawn as being flat in Figure \@ref(fig:figure-12-4), faults are not actually perfectly flat.
+Images like 12.3 are useful for illustrating elastic deformation and rupture, but they can be misleading. The rupture that happens doesn't occur as in 12.3, with the block being ruptured through and through. The rupture and displacement only happen along a subsection of a fault, called the __rupture surface__. In Figure \@ref(fig:figure-12-4), the rupture surface is the dark pink patch. It takes up only a part of the __fault plane__ (lighter pink). The fault plane represents the surface where the fault exists, and where ruptures have happened in the past. Although the fault plane is drawn as being flat in Figure \@ref(fig:figure-12-4), faults are not actually perfectly flat.
 
 The location on the fault plane where the rupture happens is called the __hypocentre__ or __focus__ of the earthquake (Figure \@ref(fig:figure-12-4), right). The location on Earth's surface immediately above the hypocentre is the __epicentre__ of the earthquake.
 
@@ -89,7 +89,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11
 ```
 
 
-Within the rupture surface, the amount of displacement varies. In Figure \@ref(fig:figure-12-4), the larger arrows indicate where there has been more displacement, and the smaller arrows where there has been less.  Beyond the edge of the rupture surface there is no displacement at all.  Notice that this particular rupture surface doesn't even extend to the land surface of the diagram.
+Within the rupture surface, the amount of displacement varies. In Figure \@ref(fig:figure-12-4), the larger arrows indicate where there has been more displacement, and the smaller arrows where there has been less. Beyond the edge of the rupture surface there is no displacement at all. Notice that this particular rupture surface doesn't even extend to the land surface of the diagram.
 
 The size of a rupture surface and the amount of displacement along it will depend on a number of factors, including the type and strength of the rock, and the degree to which the rock was stressed beforehand. The magnitude of an earthquake will depend on the size of the rupture surface and the amount of displacement.
 
@@ -100,9 +100,9 @@ Depending on the extent of the rupture surface, the propagation of __failures__ 
 ### Shifting Stress Causes Foreshocks and Aftershocks
 
 
-Earthquakes don't usually occur in isolation. There is often a sequence in which smaller earthquakes occur prior to a larger one, and then progressively smaller earthquakes occur after.  The largest earthquake in the series is the __mainshock__.  The smaller ones that come before are __foreshocks__, and the smaller ones that come after are __aftershocks__. These descriptions are relative, so it can be necessary to reclassify an earthquake.  For example, the strongest earthquake in a series is classified as the mainshock, but if another even bigger one comes after it, the bigger one is called the mainshock, and the earlier one is reclassified as an aftershock.
+Earthquakes don't usually occur in isolation. There is often a sequence in which smaller earthquakes occur prior to a larger one, and then progressively smaller earthquakes occur after. The largest earthquake in the series is the __mainshock__. The smaller ones that come before are __foreshocks__, and the smaller ones that come after are __aftershocks__. These descriptions are relative, so it can be necessary to reclassify an earthquake. For example, the strongest earthquake in a series is classified as the mainshock, but if another even bigger one comes after it, the bigger one is called the mainshock, and the earlier one is reclassified as an aftershock.
 
-A rupture surface does not fail all at once.  A rupture in one place leads to another, which leads to another.  Aftershocks and foreshocks represent the same thing, except on a much larger scale. The rupture illustrated in Figure \@ref(fig:figure-12-4) reduced stress in one area, but in doing so, transferred stress to others (Figure \@ref(fig:figure-12-5)). Imagine a frayed rope breaking strand by strand.  When a strand breaks, the tension on that strand is released, but the remaining strands must still hold up the same amount of weight. If another strand breaks under the increased burden, the remaining strands have an even greater burden than before.  In the same way that the stress causes one strand after another to fail, a rupture can trigger subsequent ruptures nearby.
+A rupture surface does not fail all at once. A rupture in one place leads to another, which leads to another. Aftershocks and foreshocks represent the same thing, except on a much larger scale. The rupture illustrated in Figure \@ref(fig:figure-12-4) reduced stress in one area, but in doing so, transferred stress to others (Figure \@ref(fig:figure-12-5)). Imagine a frayed rope breaking strand by strand. When a strand breaks, the tension on that strand is released, but the remaining strands must still hold up the same amount of weight. If another strand breaks under the increased burden, the remaining strands have an even greater burden than before. In the same way that the stress causes one strand after another to fail, a rupture can trigger subsequent ruptures nearby.
 
 
 ```{r figure-12-5, fig.cap='Stress changes related to an earthquake. Stress decreases in the area of the rupture surface, but increases on adjacent parts of the fault. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2016/07/stress-changes-e1439324273866.png)._'}
@@ -145,7 +145,7 @@ Since 2003, ETS processes have also been observed in subduction zones in Mexico 
 ###### References
 
 
-Wang, K., Jiangheng, H., Schulzeck, F., Hyndman, R. D., and Riedel, M. (2015). Thermal Condition of the 27 October 2012 Mw 7.8 Haida Gwaii Subduction Earthquake at the Obliquely Convergent Queen Charlotte Margin. _Bulletin of the Seismological Society of America, 105_(2B), 1290–1300. doi: 10.1785/0120140183
+Wang, K., Jiangheng, H., Schulzeck, F., Hyndman, R. D., and Riedel, M. (2015). Thermal Condition of the 27 October 2012 Mw 7.8 Haida Gwaii Subduction Earthquake at the Obliquely Convergent Queen Charlotte Margin. _Bulletin of the Seismological Society of America, 105_(2B), 1290–1300. doi: 10.1785/0120140183
 
 
 
@@ -164,7 +164,7 @@ Seismic waves are classified according to where they travel, and how they move p
 
 Seismic waves that travel through Earth's interior are called __body waves__. __P-waves__ are body waves that move by alternately compressing and stretching materials in the direction the wave moves. For this reason, P-waves are also called compression waves. The "P" in P-wave stands for primary, because P-waves are the fastest of the seismic waves. They are the first to be detected when an earthquake happens.
 
-A P-wave can be simulated by fixing one end of a spring to a solid surface, then giving the other end a sharp push toward the surface (Figure \@ref(fig:figure-12-8), top).  The compression will propagate (travel) along the length of the spring. Some parts of the spring will be stretched, and others compressed. Any one point on the spring will jiggle forward and backward as the compression travels along the spring.
+A P-wave can be simulated by fixing one end of a spring to a solid surface, then giving the other end a sharp push toward the surface (Figure \@ref(fig:figure-12-8), top). The compression will propagate (travel) along the length of the spring. Some parts of the spring will be stretched, and others compressed. Any one point on the spring will jiggle forward and backward as the compression travels along the spring.
 
 
 ```{r figure-12-8, fig.cap='Seismic waves simulated using a spring and rope attached to a fixed surface. Top: P-waves travel as pulses of compression. Bottom: S-waves move particles at right angles to the direction of motion. _Source: Karla Panchuk (2018) CC BY 4.0 modified after Steven Earle (2015) CC BY 4.0 [view original](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0091.png)._'}
@@ -327,7 +327,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 Intensity estimates are important as a way to identify regions that are especially prone to strong shaking. A key factor is the nature of the underlying geological materials. The weaker the underlying materials, the more likely it is that there will be strong shaking. Areas underlain by strong solid bedrock tend to experience far less shaking than those underlain by unconsolidated river or lake sediments.
 
-An example of this effect is the 1985 M8 earthquake that struck the Michoacán region of western Mexico, southwest of Mexico City. There was relatively little damage near the epicentre, but 350 km away in heavily populated Mexico City there was tremendous damage and approximately 5,000 deaths. The reason is that Mexico City was built largely on the unconsolidated and water-saturated sediment of former Lake Texcoco. These sediments resonate at a frequency of about two seconds, which was similar to the frequency of the body waves that reached the city. Consequently, the shaking was amplified.  Survivors of the disaster recounted that the ground in some areas moved up and down by approximately 20 cm every two seconds for over two minutes. Damage was greatest to buildings between 5 and 15 storeys tall, because they also resonated at around two seconds, which amplified the shaking.
+An example of this effect is the 1985 M8 earthquake that struck the Michoacán region of western Mexico, southwest of Mexico City. There was relatively little damage near the epicentre, but 350 km away in heavily populated Mexico City there was tremendous damage and approximately 5,000 deaths. The reason is that Mexico City was built largely on the unconsolidated and water-saturated sediment of former Lake Texcoco. These sediments resonate at a frequency of about two seconds, which was similar to the frequency of the body waves that reached the city. Consequently, the shaking was amplified. Survivors of the disaster recounted that the ground in some areas moved up and down by approximately 20 cm every two seconds for over two minutes. Damage was greatest to buildings between 5 and 15 storeys tall, because they also resonated at around two seconds, which amplified the shaking.
 
 ###### References
 
@@ -354,7 +354,7 @@ Earthquakes are also relatively common at a few locations away from plate bounda
 
 Earthquakes along divergent and transform plate margins are shallow (usually less than 30 km deep) because below those depths, rock is too hot and weak to avoid being permanently deformed by the stresses in those settings. If deformation is permanent, then removing the stress does not result in the rocks snapping back to their original shape. No snapping back means no shaking.
 
-Mid-ocean ridge divergent plate margins are offset by numerous transform faults (Figure \@ref(fig:figure-12-17)). The locations of earthquakes along mid-ocean ridges, and the mechanisms for causing them, depend on how rapidly the mid-ocean ridges are spreading. The Pacific-Antarctic Ridge (left) is spreading relatively rapidly at 42 to 94 mm/year, depending on the location along the ridge.  Rapid spreading causes rocks near the axis of the spreading centre to be hot and weak. As a result, most of the earthquakes (white dots) are located along transform faults, where rocks are cooler and stronger. Along rapidly spreading ridges, new ocean crust is bent upward into wide, high ridges. As spreading proceeds and crust moves away from the ridge, the bend is relaxed, and the crust stretches and breaks. This triggers earthquakes many kilometres away from the ridge.
+Mid-ocean ridge divergent plate margins are offset by numerous transform faults (Figure \@ref(fig:figure-12-17)). The locations of earthquakes along mid-ocean ridges, and the mechanisms for causing them, depend on how rapidly the mid-ocean ridges are spreading. The Pacific-Antarctic Ridge (left) is spreading relatively rapidly at 42 to 94 mm/year, depending on the location along the ridge. Rapid spreading causes rocks near the axis of the spreading centre to be hot and weak. As a result, most of the earthquakes (white dots) are located along transform faults, where rocks are cooler and stronger. Along rapidly spreading ridges, new ocean crust is bent upward into wide, high ridges. As spreading proceeds and crust moves away from the ridge, the bend is relaxed, and the crust stretches and breaks. This triggers earthquakes many kilometres away from the ridge.
 
 
 ```{r figure-12-17, fig.cap='Locations of earthquakes of magnitude 4 and greater from 1990 to 2010 along two mid-ocean ridges. Plate boundaries are marked in red. Arrows show the direction of plate motion. Left: Rapidly spreading Pacific-Antarctic ridge with earthquakes concentrated along transform faults. Right: Slowly spreading Southwest Indian Ridge, with earthquakes along both spreading segments and transform faults. _Source: Karla Panchuk (2017) CC BY 4.0. Base maps with epicentres generated using the U. S. Geological Survey Latest Earthquakes website. [Visit Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/)_'}
@@ -362,7 +362,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11
 ```
 
 
-The Southwest Indian Ridge (right) spreads very slowly, at approximately 14 mm/year. Rocks are cooler and stronger along the slowly spreading ridge than along the rapidly spreading one. In the slow-spreading environment, earthquakes are generated when rocks along the ridge axis stretch and break. Earthquakes are more evenly distributed between divergent and transform segments of the boundary than they are along fast-spreading ridges.
+The Southwest Indian Ridge (right) spreads very slowly, at approximately 14 mm/year. Rocks are cooler and stronger along the slowly spreading ridge than along the rapidly spreading one. In the slow-spreading environment, earthquakes are generated when rocks along the ridge axis stretch and break. Earthquakes are more evenly distributed between divergent and transform segments of the boundary than they are along fast-spreading ridges.
 
 Earthquakes in continental rift zones are also shallow, but scattered more broadly than those along mid-ocean ridges. Lake Baikal (Figure \@ref(fig:figure-12-28)), the world's oldest, deepest, and largest freshwater lake, formed 25 million years ago because of continental rifting. Note the scale in Figure \@ref(fig:figure-12-18), and compare how widely the earthquakes (blue dots) are spread in the Lake Baikal region, versus along the mid-ocean ridges in Figure \@ref(fig:figure-12-17).
 
@@ -460,7 +460,7 @@ Earthquakes Canada, Natural Resources Canada (2016) Earthquake zones in Eastern 
 <div>Green, H. W. II, Chen, W.-P., &amp; Brudzinski, M. R. (2010). Seismic evidence of negligible water carried below 400-km depth in subducting lithosphere. _Nature 467,_ 828-830. doi:10.1038/nature09401<em>
 </em></div>
 <div></div>
-<div>Hongyu, Y., Liu, Y., Harrington, R. M., &amp; Lamontagne, M. (2016). Seismicity along St. Lawrence Paleorift Faults Overprinted by a Meteorite Impact Structure in Charlevoix, Québec, Eastern Canada. _Bulletin of the Seismological Society of America 106_(6), 2663-2673. doi:   https://doi.org/10.1785/0120160036</div>
+<div>Hongyu, Y., Liu, Y., Harrington, R. M., &amp; Lamontagne, M. (2016). Seismicity along St. Lawrence Paleorift Faults Overprinted by a Meteorite Impact Structure in Charlevoix, Québec, Eastern Canada. _Bulletin of the Seismological Society of America 106_(6), 2663-2673. doi:  https://doi.org/10.1785/0120160036</div>
 <div></div>
 <div>Ives, J. D., Messerli, B. (1989). _The Himalayan Dilemma: Reconciling development and conservation._ New York: Routledge. [Access this book](http://www.nzdl.org/gsdlmod?e=d-00000-00---off-0hdl--00-0----0-10-0---0---0direct-10---4-------0-1l--11-en-50---20-about---00-0-1-00-0--4----0-0-11-10-0utfZz-8-10&amp;cl=CL1.8&amp;d=HASH0113acdd201c910d3d4d9d9d.5.2&amp;gt=1) courtesy of the [New Zealand Digital Library, University of Waikato](http://www.nzdl.org/gsdlmod?a=p&amp;p=home&amp;l=en&amp;w=utf-8)</div>
 <div></div>
@@ -468,7 +468,7 @@ Earthquakes Canada, Natural Resources Canada (2016) Earthquake zones in Eastern 
 <div></div>
 <div>Nishikawa, T., &amp; Ide, S. (2015). Background seismicity rate at subduction zones linked to slab-bending-related hydration. _Geophysical Research Letters 42, _7081-7089. doi: 10.1002/2015GL064578</div>
 <div></div>
-<div>Sloan, R. A., Jackson, J. A., McKenzie, D., &amp; Priestley, K. (2011). Earthquake depth distributions in central Asia, and their relations with lithosphere thickness, shortening and extension. _Geophysics Journal International 185, _1-29. doi: 10.1111/j.1365-246X.2010.04882.x</div>
+<div>Sloan, R. A., Jackson, J. A., McKenzie, D., &amp; Priestley, K. (2011). Earthquake depth distributions in central Asia, and their relations with lithosphere thickness, shortening and extension. _Geophysics Journal International 185, _1-29. doi: 10.1111/j.1365-246X.2010.04882.x</div>
 <div></div>
 
 
@@ -479,7 +479,7 @@ Earthquakes can have direct impacts, such as structural damage to buildings from
 ### Damage to Structures from Shaking
 
 
-As with the example of the 1985 Mexico earthquake, the geological foundations on which structures are built will affect the amount of shaking that occurs. Earthquakes produce seismic waves that vibrate at different rates, or __frequencies__. Waves with rapid vibrations have a high frequency, and waves with slower vibrations have lower frequencies.
+As with the example of the 1985 Mexico earthquake, the geological foundations on which structures are built will affect the amount of shaking that occurs. Earthquakes produce seismic waves that vibrate at different rates, or __frequencies__. Waves with rapid vibrations have a high frequency, and waves with slower vibrations have lower frequencies.
 
 The energy of the higher frequency waves tends to be absorbed by solid rock. Lower frequency waves pass through solid rock without being absorbed, but are absorbed and amplified by soft sediments. It is therefore very common to see much worse earthquake damage in areas underlain by soft sediments than in areas of solid rock. During the 1989 Loma Prieta earthquake, parts of a two-layer highway in the Oakland area near San Francisco collapsed where they were built on soft sediments (Figure \@ref(fig:figure-12-24)).
 
@@ -712,7 +712,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01
 
 6. Each unit increase in magnitude corresponds to a 32x increase in energy. The difference between M5 and M7 is two units of magnitude. An earthquake that is two magnitude units larger would release 32 x 32 = 1,024 times as much energy.
 
-7.  a) A: Slowly spreading mid-ocean ridge- earthquakes are shallow and evenly distributed; B: Subduction zone- earthquakes range in depth; C: Rapidly-spreading mid-ocean ridge- earthquakes are shallow, and occur in patches, corresponding to a greater likelihood of earthquakes where transform faults offset ridges.
+7. a) A: Slowly spreading mid-ocean ridge- earthquakes are shallow and evenly distributed; B: Subduction zone- earthquakes range in depth; C: Rapidly-spreading mid-ocean ridge- earthquakes are shallow, and occur in patches, corresponding to a greater likelihood of earthquakes where transform faults offset ridges.
 
 b) The plate to the right of the chain of earthquakes is the subducting plate. The earthquakes increase in depth moving from right to left, indicating that the subducting slab is getting deeper farther to the left.
 

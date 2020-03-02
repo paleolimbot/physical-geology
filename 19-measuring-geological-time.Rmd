@@ -80,7 +80,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 ```
 
 
-The Cenozoic, representing the past 66 Ma, is divided into three periods, the Paleogene, Neogene, and Quaternary; and seven epochs (Figure \@ref(fig:figure-19-5)). Non-avian dinosaurs became extinct at the start of the Cenozoic, after which birds and mammals radiated to fill the available habitats. Earth was very warm during the early Eocene, and has cooled steadily ever since. Glaciers first appeared on Antarctica in the Oligocene and then on Greenland in the Miocene. By the Pleistocene, glaciers covered much of North America and Europe. The most recent of the Pleistocene glaciations ended ~11,700 years ago. The current epoch is known as the Holocene. Epochs are further divided into ages.
+The Cenozoic, representing the past 66 Ma, is divided into three periods, the Paleogene, Neogene, and Quaternary; and seven epochs (Figure \@ref(fig:figure-19-5)). Non-avian dinosaurs became extinct at the start of the Cenozoic, after which birds and mammals radiated to fill the available habitats. Earth was very warm during the early Eocene, and has cooled steadily ever since. Glaciers first appeared on Antarctica in the Oligocene and then on Greenland in the Miocene. By the Pleistocene, glaciers covered much of North America and Europe. The most recent of the Pleistocene glaciations ended ~11,700 years ago. The current epoch is known as the Holocene. Epochs are further divided into ages.
 
 
 ```{r figure-19-5, fig.cap='The periods and epochs of the Cenozoic Era. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Cenozoic.png)_'}
@@ -93,7 +93,7 @@ Most of the boundaries between the periods and epochs of the geological timescal
 ###### References
 
 
-Smith, W. (1815). A delineation of the strata of England and Wales with part of Scotland [map].
+Smith, W. (1815). A delineation of the strata of England and Wales with part of Scotland [map].
 
 
 ## Relative Dating Methods
@@ -127,7 +127,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 The __principle of cross-cutting relationships__ states that any geological feature that cuts across or disrupts another feature must be younger than the feature that is disrupted. An example of this is given in Figure \@ref(fig:figure-19-8), which shows three different sedimentary layers. The lower sandstone layer is disrupted by two __faults__, so we can infer that the faults are younger than this layer. But the faults do not appear to continue into the coal seam, and they certainly do not continue into the upper sandstone. So we can infer that coal seam is younger than the faults (because the coal seam cuts across them). The upper sandstone is youngest of all, because it lies on top of the coal seam. An example that violates this principle can be seen with a type of fault called a growth fault. A growth fault is a fault that continues to move as sediments are continuously delivered to the hangingwall block. In this case, the lower portion of the fault that cuts the lower sediments may have originally formed _before_ the uppermost sediments were deposited, despite the fault cutting through all of the sediments, and appearing to be entirely younger than all of the sediments.
 
 
-```{r figure-19-8, fig.cap='Superposition and cross-cutting relationships in Cretaceous Nanaimo Group rocks in Nanaimo BC. The coal seam is about 50 cm thick. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Cretaceous-Nanaimo.png)_'}
+```{r figure-19-8, fig.cap='Superposition and cross-cutting relationships in Cretaceous Nanaimo Group rocks in Nanaimo BC. The coal seam is about 50 cm thick. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Cretaceous-Nanaimo.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Cretaceous-Nanaimo-1024x364.png")
 ```
 
@@ -312,7 +312,7 @@ Originally, fossils only provided us with relative ages because, although early 
 
 Isotopic dating of rocks, or the minerals within them, is based upon the fact that we know the decay rates of certain unstable __isotopes__ of elements, and that these decay rates have been constant throughout geological time. It is also based on the premise that when the atoms of an element decay within a mineral or a rock, they remain trapped in the mineral or rock, and do not escape.
 
-One of the isotope pairs commonly used to date rocks is the decay of <sup>40</sup>K to <sup>40</sup>Ar  (potassium-40 to argon-40). <sup>40</sup>K is a radioactive isotope of potassium that is present in very small amounts in all minerals that contain potassium. It has a __half-life__ of 1.3 billion years, meaning that over a period of 1.3 Ga one-half of the <sup>40</sup>K atoms in a mineral or rock will decay to <sup>40</sup>Ar, and over the next 1.3 Ga one-half of the remaining atoms will decay, and so forth (Figure \@ref(fig:figure-19-18)). <sup>40</sup>K is called the __parent__ __isotope__, and <sup>40</sup>Ar the __daughter isotope__, as the parent gives way to the daughter during radioactive decay.
+One of the isotope pairs commonly used to date rocks is the decay of <sup>40</sup>K to <sup>40</sup>Ar (potassium-40 to argon-40). <sup>40</sup>K is a radioactive isotope of potassium that is present in very small amounts in all minerals that contain potassium. It has a __half-life__ of 1.3 billion years, meaning that over a period of 1.3 Ga one-half of the <sup>40</sup>K atoms in a mineral or rock will decay to <sup>40</sup>Ar, and over the next 1.3 Ga one-half of the remaining atoms will decay, and so forth (Figure \@ref(fig:figure-19-18)). <sup>40</sup>K is called the __parent__ __isotope__, and <sup>40</sup>Ar the __daughter isotope__, as the parent gives way to the daughter during radioactive decay.
 
 
 ```{r figure-19-18, fig.cap='The decay of 40K over time. Each half-life is 1.3 billion years, so after 3.9 billion years (three half-lives) 12.5% of the original <sup>40</sup>K will remain. The red-blue bars represent <sup>40</sup>K and the green-yellow bars represent <sup>40</sup>Ar. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/decay-of-40K.png)_'}
@@ -357,7 +357,7 @@ Absolute age dating is a powerful tool for unraveling the geological history of 
 The age dates for three igneous rock layers are given. Use relative dating techniques to determine the age ranges for the sets of sedimentary units A, B, and C.
 
 
-```{r figure-19-20, fig.cap='A sequence of igneous and sedimentary layers. Age dates  are given for the igneous layers. _Source: Karla Panchuk (2018) CC BY-SA 4.0, modified after Jill Curie (2014) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Relative_dating_of_fossils.png)_'}
+```{r figure-19-20, fig.cap='A sequence of igneous and sedimentary layers. Age dates are given for the igneous layers. _Source: Karla Panchuk (2018) CC BY-SA 4.0, modified after Jill Curie (2014) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Relative_dating_of_fossils.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Absolute-and-relative-dating-1024x881.png")
 ```
 
@@ -398,7 +398,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 </header>
 <div class="textbox__content">
 
-<a id="exercise"></a>Assume that a feldspar crystal from the granite shown in Figure \@ref(fig:figure-19-19) was analyzed for <sup>40</sup>K and <sup>40</sup>Ar. The proportion of <sup>40</sup>K remaining is 0.91. Using the decay curve shown on this graph, estimate the age of the rock. An example is provided (in blue) for a <sup>40</sup>K proportion of 0.95, which is equivalent to an age of approximately 96 Ma. This is determined by drawing a horizontal line from 0.95 to the decay curve line, and then a vertical line from there to the time axis.
+<a id="exercise"></a>Assume that a feldspar crystal from the granite shown in Figure \@ref(fig:figure-19-19) was analyzed for <sup>40</sup>K and <sup>40</sup>Ar. The proportion of <sup>40</sup>K remaining is 0.91. Using the decay curve shown on this graph, estimate the age of the rock. An example is provided (in blue) for a <sup>40</sup>K proportion of 0.95, which is equivalent to an age of approximately 96 Ma. This is determined by drawing a horizontal line from 0.95 to the decay curve line, and then a vertical line from there to the time axis.
 
 
 ```{r figure-19-23, fig.cap='Decay curve for potassium-argon dating. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2016/07/decay-curve.png)_'}
@@ -491,7 +491,7 @@ How old is a rock that is limited to 2.6 to 3.2 Ma by fossils, and which has rev
 ###### References
 
 
-<p class="hanging-indent">Yamaguchi, D.K., Atwater, B.F., Bunker, D.E., Benson, B.E., &amp; Reid, M. S. (1997). Tree-ring dating the 1700 Cascadia earthquake. _Nature_,  _389_, 922 - 923.</p>
+<p class="hanging-indent">Yamaguchi, D.K., Atwater, B.F., Bunker, D.E., Benson, B.E., &amp; Reid, M. S. (1997). Tree-ring dating the 1700 Cascadia earthquake. _Nature_, _389_, 922 - 923.</p>
 
 
 ## Understanding Geological Time
@@ -511,7 +511,7 @@ It is worth repeating: on this time scale, the earliest ancestors of the animals
 </header>
 <div class="textbox__content">
 
-Using the “all of geological time compressed to one year” concept, determine the geological date that is equivalent to your birthday. First, [go here ](http://mistupid.com/calendar/dayofyear.htm)to find out which day of the year your birth date is. Divide that number by 365, and multiply that number by 4,570 to determine the time (in millions since the _beginning_ of geological time). Subtract that number from 4,570 to determine the date back from the present.
+Using the “all of geological time compressed to one year” concept, determine the geological date that is equivalent to your birthday. First, [go here ](http://mistupid.com/calendar/dayofyear.htm)to find out which day of the year your birth date is. Divide that number by 365, and multiply that number by 4,570 to determine the time (in millions since the _beginning_ of geological time). Subtract that number from 4,570 to determine the date back from the present.
 
 Example: April Fool’s Day (April 1) is day 91 of the year: 91/365 = 0.2493. 0.2493 x 4,570 = 1,139 million years from the start of time, and 4,570 - 1,193 = 3,377 Ma is the geological date.
 
@@ -571,11 +571,11 @@ There are many other methods for dating geological materials. Two that are widel
  	<li>What are the features of a useful index fossil?</li>
  	<li>Figure \@ref(fig:figure-19-29) shows a geological cross-section. The granitic rock F at the bottom is the rock that you estimated the age of in the exercise in 19.4, _Radiometric Dating with Potassium-Argon_. A piece of wood from layer D has been sent for radiocarbon dating and the result was 0.55 <sup>14</sup>C remaining. How old is layer D?</li>
  	<li>Based on your answer to question 4, what can you say about the age of layer C in the figure above?</li>
- 	<li>What type of unconformity exists between layer C and rock F?</li>
- 	<li>What type of unconformity exists between layer C and rock B?</li>
+ 	<li>What type of unconformity exists between layer C and rock F?</li>
+ 	<li>What type of unconformity exists between layer C and rock B?</li>
  	<li>We cannot use magnetic chronology to date anything older than ~780,000 years. Why?</li>
  	<li>How did William Smith apply the principle of faunal succession to determine the relative ages of the sedimentary rocks of England and Wales?</li>
- 	<li>Access a copy of the geological time scale at http://www.stratigraphy.org/index.php/ics-chart-timescale. What are the names of the last age of the Cretaceous and the first age of the Paleogene? Print out the time scale and stick it on the wall above your desk!</li>
+ 	<li>Access a copy of the geological time scale at http://www.stratigraphy.org/index.php/ics-chart-timescale. What are the names of the last age of the Cretaceous and the first age of the Paleogene? Print out the time scale and stick it on the wall above your desk!</li>
 </ol>
 
 ```{r figure-19-29, fig.cap='Geological cross-section (left) and decay curve for <sup>14</sup>C ages. _Source: Left- Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/geological-cross-section.png). Right- Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/diagram.png)_'}
