@@ -547,7 +547,7 @@ Damage to buildings is the most serious consequence of most large earthquakes. T
 
 There is no reliable technology for predicting earthquakes, but the probability of one happening within a certain time period can be forecast. We can minimize earthquake impacts by ensuring that the public is aware of the risk, that building codes are enforced, that existing buildings like schools and hospitals are seismically sound, and that both public and personal emergency plans are in place.
 
-#### Review Questions
+## Chatper Review Questions
 
 1. What causes the shaking during an earthquake?
 1. What is a rupture surface, and how does the area of a rupture surface relate to earthquake magnitude?
@@ -567,7 +567,8 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01
 1. What did we learn about earthquake prediction from the 2004 Parkfield earthquake?
 1. What are some of the things we should know about an area in order to help minimize the impacts of an earthquake?
 1. What is the difference between earthquake prediction and forecasting earthquake probability?
-## Answers to Chapter  Review Questions
+
+## Answers to Chapter Review Questions
 
 1. Rocks under stress can deform elastically. When rocks break, or a rupture occurs along an existing fault, the deformed rocks snap back to their original shape, causing vibrations. The vibrations are the shaking felt during earthquakes.
 

@@ -660,7 +660,7 @@ Canada has a range of soil types related to our unique conditions. The main type
 
 The geological component of the carbon cycle affects Earth's climate over the long term by changing atmospheric carbon dioxide levels. Carbon is added to the atmosphere during volcanic eruptions. It is extracted from the atmosphere when silicate minerals are weathered, and when it is transformed into organic matter by plants. Organic matter can be stored in soil, permafrost, and rocks. Burning of fossil fuels involves moving carbon from geological reservoirs to the atmosphere on timescales much faster than the geological carbon cycle operates.
 
-#### Review Questions
+## Chatper Review Questions
 
 1. What must happen to a body of rock before exfoliation can occur?
 1. Saskatchewan's climate is consistently cold in the winter and consistently warm in the summer. What times of year would frost wedging to be an important weathering mechanism?
@@ -675,7 +675,8 @@ The geological component of the carbon cycle affects Earth's climate over the lo
 1. Where in Canada would you expect to find a chernozemic soil? What characteristics of this region produce this type of soil?
 1. Where are brunisolic soils found in Saskatchewan?
 1. Why does weathering of silicate minerals, especially feldspar, lead to consumption of atmospheric carbon dioxide? What eventually happens to the carbon that is involved in that process?
-## Answers to Chapter  Review Questions
+
+## Answers to Chapter Review Questions
 
 1. Rock must be exposed at surface. It has to be uplifted from where it formed deep in the crust, and the material on top has to be eroded.
 1. Frost wedging is most effective when temperatures swing between freezing and thawing from day to day. In Saskatchewan that happens consistently in the early spring and late fall.

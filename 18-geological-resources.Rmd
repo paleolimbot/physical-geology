@@ -475,7 +475,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 </div>
 
-## Answers to Chapter  Review Questions
+## Answers to Chapter Review Questions
 
 1. Some of the components of a compact fluorescent lightbulb (and the resources used to make one) are as follows:
 

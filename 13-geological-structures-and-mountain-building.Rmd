@@ -413,7 +413,7 @@ Mountain building in zones of plate collision is called orogeny. The mountains t
 
 The strike and dip of planar surfaces, such as a bedding planes, fractures or faults are measured to help understand the geological history of a region. Special symbols are used to show the orientation of structural features on geological maps.
 
-#### Review Questions
+## Chatper Review Questions
 
 1. What types of plate boundaries are most likely to contribute to (a) compression, (b) extension, and (c) shearing?
 
@@ -447,7 +447,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/plan-view-map-of-the-geology-of-a-region-1024x436.png")
 ```
 
-## Answers to Chapter  Review Questions
+## Answers to Chapter Review Questions
 
 1. Convergent plate boundaries are the most likely to contribute to compression, divergent boundaries to extension, and transform boundaries to shearing. However, all of these stress regimes can exist at any one of these boundaries.
 

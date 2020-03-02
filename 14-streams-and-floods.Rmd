@@ -500,7 +500,7 @@ Most streams in Canada have their highest discharge rates in spring and early su
 1. There is a 65-year record of peak annual discharges along the Ashnola River near Princeton, BC. During this time, the second highest discharge recorded was 175 m^3^/s. Based on this information, what is the recurrence interval (Ri) for this discharge level, and what is the probability that there will be a similar peak discharge next year?
 </div>
 
-## Answers to Chapter  Review Questions
+## Answers to Chapter Review Questions
 
 1. Approximately 1% of the Earth’s water is liquid fresh water.
 

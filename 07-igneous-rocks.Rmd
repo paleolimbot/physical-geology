@@ -514,7 +514,7 @@ Igneous rocks are classified based on their mineral composition and texture. Fel
 Magma intrudes into country rock by pushing it aside or melting through it. Intrusive igneous bodies tend to be irregular (stocks and batholiths), tabular (dikes and sills), or pipe-like. Batholiths have areas of 100 km^2^ or greater, while stocks are smaller. Sills are parallel to existing layering in the country rock, while dikes cut across layering. A pluton that intruded into cold rock is likely to have a chilled margin.<strong>
 </strong>
 
-#### Review Questions
+## Chatper Review Questions
 
 1. What is the significance of the term _reaction _in _Bowen's reaction series_?
 
@@ -539,7 +539,7 @@ Magma intrudes into country rock by pushing it aside or melting through it. Intr
 
 10. Why is compositional layering a common feature of mafic plutons but not of felsic plutons?
 
-## Answers to Chapter  Review Questions
+## Answers to Chapter Review Questions
 
 1. As the temperature decreases minerals that formed early (e.g., olivine) may react with the remaining magma to form new minerals (e.g., pyroxene).
 

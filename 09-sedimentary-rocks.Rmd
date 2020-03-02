@@ -646,7 +646,7 @@ The deposition of sedimentary rocks can be described in terms of a series of pri
 
 Sedimentary sequences are classified into groups, formations, and members so that they can be mapped easily and without confusion.
 
-#### Review Questions
+## Chatper Review Questions
 
 1. What are the minimum and maximum sizes of sand grains?
 1. The material that makes up a rock such as conglomerate cannot be deposited by a slow-flowing river. Why?
@@ -662,7 +662,8 @@ Sedimentary sequences are classified into groups, formations, and members so tha
 1. Under what conditions will reverse-graded bedding form?
 1. What are the criteria for the application of a formation name to a series of sedimentary rocks?
 1. Explain why some of the Nanaimo Group formations have been divided into members, while others have not.
-## Answers to Chapter  Review Questions
+
+## Answers to Chapter Review Questions
 
 1. Sand grains range in size from 1/16 mm to 2 mm.
 

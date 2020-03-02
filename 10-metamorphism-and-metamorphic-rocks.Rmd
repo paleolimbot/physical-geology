@@ -542,7 +542,7 @@ Metamorphic facies are groups of metamorphic rocks that form under the same rang
 
 Contact metamorphism takes place around magma bodies that have intruded into cool rocks in the crust. Heat from magma is transferred to the surrounding country rock, resulting in mineralogical and textural changes. Hot water from a cooling body of magma, or from convection of groundwater driven by the heat of the pluton, can lead to hydrothermal alteration. When large volumes of fluid are flushed through rocks experiencing metamorphic pressures and temperatures, metasomatism results. Metasomatism can cause valuable metals to accumulate in the surrounding rocks.
 
-### Review Questions
+## Chatper Review Questions
 
 1. What are the two main agents of metamorphism, and what are their respective roles in producing metamorphic rocks?
 1. What types of metamorphic rocks will form if a mudrock experiences very low, low, medium, and high-grade metamorphism?
@@ -557,7 +557,8 @@ Contact metamorphism takes place around magma bodies that have intruded into coo
 1. How does the presence of a hot pluton contribute to metasomatism?
 1. What determines whether metasomatism will produce skarn?
 1. For each of the following metamorphic rocks, indicate the likely parent rock and the grade and/or type of metamorphism: chlorite schist, slate, mica-garnet schist, amphibolite, marble.
-## Answers to Chapter  Review Questions
+
+## Answers to Chapter Review Questions
 
 1. Heat and pressure are the main agents of metamorphism. Heat leads to mineralogical changes in the rock. Pressure also influences those mineralogical changes, while directed pressure (greater pressure in one direction) leads to foliation.
 1. Very low grade: slate; low grade: phyllite; medium grade: schist; high grade: gneiss.

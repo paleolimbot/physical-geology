@@ -454,7 +454,7 @@ There are many other methods for dating geological materials. Two that are widel
 
 While understanding geological time is relatively easy, actually comprehending the significance of the vast amounts of geological time is a great challenge. To be able to solve important geological problems and certain societal challenges, we need to really appreciate the vastness of geological time.
 
-#### Review Questions
+## Chatper Review Questions
 
 1. A granitic rock contains inclusions (xenoliths) of basalt. What can you say about the relative ages of the granite and the basalt?
 1. Explain the differences between a) disconformity and paraconformity; and b) nonconformity and angular unconformity
@@ -471,7 +471,7 @@ While understanding geological time is relatively easy, actually comprehending t
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Ch19_review-1024x375.png")
 ```
 
-## Answers to Chapter  Review Questions
+## Answers to Chapter Review Questions
 
 1. Xenoliths of basalt within a granite must be older than the granite according to the principle of inclusions.
 1. (a) At both disconformities and paraconformities the beds above and below are parallel, but at a disconformity there is clear evidence of an erosion surface (the lower layers have been eroded). (b) A nonconformity is a boundary between sedimentary rocks above and non-sedimentary rocks below while an angular unconformity is a boundary between sedimentary rocks above and tilted and eroded and sedimentary layers below.

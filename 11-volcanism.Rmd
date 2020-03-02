@@ -659,7 +659,7 @@ Clues that a volcanic eruption might soon occur include earthquakes, a change in
 
 British Columbia and the Yukon Territory include examples of volcanoes that form as a result of fluid-induced melting along a subduction zone (the Wrangell and Garibaldi volcanic belts) , as a result of decompression where the crust is thinning and stretching (Stikine Volcanic Belt and Wells Gray-Clearwater Volcanic Field), and because of mantle plume activity (Anahim Volcanic Belt).
 
-#### Review Questions
+## Chatper Review Questions
 
 1. What are the three main tectonic settings for volcanism on Earth?
 1. What is the primary mechanism for partial melting at a convergent plate boundary?
@@ -675,7 +675,8 @@ British Columbia and the Yukon Territory include examples of volcanoes that form
 1. How can GPS technology be used to help monitor a volcano for activity?
 1. What is the likely geological origin of the Nazko Cone?
 1. What might be the explanation for southwestern B.C. having much less subduction-related volcanism than adjacent Washington and Oregon?
-## Answers to Chapter  Review Questions
+
+## Answers to Chapter Review Questions
 
 1. The three main tectonic settings for volcanism are (1) subduction zones at convergent plate boundaries, (2) divergent plate boundaries, and (3) mantle plumes (a.k.a. hot spots).
 1. The primary mechanism for partial melting at a convergent plate boundary is the addition of water to hot mantle rock. The water reduces the melting temperature of the rock (flux melting).

@@ -824,7 +824,7 @@ Data show recognizable anthropogenic influence on the Earth system beginning whe
 
 Humans today are experiencing the results of past human influence on the Earth system, and humans in the future will experience the results of decisions made today. The main source of radiative forcing is anthropogenic CO~2~. Humans are already experiencing extreme climate events related to warming. The best-case projected warming scenario will stabilize global average temperatures at ~1ºC above 1996 temperatures by the end of the century, but this will require a peak in anthropogenic CO~2~ emissions by 2020, and an end to anthropogenic CO~2~ emissions by 2080.
 
-#### Review Questions
+## Chatper Review Questions
 
 1. If you receive positive feedback on a project, this means someone says you did a good job. Does this mean a positive feedback in the climate system is also something good? Explain.
 1. Why does the presence of ice sheets cause the Earth system to be less stable?
@@ -841,7 +841,8 @@ Humans today are experiencing the results of past human influence on the Earth s
 1. What climate mechanism links both extreme heat waves and droughts, and extreme flooding and rainfall events to climate change?
 1. What evidence suggests that increasingly intense tropical storms can be expected as climate warms?
 1. What are the potential impacts of thawing permafrost?
-## Answers to Chapter  Review Questions
+
+## Answers to Chapter Review Questions
 
 1. A positive feedback does not mean that something good is happening in the Earth system. Rather, it means that a change is being amplified by other Earth-system processes that were triggered by the change. From a human perspective, having a change amplified could be good or bad.
 
