@@ -36,7 +36,7 @@ Streams are the most important agents of erosion and transportation of sediments
 
 Water is constantly on the move. It is evaporated from the oceans, lakes, streams, the surface of the land, and from plants (transpiration) by solar energy (Figure \@ref(fig:figure-14-2)). It is transported in its gaseous form through the atmosphere by the wind and condenses to form clouds of water droplets or ice crystals. It falls to the Earth’s surface as rain or snow and flows through streams, into lakes, and eventually back to the oceans. Water on the surface and in streams and lakes infiltrates the ground to become groundwater. Groundwater slowly moves through soils, surficial materials, and pores and cracks in the rock. The groundwater flow paths can intersect with the surface and the water can then move back into streams, lakes and oceans.
 
-```{r figure-14-2, fig.cap='The various components of the water cycle. Black or white text indicates the movement or transfer of water from one reservoir to another. Yellow text indicates the storage of water . Source: Steven Earle (2015) CC BY-SA 3.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/water-cycle.png) after Wikimedia user “Ingwik” (2010) CC-BY-SA 3.0. [view source](https://commons.wikimedia.org/wiki/File:Water_cycle_blank.svg)'}
+```{r figure-14-2, fig.cap='The various components of the water cycle. Black or white text indicates the movement or transfer of water from one reservoir to another. Yellow text indicates the storage of water . Source: Steven Earle (2015) CC BY-SA 3.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/water-cycle.png) after Wikimedia user "Ingwik" (2010) CC-BY-SA 3.0. [view source](https://commons.wikimedia.org/wiki/File:Water_cycle_blank.svg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/water-cycle.png")
 ```
 
@@ -59,7 +59,7 @@ Although the water in the atmosphere is only a small proportion of the total wat
 
 ##### Exercise 14.1 How Long Does Water Stay in the Atmosphere?
 
-The residence time of a water molecule in the atmosphere (or any of the other reservoirs) can be estimated by dividing the total amount of water in the reservoir by the rate at which it is removed. For the atmosphere, we know that the reservoir size is 13,000 km^3^, and the rate is 1,580 km^3^/day. If we divide 13,000 km^3^ by 1,580 km^3^/day, we get 8.22 days. This means that, _on average_, a molecule of water stays in the atmosphere for just over eight days. “Average” needs to be emphasized here because some molecules remain in the air for only a few hours, while others may remain in the air for weeks.
+The residence time of a water molecule in the atmosphere (or any of the other reservoirs) can be estimated by dividing the total amount of water in the reservoir by the rate at which it is removed. For the atmosphere, we know that the reservoir size is 13,000 km^3^, and the rate is 1,580 km^3^/day. If we divide 13,000 km^3^ by 1,580 km^3^/day, we get 8.22 days. This means that, _on average_, a molecule of water stays in the atmosphere for just over eight days. "Average" needs to be emphasized here because some molecules remain in the air for only a few hours, while others may remain in the air for weeks.
 
 The volume of the oceans is 1,338,000,000 km^3^ and the rate of removal of water from the oceans is approximately the same as the atmosphere (1,580 km^3^/day). What is the average residence time of a water molecule in the ocean?
 
@@ -86,7 +86,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The water supply for the Vancouver, BC metropolitan area comes from three large drainage basins on the north shore of Burrard Inlet, as shown in Figure \@ref(fig:figure-14-7) This map illustrates the concept of a drainage basin divide. The boundary between two drainage basins is the ridge of land between them. A drop of rain falling on the boundary between the Capilano and Seymour drainage basins, for example, could flow into either basin. Rain falling on the Capilano basin side cannot flow into the Seymour drainage basin, because of the drainage basin divide.
 
-```{r figure-14-7, fig.cap='The three drainage basins that supply water to the metropolitan Vancouver, BC area. Source: Wikimedia user “Alaidlaw” (2016) CC BY-SA 2.0. [view source](https://en.wikipedia.org/wiki/Metro_Vancouver_watersheds#/media/File:Metro_Vancouver_Watershed_Boundaries.jpg)'}
+```{r figure-14-7, fig.cap='The three drainage basins that supply water to the metropolitan Vancouver, BC area. Source: Wikimedia user "Alaidlaw" (2016) CC BY-SA 2.0. [view source](https://en.wikipedia.org/wiki/Metro_Vancouver_watersheds#/media/File:Metro_Vancouver_Watershed_Boundaries.jpg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Metro_Vancouver_Watershed_Boundaries.jpg")
 ```
 
@@ -128,7 +128,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 Sediments accumulate within the channel and flood plain of a stream, and then, if the base level changes, or if there is less sediment supplied to the stream to deposit, the stream may cut down through these existing sediments to form terraces. A terrace on the Similkameen River is shown in Figure \@ref(fig:figure-14-11) and terraces on the Fraser River are shown in Figure \@ref(fig:figure-14-13).
 
-```{r figure-14-13, fig.cap='Terraces on the Fraser River north of Lillooet, BC (above the river on the left-hand side of the image). Source: Wikimedia user “China Crisis” (2007) CC BY-SA 3.0. [view source](https://en.wikipedia.org/wiki/File:FraserRiverNearLillooet.jpg)'}
+```{r figure-14-13, fig.cap='Terraces on the Fraser River north of Lillooet, BC (above the river on the left-hand side of the image). Source: Wikimedia user "China Crisis" (2007) CC BY-SA 3.0. [view source](https://en.wikipedia.org/wiki/File:FraserRiverNearLillooet.jpg)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/FraserRiverNearLillooet-1024x768.jpg")
 ```
 
@@ -405,7 +405,7 @@ Just a year after the Saguenay floods, the Red River in Minnesota, North Dakota,
 
 After the 1950 Red River flood, the Manitoba government built a channel around the city of Winnipeg to reduce the potential of flooding in the city (Figure \@ref(fig:figure-14-28)). Known as the Red River Floodway, the channel was completed in 1964 at a cost of $63 million. Since then it has been used many times to alleviate flooding in Winnipeg, and is estimated to have saved many billions of dollars in flood damage. The massive 1997 flood (Figure \@ref(fig:figure-14-28), right side) was almost too much for the floodway; in fact the amount of water diverted was greater than the designed capacity. The floodway has recently been expanded so that it can be used to divert even more of the Red River’s flow away from Winnipeg.
 
-```{r figure-14-28, fig.cap='(left) map of the Red River Floodway around Winnipeg, Manitoba; (right) aerial view of the southern (inlet) end of the floodway during the 1997 Red River flood. Sources: (left) Wikimedia user “Kmusser” (2007) CC BY 2.5[ view source,](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/winnipeg-2.png) (right) Natural Resources Canada 2012, courtesy of the Geological Survey of Canada (Photo 2000-118 by G.R. Brooks ).'}
+```{r figure-14-28, fig.cap='(left) map of the Red River Floodway around Winnipeg, Manitoba; (right) aerial view of the southern (inlet) end of the floodway during the 1997 Red River flood. Sources: (left) Wikimedia user "Kmusser" (2007) CC BY 2.5[ view source,](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/winnipeg-2.png) (right) Natural Resources Canada 2012, courtesy of the Geological Survey of Canada (Photo 2000-118 by G.R. Brooks ).'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Red-river-Floodway.png")
 ```
 
@@ -417,7 +417,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 In late June and early July, the discharges of several rivers in the area, including the Bow River in Banff, Canmore, and Exshaw, the Bow and Elbow Rivers in Calgary, the Sheep River in Okotoks, and the Highwood River in High River, reached levels that were 5 to 10 times higher than normal for that time of year (see Exercise 14.5). Large areas of Calgary, Okotoks, and High River were flooded, and five people died (see Figures 14.29 and 14.30). The cost of the 2013 flood is estimated to be approximately $5 billion.
 
-```{r figure-14-30, fig.cap='Flooding in Calgary (June 21, left) and Okotoks (June 20, right) during the 2013 southern Alberta flood. Sources: (left) Wikimedia user Ryan L.C. Quan (2013) CC BY-SA 3.0 [view source](https://en.wikipedia.org/wiki/2013_Alberta_floods#/media/File:Riverfront_Ave_Calgary_Flood_2013.jpg) (right) Wikimedia user “Stephanie N. Jones” (2013) CC BY-SA 3.0 [view source ](https://en.wikipedia.org/wiki/2013_Alberta_floods#/media/File:Okotoks_-_June_20,_2013_-_Flood_waters_in_local_campground_playground-03.JPG)'}
+```{r figure-14-30, fig.cap='Flooding in Calgary (June 21, left) and Okotoks (June 20, right) during the 2013 southern Alberta flood. Sources: (left) Wikimedia user Ryan L.C. Quan (2013) CC BY-SA 3.0 [view source](https://en.wikipedia.org/wiki/2013_Alberta_floods#/media/File:Riverfront_Ave_Calgary_Flood_2013.jpg) (right) Wikimedia user "Stephanie N. Jones" (2013) CC BY-SA 3.0 [view source ](https://en.wikipedia.org/wiki/2013_Alberta_floods#/media/File:Okotoks_-_June_20,_2013_-_Flood_waters_in_local_campground_playground-03.JPG)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Flooding-in-Calgary.png")
 ```
 

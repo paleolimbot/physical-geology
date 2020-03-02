@@ -35,9 +35,9 @@ Part of this chapter addresses natural processes of climate change, how they wor
 
 ## What Is the Earth System?
 
-Earth can be characterized in terms of its “spheres.” The __atmosphere__ is the envelope of gas surrounding the planet. The __hydrosphere__ is the water on the planet, whether in oceans, rivers, glaciers, or the ground. The __biosphere __comprises living organisms. The __lithosphere __is the rocky outer shell of the planet.
+Earth can be characterized in terms of its "spheres." The __atmosphere__ is the envelope of gas surrounding the planet. The __hydrosphere__ is the water on the planet, whether in oceans, rivers, glaciers, or the ground. The __biosphere __comprises living organisms. The __lithosphere __is the rocky outer shell of the planet.
 
-Components of these spheres interact constantly, with processes occurring in one sphere having an impact in other spheres. Cycles such as the water cycle or the carbon cycle constantly move matter and energy between spheres. Taking an __Earth-system__ approach—looking at how the spheres are connected—is a way to account for the web of interactions responsible for the “big picture” of the Earth that we know.
+Components of these spheres interact constantly, with processes occurring in one sphere having an impact in other spheres. Cycles such as the water cycle or the carbon cycle constantly move matter and energy between spheres. Taking an __Earth-system__ approach—looking at how the spheres are connected—is a way to account for the web of interactions responsible for the "big picture" of the Earth that we know.
 
 The climate change related to the opening of the Drake Passage (Figure \@ref(fig:figure-16-2)) is a good example of why a system of interactions is needed to understand how Earth works. The Drake Passage (bottom left map) is the gap between the southern-most tip of South America, and Antarctica.
 
@@ -131,7 +131,7 @@ The most important factors are whether the northern hemisphere is pointing towar
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/effect-of-precession-on-insolation-in-the-northern-hemisphere-summers-1024x434-1024x434.png")
 ```
 
-The effects of all three cycles are evident in geochemical climate data. Figure \@ref(fig:figure-16-7) shows the “signals” for obliquity (A), eccentricity (B), and precession (C) over a period from 800,000 years in the past, to 800,000 years in the future. The vertical black line running down the middle of the diagram marks the present day. When the insolation from all three signals is determined, the result is a more complex waveform (D) with times of low variation in insolation, and times with higher variation in insolation.
+The effects of all three cycles are evident in geochemical climate data. Figure \@ref(fig:figure-16-7) shows the "signals" for obliquity (A), eccentricity (B), and precession (C) over a period from 800,000 years in the past, to 800,000 years in the future. The vertical black line running down the middle of the diagram marks the present day. When the insolation from all three signals is determined, the result is a more complex waveform (D) with times of low variation in insolation, and times with higher variation in insolation.
 
 ```{r figure-16-7, fig.cap='Comparison of orbital cycles, insolation, and climate data for a 1.6 million year period. _Source: Karla Panchuk (2017) CC BY-SA 4.0, modified after Incredio (2009) CC BY 3.0 [view source.](https://commons.wikimedia.org/wiki/File:MilankovitchCyclesOrbitandCores.png) Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/insolation_all-781x1024.png")
@@ -395,11 +395,11 @@ Non-instrumental historical records of climate also exist, and cover periods of 
 
 In their paper _Historical Climate Records in China and Reconstruction of Past Climates_, Jiacheng Zhang and Thomas Crowley used official Chinese records extending as far back as 1000 CE to get a detailed picture of climate. This involved transforming descriptions of weather events into a systematic scale. One challenge is defining the scale, but another is deciding what individual accounts actually mean. The authors point out that records of rain or drought can reflect the perceptions and generalizations of the people who wrote about the weather, rather than what actually happened. Consider the following description of rainfall in 1644 from _Diary of Qi Zongmin_:
 
-“in Wyzhong there is no rain for six months from May”
+"in Wyzhong there is no rain for six months from May"
 
 Does this mean there was no rain at all prior to May, or just very little? Was it actually six months since there had been rain, or is that an approximation? How do we reliably translate different systems of time measurement into durations and dates, like "six months" or "May?" How can we tell for sure where a location is if place names or political boundaries change?
 
-As the authors caution, "a great deal of cross-checking [is required] in order to arrive at a useful descriptive account of climate anomalies.”
+As the authors caution, "a great deal of cross-checking [is required] in order to arrive at a useful descriptive account of climate anomalies."
 
 </div>
 

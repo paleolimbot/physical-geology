@@ -21,7 +21,7 @@ After reading this chapter, completing the exercises within it, and answering th
 
 </div>
 
-__Mass wasting__ is the failure and downslope movement of rock or unconsolidated materials in response to gravity. Mass wasting is an agent of erosion. The term “landslide” is used synonymously with the term mass wasting, but they are not the same thing. Some people reserve the term “landslide” for relatively rapid slope failures, while others do not. Due to this ambiguity, we avoid the use of the term “landslide” in this textbook.
+__Mass wasting__ is the failure and downslope movement of rock or unconsolidated materials in response to gravity. Mass wasting is an agent of erosion. The term "landslide" is used synonymously with the term mass wasting, but they are not the same thing. Some people reserve the term "landslide" for relatively rapid slope failures, while others do not. Due to this ambiguity, we avoid the use of the term "landslide" in this textbook.
 
 ### The Hope Slide: a Historic Canadian Example of a Mass Wasting Event
 
@@ -245,7 +245,7 @@ Creep can be facilitated by freezing and thawing because, as shown in Figure \@r
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/depiction-of-the-contribution-of-freeze-thaw.png")
 ```
 
-Creep is most noticeable on moderate-to-steep slopes where trees or fence posts are consistently leaning in a downhill direction. In the case of trees, they try to correct their lean by growing upright, and this leads to a curved lower trunk known as a “pistol butt.” Creep can also generate terracettes, horizontal and repeating ridges on slopes (Figure \@ref(fig:figure-15-13)). Historically, people thought terracettes formed where livestock or wild animals regularly travelled along slopes. While animals can accentuate terracettes, the primary reason terracettes form is creep.
+Creep is most noticeable on moderate-to-steep slopes where trees or fence posts are consistently leaning in a downhill direction. In the case of trees, they try to correct their lean by growing upright, and this leads to a curved lower trunk known as a "pistol butt." Creep can also generate terracettes, horizontal and repeating ridges on slopes (Figure \@ref(fig:figure-15-13)). Historically, people thought terracettes formed where livestock or wild animals regularly travelled along slopes. While animals can accentuate terracettes, the primary reason terracettes form is creep.
 
 ```{r figure-15-13, fig.cap='| Evidence of creep-generated terracettes on the Peace River hills in northeastern B.C. Source: Joyce McBeth (2018) CC BY 4.0.'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Creep-1024x683.jpg")
@@ -355,7 +355,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 Mt. Rainier, a glacier-covered volcano in Washington State (15.20), could produce massive mudflows or debris flows (lahars) with or without a volcanic eruption. Over 100,000 people in the Tacoma, Puyallup, and Sumner areas are at risk because they currently reside on deposits from past lahars and future lahars would likely also follow these paths (Figure \@ref(fig:figure-15-21)). In 1998, a network of acoustic monitors was established around Mt. Rainier. The monitors are embedded in the ground adjacent to expected lahar paths. These monitors will provide warnings to emergency officials in the event of a lahar. When a lahar is detected, the residents of the area will have between 40 minutes and three hours to get to safe ground.
 
-```{r figure-15-20, fig.cap='| Mt. Rainier from Seattle, WA, USA. Source: Flickr user “accozzaglia dot ca” (2010) CC-BY-NC-ND 2.0. [View source ](https://flic.kr/p/8yeiGu)'}
+```{r figure-15-20, fig.cap='| Mt. Rainier from Seattle, WA, USA. Source: Flickr user "accozzaglia dot ca" (2010) CC-BY-NC-ND 2.0. [View source ](https://flic.kr/p/8yeiGu)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/RainierSeattle.jpg")
 ```
 

@@ -216,7 +216,7 @@ Metamorphic rocks that form under low-pressure conditions or under the effects c
 
 #### Marble
 
-Marble (Figure \@ref(fig:figure-10-19)) is metamorphosed limestone. When it forms, the calcite crystals __recrystallize__ (re-form into larger blocky calcite crystals), and any sedimentary textures and fossils that might have been present are destroyed. If the original limestone is pure calcite, then the marble will be white. On the other hand, if it has impurities such as clay, silica, or magnesium, the marble could be “marbled” in appearance (Figure \@ref(fig:figure-10-19), bottom).
+Marble (Figure \@ref(fig:figure-10-19)) is metamorphosed limestone. When it forms, the calcite crystals __recrystallize__ (re-form into larger blocky calcite crystals), and any sedimentary textures and fossils that might have been present are destroyed. If the original limestone is pure calcite, then the marble will be white. On the other hand, if it has impurities such as clay, silica, or magnesium, the marble could be "marbled" in appearance (Figure \@ref(fig:figure-10-19), bottom).
 
 ```{r figure-10-19, fig.cap='Marble is a non-foliated metamorphic rock with a limestone protolith. Left- Marble made of pure calcite is white. Upper right- microscope view of calcite crystals within marble that are blocky and not aligned. Lower right- A quarry wall showing the "marbling" that results when limestone contains components other than calcite._ Source: Karla Panchuk (2018) CC BY-NC-SA. Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/marble.png")
@@ -420,7 +420,7 @@ One other line to notice in Figure \@ref(fig:figure-10-35) is the red dashed lin
 <div class="textbox textbox--exercises"><header class="textbox__header">
 <h3 class="textbox__title" style="text-align: center"><span style="color: #ffffff">Exercise: Metamorphic Rocks In Areas with Higher Geothermal Gradients</span></h3>
 </header>
-<div class="textbox__content">Figure \@ref(fig:figure-10-35) shows the types of rock that might form from mudrock at various points along the curve of the “typical” geothermal gradient (dotted green line). Looking at the geothermal gradient for volcanic regions (dotted yellow line), estimate the depths at which you would expect to find each of those rocks forming from a mudrock parent.</div>
+<div class="textbox__content">Figure \@ref(fig:figure-10-35) shows the types of rock that might form from mudrock at various points along the curve of the "typical" geothermal gradient (dotted green line). Looking at the geothermal gradient for volcanic regions (dotted yellow line), estimate the depths at which you would expect to find each of those rocks forming from a mudrock parent.</div>
 </div>
 
 ### Index Minerals

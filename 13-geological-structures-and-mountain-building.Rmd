@@ -260,7 +260,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 
 ##### Strike-Slip Faults
 
-Faults where the motion is mostly horizontal and along the “strike” or the length of the fault are called __strike-slip faults__ (Figure \@ref(fig:figure-13-26) bottom). These happen where shear stress causes bodies of rock to slide sideways with respect to each other, as is the case along a transform boundary. If the far side moves to the right, as in Figures 13.23 and 13.26 (right), it is a __right-handed__,__ right-lateral__,or __dextral __strike-slip fault. If the far side moves to the left it is a __left-handed__,__ left-lateral__, or __sinistral__ strike-slip fault.
+Faults where the motion is mostly horizontal and along the "strike" or the length of the fault are called __strike-slip faults__ (Figure \@ref(fig:figure-13-26) bottom). These happen where shear stress causes bodies of rock to slide sideways with respect to each other, as is the case along a transform boundary. If the far side moves to the right, as in Figures 13.23 and 13.26 (right), it is a __right-handed__,__ right-lateral__,or __dextral __strike-slip fault. If the far side moves to the left it is a __left-handed__,__ left-lateral__, or __sinistral__ strike-slip fault.
 
 ```{r figure-13-26, fig.cap='Strike-slip faults. Rocks on either side of the fault move parallel to the fault. In dextral strike-slip faults the far side moves to the right of the observer. In sinistral strike-slip faults the far side moves to the left of the observer. _Source: Karla Panchuk (2018) CC BY 4.0_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02/strike_slip_faults-1024x591.png")
@@ -360,7 +360,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02
 
 It may help to imagine a vertical surface, such as a wall in your house. The strike is the compass orientation of the wall and the dip is 90˚ from horizontal. If you could push the wall so it is leaning over, but still attached to the floor, the strike direction would be the same, but the dip angle would be less than 90˚. If you pushed the wall over completely so it was lying on the floor, it would no longer have a strike direction because you could draw a horizontal line in any of an infinite number of directions on the horizontal surface of the wall. Its dip would be 0˚.
 
-When reporting the dip, include the direction. For example, if the strike runs north-south and the dip is 30˚, it would be necessary to specify “to the west” or “to the east.” Similarly if the strike is northeast-southwest and the dip is 60˚, it would be necessary to say “to the northwest” or “to the southeast.” In the case of the vertical wall with a dip angle of 90˚, there is no dip direction. The dip points straight down, not toward any compass direction.
+When reporting the dip, include the direction. For example, if the strike runs north-south and the dip is 30˚, it would be necessary to specify "to the west" or "to the east." Similarly if the strike is northeast-southwest and the dip is 60˚, it would be necessary to say "to the northwest" or "to the southeast." In the case of the vertical wall with a dip angle of 90˚, there is no dip direction. The dip points straight down, not toward any compass direction.
 
 Measurement of geological features is done with a special compass that has a built-in __clinometer__, which is a device for measuring vertical angles. The strike is measured by aligning the compass along a horizontal line on the surface of the feature (Figure \@ref(fig:figure-13-36), left). The dip is measured by turning the compass on its side and aligning it along the dip direction (Figure \@ref(fig:figure-13-36), right).
 
@@ -435,8 +435,8 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 8. Figure \@ref(fig:figure-13-40) is a map of the geology of a region. The coloured areas represent sedimentary beds.
     i. Describe in words the _general_ attitude (strike and dip) of these beds.
-    ii. What is “a” and what is its attitude?
-    iii. What is “b” and what is its attitude?
+    ii. What is "a" and what is its attitude?
+    iii. What is "b" and what is its attitude?
     iv. Is "b" left handed or right handed?
 
 ```{r figure-13-40, fig.cap='Geological map. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/plan-view-map-of-the-geology-of-a-region.png)_'}
@@ -463,7 +463,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 7. Most faults near transform boundaries are strike-slip faults, meaning that there is horizontal motion along the fault.
 
-8. (i) The beds are dipping at about 30˚ to the northwest. (ii) “a” is a dyke and it is dipping steeply to the northeast. (iii) “b” is a fault and it is dipping steeply to the southeast. (iv) The motion on fault “b” appears to be left handed.
+8. (i) The beds are dipping at about 30˚ to the northwest. (ii) "a" is a dyke and it is dipping steeply to the northeast. (iii) "b" is a fault and it is dipping steeply to the southeast. (iv) The motion on fault "b" appears to be left handed.
 
 ```{r figure-13-42, fig.cap='Geological map with strike and dip symbols. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/09/rocks2.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/rocks2-e1442870488882.png")

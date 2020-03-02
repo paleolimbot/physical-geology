@@ -577,7 +577,7 @@ The chain of volcanic complexes and cones extending from Milbanke Sound to Nazko
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09/1024px-Anahim_Volcanic_Belt-en.svg_.png")
 ```
 
-The Rainbow Range, which formed at approximately 8 Ma, is the largest of these older volcanoes. It has a diameter of about 30 km and an elevation of 2,495 m (Figure \@ref(fig:figure-11-49)). The name “Rainbow” refers to the bright colours displayed by some of the volcanic rocks as they weather.
+The Rainbow Range, which formed at approximately 8 Ma, is the largest of these older volcanoes. It has a diameter of about 30 km and an elevation of 2,495 m (Figure \@ref(fig:figure-11-49)). The name "Rainbow" refers to the bright colours displayed by some of the volcanic rocks as they weather.
 
 ```{r figure-11-49, fig.cap='Tsitsutl, the "painted mountain" within the Rainbow Range of the Anahim Volcanic Belt. The vibrant colours of the Rainbow Range are the result of chemical weathering. _Source: Drew Brayshaw (2015) CC BY-NC 2.0 [view source](https://flic.kr/p/wPuhSC)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09/Rainbow_Range-1024x575.jpg")

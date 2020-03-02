@@ -79,7 +79,7 @@ If you’ve ever made gravy, white sauce, or roux, you’ll know how this works.
 
 Place 1/2 cup (125 mL) of water in a saucepan over medium heat. Add 2 teaspoons (10 mL) of white flour and stir while continuing to heat the mixture until boiling. The white flour represents silica. The mixture should thicken like gravy because the gluten in the flour becomes polymerized into chains during this process.
 
-Now add more “silica” to see how this changes the viscosity of your magma: take another 4 teaspoons (20 mL) of flour and mix it thoroughly with 4 teaspoons (20 mL) of water in a cup. Add that mixture to the rest of the water and flour in the saucepan. Stir while bringing it back up to nearly boiling temperature, and then allow it to cool. This mixture should slowly become much thicker (Figure \@ref(fig:figure-7-5)) because there is more gluten, and more chains have formed.
+Now add more "silica" to see how this changes the viscosity of your magma: take another 4 teaspoons (20 mL) of flour and mix it thoroughly with 4 teaspoons (20 mL) of water in a cup. Add that mixture to the rest of the water and flour in the saucepan. Stir while bringing it back up to nearly boiling temperature, and then allow it to cool. This mixture should slowly become much thicker (Figure \@ref(fig:figure-7-5)) because there is more gluten, and more chains have formed.
 
 ```{r figure-7-5, fig.cap='Thick mixture of flour and water. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/making-magma-viscous2.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/making-magma-viscous2.jpg")
