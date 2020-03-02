@@ -199,17 +199,15 @@ It is important to be aware that a stream can both erode and deposit sediments a
 ##### Exercise 14.3 __Understanding the Hjulström-Sundborg Diagram__
 
 Refer to the Hjulström-Sundborg diagram in Figure \@ref(fig:figure-14-18) to answer these questions.
-<ol>
- 	<li>A fine sand grain (0.1 mm) is resting on the bottom of a stream bed.</li>
- 	<li>a) What stream velocity will it take to get this sand grain into suspension?</li>
- 	<li>b) Once the particle is in suspension, the velocity starts to drop. At what velocity will it finally come back to rest on the stream bed?</li>
- 	<li>A stream is flowing at 10 cm/s (which means it takes 10 s to travel 1 m).
-<ol>
- 	<li>What size of particles can be eroded at 10 cm/s?</li>
- 	<li>What is the largest particle that, once in suspension, will remain in suspension at 10 cm/s?</li>
-</ol>
-</li>
-</ol>
+
+1. A fine sand grain (0.1 mm) is resting on the bottom of a stream bed.
+1. a) What stream velocity will it take to get this sand grain into suspension?
+1. b) Once the particle is in suspension, the velocity starts to drop. At what velocity will it finally come back to rest on the stream bed?
+1. A stream is flowing at 10 cm/s (which means it takes 10 s to travel 1 m).
+
+1. What size of particles can be eroded at 10 cm/s?
+1. What is the largest particle that, once in suspension, will remain in suspension at 10 cm/s?
+
 </div>
 </div>
 
@@ -268,11 +266,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 The gradient is the key factor controlling stream velocity, and stream velocity controls sediment erosion and deposition. This map shows the elevations of Priest Creek in the Kelowna area. The length of the creek between 1,600 m and 1,300 m elevation is 2.4 km, so the gradient is (1,600 m - 1,300 m)/2.4 km = 125 m/km.
-<ol>
- 	<li>Use the scale bar to estimate the distance between 1,300 m and 600 m and calculate the gradient between these two elevations.</li>
- 	<li>Estimate the gradient between 600 and 400 m.</li>
- 	<li>Estimate the gradient between 400 m on Priest Creek and the point where Mission Creek enters Okanagan Lake.</li>
-</ol>
+
+1. Use the scale bar to estimate the distance between 1,300 m and 600 m and calculate the gradient between these two elevations.
+1. Estimate the gradient between 600 and 400 m.
+1. Estimate the gradient between 400 m on Priest Creek and the point where Mission Creek enters Okanagan Lake.
 </div>
 </div>
 
@@ -439,12 +436,10 @@ One of the things that the 2013 flood of the Bow River teaches us is that we can
 The graph below shows the highest discharge per year between 1915 and 2014 of the Bow River in Calgary. Using this data set, we can calculate the recurrence interval (Ri) for any particular flood magnitude using the equation: Ri = (n+1)/r (where n is the number of floods in the record being considered, and r is the rank of the particular flood). There are a few years missing in this record, so the actual number of floods is 95.
 
 The largest flood recorded along the Bow River over that period of time was the one in 2013, reaching a peak flow rate of 1,840 m3/s on June 21. Ri for this flood is (95+1)/1 = 96 years. The probability of such a flood in any future year is 1/Ri x 100%, which is 1%. The fifth largest flood was just a few years earlier in 2005, at 791 m3/s. Ri for this flood is (95+1)/5 = 19.2 years. The recurrence probability of a flood of this magnitude is thus 5%.
-<ol>
- 	<li>Calculate the recurrence interval for the second largest flood (1932, 1,520 m3/s).</li>
- 	<li>What is the probability that a flood of 1,520 m3/s will happen next year?</li>
- 	<li>Examine the 100-year trend for floods along the Bow River. If you ignore the major floods (the labelled ones), what is the general trend of peak discharges over this time?</li>
-</ol>
 
+1. Calculate the recurrence interval for the second largest flood (1932, 1,520 m3/s).
+1. What is the probability that a flood of 1,520 m3/s will happen next year?
+1. Examine the 100-year trend for floods along the Bow River. If you ignore the major floods (the labelled ones), what is the general trend of peak discharges over this time?
 ```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Water-Surveys-of-Canada.png) Source: Steven Earle (2015) CC BY 4.0[ view source](http://wateroffice.ec.gc.ca/search/searchDownload_e.html), from data at Water Surveys of Canada, Environment Canada [view source ](http://wateroffice.ec.gc.ca/search/searchDownload_e.html)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Water-Surveys-of-Canada.png")
 ```
@@ -479,21 +474,19 @@ Most streams in Canada have their highest discharge rates in spring and early su
 
 #### Questions for Review
 
-<ol>
- 	<li>What is the proportion of liquid fresh water on Earth expressed as a percentage of all water on Earth?</li>
- 	<li>What percentage of this fresh water is groundwater?</li>
- 	<li>What type of rock, and what processes, can lead to the formation of a trellis drainage pattern?</li>
- 	<li>Why do many of the streams in the southwestern part of Vancouver Island empty into the ocean over waterfalls?</li>
- 	<li>Where would you expect to find the fastest water flow along a straight stretch of a stream?</li>
- 	<li>Sand grains can be moved by traction and saltation. What minimum stream velocity is required to move 1 mm sand grains?</li>
- 	<li>If the flow velocity of a stream is 1 cm/s, what sizes of particles can be eroded, what sizes can be transported if they are already in suspension, and what sizes of particles cannot be moved at all?</li>
- 	<li>Under what circumstances might a braided stream develop?</li>
- 	<li>How would the gradient of a stream be affected if a meander is bypassed?</li>
- 	<li>The elevation of the Fraser River at Hope is 41 m. From there it flows approximately 147 km to the sea. What is the average gradient of the river (m/km) over this distance?</li>
- 	<li>How do BC’s coastal streams differ from most of the rest of the streams in Canada in terms of their annual flow patterns? Why?</li>
- 	<li>Why do most serious floods in Canada happen in late May, June, or early July?</li>
- 	<li>There is a 65-year record of peak annual discharges along the Ashnola River near Princeton, BC. During this time, the second highest discharge recorded was 175 m^3^/s. Based on this information, what is the recurrence interval (Ri) for this discharge level, and what is the probability that there will be a similar peak discharge next year?</li>
-</ol>
+1. What is the proportion of liquid fresh water on Earth expressed as a percentage of all water on Earth?
+1. What percentage of this fresh water is groundwater?
+1. What type of rock, and what processes, can lead to the formation of a trellis drainage pattern?
+1. Why do many of the streams in the southwestern part of Vancouver Island empty into the ocean over waterfalls?
+1. Where would you expect to find the fastest water flow along a straight stretch of a stream?
+1. Sand grains can be moved by traction and saltation. What minimum stream velocity is required to move 1 mm sand grains?
+1. If the flow velocity of a stream is 1 cm/s, what sizes of particles can be eroded, what sizes can be transported if they are already in suspension, and what sizes of particles cannot be moved at all?
+1. Under what circumstances might a braided stream develop?
+1. How would the gradient of a stream be affected if a meander is bypassed?
+1. The elevation of the Fraser River at Hope is 41 m. From there it flows approximately 147 km to the sea. What is the average gradient of the river (m/km) over this distance?
+1. How do BC’s coastal streams differ from most of the rest of the streams in Canada in terms of their annual flow patterns? Why?
+1. Why do most serious floods in Canada happen in late May, June, or early July?
+1. There is a 65-year record of peak annual discharges along the Ashnola River near Princeton, BC. During this time, the second highest discharge recorded was 175 m^3^/s. Based on this information, what is the recurrence interval (Ri) for this discharge level, and what is the probability that there will be a similar peak discharge next year?
 </div>
 
 ## Answers to Chapter  Review Questions

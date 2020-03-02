@@ -502,14 +502,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 ## Monitoring Volcanoes and Predicting Eruptions
 
 In 2005 U. S. Geological Survey geologist Chris Newhall made a list of the six most important signs of an imminent volcanic eruption. They are:
-<ol>
- 	<li>_Gas leaks_ — the release of gases (mostly H~2~O, CO~2~, and SO~2~) from the magma into the atmosphere through cracks in the overlying rock</li>
- 	<li>_Bulging_ — the deformation of part of the volcano, indicating that a magma chamber at depth is swelling or becoming more pressurized</li>
- 	<li>_Seismicity_ — many (hundreds to thousands) of small earthquakes, indicating that magma is on the move. The quakes may be the result of the magma forcing the surrounding rocks to crack, or a harmonic vibration that is evidence of magmatic fluids moving underground.</li>
- 	<li>_Seismicity ceases_ — a sudden decrease in the rate of earthquake activity. This may indicate that magma has stalled, and that\ something is about to give way</li>
- 	<li>_Big bump_ — a pronounced bulge on the side of the volcano (like the one at Mt. St. Helens in 1980), which may indicate that magma has moved close to surface</li>
- 	<li>_Steam_ — steam eruptions ( __phreatic__ __eruptions__) that happen when magma near the surface heats groundwater to the boiling point. The water eventually explodes, sending fragments of the overlying rock far into the air.</li>
-</ol>
+
+1. _Gas leaks_ — the release of gases (mostly H~2~O, CO~2~, and SO~2~) from the magma into the atmosphere through cracks in the overlying rock
+1. _Bulging_ — the deformation of part of the volcano, indicating that a magma chamber at depth is swelling or becoming more pressurized
+1. _Seismicity_ — many (hundreds to thousands) of small earthquakes, indicating that magma is on the move. The quakes may be the result of the magma forcing the surrounding rocks to crack, or a harmonic vibration that is evidence of magmatic fluids moving underground.
+1. _Seismicity ceases_ — a sudden decrease in the rate of earthquake activity. This may indicate that magma has stalled, and that\ something is about to give way
+1. _Big bump_ — a pronounced bulge on the side of the volcano (like the one at Mt. St. Helens in 1980), which may indicate that magma has moved close to surface
+1. _Steam_ — steam eruptions ( __phreatic__ __eruptions__) that happen when magma near the surface heats groundwater to the boiling point. The water eventually explodes, sending fragments of the overlying rock far into the air.
 With these signs in mind, it is possible to determine the necessary equipment to have and actions to take to monitor a volcano and predict when it might erupt. we can make a list of the equipment we should have and the actions we can take to monitor a volcano and predict when it might erupt.
 
 ### Assessing Seismicity
@@ -662,38 +661,33 @@ British Columbia and the Yukon Territory include examples of volcanoes that form
 
 #### Review Questions
 
-<ol>
- 	<li>What are the three main tectonic settings for volcanism on Earth?</li>
- 	<li>What is the primary mechanism for partial melting at a convergent plate boundary?</li>
- 	<li>Why are the viscosity and gas content of a magma important in determining the type of volcanic rocks that will be formed when that magma is extruded?</li>
- 	<li>Why do the gases in magma not form gas bubbles when the magma is deep within the crust?</li>
- 	<li>Where and why do pillow lavas form?</li>
- 	<li>What two kinds of volcanic materials make up a composite volcano?</li>
- 	<li>What is a lahar, and why are lahars commonly associated with eruptions of composite volcanoes?</li>
- 	<li>Under what other circumstances might a lahar form?</li>
- 	<li>Why do shield volcanoes have gentle slopes?</li>
- 	<li>Which type of volcanic mountain would last longest: a shield volcano, a cinder cone, or a composite volcano?</li>
- 	<li>Why is weak seismic activity (small earthquakes) typically associated with the early stages of a volcanic eruption?</li>
- 	<li>How can GPS technology be used to help monitor a volcano for activity?</li>
- 	<li>What is the likely geological origin of the Nazko Cone?</li>
- 	<li>What might be the explanation for southwestern B.C. having much less subduction-related volcanism than adjacent Washington and Oregon?</li>
-</ol>
-
+1. What are the three main tectonic settings for volcanism on Earth?
+1. What is the primary mechanism for partial melting at a convergent plate boundary?
+1. Why are the viscosity and gas content of a magma important in determining the type of volcanic rocks that will be formed when that magma is extruded?
+1. Why do the gases in magma not form gas bubbles when the magma is deep within the crust?
+1. Where and why do pillow lavas form?
+1. What two kinds of volcanic materials make up a composite volcano?
+1. What is a lahar, and why are lahars commonly associated with eruptions of composite volcanoes?
+1. Under what other circumstances might a lahar form?
+1. Why do shield volcanoes have gentle slopes?
+1. Which type of volcanic mountain would last longest: a shield volcano, a cinder cone, or a composite volcano?
+1. Why is weak seismic activity (small earthquakes) typically associated with the early stages of a volcanic eruption?
+1. How can GPS technology be used to help monitor a volcano for activity?
+1. What is the likely geological origin of the Nazko Cone?
+1. What might be the explanation for southwestern B.C. having much less subduction-related volcanism than adjacent Washington and Oregon?
 ## Answers to Chapter  Review Questions
 
-<ol>
- 	<li>The three main tectonic settings for volcanism are (1) subduction zones at convergent plate boundaries, (2) divergent plate boundaries, and (3) mantle plumes (a.k.a. hot spots).</li>
- 	<li>The primary mechanism for partial melting at a convergent plate boundary is the addition of water to hot mantle rock. The water reduces the melting temperature of the rock (flux melting).</li>
- 	<li>The explosiveness of a volcanic eruption depends on the pressure of the magma. Gases create that pressure, and if the magma is viscous those gases cannot escape easily. Felsic and intermediate magmas tend to have more gas than mafic magmas, and are also more viscous, trapping the gas in.</li>
- 	<li>When magma is deep within the crust the pressure is too high for the gases to bubble out of solution.</li>
- 	<li>Pillow lavas form where mafic lava erupts in water. When the magma oozes out into the water the outside cools first forming a hard skin that maintains the pillow shape.</li>
- 	<li>Composite volcanoes are formed of layers of lava flows and tephra (volcanic fragments ranging from fine ash to blocks and bombs) from explosive eruptions.</li>
- 	<li>A lahar is a mud flow or debris flow on a volcano. Lahars are common on composite volcanoes because they are steeper than shield volcanoes, they typically have ice and snow, and they are not as strong as shield volcanoes.</li>
- 	<li>Some lahars form during an eruption when snow and ice melt quickly, while others may form from heavy rain.</li>
- 	<li>The lava that forms shield volcanoes is typically low viscosity. It can flow easily and also tends to form lava tubes. As a result, it is able to travel a long way from the vent, forming a low broad shield.</li>
- 	<li>Cinder cones erode rapidly because they are mostly piles of tephra. Composite volcanoes are more resistant to weathering and erosion than cinder cones because lava flows help hold together tephra, but composite volcanoes still don't last as long as shield volcanoes. Shield volcanoes are stronger because they consist more of lava flows than tephra.</li>
- 	<li>Weak seismic activity is associated with all stages of a volcanic eruption. In the early stages magma is moving at depth and pushing rock aside, creating small earthquakes. The flow of magma can also produce special type of seismic response known as a harmonic tremor.</li>
- 	<li>GPS technology is used to determine if there is any slow deformation of the flanks of a volcano related to movement of magma toward the surface.</li>
- 	<li>The Nazko Cone is thought to be related to a mantle plume.</li>
- 	<li>One hypothesis to explain the lower rate of volcanism in British Columbia than in adjacent Washington and Oregon is that the northern part of the Juan de Fuca Plateis not subducting as quickly as the rest of the plate.</li>
-</ol>
+1. The three main tectonic settings for volcanism are (1) subduction zones at convergent plate boundaries, (2) divergent plate boundaries, and (3) mantle plumes (a.k.a. hot spots).
+1. The primary mechanism for partial melting at a convergent plate boundary is the addition of water to hot mantle rock. The water reduces the melting temperature of the rock (flux melting).
+1. The explosiveness of a volcanic eruption depends on the pressure of the magma. Gases create that pressure, and if the magma is viscous those gases cannot escape easily. Felsic and intermediate magmas tend to have more gas than mafic magmas, and are also more viscous, trapping the gas in.
+1. When magma is deep within the crust the pressure is too high for the gases to bubble out of solution.
+1. Pillow lavas form where mafic lava erupts in water. When the magma oozes out into the water the outside cools first forming a hard skin that maintains the pillow shape.
+1. Composite volcanoes are formed of layers of lava flows and tephra (volcanic fragments ranging from fine ash to blocks and bombs) from explosive eruptions.
+1. A lahar is a mud flow or debris flow on a volcano. Lahars are common on composite volcanoes because they are steeper than shield volcanoes, they typically have ice and snow, and they are not as strong as shield volcanoes.
+1. Some lahars form during an eruption when snow and ice melt quickly, while others may form from heavy rain.
+1. The lava that forms shield volcanoes is typically low viscosity. It can flow easily and also tends to form lava tubes. As a result, it is able to travel a long way from the vent, forming a low broad shield.
+1. Cinder cones erode rapidly because they are mostly piles of tephra. Composite volcanoes are more resistant to weathering and erosion than cinder cones because lava flows help hold together tephra, but composite volcanoes still don't last as long as shield volcanoes. Shield volcanoes are stronger because they consist more of lava flows than tephra.
+1. Weak seismic activity is associated with all stages of a volcanic eruption. In the early stages magma is moving at depth and pushing rock aside, creating small earthquakes. The flow of magma can also produce special type of seismic response known as a harmonic tremor.
+1. GPS technology is used to determine if there is any slow deformation of the flanks of a volcano related to movement of magma toward the surface.
+1. The Nazko Cone is thought to be related to a mantle plume.
+1. One hypothesis to explain the lower rate of volcanism in British Columbia than in adjacent Washington and Oregon is that the northern part of the Juan de Fuca Plateis not subducting as quickly as the rest of the plate.

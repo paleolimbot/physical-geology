@@ -383,11 +383,9 @@ This cross-section shows seven tilted sedimentary layers (a to g), a fault, and 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Putting-strike-and-dip-on-a-map-1024x598.png")
 ```
 
-<ol>
- 	<li>Place strike and dip symbols on the map to indicate the orientations of the beds shown, the fault, and the dyke.</li>
- 	<li>What type of fault is shown?</li>
- 	<li>What kind of stress created the fault?</li>
-</ol>
+1. Place strike and dip symbols on the map to indicate the orientations of the beds shown, the fault, and the dyke.
+1. What type of fault is shown?
+1. What kind of stress created the fault?
 </div>
 
 ## Summary

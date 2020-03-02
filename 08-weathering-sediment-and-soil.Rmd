@@ -203,14 +203,13 @@ At many ARD sites, the pH of the runoff water is less than 4 (very acidic). Unde
 <div class="textbox__content">
 
 For each of the following reactions, indicate which chemical weathering process—dissolution, hydrolysis, hydration, or oxidation—is the primary mechanism.
-<ol>
- 	<li>Pyrite → hematite</li>
- 	<li>Calcite → calcium and bicarbonate ions</li>
- 	<li>Feldspar → clay</li>
- 	<li>Olivine → serpentine</li>
- 	<li>Pyroxene → iron oxide</li>
- 	<li>Anhydrite → gypsum</li>
-</ol>
+
+1. Pyrite → hematite
+1. Calcite → calcium and bicarbonate ions
+1. Feldspar → clay
+1. Olivine → serpentine
+1. Pyroxene → iron oxide
+1. Anhydrite → gypsum
 </div>
 </div>
 
@@ -663,36 +662,31 @@ The geological component of the carbon cycle affects Earth's climate over the lo
 
 #### Review Questions
 
-<ol>
- 	<li>What must happen to a body of rock before exfoliation can occur?</li>
- 	<li>Saskatchewan's climate is consistently cold in the winter and consistently warm in the summer. What times of year would frost wedging to be an important weathering mechanism?</li>
- 	<li>What are the products of the hydrolysis of the feldspar albite (NaAlSi~3~O~8~)?</li>
- 	<li>Oxidation weathering of pyrite (FeS~2~) can lead to acid rock drainage (ARD). What are the environmental impacts of ARD?</li>
- 	<li>Imagine that you and a friend encounter an old graveyard on a walk through the forest. You see a granite tombstone with the date 1705 carved into it. The tombstone next to it is too badly weathered to read the date. Your friend looks at the badly weathered stone and declares, "Look how weathered this stone is! It must be from _way_ before 1705." Do you agree?</li>
- 	<li>Many sand deposits are dominated by quartz, with very little feldspar. What weathering and erosion conditions are required to get feldspar-rich sand?</li>
- 	<li>What ultimately happens to most of the clay that forms during the hydrolysis of silicate minerals?</li>
- 	<li>Why are the slope and the parent materials important factors in soil formation?</li>
- 	<li>Which soil constituents move downward to produce the B-horizon of a soil?</li>
- 	<li>What are the main processes that lead to the erosion of soils in Canada?</li>
- 	<li>Where in Canada would you expect to find a chernozemic soil? What characteristics of this region produce this type of soil?</li>
- 	<li>Where are brunisolic soils found in Saskatchewan?</li>
- 	<li>Why does weathering of silicate minerals, especially feldspar, lead to consumption of atmospheric carbon dioxide? What eventually happens to the carbon that is involved in that process?</li>
-</ol>
-
+1. What must happen to a body of rock before exfoliation can occur?
+1. Saskatchewan's climate is consistently cold in the winter and consistently warm in the summer. What times of year would frost wedging to be an important weathering mechanism?
+1. What are the products of the hydrolysis of the feldspar albite (NaAlSi~3~O~8~)?
+1. Oxidation weathering of pyrite (FeS~2~) can lead to acid rock drainage (ARD). What are the environmental impacts of ARD?
+1. Imagine that you and a friend encounter an old graveyard on a walk through the forest. You see a granite tombstone with the date 1705 carved into it. The tombstone next to it is too badly weathered to read the date. Your friend looks at the badly weathered stone and declares, "Look how weathered this stone is! It must be from _way_ before 1705." Do you agree?
+1. Many sand deposits are dominated by quartz, with very little feldspar. What weathering and erosion conditions are required to get feldspar-rich sand?
+1. What ultimately happens to most of the clay that forms during the hydrolysis of silicate minerals?
+1. Why are the slope and the parent materials important factors in soil formation?
+1. Which soil constituents move downward to produce the B-horizon of a soil?
+1. What are the main processes that lead to the erosion of soils in Canada?
+1. Where in Canada would you expect to find a chernozemic soil? What characteristics of this region produce this type of soil?
+1. Where are brunisolic soils found in Saskatchewan?
+1. Why does weathering of silicate minerals, especially feldspar, lead to consumption of atmospheric carbon dioxide? What eventually happens to the carbon that is involved in that process?
 ## Answers to Chapter  Review Questions
 
-<ol>
- 	<li>Rock must be exposed at surface. It has to be uplifted from where it formed deep in the crust, and the material on top has to be eroded.</li>
- 	<li>Frost wedging is most effective when temperatures swing between freezing and thawing from day to day. In Saskatchewan that happens consistently in the early spring and late fall.</li>
- 	<li>The feldspar albite (NaAlSi~3~O~8~) will be converted to a clay (such as kaolinite) and sodium ions in solution.</li>
- 	<li>Acid rock drainage (ARD) creates acidic stream runoff. It also increases the solubility of a wide range of metals, some of which are toxic to wildlife and humans.</li>
- 	<li>If the stones are both granite, then it would be reasonable to conclude that the badly weathered tombstone is much older than the other, because it has been exposed to weathering for much longer. On the other hand, if the badly weathered stone is a rock that is less resistant to weathering, like limestone, then the badly weathered stone could be the same age, or even younger than the granite one.</li>
- 	<li>Feldspar-rich sand is formed where granitic rocks are being weathered and where mechanical weathering predominates over chemical weathering. For a deposit of feldspar-rich sand to be preserved, the sand must be deposited close to its source to limit the opportunities for chemical weathering.</li>
- 	<li>Most of the clay that forms during hydrolysis of silicate minerals ends up in rivers and is washed out to the oceans. There it eventually settles to the sea floor.</li>
- 	<li>On a steep slope, gravity will remove materials, making it unlikely for soils to accumulate. The mineral composition of the parent rock or sediment will influence the composition of the resulting soil.</li>
- 	<li>Clay minerals and iron move downward to produce the B horizon of a soil.</li>
- 	<li>Wind and water are the main processes of soil erosion in Canada. Removal of vegetation makes it easier for erosion to happen.</li>
- 	<li>Chernozemic soils are common in the southern prairies, where organic matter from grasslands is added to soils</li>
- 	<li>Brunisolic soils are found in the northern half of Saskatchewan where forest cover is common.</li>
- 	<li>The weathering of feldspar to clay involves the conversion of atmospheric carbon dioxide to dissolved bicarbonate, which ends up in the ocean.</li>
-</ol>
+1. Rock must be exposed at surface. It has to be uplifted from where it formed deep in the crust, and the material on top has to be eroded.
+1. Frost wedging is most effective when temperatures swing between freezing and thawing from day to day. In Saskatchewan that happens consistently in the early spring and late fall.
+1. The feldspar albite (NaAlSi~3~O~8~) will be converted to a clay (such as kaolinite) and sodium ions in solution.
+1. Acid rock drainage (ARD) creates acidic stream runoff. It also increases the solubility of a wide range of metals, some of which are toxic to wildlife and humans.
+1. If the stones are both granite, then it would be reasonable to conclude that the badly weathered tombstone is much older than the other, because it has been exposed to weathering for much longer. On the other hand, if the badly weathered stone is a rock that is less resistant to weathering, like limestone, then the badly weathered stone could be the same age, or even younger than the granite one.
+1. Feldspar-rich sand is formed where granitic rocks are being weathered and where mechanical weathering predominates over chemical weathering. For a deposit of feldspar-rich sand to be preserved, the sand must be deposited close to its source to limit the opportunities for chemical weathering.
+1. Most of the clay that forms during hydrolysis of silicate minerals ends up in rivers and is washed out to the oceans. There it eventually settles to the sea floor.
+1. On a steep slope, gravity will remove materials, making it unlikely for soils to accumulate. The mineral composition of the parent rock or sediment will influence the composition of the resulting soil.
+1. Clay minerals and iron move downward to produce the B horizon of a soil.
+1. Wind and water are the main processes of soil erosion in Canada. Removal of vegetation makes it easier for erosion to happen.
+1. Chernozemic soils are common in the southern prairies, where organic matter from grasslands is added to soils
+1. Brunisolic soils are found in the northern half of Saskatchewan where forest cover is common.
+1. The weathering of feldspar to clay involves the conversion of atmospheric carbon dioxide to dissolved bicarbonate, which ends up in the ocean.

@@ -504,12 +504,11 @@ Both the acidification and the carbon-isotope shift indicated that a large amoun
 To solve this problem, an Earth-system model was used that could test which scenario could best account for the pattern of dissolving calcium carbonate. It took into account the shape of ocean basins, ocean current circulation, and carbonate system chemistry in ocean water and in sediments. It also took into account changes in sediments once they were deposited.
 
 The steps to using this model were the following:
-<ol>
- 	<li>A search was done to locate as many studies of ocean floor sampling sites as possible that had information about changes in the amount of calcium carbonate during the PETM.</li>
- 	<li>The model was set up so that it did a good job of reproducing the distribution of calcium carbonate _before_ the PETM happened. This was important to ensure that model scenarios began with a realistic set of conditions.</li>
- 	<li>Each of the possible scenarios involved carbon coming from different sources in the Earth system, meaning that each scenario could be represented in the model by adding to the atmosphere different amounts of carbon with different carbon isotope compositions. The more carbon a scenario required, the more the calcium carbonate sediments would have dissolved in real life.</li>
- 	<li>The model was run for each different amount of carbon. For each scenario, the pattern of calcium carbonate sediments that the model gave was compared to the actual distribution of calcium carbonate sediments known from the data collected in Step 1.</li>
-</ol>
+
+1. A search was done to locate as many studies of ocean floor sampling sites as possible that had information about changes in the amount of calcium carbonate during the PETM.
+1. The model was set up so that it did a good job of reproducing the distribution of calcium carbonate _before_ the PETM happened. This was important to ensure that model scenarios began with a realistic set of conditions.
+1. Each of the possible scenarios involved carbon coming from different sources in the Earth system, meaning that each scenario could be represented in the model by adding to the atmosphere different amounts of carbon with different carbon isotope compositions. The more carbon a scenario required, the more the calcium carbonate sediments would have dissolved in real life.
+1. The model was run for each different amount of carbon. For each scenario, the pattern of calcium carbonate sediments that the model gave was compared to the actual distribution of calcium carbonate sediments known from the data collected in Step 1.
 In the end, the model showed that some of the scenarios did not even come close to matching the observations, either dissolving way too much calcium carbonate, or far too little. The model showed that two scenarios did come close to reproducing the pattern of calcium carbonate, and that one did a better job of matching the observations than the other. When it came time to write a report about the experiments, the scientists learned that newly published measurements from another study supported the scenario that the model suggested was best. It would have been acceptable to write a paper describing the model results, and which scenario worked best. However, also being able to comment about new supporting data meant there was a better chance of convincing other scientists that the model results were meaningful.
 
 ### Predicting the Future of the Earth System with Models
@@ -827,24 +826,21 @@ Humans today are experiencing the results of past human influence on the Earth s
 
 #### Review Questions
 
-<ol>
- 	<li>If you receive positive feedback on a project, this means someone says you did a good job. Does this mean a positive feedback in the climate system is also something good? Explain.</li>
- 	<li>Why does the presence of ice sheets cause the Earth system to be less stable?</li>
- 	<li>Using the orbital information on eccentricity, tilt, and precession, we could calculate variations in insolation for any latitude on Earth and for any month of the year. Why do we focus on a latitude of 65° N?</li>
- 	<li>Explain how the positioning of Gondwana at the South Pole contributed to glaciation during the Paleozoic.</li>
- 	<li>If the major currents in the oceans were to slow down or stop, how would that affect the distribution of heat on Earth, and what effect might that have on glaciation?</li>
- 	<li>Most volcanic eruptions lead to short-term cooling, but long-term sustained volcanism can lead to warming. Describe the mechanisms for these two different consequences.</li>
- 	<li>What property of greenhouse gases allows them to absorb infrared radiation and thus trap heat within the atmosphere?</li>
- 	<li>What are the advantages of proxy data over direct measurements of climate? What are the disadvantages of using proxy data?</li>
- 	<li>What are some steps that scientists take to help ensure that meaningful conclusions can be drawn from Earth-system computer models?</li>
- 	<li>What evidence tells us that rising atmospheric CO~2~ levels are primarily the result of humans burning fossil fuels?</li>
- 	<li>The flows of carbon through the carbon cycle that are related to human activities are actually much smaller than some natural flows. Why do human activities have such a large impact on the carbon cycle?</li>
- 	<li>Some people argue that climate has always changed, and present-day climate change is not significant compared to the long-term record of Earth's climate. Is it true that present-day climate signals show that changes are not significant compared to Earth's long-term climate history? Explain your answer.</li>
- 	<li>What climate mechanism links both extreme heat waves and droughts, and extreme flooding and rainfall events to climate change?</li>
- 	<li>What evidence suggests that increasingly intense tropical storms can be expected as climate warms?</li>
- 	<li>What are the potential impacts of thawing permafrost?</li>
-</ol>
-
+1. If you receive positive feedback on a project, this means someone says you did a good job. Does this mean a positive feedback in the climate system is also something good? Explain.
+1. Why does the presence of ice sheets cause the Earth system to be less stable?
+1. Using the orbital information on eccentricity, tilt, and precession, we could calculate variations in insolation for any latitude on Earth and for any month of the year. Why do we focus on a latitude of 65° N?
+1. Explain how the positioning of Gondwana at the South Pole contributed to glaciation during the Paleozoic.
+1. If the major currents in the oceans were to slow down or stop, how would that affect the distribution of heat on Earth, and what effect might that have on glaciation?
+1. Most volcanic eruptions lead to short-term cooling, but long-term sustained volcanism can lead to warming. Describe the mechanisms for these two different consequences.
+1. What property of greenhouse gases allows them to absorb infrared radiation and thus trap heat within the atmosphere?
+1. What are the advantages of proxy data over direct measurements of climate? What are the disadvantages of using proxy data?
+1. What are some steps that scientists take to help ensure that meaningful conclusions can be drawn from Earth-system computer models?
+1. What evidence tells us that rising atmospheric CO~2~ levels are primarily the result of humans burning fossil fuels?
+1. The flows of carbon through the carbon cycle that are related to human activities are actually much smaller than some natural flows. Why do human activities have such a large impact on the carbon cycle?
+1. Some people argue that climate has always changed, and present-day climate change is not significant compared to the long-term record of Earth's climate. Is it true that present-day climate signals show that changes are not significant compared to Earth's long-term climate history? Explain your answer.
+1. What climate mechanism links both extreme heat waves and droughts, and extreme flooding and rainfall events to climate change?
+1. What evidence suggests that increasingly intense tropical storms can be expected as climate warms?
+1. What are the potential impacts of thawing permafrost?
 ## Answers to Chapter  Review Questions
 
 1. A positive feedback does not mean that something good is happening in the Earth system. Rather, it means that a change is being amplified by other Earth-system processes that were triggered by the change. From a human perspective, having a change amplified could be good or bad.

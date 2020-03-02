@@ -33,11 +33,9 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ## The Rock Cycle
 
 The rock components of the crust are slowly but constantly being changed from one form to another. The processes involved are summarized in the __rock cycle__ (Figure \@ref(fig:figure-6-3)). The rock cycle is driven by two forces:
-<ol>
- 	<li>Earth’s internal heat, which causes material to move around in the core and mantle, driving plate tectonics.</li>
- 	<li>The __hydrological cycle__- movement of water, ice, and air at the surface. The hydrological cycle is powered by the sun.</li>
-</ol>
 
+1. Earth’s internal heat, which causes material to move around in the core and mantle, driving plate tectonics.
+1. The __hydrological cycle__- movement of water, ice, and air at the surface. The hydrological cycle is powered by the sun.
 ```{r figure-6-3, fig.cap='The rock cycle describes processes that form the three types of rock: igneous, sedimentary, and metamorphic. These same processes can turn one type of rock into another. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/10/Rock-Cycle.png")
 ```
@@ -92,18 +90,18 @@ A rock is a solid mass of geological materials. Geological materials include ind
 
 There are three main types of rock. Igneous rocks form when melted rock cools and solidifies. Sedimentary rock forms from fragments of other rocks, or when crystals precipitate from solution. Metamorphic rocks form when existing rocks are altered by heat, pressure, and/or chemical reactions. The rock cycle summarizes the processes that contribute to transformation of rock from one type to another. The rock cycle is driven by Earth’s internal heat, and by processes happening at the surface that are driven by solar energy.
 
-#### Review Questions
+## Chapter Review Questions
 
-<ol>
- 	<li>What processes must take place to transform rocks into sediment?</li>
- 	<li>What processes normally take place in the transformation of sediments to sedimentary rock?</li>
- 	<li>What are the processes that lead to the formation of a metamorphic rock?</li>
-</ol>
+1. What processes must take place to transform rocks into sediment?
 
-## Answers to Chapter  Review Questions
+2. What processes normally take place in the transformation of sediments to sedimentary rock?
 
-<ol>
- 	<li>The rock must be exposed at surface. This means uplift and removal of overlying rocks and sediments is required. Once exposed, chemical and/or physical weathering can reduce the rock to smaller loose fragments (sediments). The sediments can be eroded and then transported by a variety of mechanisms.</li>
- 	<li>Sediments are buried beneath other sediments, where pressure compacts the sediments, forcing grains closer together. Mineral cement forms around the grains, binding them to each other and into solid rock.</li>
- 	<li>Rock is buried deeply in the crust and exposed to very high temperatures and pressures. Under those conditions, a new type of rock is formed when minerals undergo physical changes and chemical reactions.</li>
-</ol>
+3. What are the processes that lead to the formation of a metamorphic rock?
+
+## Answers to Chapter Review Questions
+
+1. The rock must be exposed at surface. This means uplift and removal of overlying rocks and sediments is required. Once exposed, chemical and/or physical weathering can reduce the rock to smaller loose fragments (sediments). The sediments can be eroded and then transported by a variety of mechanisms.
+
+2. Sediments are buried beneath other sediments, where pressure compacts the sediments, forcing grains closer together. Mineral cement forms around the grains, binding them to each other and into solid rock.
+
+3. Rock is buried deeply in the crust and exposed to very high temperatures and pressures. Under those conditions, a new type of rock is formed when minerals undergo physical changes and chemical reactions.

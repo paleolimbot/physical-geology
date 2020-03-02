@@ -398,22 +398,21 @@ The key criteria for classifying mass wasting are the nature of the movement tha
 
 We cannot prevent mass wasting, but we can delay it through efforts to strengthen the materials on slopes. Strategies include adding mechanical devices such as rock bolts or ensuring that water in the slope materials can easily drain away. Such measures are never permanent but may be effective for decades or even centuries. We can also avoid practices that make matters worse, such as cutting into steep slopes or impeding proper drainage. In some situations, the best approach is to mitigate the risks associated with mass wasting by constructing shelters or diversionary channels. In other cases, where slope failure is inevitable, we should simply avoid building in that location.
 
-<div class="bcc-box bcc-info">
+## Chapter Review Questions
 
-#### Questions for Review
-
-```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/gravitational-force-on-the-unconsolidated-sediment.png) Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geology/)'}
+```{r, fig.cap='Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geology/)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/gravitational-force-on-the-unconsolidated-sediment.png")
 ```
 
 1. In the scenario shown here, the gravitational force on the unconsolidated sediment overlying the point marked with an X is depicted by the black arrow. The red arrow in the diagram depicts the shear strength of the sediment.
-<ol style="list-style-type: lower-alpha">
- 	<li>Draw in the two arrows that show how this force can be resolved into the shear force (along the slope) and the normal force (perpendicular to the slope).</li>
- 	<li>Assuming that the relative lengths of the shear force arrow (which you drew in question 1), and the shear strength arrow are indicative of the likelihood of failure, predict whether this material is likely to fail or not.</li>
- 	<li>After several days of steady rain, the sediment becomes saturated with water and its shear strength is reduced by 25%. What are the likely implications for the stability of this slope?</li>
- 	<li>Did you consider the affect of the additional weight of the water on the gravitational force acting on the slope in your answer to (c)? Does this change your answer?</li>
-</ol>
+    a. Draw in the two arrows that show how this force can be resolved into the shear force (along the slope) and the normal force (perpendicular to the slope).
+    b. Assuming that the relative lengths of the shear force arrow (which you drew in question 1), and the shear strength arrow are indicative of the likelihood of failure, predict whether this material is likely to fail or not.
+    c. After several days of steady rain, the sediment becomes saturated with water and its shear strength is reduced by 25%. What are the likely implications for the stability of this slope?
+
+1. Did you consider the affect of the additional weight of the water on the gravitational force acting on the slope in your answer to (c)? Does this change your answer?
+
 2. In the diagrams shown here, a road cut is constructed in sedimentary rock with well-developed bedding. On the left, draw in the orientation of the bedding that would represent the greatest likelihood of slope failure. On the right, show the orientation that would represent the least likelihood of slope failure.
+
 <table style="width: 632px">
 <tbody>
 <tr>
@@ -436,9 +435,7 @@ Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geolog
 
 8. What factors are likely to be important when considering the construction of a house near the crest of a slope that is underlain by glacial sediments?
 
-</div>
-
-## Answers to Chapter  Review Questions
+## Answers to Chapter Review Questions
 
 1. (a) The shear force and normal force vectors are shown on the left-hand diagram:
 
@@ -446,6 +443,7 @@ Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geolog
 
 (b) Based on the relative lengths of the arrows it appears that this material is stable, and unlikely to fail.
 (c) If the shear strength was reduced by 25% (right-hand diagram) the material would be much closer to failure, but the strength (based on the length of the arrows) still appears to be greater than the shear force.
+
 2. [<img class="alignnone wp-image-1527 size-full" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/slope-e1442871705723.png" alt="slope" width="500" height="157" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/09/slope.png)
 
 3. In moist sand the grains are each surrounded by an envelope of water, and the water envelopes overlap. The attractive surface tension of the water holds the grains together.
