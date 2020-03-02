@@ -176,7 +176,7 @@ Chemical weathering results from chemical changes to minerals that become unstab
 #### Dissolution
 
 
-__Dissolution__ reactions produce ions, but no minerals, and are reversible if the solvent is removed. A household example would be dissolving a teaspoon of table salt (the mineral halite) in a glass of water. The halite will separate into Na<sup>+</sup> and Cl<sup>-</sup> ions. If the water in the glass is allowed to evaporate, there will not be enough water molecules to hold the Na<sup>+</sup> and Cl<sup>-</sup> ions apart, and the ions will come together again to form halite. Gypsum and anhydrite are other minerals that will dissolve in water alone.
+__Dissolution__ reactions produce ions, but no minerals, and are reversible if the solvent is removed. A household example would be dissolving a teaspoon of table salt (the mineral halite) in a glass of water. The halite will separate into Na^+^ and Cl^-^ ions. If the water in the glass is allowed to evaporate, there will not be enough water molecules to hold the Na^+^ and Cl^-^ ions apart, and the ions will come together again to form halite. Gypsum and anhydrite are other minerals that will dissolve in water alone.
 
 Other minerals, such as calcite, will dissolve in acidic water. Acidic water is common in nature, because carbon dioxide (CO<sub>2</sub>) in the atmosphere reacts with water vapour in the atmosphere, and with water on land and in the oceans to produce carbonic acid (Figure \@ref(fig:figure-8-9)).
 
@@ -226,9 +226,9 @@ Hydration reactions involve water being added to the chemical structure of a min
 __Oxidation __happens when free oxygen (i.e., oxygen not bound up in molecules with other elements) is involved in chemical reactions. Oxidation reactions provide valuable insight into Earth’s early surface conditions because there is a clear transition in the rock record from rocks containing no minerals that are products of oxidation reactions, to rocks containing abundant minerals produced by oxidation. This reflects a transition from an oxygen-free atmosphere to an oxygenated one.
 
 In iron-rich minerals such as olivine, the oxidation reaction begins with taking iron out of the mineral and putting it into solution as an ion. Olivine reacts with carbonic acid, leaving dissolved iron, bicarbonate, and silicic acid:
-<p style="text-align: center">Fe<sub>2</sub>SiO<sub>4</sub> + 4H<sub>2</sub>CO<sub>3 </sub>→ 2Fe<sup><sub>2</sub>+</sup> + 4HCO<sub>3</sub><sup>-</sup> + H<sub>4</sub>SiO<sub>4</sub></p>
+<p style="text-align: center">Fe<sub>2</sub>SiO<sub>4</sub> + 4H<sub>2</sub>CO<sub>3 </sub>→ 2Fe^<sub>2</sub>+^ + 4HCO<sub>3</sub>^-^ + H<sub>4</sub>SiO<sub>4</sub></p>
 Iron and oxygen dissolved in water react in the presence of bicarbonate to produce hematite and carbonic acid:
-<p style="text-align: center">2Fe<sup><sub>2</sub>+</sup> + ½ O<sub>2</sub> + 2H<sub>2</sub>O + 4HCO<sub>3</sub><sup>-</sup> → Fe<sub>2</sub>O<sub>3 </sub>+ 4H<sub>2</sub>CO<sub>3</sub></p>
+<p style="text-align: center">2Fe^<sub>2</sub>+^ + ½ O<sub>2</sub> + 2H<sub>2</sub>O + 4HCO<sub>3</sub>^-^ → Fe<sub>2</sub>O<sub>3 </sub>+ 4H<sub>2</sub>CO<sub>3</sub></p>
 When the olivine in basalt is oxidized, the basalt takes on a reddish colour that is distinct from the dark grey or black of unweathered basalt (Figure \@ref(fig:figure-8-12)).
 
 

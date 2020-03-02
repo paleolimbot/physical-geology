@@ -312,15 +312,15 @@ Originally, fossils only provided us with relative ages because, although early 
 
 Isotopic dating of rocks, or the minerals within them, is based upon the fact that we know the decay rates of certain unstable __isotopes__ of elements, and that these decay rates have been constant throughout geological time. It is also based on the premise that when the atoms of an element decay within a mineral or a rock, they remain trapped in the mineral or rock, and do not escape.
 
-One of the isotope pairs commonly used to date rocks is the decay of <sup>40</sup>K to <sup>40</sup>Ar (potassium-40 to argon-40). <sup>40</sup>K is a radioactive isotope of potassium that is present in very small amounts in all minerals that contain potassium. It has a __half-life__ of 1.3 billion years, meaning that over a period of 1.3 Ga one-half of the <sup>40</sup>K atoms in a mineral or rock will decay to <sup>40</sup>Ar, and over the next 1.3 Ga one-half of the remaining atoms will decay, and so forth (Figure \@ref(fig:figure-19-18)). <sup>40</sup>K is called the __parent__ __isotope__, and <sup>40</sup>Ar the __daughter isotope__, as the parent gives way to the daughter during radioactive decay.
+One of the isotope pairs commonly used to date rocks is the decay of ^40^K to ^40^Ar (potassium-40 to argon-40). ^40^K is a radioactive isotope of potassium that is present in very small amounts in all minerals that contain potassium. It has a __half-life__ of 1.3 billion years, meaning that over a period of 1.3 Ga one-half of the ^40^K atoms in a mineral or rock will decay to ^40^Ar, and over the next 1.3 Ga one-half of the remaining atoms will decay, and so forth (Figure \@ref(fig:figure-19-18)). ^40^K is called the __parent__ __isotope__, and ^40^Ar the __daughter isotope__, as the parent gives way to the daughter during radioactive decay.
 
 
-```{r figure-19-18, fig.cap='The decay of 40K over time. Each half-life is 1.3 billion years, so after 3.9 billion years (three half-lives) 12.5% of the original <sup>40</sup>K will remain. The red-blue bars represent <sup>40</sup>K and the green-yellow bars represent <sup>40</sup>Ar. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/decay-of-40K.png)_'}
+```{r figure-19-18, fig.cap='The decay of 40K over time. Each half-life is 1.3 billion years, so after 3.9 billion years (three half-lives) 12.5% of the original ^40^K will remain. The red-blue bars represent ^40^K and the green-yellow bars represent ^40^Ar. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/decay-of-40K.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/decay-of-40K.png")
 ```
 
 
-In order to use the K-Ar dating technique, we need to have an igneous or metamorphic rock that includes a potassium-bearing mineral. One good example is granite, which contains the mineral potassium feldspar (Figure \@ref(fig:figure-19-19)). Potassium feldspar does not contain any argon when it forms. Over time, the <sup>40</sup>K in the feldspar decays to <sup>40</sup>Ar. The atoms of <sup>40</sup>Ar remain embedded within the crystal, unless the rock is subjected to high temperatures after it forms. The sample must be analyzed using a very sensitive mass-spectrometer, which can detect the differences between the masses of atoms, and can therefore distinguish between <sup>40</sup>K and the much more abundant <sup>39</sup>K. The minerals biotite and hornblende are also commonly used for K-Ar dating.
+In order to use the K-Ar dating technique, we need to have an igneous or metamorphic rock that includes a potassium-bearing mineral. One good example is granite, which contains the mineral potassium feldspar (Figure \@ref(fig:figure-19-19)). Potassium feldspar does not contain any argon when it forms. Over time, the ^40^K in the feldspar decays to ^40^Ar. The atoms of ^40^Ar remain embedded within the crystal, unless the rock is subjected to high temperatures after it forms. The sample must be analyzed using a very sensitive mass-spectrometer, which can detect the differences between the masses of atoms, and can therefore distinguish between ^40^K and the much more abundant ^39^K. The minerals biotite and hornblende are also commonly used for K-Ar dating.
 
 
 ```{r figure-19-19, fig.cap='Crystals of potassium feldspar (pink) in a granitic rock are candidates for isotopic dating using the K-Ar method because they contained potassium and no argon when they formed. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Crystals-of-potassium-feldspar.jpg)_'}
@@ -328,7 +328,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 
-There are many isotope pairs that can be employed in dating igneous and metamorphic rocks (see Table 19.2), each with its strengths and weaknesses. In the above example, the daughter isotope <sup>40</sup>Ar is naturally a gas, and can escape the potassium feldspar quite easily if the feldspar is exposed to heating during metamorphism, or interaction with hydrothermal fluids. Hence we must closely examine the feldspar mineral to determine if there is any evidence of alteration. If some <sup>40</sup>Ar has been lost, but the sample is dated anyway, an age that is too young will be calculated.
+There are many isotope pairs that can be employed in dating igneous and metamorphic rocks (see Table 19.2), each with its strengths and weaknesses. In the above example, the daughter isotope ^40^Ar is naturally a gas, and can escape the potassium feldspar quite easily if the feldspar is exposed to heating during metamorphism, or interaction with hydrothermal fluids. Hence we must closely examine the feldspar mineral to determine if there is any evidence of alteration. If some ^40^Ar has been lost, but the sample is dated anyway, an age that is too young will be calculated.
 
 
 ```{r table-19-2, fig.cap='Commonly used isotope systems for dating geological materials. _Source: Steven Earle (2015) CC BY 4.0. Click the table for a text version._'}
@@ -384,7 +384,7 @@ In almost all cases, the fragments have come from a range of source rocks that a
 ### Radiocarbon Dating
 
 
-Radiocarbon dating (using <sup>14</sup>C) can be applied to many geological materials, including sediment and sedimentary rocks, but only if the materials in question are younger than ~60 ka, and contain organic material. Beyond this time, there is so little <sup>14</sup>C left that it cannot be measured accurately, and the resulting age dates are hence unreliable. Fragments of wood incorporated into young sediment are good candidates for carbon dating, and this technique has been used widely in studies involving late Pleistocene glaciers and glacial sediments. Figure \@ref(fig:figure-19-22) shows radiocarbon dates from wood fragments in glacial sediments have been used to estimate the time of the last glacial advance along the Strait of Georgia.
+Radiocarbon dating (using ^14^C) can be applied to many geological materials, including sediment and sedimentary rocks, but only if the materials in question are younger than ~60 ka, and contain organic material. Beyond this time, there is so little ^14^C left that it cannot be measured accurately, and the resulting age dates are hence unreliable. Fragments of wood incorporated into young sediment are good candidates for carbon dating, and this technique has been used widely in studies involving late Pleistocene glaciers and glacial sediments. Figure \@ref(fig:figure-19-22) shows radiocarbon dates from wood fragments in glacial sediments have been used to estimate the time of the last glacial advance along the Strait of Georgia.
 
 
 ```{r figure-19-22, fig.cap='Radiocarbon dates on wood fragments in glacial sediments in the Strait of Georgia. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Radiocarbon.png), modified after Clague (1976)._'}
@@ -398,7 +398,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 </header>
 <div class="textbox__content">
 
-<a id="exercise"></a>Assume that a feldspar crystal from the granite shown in Figure \@ref(fig:figure-19-19) was analyzed for <sup>40</sup>K and <sup>40</sup>Ar. The proportion of <sup>40</sup>K remaining is 0.91. Using the decay curve shown on this graph, estimate the age of the rock. An example is provided (in blue) for a <sup>40</sup>K proportion of 0.95, which is equivalent to an age of approximately 96 Ma. This is determined by drawing a horizontal line from 0.95 to the decay curve line, and then a vertical line from there to the time axis.
+<a id="exercise"></a>Assume that a feldspar crystal from the granite shown in Figure \@ref(fig:figure-19-19) was analyzed for ^40^K and ^40^Ar. The proportion of ^40^K remaining is 0.91. Using the decay curve shown on this graph, estimate the age of the rock. An example is provided (in blue) for a ^40^K proportion of 0.95, which is equivalent to an age of approximately 96 Ma. This is determined by drawing a horizontal line from 0.95 to the decay curve line, and then a vertical line from there to the time axis.
 
 
 ```{r figure-19-23, fig.cap='Decay curve for potassium-argon dating. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2016/07/decay-curve.png)_'}
@@ -533,7 +533,7 @@ The topics covered in this chapter can be summarized as follows:
 ##### 19.1 The Geological Time Scale
 
 
-The work of William Smith was critical to the establishment of the first geological timescale early in the 19<sup>th</sup> century, but it wasn’t until the 20<sup>th</sup> century that geologists were able to assign reliable dates to the various time periods. The geological timescale is now maintained by the International Commission on Stratigraphy. Geological time is divided into eons, eras, periods, and epochs.
+The work of William Smith was critical to the establishment of the first geological timescale early in the 19^th^ century, but it wasn’t until the 20^th^ century that geologists were able to assign reliable dates to the various time periods. The geological timescale is now maintained by the International Commission on Stratigraphy. Geological time is divided into eons, eras, periods, and epochs.
 
 ##### 19.2 Relative Dating Methods
 
@@ -569,7 +569,7 @@ There are many other methods for dating geological materials. Two that are widel
  	<li>A granitic rock contains inclusions (xenoliths) of basalt. What can you say about the relative ages of the granite and the basalt?</li>
  	<li>Explain the differences between a) disconformity and paraconformity; and b) nonconformity and angular unconformity</li>
  	<li>What are the features of a useful index fossil?</li>
- 	<li>Figure \@ref(fig:figure-19-29) shows a geological cross-section. The granitic rock F at the bottom is the rock that you estimated the age of in the exercise in 19.4, _Radiometric Dating with Potassium-Argon_. A piece of wood from layer D has been sent for radiocarbon dating and the result was 0.55 <sup>14</sup>C remaining. How old is layer D?</li>
+ 	<li>Figure \@ref(fig:figure-19-29) shows a geological cross-section. The granitic rock F at the bottom is the rock that you estimated the age of in the exercise in 19.4, _Radiometric Dating with Potassium-Argon_. A piece of wood from layer D has been sent for radiocarbon dating and the result was 0.55 ^14^C remaining. How old is layer D?</li>
  	<li>Based on your answer to question 4, what can you say about the age of layer C in the figure above?</li>
  	<li>What type of unconformity exists between layer C and rock F?</li>
  	<li>What type of unconformity exists between layer C and rock B?</li>
@@ -578,7 +578,7 @@ There are many other methods for dating geological materials. Two that are widel
  	<li>Access a copy of the geological time scale at http://www.stratigraphy.org/index.php/ics-chart-timescale. What are the names of the last age of the Cretaceous and the first age of the Paleogene? Print out the time scale and stick it on the wall above your desk!</li>
 </ol>
 
-```{r figure-19-29, fig.cap='Geological cross-section (left) and decay curve for <sup>14</sup>C ages. _Source: Left- Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/geological-cross-section.png). Right- Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/diagram.png)_'}
+```{r figure-19-29, fig.cap='Geological cross-section (left) and decay curve for ^14^C ages. _Source: Left- Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/geological-cross-section.png). Right- Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/diagram.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Ch19_review-1024x375.png")
 ```
 

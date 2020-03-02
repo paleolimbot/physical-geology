@@ -543,7 +543,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 #### Stocks and Batholiths
 
 
-Large irregular-shaped plutons are called either __stocks__ or __batholiths__, depending on their area. If an irregularly shaped body has an area greater than 100 km<sup>2</sup>, then it’s a batholith, otherwise it's a stock. Note that our knowledge of the size of a body can be limited to what we see at the surface. A body with an area of less than 100 km<sup>2 </sup> exposed at the surface might in fact be much larger at depth. It might be classified as a stock initially, until someone is able to map out its true extent.
+Large irregular-shaped plutons are called either __stocks__ or __batholiths__, depending on their area. If an irregularly shaped body has an area greater than 100 km^2^, then it’s a batholith, otherwise it's a stock. Note that our knowledge of the size of a body can be limited to what we see at the surface. A body with an area of less than 100 km^2 ^ exposed at the surface might in fact be much larger at depth. It might be classified as a stock initially, until someone is able to map out its true extent.
 
 Batholiths are typically formed when a number of stocks coalesce beneath the surface to create one large body. One of the largest batholiths in the world is the Coast Range Plutonic Complex[footnote]Also referred to as the Coast Range Batholith[/footnote], which extends all the way from the Vancouver region to southeastern Alaska (Figure \@ref(fig:figure-7-23)).
 
@@ -621,7 +621,7 @@ Igneous rocks are classified based on their mineral composition and texture. Fel
 ##### 7.4 Intrusive Igneous Bodies
 
 
-Magma intrudes into country rock by pushing it aside or melting through it. Intrusive igneous bodies tend to be irregular (stocks and batholiths), tabular (dikes and sills), or pipe-like. Batholiths have areas of 100 km<sup>2</sup> or greater, while stocks are smaller. Sills are parallel to existing layering in the country rock, while dikes cut across layering. A pluton that intruded into cold rock is likely to have a chilled margin.<strong>
+Magma intrudes into country rock by pushing it aside or melting through it. Intrusive igneous bodies tend to be irregular (stocks and batholiths), tabular (dikes and sills), or pipe-like. Batholiths have areas of 100 km^2^ or greater, while stocks are smaller. Sills are parallel to existing layering in the country rock, while dikes cut across layering. A pluton that intruded into cold rock is likely to have a chilled margin.<strong>
 </strong>
 
 #### Review Questions
@@ -667,7 +667,7 @@ Magma intrudes into country rock by pushing it aside or melting through it. Intr
 
 7. When the hot magma intrudes into cold country rock, the margins cool quickly and small crystals form, whereas magma that is not in contact with the cool country rock will cool more slowly, and larger crystals will form. The chilled margin is the band of small crystals along the edge of the dike.
 
-8. A batholith has an area of 100 km<sup>2</sup> or greater, whereas a stock is smaller.
+8. A batholith has an area of 100 km^2^ or greater, whereas a stock is smaller.
 
 9. Batholiths (or stocks) intrude into existing rock by (a) melting through the country rock, or (b) causing the country rock to break and fall into the magma (stoping), or (c) pushing the country rock aside.
 
