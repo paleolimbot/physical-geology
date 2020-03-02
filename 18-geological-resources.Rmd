@@ -150,7 +150,7 @@ For a variety of reasons, thermal energy (heat) from within Earth is critical in
 
 ## Mining and Mineral Processing
 
-Metal deposits are mined in a variety of different ways depending on their depth, shape, size, and grade. Relatively large deposits that are quite close to the surface and somewhat regular in shape are mined using __open-pit mine__ methods (Figure \@ref(fig:figure-18-1)). Creating a giant hole in the ground is generally cheaper than making an underground mine, but it is also less precise, so it is necessary to mine a lot of waste rock along with the ore. Relatively deep deposits or those with elongated or irregular shapes are typically mined from underground with deep vertical __shafts__, __declines__ (sloped tunnels), and __levels__ (horizontal tunnels) (Figures 18.9 and 18.10). In this way, it is possible to focus the mining on the ore body itself. However, with relatively large ore bodies, it may be necessary to leave some pillars to hold up the roof.
+Metal deposits are mined in a variety of different ways depending on their depth, shape, size, and grade. Relatively large deposits that are quite close to the surface and somewhat regular in shape are mined using __open-pit mine__ methods (Figure \@ref(fig:figure-18-1)). Creating a giant hole in the ground is generally cheaper than making an underground mine, but it is also less precise, so it is necessary to mine a lot of waste rock along with the ore. Relatively deep deposits or those with elongated or irregular shapes are typically mined from underground with deep vertical __shafts__, __declines__ (sloped tunnels), and __levels__ (horizontal tunnels) (Figures \@ref(fig:figure-18-9) and \@ref(fig:figure-18-10)). In this way, it is possible to focus the mining on the ore body itself. However, with relatively large ore bodies, it may be necessary to leave some pillars to hold up the roof.
 
 ```{r figure-18-9, fig.cap='Underground at the Myra Falls Mine, Vancouver Island. [SE]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Underground-at-the-Myra-Falls-Mine.jpg")
@@ -160,7 +160,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Schematic-cross-section-of-a-typical-underground-mine.png")
 ```
 
-In many cases, the near-surface part of an ore body is mined with an open pit, while the deeper parts are mined underground (Figures 18.10 and 18.11).
+In many cases, the near-surface part of an ore body is mined with an open pit, while the deeper parts are mined underground (Figures \@ref(fig:figure-18-10) and \@ref(fig:figure-18-11)).
 
 ```{r figure-18-11, fig.cap='Entrance to an exploratory decline (white arrow) for the New Afton Mine situated in the side of the open pit of the old Afton Mine, near Kamloops, B.C. [SE]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Entrance-to-an-exploratory-decline-1024x545.png")
@@ -298,7 +298,7 @@ The cross-section shown here is from a ship-borne seismic survey in the Bering S
 
 #### What Is Unconventional Oil and Gas?
 
-The type of oil and gas reservoirs illustrated in Figures 18.21 and 18.22 are described as conventional reserves. Some unconventional types of oil and gas include oil sands, shale gas, and coal-bed methane.
+The type of oil and gas reservoirs illustrated in Figures \@ref(fig:figure-18-21) and \@ref(fig:figure-18-22) are described as conventional reserves. Some unconventional types of oil and gas include oil sands, shale gas, and coal-bed methane.
 
 ##### Oil Sands
 

@@ -43,7 +43,7 @@ The agents of mechanical weathering can be broadly classified into two groups: t
 
 ### Mechanical Weathering By Expansion
 
-Some processes at Earth's surface can cause a thin outer layer of a rock to expand. Deeper than the thin outer layer, the rock does not expand. The difference is accommodated by a crack developing between the outer and inner layers, breaking the outer layer off in slabs (Figures 8.2 and 8.3). When layers break off a rock in slabs or sheets, it is referred to as __exfoliation__.
+Some processes at Earth's surface can cause a thin outer layer of a rock to expand. Deeper than the thin outer layer, the rock does not expand. The difference is accommodated by a crack developing between the outer and inner layers, breaking the outer layer off in slabs (Figures \@ref(fig:figure-8-2) and \@ref(fig:figure-8-3)). When layers break off a rock in slabs or sheets, it is referred to as __exfoliation__.
 
 ```{r figure-8-2, fig.cap='Close-up view of exfoliation of a granite dome in the Enchanted Rock State Natural Area, Texas, USA. _Source: Wing-Chi Poon (2005) CC BY-SA 2.5 [view source](https://commons.wikimedia.org/wiki/File:GeologicalExfoliationOfGraniteRock.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/GeologicalExfoliationOfGraniteRock_small-1024x577.jpg")

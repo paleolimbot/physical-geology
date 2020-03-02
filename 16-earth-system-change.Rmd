@@ -236,7 +236,7 @@ Under normal conditions, strong winds blowing westward across the Pacific cause 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/ENSO-mechanism.png")
 ```
 
-ENSO events affect weather on a global scale (Figures 16.17 and 16.18). In western Canada, El Niño years have warmer than average winters, whereas La Niña years have cooler than average winters.
+ENSO events affect weather on a global scale (Figures \@ref(fig:figure-16-17) and \@ref(fig:figure-16-18)). In western Canada, El Niño years have warmer than average winters, whereas La Niña years have cooler than average winters.
 
 ```{r figure-16-17, fig.cap='El Niño climate impacts. _Source: NOAA Climate.gov (n.d.) Public Domain [view source](https://www.pmel.noaa.gov/elnino/lanina-faq)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Nino_winterandsummer_620_from_climate.gov__0.jpg")
