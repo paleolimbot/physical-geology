@@ -212,7 +212,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 <div>
-<div></div>
+
 </div>
 </div>
 </div>
