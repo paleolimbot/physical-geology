@@ -1,6 +1,6 @@
 # Weathering, Sediment, and Soil
 
-<p style="text-align: center">_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_</p>
+_Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
 
 
 
@@ -226,9 +226,13 @@ Hydration reactions involve water being added to the chemical structure of a min
 __Oxidation __happens when free oxygen (i.e., oxygen not bound up in molecules with other elements) is involved in chemical reactions. Oxidation reactions provide valuable insight into Earth’s early surface conditions because there is a clear transition in the rock record from rocks containing no minerals that are products of oxidation reactions, to rocks containing abundant minerals produced by oxidation. This reflects a transition from an oxygen-free atmosphere to an oxygenated one.
 
 In iron-rich minerals such as olivine, the oxidation reaction begins with taking iron out of the mineral and putting it into solution as an ion. Olivine reacts with carbonic acid, leaving dissolved iron, bicarbonate, and silicic acid:
-<p style="text-align: center">Fe~2~SiO~4~ + 4H~2~CO<sub>3 </sub>→ 2Fe^~2~+^ + 4HCO~3~^-^ + H~4~SiO~4~</p>
+
+Fe~2~SiO~4~ + 4H~2~CO<sub>3 </sub>→ 2Fe^~2~+^ + 4HCO~3~^-^ + H~4~SiO~4~
+
 Iron and oxygen dissolved in water react in the presence of bicarbonate to produce hematite and carbonic acid:
-<p style="text-align: center">2Fe^~2~+^ + ½ O~2~ + 2H~2~O + 4HCO~3~^-^ → Fe~2~O<sub>3 </sub>+ 4H~2~CO~3~</p>
+
+2Fe^~2~+^ + ½ O~2~ + 2H~2~O + 4HCO~3~^-^ → Fe~2~O<sub>3 </sub>+ 4H~2~CO~3~
+
 When the olivine in basalt is oxidized, the basalt takes on a reddish colour that is distinct from the dark grey or black of unweathered basalt (Figure \@ref(fig:figure-8-12)).
 
 
@@ -253,7 +257,9 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 
 
 Oxidation reactions can pose an environmental problem in areas where rocks have elevated levels of sulphide minerals such as pyrite. This is because when oxygen and water react with pyrite, sulphuric acid is produced:
-<p style="text-align: center">2FeS~2~ + 7O~2~ + 2H~2~O → 2FeSO~4~ + 2H~2~SO~4~</p>
+
+2FeS~2~ + 7O~2~ + 2H~2~O → 2FeSO~4~ + 2H~2~SO~4~
+
 The runoff from areas where this process is taking place is known as __acid rock drainage__ (ARD), and even a rock with 1% or 2% pyrite can produce significant ARD. Some of the worst examples of ARD are at metal mine sites, especially where pyrite-bearing rock and waste material have been mined from deep underground, and then piled up and left exposed to water and oxygen. In these cases the problem is referred to as __acid mine drainage__. One example is the Mt. Washington Mine near Courtenay on Vancouver Island (Figure \@ref(fig:figure-8-12)), but there are many similar sites across Canada and around the world.
 
 

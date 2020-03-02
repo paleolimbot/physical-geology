@@ -96,7 +96,9 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 
 <img class="aligncenter wp-image-1271" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Sand-and-Water-1024x768.jpg" alt="Sand and Water" width="400" height="300" />
-<p style="text-align: center">Source: Steven Earle (2015) CC BY 4.0.[View source](https://opentextbc.ca/geology/)</p>
+
+Source: Steven Earle (2015) CC BY 4.0.[View source](https://opentextbc.ca/geology/)
+
 If you have ever been to the beach, you already know that sand behaves differently when it is dry than it does when it is wet. The following experiment will demonstrate the strength of sand when it is dry, moist and saturated.
 
 Find approximately half a cup of clean, dry sand (or get some wet sand and dry it out), and then pour it from your hand onto a piece of paper. You should be able to make a cone-shaped pile that has a slope of ~30°. If you pour more sand onto the pile, it will get bigger, but the slope should remain the same.
