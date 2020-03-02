@@ -168,7 +168,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 An __unconformity__ represents an interruption in the process of deposition of sediments. Recognizing unconformities is important for understanding time relationships in sedimentary sequences. An unconformity is visible in the Grand Canyon (Figure \@ref(fig:figure-19-10), white dashed line) above Proterozoic rocks that were tilted and then eroded to a flat surface prior to deposition of the younger Paleozoic rocks. The difference in time between the youngest of the Proterozoic rocks and the oldest of the Paleozoic rocks is nearly 300 million years. Tilting and erosion of the older rocks took place during this time, and if there were any deposition occurring in this area during this time, erosion removed those sediments.
 
 
-```{r 19-10, fig.cap='Angular unconformity in the Grand Canyon in Arizona, with a sketch of rock orientations. The tilted rocks at the bottom are part of the Proterozoic Grand Canyon Group (aged 825 to 1,250 Ma). The flat-lying rocks at the top are Paleozoic (540 to 250 Ma). The boundary between the two (dashed white line) represents a time gap of nearly 300 million years. _Source: Karla Panchuk (2018) CC BY 4.0. Photograph by Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Grand-Canyon.jpg)_'}
+```{r figure-19-10, fig.cap='Angular unconformity in the Grand Canyon in Arizona, with a sketch of rock orientations. The tilted rocks at the bottom are part of the Proterozoic Grand Canyon Group (aged 825 to 1,250 Ma). The flat-lying rocks at the top are Paleozoic (540 to 250 Ma). The boundary between the two (dashed white line) represents a time gap of nearly 300 million years. _Source: Karla Panchuk (2018) CC BY 4.0. Photograph by Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Grand-Canyon.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Grand-Canyon-unconformity.png")
 ```
 
@@ -184,7 +184,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 
 
 
-```{r 19-11, fig.cap='The four types of unconformities: (a) a nonconformity between non-sedimentary rock and sedimentary rock, (b) an angular unconformity, (c) a disconformity between layers of sedimentary rock, where the older rock has been eroded but not tilted, and (d) a paraconformity where there is a long period (millions of years) of non-deposition between two parallel layers. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/unconformities.png)_'}
+```{r figure-19-11, fig.cap='The four types of unconformities: (a) a nonconformity between non-sedimentary rock and sedimentary rock, (b) an angular unconformity, (c) a disconformity between layers of sedimentary rock, where the older rock has been eroded but not tilted, and (d) a paraconformity where there is a long period (millions of years) of non-deposition between two parallel layers. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/unconformities.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/unconformities-1024x667.png")
 ```
 

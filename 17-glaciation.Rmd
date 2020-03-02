@@ -218,7 +218,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 
-In coastal regions where the bottom of the valley is filled with water, the U-shaped valleys are called__ fjords__. The coastal mountains of BC have many fine examples of U-shaped valleys and fjords. For example, Howe Sound is a fjord that was once occupied by a large glacier. Howe Sound and most of its tributary valleys have pronounced U-shaped profiles due to glaciation (Figure \@ref(fig:figure-17) 18).
+In coastal regions where the bottom of the valley is filled with water, the U-shaped valleys are called__ fjords__. The coastal mountains of BC have many fine examples of U-shaped valleys and fjords. For example, Howe Sound is a fjord that was once occupied by a large glacier. Howe Sound and most of its tributary valleys have pronounced U-shaped profiles due to glaciation (Figure \@ref(fig:figure-17-18)).
 
 
 ```{r figure-17-18, fig.cap='The view down the U-shaped valley of Mill Creek valley toward the U-shaped valley of Howe Sound, with the village of Britannia on the opposite side. _Source: Keefer4 (2005) CC BY-SA 2.5 [view source](https://commons.wikimedia.org/wiki/File:Woodf1a.jpg)_'}
