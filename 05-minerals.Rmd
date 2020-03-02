@@ -275,7 +275,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 
 ##### Exercise: Mineral Groups {-}
 
-Minerals are grouped according to the anion part of the mineral formula, and mineral formulas are always written with the anion part last. For example, for pyrite (FeS~2~), Fe<sub>2^+^</sub> is the cation and S^–^ is the anion. This helps us to know that it’s a sulphide, but it is not always that obvious. Hematite (Fe~2~O~3~) is an oxide; that’s easy, but anhydrite (CaSO~4~) is a sulphate because SO~4~^2–^ is the anion, not O. Similarly, calcite (CaCO~3~) is a carbonate, and olivine (Mg~2~SiO~4~) is a silicate. Minerals with only one element (such as S) are native minerals, while those with an anion from the halogen column of the periodic table (Cl, F, Br, etc.) are halides. Provide group names for the following minerals:
+Minerals are grouped according to the anion part of the mineral formula, and mineral formulas are always written with the anion part last. For example, for pyrite (FeS~2~), Fe~2~^+^ is the cation and S^–^ is the anion. This helps us to know that it’s a sulphide, but it is not always that obvious. Hematite (Fe~2~O~3~) is an oxide; that’s easy, but anhydrite (CaSO~4~) is a sulphate because SO~4~^2–^ is the anion, not O. Similarly, calcite (CaCO~3~) is a carbonate, and olivine (Mg~2~SiO~4~) is a silicate. Minerals with only one element (such as S) are native minerals, while those with an anion from the halogen column of the periodic table (Cl, F, Br, etc.) are halides. Provide group names for the following minerals:
 
 ```{r}
 tibble::tibble(
@@ -347,7 +347,7 @@ __Pyroxene__ (Figure \@ref(fig:figure-5-25) bottom left) is an example of a sing
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/chain_silicates_3rd-1.png")
 ```
 
-Pyroxene compositions have the silica tetrahedra represented as SiO<sub>3 </sub>(e.g., MgSiO~3~, FeSiO~3~, and CaSiO~3~^[The variation in composition can also be written as (Mg,Fe,Ca)SiO~3~, where the elements in the brackets can be present in any proportion. ].) In other words, pyroxene has one cation for each silica tetrahedron (e.g., MgSiO~3~) while olivine has two (e.g., Mg~2~SiO~4~). The structure of pyroxene is more "permissive" than that of olivine, meaning cations with a wider range of ionic radii can fit into it. That’s why pyroxenes can have calcium cations (radius 1.00 Å) substitute for iron (0.63 Å) and magnesium (0.72 Å) .
+Pyroxene compositions have the silica tetrahedra represented as SiO~3~ (e.g., MgSiO~3~, FeSiO~3~, and CaSiO~3~^[The variation in composition can also be written as (Mg,Fe,Ca)SiO~3~, where the elements in the brackets can be present in any proportion. ].) In other words, pyroxene has one cation for each silica tetrahedron (e.g., MgSiO~3~) while olivine has two (e.g., Mg~2~SiO~4~). The structure of pyroxene is more "permissive" than that of olivine, meaning cations with a wider range of ionic radii can fit into it. That’s why pyroxenes can have calcium cations (radius 1.00 Å) substitute for iron (0.63 Å) and magnesium (0.72 Å) .
 
 In __amphibole__ (Figure \@ref(fig:figure-5-25) bottom right), the silica tetrahedra are linked in a double chain that has an oxygen-to-silicon ratio lower than that of pyroxene, and hence still fewer cations are necessary to balance the charge. Amphibole is even more permissive than pyroxene and its compositions can be very complex, as shown by the formula for the hornblende group of amphibole minerals in Figure \@ref(fig:figure-5-25) (bottom right).
 

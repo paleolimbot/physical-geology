@@ -227,11 +227,11 @@ __Oxidation __happens when free oxygen (i.e., oxygen not bound up in molecules w
 
 In iron-rich minerals such as olivine, the oxidation reaction begins with taking iron out of the mineral and putting it into solution as an ion. Olivine reacts with carbonic acid, leaving dissolved iron, bicarbonate, and silicic acid:
 
-Fe~2~SiO~4~ + 4H~2~CO<sub>3 </sub>→ 2Fe^~2~+^ + 4HCO~3~^-^ + H~4~SiO~4~
+Fe~2~SiO~4~ + 4H~2~CO~3~ → 2Fe^~2~+^ + 4HCO~3~^-^ + H~4~SiO~4~
 
 Iron and oxygen dissolved in water react in the presence of bicarbonate to produce hematite and carbonic acid:
 
-2Fe^~2~+^ + ½ O~2~ + 2H~2~O + 4HCO~3~^-^ → Fe~2~O<sub>3 </sub>+ 4H~2~CO~3~
+2Fe^~2~+^ + ½ O~2~ + 2H~2~O + 4HCO~3~^-^ → Fe~2~O~3~ + 4H~2~CO~3~
 
 When the olivine in basalt is oxidized, the basalt takes on a reddish colour that is distinct from the dark grey or black of unweathered basalt (Figure \@ref(fig:figure-8-12)).
 
