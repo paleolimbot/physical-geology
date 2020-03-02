@@ -4,7 +4,7 @@
 <p style="text-align: center">Adapted by Joyce M. McBeth, University of Saskatchewan
 from [_Physical Geology_](https://opentextbc.ca/geology/) by Steven Earle</p>
 
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -77,7 +77,7 @@ Unconsolidated sediments tend to be strongest when they are moist because the sm
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Depiction-of-dry-moist-and-saturated-sand.png")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
 Water pressure is an important factor in slope failure. As you move deeper in saturated sediment, the pressure of the water goes up due to gravity acting on the column of water above it; this pressure is called hydrostatic pressure. The greater the depth below the surface of the water table (the point where the rock or sediments are saturated), the greater the water pressure acting on the materials. Holes are often drilled into rocks in road cuts to allow water to drain and relieve this water pressure. One of the hypotheses advanced to explain the 1965 Hope Slide is that cold conditions that winter caused small springs in the lower part of the slope to freeze, preventing water from flowing out. It is possible that water pressure gradually built up within the slope, weakening the rock mass to the extent that the shear strength was no longer greater than the shear force.
 
@@ -87,10 +87,9 @@ Water also has an interesting effect on clay-bearing materials. All clay mineral
 
 Water can increase the mass of the material on a slope, because the mass of the water is a component of the overall mass of the slope material. This increases the gravitational force pulling the slope materials down. A water saturated body of sediment with 25% porosity weighs approximately 13% more than it does when it is completely dry, so the gravitational shear force is also 13% higher. In the situation shown in Figure \@ref(fig:figure-15-2)b, a 13% increase in the shear force is enough to overcome the shear strength, and the block would move down the slope.
 
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
-##### Exercise 15.1 Sand and Water
+##### Exercise: Sand and Water  {-}
 
 <img class="aligncenter wp-image-1271" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Sand-and-Water-1024x768.jpg" alt="Sand and Water" width="400" height="300" />
 
@@ -104,7 +103,6 @@ Now add some water to the sand so that it is moist. One way to do this is to add
 
 Finally, put some sand into a cup and fill the cup with water so the sand is just covered. Swirl it around so that the sand remains in suspension, and then quickly tip it out onto a flat surface. It should spread out over a wide area, forming a pile with a slope of only a few degrees.
 
-</div>
 </div>
 
 ### Triggers of Mass-Wasting
@@ -281,12 +279,12 @@ A typical west-coast debris flow is shown in Figure \@ref(fig:figure-15-17). Thi
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/lower-part-of-debris-flow-within-a-steep-stream.png")
 ```
 
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
-##### Exercise 15.2 Classifying Slope Failures
+##### Exercise: Classifying Slope Failures {-}
 
 These four photos show some of the different types of slope failures described above. Try to identify each and provide some criteria to support your choice.
+
 <table>
 <tbody>
 <tr>
@@ -300,9 +298,9 @@ These four photos show some of the different types of slope failures described a
 </tr>
 </tbody>
 </table>
+
 _Source of images: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _
 
-</div>
 </div>
 
 ## Preventing, Delaying, Monitoring, and Mitigating Mass Wasting
@@ -325,10 +323,9 @@ Apart from saturation and water pressure considerations, engineers building road
 
 It is widely believed that construction of buildings above steep slopes can contribute to the instability of the slope. This is likely true, but probably not because of the weight of the building. As you will determine by completing Exercise 15.3 below, a typical house is not heavier than the excavated ground that was removed to build the house. A more likely contributor to instability of the slopes below buildings is changes to the water drainage and to the saturation of the slope (by watering gardens, for example).
 
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
-##### Exercise 15.3 How Much Does a House Weigh and Can It Contribute to Slope Failure?
+##### Exercise: How Much Does a House Weigh and Can It Contribute to Slope Failure? {-}
 
 It is commonly believed that building a house (or some other building) at the top of a slope will add a lot of extra weight to the slope, which could contribute to slope failure. But what does a house weigh compared to the material removed when you build it? A typical 150 m^2^ (approximately 1,600 ft^2^) wood-frame house with a basement and a concrete foundation weighs about 145 t (metric tonnes). But most houses are built on foundations that are excavated into the ground. This involves digging a hole and taking that material away, so we need to subtract what that excavated material weighs. Assuming our 150 m^2^ house required an excavation that was 15 m by 11 m by 1 m deep, which is 165 m^3^ of material. Unconsolidated sediments have densities ranging from about 0.8 to 1.7 t per m^3^.
 
@@ -342,7 +339,6 @@ Consider how a building might change the drainage on a slope. Water can be colle
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/How-Much-Does-a-House-Weigh-and-Can-It-Contribute-to-a-Slope-Failure.png")
 ```
 
-</div>
 </div>
 
 ### Monitoring Mass Wasting

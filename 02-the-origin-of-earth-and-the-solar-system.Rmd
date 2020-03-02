@@ -7,7 +7,7 @@ _By Karla Panchuk_
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/earth_and_limb_m1199291564l_color_2stretch_mask_0-1024x703.jpg")
 ```
 
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 

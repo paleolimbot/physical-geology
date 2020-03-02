@@ -7,7 +7,7 @@ _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/SK_badlands.png")
 ```
 
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 

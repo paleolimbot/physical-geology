@@ -7,7 +7,7 @@ _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Thingvellir_rift-1024x330.png")
 ```
 
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -240,7 +240,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 In the same 1965 paper, Wilson introduced the idea that the crust can be divided into a series of rigid plates, and is thus responsible for the term __plate tectonics__.
 
-<div class="textbox">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Paper Transform Fault Model {-}
 
@@ -354,7 +354,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image063.jpg")
 ```
 
-<div class="textbox">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: A Different Type of Transform Fault {-}
 

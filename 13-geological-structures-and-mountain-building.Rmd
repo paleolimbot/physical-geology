@@ -7,7 +7,7 @@ _ Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/Cariboo_folds.png")
 ```
 
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -184,9 +184,9 @@ Folds can create landforms, but anticlines are not necessarily expressed as ridg
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02/fold_topography.png")
 ```
 
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Fold Types
+##### Exercise: Fold Types {-}
 
 What kind of folds are shown here? If you are finding it difficult to see the folds, follow the trace line formed by the white beds through the outcrop.
 
@@ -286,9 +286,9 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/McConnell-Thrust-at-Mt.-Yamnuska-1024x411-1024x411.png")
 ```
 
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Fault Types
+##### Exercise: Fault Types {-}
 
 ```{r figure-13-31, fig.cap='A dip-slip fault. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/sructures-exercise.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/02/Mystery_fault_1.png")
@@ -366,9 +366,9 @@ Strike and dip are used to describe any other planar features, including joints,
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/anticline-and-a-dyke-in-cross-section.png")
 ```
 
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Putting Strike and Dip on a Map
+##### Exercise: Putting Strike and Dip on a Map {-}
 
 This cross-section shows seven tilted sedimentary layers (a to g), a fault, and a steeply dipping dyke.
 

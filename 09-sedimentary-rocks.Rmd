@@ -7,7 +7,7 @@ _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Drumheller-roadside-1024x768.jpg")
 ```
 
-<div class="bcc-box bcc-highlight">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -96,7 +96,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 Rock composed of at least 75% silt- and clay-sized clasts is called __mudrock__ (Figure \@ref(fig:figure-9-5), bottom row). If a mudrock shows evidence of fine layers (laminations) and breaks into sheets, it is called __shale__. Otherwise, it is __siltstone__ (dominated by silt), __mudstone__ (a mix of silt and clay), or __claystone__ (dominated by clay). The fine-grained nature of mudrocks tells us that they form in very low energy environments, such as lakes, flood plains, and the deep ocean.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Classifying Sandstones {-}
 
@@ -224,7 +224,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 Although all evaporite deposits are unique because of differences in the chemistry of the water, in most cases minor amounts of carbonates start to precipitate when the solution is reduced to about 50% of its original volume. Gypsum (CaSO~4~·H~2~O) precipitates at about 20% of the original volume, and halite (NaCl) precipitates at 10%. Other important evaporite minerals include sylvite (KCl) and borax (Na~2~B~4~O~7~·10H~2~O). Sylvite is mined as potash at numerous locations across Saskatchewan from evaporites that formed during the Devonian (~385 Ma) when an inland sea occupied much of the region.
 
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Making Evaporite {-}
 
@@ -452,7 +452,7 @@ The various structures described above are critical to understanding and interpr
 
 Fossils are not covered in detail in this book, but they are extremely important for understanding sedimentary rocks. Fossils can be used to date sedimentary rocks, but just as importantly, they tell us a great deal about the depositional environment of the sediments and the climate at the time: they can help to differentiate marine, aquatic, and terrestrial environments; estimate the depth of the water; detect the existence of currents; and estimate average temperature and precipitation.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Interpreting Past Environments {-}
 

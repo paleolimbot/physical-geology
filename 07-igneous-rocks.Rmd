@@ -9,7 +9,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04
 
 #### 
 
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -69,9 +69,10 @@ Flux-induced partial melting of rock happens in subduction zones. Minerals are t
 ### Cooling Magma Becomes More Viscous
 
 __Viscosity__ refers to the ease with which a substance flows. A substance with low viscosity is runnier than a substance with high viscosity. At temperatures over 1300°C, most magma is entirely liquid because there is too much energy for the atoms to bond together. As magma loses heat to the surrounding rocks and its temperature drops, things start to change. Silicon and oxygen combine to form silica tetrahedra. With further cooling, the tetrahedra start to link together into chains, or __polymerize__. These silica chains make the magma more viscous. Magma viscosity has important implications for the characteristics of volcanic eruptions.
-<div class="bcc-box bcc-info">
 
-##### Exercise: Making Magma Viscous
+<div class="textbox textbox-exercise">
+
+##### Exercise: Making Magma Viscous {-}
 
 This is a quick and easy experiment that you can do at home to help you understand the properties of magma. It will only take about 15 minutes, and all you need is half a cup of water and a few tablespoons of flour.
 
@@ -147,9 +148,9 @@ The composition of the original magma determines how far the reaction process ca
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/mafic2-1024x386.png")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Mafic, Intermediate, or Felsic?
+##### Exercise: Mafic, Intermediate, or Felsic? {-}
 
 The proportions of the main chemical components of felsic, intermediate, and mafic magmas are listed in the table below. (The values are similar to those shown in Figure \@ref(fig:figure-7-10)).
 <div>
@@ -355,9 +356,9 @@ Now imagine the magma is suddenly heaved out of the magma chamber and erupted fr
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06/porphyry_3rd.png")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Which Mineral Will the Phenocryst Be?
+##### Exercise: Which Mineral Will the Phenocryst Be? {-}
 
 As a magma cools below 1300°C, minerals start to crystallize within it. If the magma is then erupted, the rest of the liquid will cool quickly to form a __porphyritic__ texture. The rock will have some relatively large crystals (__phenocrysts__) of the minerals that crystallized early, and the rest will be very fine-grained or even glassy. Using the diagram shown here, predict what phenocrysts might be present where the magma cooled as far as line __a__. Which would be present where magma cooled to line __b__?
 
@@ -382,9 +383,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 ```
 
 It is important to note that estimating the proportion of dark minerals is only approximate as a means for identifying igneous rocks. One problem is that plagioclase feldspar is light-coloured when it is sodium-rich, but can appear darker if it is calcium-rich. Plagioclase feldspar is not ferromagnesian, so it falls in the non-ferromagnesian (light minerals) region in Figure \@ref(fig:figure-7-16) even when it has a darker colour.
-<div class="bcc-box bcc-info">
 
-##### Exercise: Classifying Igneous Rocks by the Proportion of Dark Minerals
+<div class="textbox textbox-exercise">
+
+##### Exercise: Classifying Igneous Rocks by the Proportion of Dark Minerals {-}
 
 The four igneous rocks shown below have differing proportions of ferromagnesian silicates (dark minerals). Estimate the proportion of dark minerals using the guide in Figure \@ref(fig:figure-7-17), and then use Figure \@ref(fig:figure-7-16) to determine the likely rock name for each one.
 
@@ -475,9 +477,9 @@ The most obvious effect that country rock can have on magma is a __chilled margi
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06/mafic-dyke2.png")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Pluton Problems
+##### Exercise: Pluton Problems {-}
 
 The diagram below is a cross-section through part of the crust showing a variety of intrusive igneous rocks. Indicate whether each of the plutons labelled _a_ to _e_ on the diagram below is a _dike_, a _sill_, a _stock_, or a _batholith_. (Note the trees for scale.)
 

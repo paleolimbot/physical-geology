@@ -3,7 +3,7 @@
 
 ### Introduction
 
-<div class="bcc-box bcc-highlight">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -23,7 +23,7 @@ After reading this chapter, completing the exercises within it, and answering th
 
 ## If You Can't Grow It, You Have to Mine It
 
-<div class="bcc-box bcc-highlight">It has been said that "if you can’t grow it, you have to mine it," meaning that anything we can’t grow we have to extract from Earth in one way or another. This includes water, of course, our most important resource, but it also includes all the other materials that we need to construct things like roads, dams, and bridges, or manufacture things like plates, toasters, and telephones. Even most of our energy resources come from Earth, including uranium and fossil fuels, and much of the infrastructure of this electrical age depends on copper (Figure \@ref(fig:figure-18-1)).</div>
+It has been said that "if you can’t grow it, you have to mine it," meaning that anything we can’t grow we have to extract from Earth in one way or another. This includes water, of course, our most important resource, but it also includes all the other materials that we need to construct things like roads, dams, and bridges, or manufacture things like plates, toasters, and telephones. Even most of our energy resources come from Earth, including uranium and fossil fuels, and much of the infrastructure of this electrical age depends on copper (Figure \@ref(fig:figure-18-1)).
 
 ```{r figure-18-1, fig.cap='The open pit (background) and waste-rock piles (middle) of the Highland Valley Copper Mine at Logan Lake, British Columbia [Photo by Russell Hartlaub, used with permission]'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Highland-Valley-Copper-Mine-at-Logan-Lake-1024x572.jpg")
@@ -36,10 +36,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 That’s not everything that goes into a tablet computer, but to make just those components we need a pure-silica sand deposit, a salt mine for sodium, a rock quarry for calcium, an oil well, a gas well, an aluminum mine, an iron mine, a manganese mine, a copper-molybdenum-gold mine, a cobalt-nickel mine, a rare-earth element and indium mine, and a source of energy to transport all of the materials, process them, put them together, and finally transport the computer to your house or the store where you bought it.
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
 
-##### Exercise 18.1 Where Does It Come From?
+<div class="textbox textbox-exercise">
+
+##### Exercise: Where Does It Come From? {-}
 
 Look around you and find at least five objects (other than a computer or a phone) that have been made from materials that had to be mined, quarried, or extracted from an oil or gas well. Try to identify the materials involved, and think about where they might have come from. This pen is just an example.
 
@@ -47,7 +47,6 @@ Look around you and find at least five objects (other than a computer or a phone
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Where-Does-It-Come-From.png")
 ```
 
-</div>
 </div>
 
 ## Metal Deposits
@@ -61,6 +60,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 A metal deposit is a body of rock in which one or more metals have been concentrated to the point of being economically viable for recovery. Some __background__ levels of important metals in average rocks are shown on Table 18.1, along with the typical grades necessary to make a viable deposit, and the corresponding concentration factors. Looking at copper, for example, we can see that while average rock has around 40 ppm (parts per million) of copper, a grade of around 10,000 ppm or 1% is necessary to make a viable copper deposit. In other words, copper ore has about 250 times as much copper as typical rock. For the other elements in the list, the concentration factors are much higher. For gold, it’s 2,000 times and for silver it’s around 10,000 times.
+
 <table>
 <tbody>
 <tr>
@@ -125,6 +125,7 @@ A metal deposit is a body of rock in which one or more metals have been concentr
 </tr>
 </tbody>
 </table>
+
 Table 18.1 Typical background and ore levels of some important metals [SE]
 
 It is clear that some very significant concentration must take place to form a mineable deposit. This concentration may occur during the formation of the host rock, or after the rock forms, through a number of different types of processes. There is a very wide variety of ore-forming processes, and there are hundreds of types of mineral deposits. The origins of a few of them are described below.
@@ -151,8 +152,8 @@ VMS deposits are formed from the water discharged at high temperature (250° to 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/black-smoker-on-the-Juan-de-Fuca-Ridge-1024x595.png")
 ```
 
-<h2><strong>
-</strong> Porphyry Deposits</h2>
+###  Porphyry Deposits
+
 __Porphyry deposits__ are the most important source of copper and molybdenum in British Columbia, the western United States, and Central and South America. Most porphyry deposits also host some gold, which may be, in rare cases, the primary commodity. B.C. examples include several large deposits within the Highland Valley mine (Figure \@ref(fig:figure-18-1)) and numerous other deposits scattered around the central part of the province.
 
 A porphyry deposit forms around a cooling felsicstock in the upper part of the crust. They are called "porphyry" because upper crustal stocks are typically porphyritic in texture, the result of a two-stage cooling process. Metal enrichment results in part from convection of groundwater related to the heat of the stock, and also from metal-rich hot water expelled by the cooling magma (Figure \@ref(fig:figure-18-6)). The host rocks, which commonly include the stock itself and the surrounding country rocks, are normally highly fractured and brecciated. During the ore-forming process, some of the original minerals in these rocks are altered to potassium feldspar, biotite, epidote, and various clay minerals. The important ore minerals include chalcopyrite (CuFeS~2~), bornite (Cu~5~FeS~4~), and pyrite in copper porphyry deposits, or molybdenite (MoS~2~) and pyrite in molybdenum porphyry deposits. Gold is present as minute flakes of native gold.
@@ -178,12 +179,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 There are several different types of uranium deposits, but some of the largest and richest are those within the Athabasca Basin of northern Saskatchewan. These are called __unconformity-type__ __uranium deposits__ because they are all situated very close to the unconformity between the Proterozoic Athabasca Group sandstone and the much older Archean sedimentary, volcanic, and intrusive igneous rock (Figure \@ref(fig:figure-18-8)). The origin of unconformity-type U deposits is not perfectly understood, but it is thought that two particular features are important: (1) the relative permeability of the Athabasca Group sandstone, and (2) the presence of graphitic schist within the underlying Archean rocks. The permeability of the sandstone allowed groundwater to flow through it and leach out small amounts of U, which stayed in solution in the oxidized form U^6+^. The graphite (C) created a reducing environment (non-oxidizing) that converted the U from U^6+^ to insoluble U^4+^, at which point it was precipitated as the mineral uraninite (UO~2~).
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
 
-##### Exercise 18.2 The Importance of Heat and Heat Engines
+<div class="textbox textbox-exercise">
+
+##### Exercise: The Importance of Heat and Heat Engines {-}
 
 For a variety of reasons, thermal energy (heat) from within Earth is critical in the formation of many types of ore deposits. Look back through the deposit-type descriptions above and complete the following table, describing which of those deposit types depend on a source of heat for their formation, and why.
+
 <table>
 <tbody>
 <tr>
@@ -218,10 +220,11 @@ For a variety of reasons, thermal energy (heat) from within Earth is critical in
 </tr>
 </tbody>
 </table>
+
 </div>
-</div>
-<div class="bcc-box bcc-info"></div>
-<h1 class="bcc-box bcc-info">Mining and Mineral Processing</h1>
+
+## Mining and Mineral Processing
+
 Metal deposits are mined in a variety of different ways depending on their depth, shape, size, and grade. Relatively large deposits that are quite close to the surface and somewhat regular in shape are mined using __open-pit mine__ methods (Figure \@ref(fig:figure-18-1)). Creating a giant hole in the ground is generally cheaper than making an underground mine, but it is also less precise, so it is necessary to mine a lot of waste rock along with the ore. Relatively deep deposits or those with elongated or irregular shapes are typically mined from underground with deep vertical __shafts__, __declines__ (sloped tunnels), and __levels__ (horizontal tunnels) (Figures 18.9 and 18.10). In this way, it is possible to focus the mining on the ore body itself. However, with relatively large ore bodies, it may be necessary to leave some pillars to hold up the roof.
 
 ```{r figure-18-9, fig.cap='Underground at the Myra Falls Mine, Vancouver Island. [SE]'}
@@ -292,10 +295,9 @@ Rocks are quarried or mined for many different uses, such as building facades (F
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Slate-used-as-a-facing-material-1024x753.jpg")
 ```
 
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
-##### Exercise 18.3 Sources of Important Lighter Minerals
+##### Exercise: Sources of Important Lighter Minerals {-}
 
 When we think of the manufacture of consumer products, plastics and the heavy metals (copper, iron, lead, zinc) easily come to mind, but we often forget about some of the lighter metals and non-metals that are important. Consider the following elements and determine their sources. Answers for all of these except magnesium are given above. See if you can figure out a likely mineral source of magnesium.
 
@@ -309,7 +311,6 @@ Potassium:
 
 Magnesium:
 
-</div>
 </div>
 
 ## Fossil Fuels
@@ -357,10 +358,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 In general, petroleum fields are not visible from the surface, and their discovery involves the search for structures in the subsurface that have the potential to form traps. Seismic surveys are the most commonly used tool for early-stage petroleum exploration, as they can reveal important information about the stratigraphy and structural geology of subsurface sedimentary rocks. An example from the Gulf of Mexico south of Texas is shown in Figure \@ref(fig:figure-18-22). In this area, a thick evaporite deposit ("salt") has formed domes because salt is lighter than other sediments and tends to rise slowly toward the surface; this has created traps. The sequence of deformed rocks is capped with a layer of undeformed rock.
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
 
-##### Exercise 18.4 Interpreting a Seismic Profile
+<div class="textbox textbox-exercise">
+
+##### Exercise: Interpreting a Seismic Profile  {-}
 
 The cross-section shown here is from a ship-borne seismic survey in the Bering Sea off the west coast of Alaska. As a petroleum geologist, it’s your job to pick two separate locations to drill for oil or gas. Which locations would you choose?
 
@@ -368,7 +369,6 @@ The cross-section shown here is from a ship-borne seismic survey in the Bering S
 
 [from USGS at: http://walrus.wr.usgs.gov/infobank/programs/html/definition/seis.html]
 
-</div>
 </div>
 
 #### What Is Unconventional Oil and Gas?

@@ -7,7 +7,7 @@ _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Christchurch_demo.png")
 ```
 
-<div class="bcc-box bcc-highlight">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -380,7 +380,7 @@ Parts of the Fraser River delta are also prone to liquefaction-related damage. T
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/unconsolidated-sedimentary-layers-1024x629.png")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
 ##### Experiments with Liquefaction
 

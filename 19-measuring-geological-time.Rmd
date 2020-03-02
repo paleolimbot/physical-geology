@@ -7,7 +7,7 @@ _Adapted by Tim Prokopiuk &amp; Karla Panchuk from [Physical Geology](https://op
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Arizona-Grand-Canyon-SE-1024x401.jpg")
 ```
 
-<div class="bcc-box bcc-highlight">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -103,7 +103,7 @@ The __principle of baked contacts__ states that the heat of an intrusion will ba
 
 The__ principle of chilled margins__ states that the portion of an intrusion that has cooled and crystallized next to cold surrounding rock will form smaller crystals than the portion of the intrusion that cooled more slowly deeper in the instrusion, which will form larger crystals. Smaller crystals generally appear darker in colour than larger crystals, so a chilled margin appears as a darkening of the intrusive rock towards the surrounding rock. This principle can be used to distinguish between an igneous sill, which will have a chilled margin at top and bottom, and a subaerial lava flow, which will have a chilled margin only at the bottom.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Cross-Cutting Relationships {-}
 
@@ -140,7 +140,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/unconformities-1024x667.png")
 ```
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Relative Dating with Unconformities {-}
 
@@ -192,7 +192,7 @@ Foraminifera—small, calcium carbonate-shelled marine organisms that originated
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/foraminifera-1024x455.png")
 ```
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Dating Rocks Using Index Fossils {-}
 
@@ -254,7 +254,7 @@ When we employ isotopic methods on minerals we are measuring an __age date__. Ge
 
 Absolute age dating is a powerful tool for unraveling the geological history of a region, but we have seen that we must ultimately rely upon igneous rocks (that may have later metamorphosed) for the minerals that we are able to date (see the next section for issues with dating sedimentary rocks directly). Another issue with absolute age dating is that it is expensive, with a single analysis costing several hundreds of dollars. Hence geologists never forget their relative age dating principles, and are always applying them in the field to determine the sequence of events that formed the rocks in a region.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Combining Absolute Ages with Relative Dating {-}
 
@@ -284,7 +284,7 @@ Radiocarbon dating (using ^14^C) can be applied to many geological materials, in
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Radiocarbon.png")
 ```
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Radiometric Dating with Potassium-Argon {-}
 
@@ -336,7 +336,7 @@ __Magnetic chronology__ can be used as a dating technique because we can measure
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/pattern-of-magnetism.png")
 ```
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Magnetic Dating {-}
 
@@ -360,7 +360,7 @@ One way to wrap your mind around geological time is to put it into the perspecti
 
 It is worth repeating: on this time scale, the earliest ancestors of the animals and plants with which we are familiar did not appear on Earth until mid-November, the dinosaurs disappeared after Christmas, and most of Canada was periodically locked in ice from 6:30 to 11:59 p.m. on New Year’s Eve. As for people, the first to inhabit Canada arrived about one minute before midnight.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: What Happened on Your Birthday? {-}
 

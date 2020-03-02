@@ -4,7 +4,7 @@
 <p style="text-align: center">Adapted by Joyce M. McBeth, University of Saskatchewan
 from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle</p>
 
-<div class="bcc-box bcc-highlight">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -54,8 +54,7 @@ knitr::include_graphics("http://opentextbc.ca/geology/wp-content/uploads/sites/1
 
 Although the water in the atmosphere is only a small proportion of the total water on Earth, the volume is still very large. At any given time, there is the equivalent of approximately 13,000 km^3^ of water in the air in the form of water vapour and water droplets in clouds. Water is evaporated from the oceans, vegetation, and lakes at a rate of 1,580 km^3^ per day, and each day nearly the same volume falls back as rain and snow over the oceans and land. Most of the precipitation that falls onto land returns to the ocean in the form of stream flow (117 km^3^/day) and groundwater flow (6 km^3^/day). Most of the rest of this chapter is about this 117 km^3^/day of streamflow.
 
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise 14.1 How Long Does Water Stay in the Atmosphere?
 
@@ -63,7 +62,6 @@ The residence time of a water molecule in the atmosphere (or any of the other re
 
 The volume of the oceans is 1,338,000,000 km^3^ and the rate of removal of water from the oceans is approximately the same as the atmosphere (1,580 km^3^/day). What is the average residence time of a water molecule in the ocean?
 
-</div>
 </div>
 
 ## Drainage Basins
@@ -139,8 +137,8 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 Davis’s work was done long before the idea of plate tectonics, and he was also not familiar with the impacts of glacial erosion on streams and their environments. While some parts of his idea are out of date, it is still a useful way to understand streams and their evolution. Plate tectonic activity and other processes such as isostatic rebound after glaciation results in uplift that alters stream gradients, so streams are constantly adjusting due to these changing conditions. It would be relatively rare to find a stream that is able to mature through all of these stages without interruption.
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
+
+<div class="textbox textbox-exercise">
 
 ##### Exercise 14.2 The Effect of a Dam on Base Level
 
@@ -148,7 +146,8 @@ Davis’s work was done long before the idea of plate tectonics, and he was also
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Revelstoke-Dam-and-Revelstoke-Lake.jpg")
 ```
 
-When a dam is built on a stream, a reservoir (artificial lake) forms behind the dam. The dam reservoir temporarily (for many decades at least) creates a new base level for the part of the stream above the reservoir. How does the formation of a dam reservoir affect the stream where it enters the reservoir, and what happens to the sediment it was carrying? The water leaving the dam has no sediment in it. Why? How does this affect the stream below the dam?</div>
+When a dam is built on a stream, a reservoir (artificial lake) forms behind the dam. The dam reservoir temporarily (for many decades at least) creates a new base level for the part of the stream above the reservoir. How does the formation of a dam reservoir affect the stream where it enters the reservoir, and what happens to the sediment it was carrying? The water leaving the dam has no sediment in it. Why? How does this affect the stream below the dam?
+
 </div>
 
 ## Stream Erosion and Deposition
@@ -200,10 +199,9 @@ On the other hand, a 0.01 mm silt particle only needs a velocity of 0.1 cm/s to 
 
 It is important to be aware that a stream can both erode and deposit sediments at the same time. At 100 cm/s, for example, silt, sand, and medium gravel will be eroded from the stream bed and transported in suspension, coarse gravel will be transported by saltation and traction, pebbles will be both transported by saltation and traction, and will also be deposited, and cobbles and boulders will remain stationary on the stream bed.
 
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
-##### Exercise 14.3 __Understanding the Hjulström-Sundborg Diagram__
+##### Exercise: Understanding the Hjulström-Sundborg Diagram {-}
 
 Refer to the Hjulström-Sundborg diagram in Figure \@ref(fig:figure-14-18) to answer these questions.
 
@@ -211,11 +209,9 @@ Refer to the Hjulström-Sundborg diagram in Figure \@ref(fig:figure-14-18) to an
 1. a) What stream velocity will it take to get this sand grain into suspension?
 1. b) Once the particle is in suspension, the velocity starts to drop. At what velocity will it finally come back to rest on the stream bed?
 1. A stream is flowing at 10 cm/s (which means it takes 10 s to travel 1 m).
-
 1. What size of particles can be eroded at 10 cm/s?
 1. What is the largest particle that, once in suspension, will remain in suspension at 10 cm/s?
 
-</div>
 </div>
 
 #### Natural Levees Form Because of Changes in Stream Velocity
@@ -266,10 +262,9 @@ At the point where a stream enters a body of water such as a lake or the ocean, 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/delta-of-the-Fraser-River.jpg")
 ```
 
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
-##### Exercise 14.4 __Calculating Stream Gradients__
+##### Exercise Calculating Stream Gradients
 
 ```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Stream-Gradients.png) Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Stream-Gradients.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Stream-Gradients.png")
@@ -280,7 +275,7 @@ The gradient is the key factor controlling stream velocity, and stream velocity 
 1. Use the scale bar to estimate the distance between 1,300 m and 600 m and calculate the gradient between these two elevations.
 1. Estimate the gradient between 600 and 400 m.
 1. Estimate the gradient between 400 m on Priest Creek and the point where Mission Creek enters Okanagan Lake.
-</div>
+
 </div>
 
 ## Flooding
@@ -421,7 +416,7 @@ In late June and early July, the discharges of several rivers in the area, inclu
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Flooding-in-Calgary.png")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
 One of the things that the 2013 flood of the Bow River teaches us is that we cannot predict when a flood will occur nor how big it will be, so in order to minimize damage and casualties we need to be prepared. Some ways of preparing include:
 
@@ -438,10 +433,10 @@ One of the things that the 2013 flood of the Bow River teaches us is that we can
 - Explain some of the steps that we can take to limit damage from flooding
 
 </div>
-<div class="bcc-box bcc-info">
-<div class="textbox exercises">
 
-##### Exercise 14.__5 Flood Probability on the Bow River__
+<div class="textbox textbox-exercise">
+
+##### Exercise: Flood Probability on the Bow River {-}
 
 The graph below shows the highest discharge per year between 1915 and 2014 of the Bow River in Calgary. Using this data set, we can calculate the recurrence interval (Ri) for any particular flood magnitude using the equation: Ri = (n+1)/r (where n is the number of floods in the record being considered, and r is the rank of the particular flood). There are a few years missing in this record, so the actual number of floods is 95.
 
@@ -455,7 +450,6 @@ The largest flood recorded along the Bow River over that period of time was the 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Water-Surveys-of-Canada.png")
 ```
 
-</div>
 </div>
 
 ## Summary

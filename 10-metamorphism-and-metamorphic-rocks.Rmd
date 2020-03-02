@@ -7,7 +7,7 @@ _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06/Pemaquid-Point.png")
 ```
 
-<div class="bcc-box bcc-highlight">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -85,7 +85,7 @@ Most metamorphic reactions occur very slowly. Estimates of the growth rates of n
 
 While the rate of metamorphism is slow, the tectonic processes that lead to metamorphism are also very slow, so there is a good chance that metamorphic reactions will be completed. For example, an important setting for metamorphism is many kilometres deep within the roots of mountain ranges. A mountain range takes tens of millions of years to form, and tens of millions of years more to be eroded to the extent that we can see the rocks that were metamorphosed deep beneath it.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: How Long Did It Take? {-}
 
@@ -267,7 +267,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The answer to the ptygmatic fold mystery is that the folded layer is much stiffer than the surrounding layers. When squeezing forces act on the rock, the stiff layer buckles but the surrounding rock flows rather than buckling, because it isn't strong enough to buckle.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Naming Metamorphic Rocks {-}
 
@@ -292,7 +292,7 @@ Burial metamorphism occurs when sediments are buried deeply enough that the heat
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/JStJohn_BlackMarinace-1024x840.jpg")
 ```
 
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### A Note About Commercial Rock Names
 
@@ -404,7 +404,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 One other line to notice in Figure \@ref(fig:figure-10-35) is the red dashed line on the right-hand side of the figure. This line represents temperatures and pressures where granite will begin to melt if there is water present. Migmatite is to the right of the line because it forms when some of the minerals in a metamorphic rock begin to melt, and then cool and crystallize again.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Metamorphic Rocks In Areas with Higher Geothermal Gradients {-}
 
@@ -442,7 +442,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 Building a narrative for the metamorphism in Nova Scotia’s Meguma Terrane is just one example of how index minerals can be used.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Scottish Metamorphic Zones {-}
 
@@ -482,7 +482,7 @@ A special type of metasomatism takes place where a hot pluton intrudes into carb
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image037-1024x871.jpg")
 ```
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Contact Metamorphism and Metasomatism {-}
 

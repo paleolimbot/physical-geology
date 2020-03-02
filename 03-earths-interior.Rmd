@@ -7,7 +7,7 @@ _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Tablelands.png")
 ```
 
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -203,9 +203,9 @@ Earth’s magnetic field is defined by north and south poles representing lines 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/magnetic_field.png")
 ```
 
-<div class="textbox">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Magnetic Inclination
+##### Exercise: Magnetic Inclination {-}
 
 Regular compasses point only to the north magnetic pole, but if you had a magnetic dip meter (or a smartphone with the appropriate app), you could also measure the angle of the magnetic field at your location in the up-and-down sense. However, you don’t need a dip meter or app to do this exercise!
 

@@ -7,7 +7,7 @@ _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Lemaire_Channel.png")
 ```
 
-<div class="bcc-box bcc-highlight">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -160,7 +160,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 ```
 
 Sunspot cycles happen over approximately 11 year intervals, and the changes in insolation that occur during these cycles are relatively small. In the end the effect of sunspot cycles on climate can be lost amidst other factors. In Figure \@ref(fig:figure-16-9) there is no clear relationship between the sunspot cycles and the global average temperatures (in grey) reported for the same period.
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### Be Aware of Graph Scales
 
@@ -276,7 +276,7 @@ Consider the following:
 - Summarize the kinds of observations that show signals of present-day climate change.
 - Describe the current and projected state of the Earth system in the Anthropocene Epoch.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Albedo Impacts of Vegetation Changes {-}
 
@@ -322,7 +322,7 @@ Volcanic eruptions don’t just involve lava flows and exploding rock fragments.
 
 Over the shorter term, however, volcanic eruptions can have the opposite effect, cooling the climate. SO~2~ reacts with water in the atmosphere to make droplets of sulphuric acid. The sulphuric acid droplets scatter sunlight, reducing how much of the sun’s energy can reach Earth’s surface. They also affect cloud formation. The volcanic cooling effect is relatively short-lived, because the particles settle out of the atmosphere within a few years.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Climate Change at the end of the Cretaceous Period {-}
 

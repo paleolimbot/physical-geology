@@ -7,7 +7,7 @@ _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Naica_mine.png")
 ```
 
-<div class="textbox shaded">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -151,7 +151,7 @@ Chlorine has 17 electrons: two in the first shell, eight in the second, and seve
 
 In changing their number of electrons, these atoms become __ions__ — the sodium loses an electron to become a positive ion or __cation__,^[You can remember that a cation is positive by remembering that a cat has paws (paws sounds like "pos" in "positive"). You could also think of the "t" in "cation" as a plus sign.] and the chlorine gains an electron to become a negative ion or __anion__ (Figure \@ref(fig:figure-5-7), bottom). Because negative and positive charges attract, sodium and chlorine ions stick together, creating an __ionic bond__. In an ionic bond, electrons can be thought of as having transferred from one atom to another.
 
-<div class="textbox exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Cation or Anion? {-}
 
@@ -271,7 +271,7 @@ These are minerals made of a single element, such as gold, copper, silver, or su
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/native_minerals-1-1024x584.png")
 ```
 
-<div class="textbox">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Mineral Groups {-}
 
@@ -309,7 +309,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04
 
 In silicate minerals, these tetrahedra are arranged and linked together in a variety of ways, from single units to chains, rings, and more complex frameworks. In the rest of this section we will discuss the structures of the most common silicate minerals in Earth's crust and mantle.
 
-<div class="textbox">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Make a Tetrahedron {-}
 
@@ -351,7 +351,7 @@ Pyroxene compositions have the silica tetrahedra represented as SiO~3~ (e.g., Mg
 
 In __amphibole__ (Figure \@ref(fig:figure-5-25) bottom right), the silica tetrahedra are linked in a double chain that has an oxygen-to-silicon ratio lower than that of pyroxene, and hence still fewer cations are necessary to balance the charge. Amphibole is even more permissive than pyroxene and its compositions can be very complex, as shown by the formula for the hornblende group of amphibole minerals in Figure \@ref(fig:figure-5-25) (bottom right).
 
-<div class="textbox">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Oxygen to Silicon Ratio {-}
 

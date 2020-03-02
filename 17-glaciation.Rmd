@@ -8,7 +8,7 @@
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/athabasca-2.png")
 ```
 
-<div class="bcc-box bcc-highlight">
+<div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
 
@@ -133,9 +133,9 @@ Calving of icebergs is an important process for glaciers that terminate in lakes
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Mt.-Robson.jpg")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Ice Advance and Retreat
+##### Exercise: Ice Advance and Retreat {-}
 
 These diagrams in Figure \@ref(fig:figure-17-15) represent a glacier with markers placed on its surface to determine the rate of ice motion over a one-year period. The ice is flowing from left to right.
 
@@ -215,9 +215,9 @@ A lake that occupies a glacial valley is known as a __finger lake__. In some cas
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Jeff_Hollett_Peyto_Lake-1024x583.jpg")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Identifying Glacial Erosion Features
+##### Exercise: Identifying Glacial Erosion Features {-}
 
 Figure \@ref(fig:figure-17-25) is a photo of Mt. Assiniboine in the BC Rocky Mountains. What are the features at locations __a__ through __e__? Look for one of each of the following: a horn, an arête, a truncated spur, a cirque, and a col. Try to identify some of the numerous other arêtes in this view, as well as another horn.
 
@@ -283,9 +283,9 @@ Glacial outwash streams commonly flow into __proglacial lakes__ (lakes in front 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/gl-gm-2.png")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Identifying Glacial Depositional Environments
+##### Exercise: Identifying Glacial Depositional Environments {-}
 
 Refer to the photo of the Bering Glacier in Alaska shown in Figure \@ref(fig:figure-17-26). Glacial sediments of many different types are being deposited throughout the region depicted in this photo.
 
@@ -351,9 +351,9 @@ The __Wisconsinan Glaciation __was the last major continental glaciation in _ No
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/768px-Iceage_north-intergl_glac_hg.png")
 ```
 
-<div class="bcc-box bcc-info">
+<div class="textbox textbox-exercise">
 
-##### Exercise: Pleistocene Glacial and Interglacial Periods
+##### Exercise: Pleistocene Glacial and Interglacial Periods {-}
 
 Figure \@ref(fig:figure-17-39) shows the past 500,000 years of the data set used in Figure \@ref(fig:figure-17-37). The last five glacial periods are marked with snowflakes. The most recent glaciation, which peaked at around 20 ka, is known as the Wisconsinan Glaciation. Describe the nature of temperature change that followed each of these glacial periods.
 

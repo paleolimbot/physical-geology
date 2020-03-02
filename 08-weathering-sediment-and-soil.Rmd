@@ -9,7 +9,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 
 ##### Learning Objectives {-}
 
-<div class="bcc-box bcc-highlight">
+<div class="textbox learning-objectives">
 
 After reading this chapter and answering the review questions at the end, you should be able to:
 
@@ -96,9 +96,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 ```
 
 Although most animals do not normally burrow through solid rock, they can excavate and remove huge volumes of soil, and thus expose the rock to weathering by other mechanisms. Humans modify vast tracts of land by excavation, and have a profound effect on accelerating mechanical weathering.
-<div class="bcc-box bcc-info">
 
-##### Exercise: Mechanical Weathering
+<div class="textbox textbox-exercise">
+
+##### Exercise: Mechanical Weathering {-}
 
 What mechanical weathering processes do you think take place on this mountain in British Columbia?
 
@@ -196,7 +197,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 
 At many ARD sites, the pH of the runoff water is less than 4 (very acidic). Under these conditions, metals such as copper, zinc, and lead easily dissolve in water, which can be toxic to aquatic life and other organisms. For many years, the river downstream from the Mt. Washington Mine had so much dissolved copper in it that it was toxic to salmon. Remediation work has since been carried out at the mine and the situation has improved.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Chemical Weathering {-}
 
@@ -312,7 +313,7 @@ __Rounding__ refers to whether clasts have sharp edges and corners or not (Figur
 
 __Sphericity__ describes whether a grain is elongate or not. Grains that are longer than they are wide (like an ellipse) have low sphericity, whereas grains that have the same diameter no matter where you measure it (like a sphere) have high sphericity. In the bottom row of boxes in Figure \@ref(fig:figure-8-19) the grains at the top of each box exhibit high sphericity, and the grains at the bottom exhibit low sphericity. Notice that a grain can be angular but still have high sphericity. It can be rounded, but still have low sphericity. Sphericity also increases the further the sediments are from their source.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Looking at Sand {-}
 
@@ -510,7 +511,7 @@ __Organic soils__ form in areas with poor drainage and a rich supply of organic 
 
 In the permafrost regions of the north, where glacial retreat was most recent, the time available for soil formation has been short and the rate of soil formation slow. The soils are called __cryosols__ (the _cryo_ prefix is used to indicate extreme cold). In permafrost areas, the freeze-thaw process churns the soil, resulting in limited soil horizon development.
 
-<div class="textbox textbox--exercises">
+<div class="textbox textbox-exercise">
 
 ##### Exercise: Soils of Canada {-}
 
