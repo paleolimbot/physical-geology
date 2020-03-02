@@ -1,7 +1,7 @@
 
 # Geological Resources
 
-### Introduction
+_Adapted from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
 
 <div class="textbox learning-objectives">
 
@@ -59,74 +59,24 @@ Canada’s mining sector had revenues in the order of $37 billion in 2013. The m
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/value-of-various-Canadian-mining-sectors-in-2013.png")
 ```
 
-A metal deposit is a body of rock in which one or more metals have been concentrated to the point of being economically viable for recovery. Some __background__ levels of important metals in average rocks are shown on Table 18.1, along with the typical grades necessary to make a viable deposit, and the corresponding concentration factors. Looking at copper, for example, we can see that while average rock has around 40 ppm (parts per million) of copper, a grade of around 10,000 ppm or 1% is necessary to make a viable copper deposit. In other words, copper ore has about 250 times as much copper as typical rock. For the other elements in the list, the concentration factors are much higher. For gold, it’s 2,000 times and for silver it’s around 10,000 times.
+A metal deposit is a body of rock in which one or more metals have been concentrated to the point of being economically viable for recovery. Some __background__ levels of important metals in average rocks are shown on Table \@ref(tab:table-18-1), along with the typical grades necessary to make a viable deposit, and the corresponding concentration factors. Looking at copper, for example, we can see that while average rock has around 40 ppm (parts per million) of copper, a grade of around 10,000 ppm or 1% is necessary to make a viable copper deposit. In other words, copper ore has about 250 times as much copper as typical rock. For the other elements in the list, the concentration factors are much higher. For gold, it’s 2,000 times and for silver it’s around 10,000 times.
 
-<table>
-<tbody>
-<tr>
-<td>__Metal__</td>
-<td>__Typical Background Level__</td>
-<td>__Typical Economic Grade*__</td>
-<td>__Concentration Factor__</td>
-</tr>
-<tr>
-<td>Copper</td>
-<td>40 ppm</td>
-<td>10,000 ppm (1%)</td>
-<td>250 times</td>
-</tr>
-<tr>
-<td>Gold</td>
-<td>0.003 ppm</td>
-<td>6 ppm (0.006%)</td>
-<td>2,000 times</td>
-</tr>
-<tr>
-<td>Lead</td>
-<td>10 ppm</td>
-<td>50,000 ppm (5%</td>
-<td>5,000 times</td>
-</tr>
-<tr>
-<td>Molybdenum</td>
-<td>1 ppm</td>
-<td>1,000 ppm (0.1%)</td>
-<td>1,000 times</td>
-</tr>
-<tr>
-<td>Nickel</td>
-<td>25 ppm</td>
-<td>20,000 ppm (2%)</td>
-<td>800 times</td>
-</tr>
-<tr>
-<td>Silver</td>
-<td>0.1 ppm</td>
-<td>1,000 ppm (0.1%)</td>
-<td>10,000 times</td>
-</tr>
-<tr>
-<td>Uranium</td>
-<td>2 ppm</td>
-<td>10,000 ppm (1%)</td>
-<td>5,000 times</td>
-</tr>
-<tr>
-<td>Zinc</td>
-<td>50 ppm</td>
-<td>50,000 ppm (5%)</td>
-<td>1,000 times</td>
-</tr>
-<tr>
-<td colspan="4"></td>
-</tr>
-<tr>
-<td colspan="4">*It’s important to note that the economic viability of any deposit depends on a wide range of factors including its grade, size, shape, depth below the surface, and proximity to infrastructure, the current price of the metal, the labour and environmental regulations in the area, and many other factors.</td>
-</tr>
-</tbody>
-</table>
-
-Table 18.1 Typical background and ore levels of some important metals [SE]
+```{r table-18-1}
+tibble::tribble(
+        ~Metal, ~`Typical Background Level`, ~`Typical Economic Grade`, ~`Concentration Factor`,
+      "Copper",                  "40 ppm",       "10,000 ppm (1%)",           "250 times",
+        "Gold",               "0.003 ppm",        "6 ppm (0.006%)",         "2,000 times",
+        "Lead",                  "10 ppm",        "50,000 ppm (5%",         "5,000 times",
+  "Molybdenum",                   "1 ppm",      "1,000 ppm (0.1%)",         "1,000 times",
+      "Nickel",                  "25 ppm",       "20,000 ppm (2%)",           "800 times",
+      "Silver",                 "0.1 ppm",      "1,000 ppm (0.1%)",        "10,000 times",
+     "Uranium",                   "2 ppm",       "10,000 ppm (1%)",         "5,000 times",
+        "Zinc",                  "50 ppm",       "50,000 ppm (5%)",         "1,000 times"
+) %>% 
+  knitr::kable(
+    caption = "Typical background and ore levels of some important metals. It’s important to note that the economic viability of any deposit depends on a wide range of factors including its grade, size, shape, depth below the surface, and proximity to infrastructure, the current price of the metal, the labour and environmental regulations in the area, and many other factors. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/)_"
+  )
+```
 
 It is clear that some very significant concentration must take place to form a mineable deposit. This concentration may occur during the formation of the host rock, or after the rock forms, through a number of different types of processes. There is a very wide variety of ore-forming processes, and there are hundreds of types of mineral deposits. The origins of a few of them are described below.
 
@@ -184,42 +134,17 @@ There are several different types of uranium deposits, but some of the largest a
 
 ##### Exercise: The Importance of Heat and Heat Engines {-}
 
-For a variety of reasons, thermal energy (heat) from within Earth is critical in the formation of many types of ore deposits. Look back through the deposit-type descriptions above and complete the following table, describing which of those deposit types depend on a source of heat for their formation, and why.
+For a variety of reasons, thermal energy (heat) from within Earth is critical in the formation of many types of ore deposits. Look back through the deposit-type descriptions above and complete the following table, describing (1) which of those deposit types depend on a source of heat for their formation, and  (2) if so, why?
 
-<table>
-<tbody>
-<tr>
-<td>__Deposit Type__</td>
-<td>__Is Heat a Factor?__</td>
-<td>__If So, What Is the Role of the Heat?__</td>
-</tr>
-<tr>
-<td>Magmatic</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Volcanogenic massive sulphide</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Porphyry</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Banded iron formation</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Unconformity-type uranium</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+- Magmatic
+
+- Volcanogenic massive sulphide
+
+- Porphyry
+
+- Banded iron formation
+
+- Unconformity-type uranium
 
 </div>
 
