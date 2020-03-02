@@ -226,9 +226,8 @@ A selective history of life on Earth over the past 600 million years is provided
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Earth-history_cropped-1024x339.png")
 ```
 
+If we understand the sequence of evolution on Earth, we can apply this knowledge to determining the relative ages of rocks. This is William Smith’s __principle of faunal succession__, although in spite of the name, it can apply to fossils of plants and simple organisms as well as to fauna (animals).
 
-
-<p class="NormalOT">If we understand the sequence of evolution on Earth, we can apply this knowledge to determining the relative ages of rocks. This is William Smith’s __principle of faunal succession__, although in spite of the name, it can apply to fossils of plants and simple organisms as well as to fauna (animals).</p>
 The Phanerozoic Eon has witnessed five major extinctions (stars in Figure \@ref(fig:figure-19-13)). The most significant of these was at the end of the Permian, which saw the extinction of over 80% of all species, and over 90% of all marine species. Most well-known types of organisms that survived were still severely impacted by this event. The second most significant extinction occurred at the Cretaceous-Paleogene boundary (K-Pg, also known the Cretaceous-Tertiary or K-T extinction). At that time, ~75% of marine species disappeared, as well as dinosaurs (but not birds) and pterosaurs. Other species were badly reduced but survived, and then flourished in the Paleogene. The K-Pg extinction may have been caused by the impact of a large asteroid (10 km to 15 km in diameter) and/or volcanic eruptions associated with the formation of the Deccan Traps, but it is generally agreed that the other four Phanerozoic mass extinctions had other causes, although their exact nature is not clearly understood.
 
 It is not a coincidence that the major extinctions all coincide with boundaries of geological periods and/or eras. Paleontologists have placed most of the divisions of the geological time scale at points in the fossil record where there are major changes in the type of fossils observed.
@@ -250,9 +249,7 @@ Some well-studied groups of organisms qualify as __biozone __fossils because, al
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/septum-of-an-ammonite-1024x451.png")
 ```
 
-<p class="NormalOT">Foraminifera—small, calcium carbonate-shelled marine organisms that originated during the Triassic and are still alive today—are also useful biozone fossils. Numerous different foraminifera lived during the Cretaceous Period, some for over 10 million years, but others for less than 1 million years (Figure \@ref(fig:figure-19-16)). If the foraminifera in a rock can be identified to the species level, the rock's age can be determined.</p>
-
-
+Foraminifera—small, calcium carbonate-shelled marine organisms that originated during the Triassic and are still alive today—are also useful biozone fossils. Numerous different foraminifera lived during the Cretaceous Period, some for over 10 million years, but others for less than 1 million years (Figure \@ref(fig:figure-19-16)). If the foraminifera in a rock can be identified to the species level, the rock's age can be determined.
 
 ```{r figure-19-16, fig.cap='Time ranges for Cretaceous foraminifera (left), and modern foraminifera from the Ambergris area of Belize (right)._ Source: Left- Steven Earle (2015) CC BY 4.0, from data in Scott (2014). Right- Steven Earle (2015) CC BY 4.0 _[_view source_](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/foraminifera.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/foraminifera-1024x455.png")
@@ -461,9 +458,7 @@ Oceanic crust becomes magnetized by the magnetic field that exists as the crust 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/magnetized-oceanic-crust-1024x286.png")
 ```
 
-<p class="NormalOT">__Magnetic chronology__ can be used as a dating technique because we can measure the magnetic field of rocks using a magnetometer, or of entire regions by towing a magnetometer behind a ship or an airplane. For example, the Juan de Fuca Plate, which lies off of the west coast of BC, Washington, and Oregon, is being and has been formed along the Juan de Fuca spreading ridge (Figure \@ref(fig:figure-19-28)). The parts of the plate that are still close to the ridge exhibit normal magnetic polarity, while parts that are further away (and formed much earlier) have either normal or reversed magnetic polarity, depending upon when the rock formed. By carefully matching the sea-floor magnetic stripes with the known magnetic chronology, we can determine the age at any point on the plate. We can see that the oldest part of the Juan de Fuca Plate that has not yet subducted (off of the coast of Oregon) is just over 8 million years old, while the part that is subducting beneath Vancouver Island is between 0 and ~6 million years old.</p>
-
-
+__Magnetic chronology__ can be used as a dating technique because we can measure the magnetic field of rocks using a magnetometer, or of entire regions by towing a magnetometer behind a ship or an airplane. For example, the Juan de Fuca Plate, which lies off of the west coast of BC, Washington, and Oregon, is being and has been formed along the Juan de Fuca spreading ridge (Figure \@ref(fig:figure-19-28)). The parts of the plate that are still close to the ridge exhibit normal magnetic polarity, while parts that are further away (and formed much earlier) have either normal or reversed magnetic polarity, depending upon when the rock formed. By carefully matching the sea-floor magnetic stripes with the known magnetic chronology, we can determine the age at any point on the plate. We can see that the oldest part of the Juan de Fuca Plate that has not yet subducted (off of the coast of Oregon) is just over 8 million years old, while the part that is subducting beneath Vancouver Island is between 0 and ~6 million years old.
 
 ```{r figure-19-28, fig.cap='TThe pattern of magnetism within the area of the Juan de Fuca Plate, off the west coast of North America. Coloured bands represent parts of the sea floor with normal magnetic polarity, and the magnetic time scale is shown using these same colours. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/pattern-of-magnetism.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/pattern-of-magnetism.png")
@@ -542,9 +537,7 @@ We can determine the relative ages of different rocks by observing and interpret
 
 ###  Dating Rocks Using Fossils
 
-
-<p class="NormalOT">Fossils are useful for dating rocks back to ~600 Ma. If we know the age range of a fossil, we can date the rock in which it is found, but some organisms lived for many millions of years. Index fossils represent shorter geological time spans, and if a rock has several different fossils with known age ranges, we can narrow the time during which the rock formed.</p>
-
+Fossils are useful for dating rocks back to ~600 Ma. If we know the age range of a fossil, we can date the rock in which it is found, but some organisms lived for many millions of years. Index fossils represent shorter geological time spans, and if a rock has several different fossils with known age ranges, we can narrow the time during which the rock formed.
 
 ###  Isotopic Dating Methods
 
@@ -558,9 +551,7 @@ There are many other methods for dating geological materials. Two that are widel
 
 ###  Understanding Geological Time
 
-
-<p class="NormalOT">While understanding geological time is relatively easy, actually comprehending the significance of the vast amounts of geological time is a great challenge. To be able to solve important geological problems and certain societal challenges, we need to really appreciate the vastness of geological time.</p>
-
+While understanding geological time is relatively easy, actually comprehending the significance of the vast amounts of geological time is a great challenge. To be able to solve important geological problems and certain societal challenges, we need to really appreciate the vastness of geological time.
 
 #### Review Questions
 
