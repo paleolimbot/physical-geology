@@ -242,33 +242,45 @@ _Uniformitarianism_: Processes that occur today also occurred in the geologic pa
 
 _Plate tectonics_: Earth's surface is broken into plates that move and interact with each other. The interactions between these plates are key for understanding the mechanisms behind geologic processes.
 
-## Review Questions
+## Chapter Review Questions
 
 1. How does the element of time make geology different from the other sciences, such as chemistry and physics?
-1. List three ways in which geologists can contribute to society.
-1. The following dates are written with the abbreviations Ga, Ma, and ka. Express the dates in years. (For example, 2.3 Ma = 2,300,000 years)
+
+2. List three ways in which geologists can contribute to society.
+
+3. The following dates are written with the abbreviations Ga, Ma, and ka. Express the dates in years. (For example, 2.3 Ma = 2,300,000 years)
    	a. 2.75 ka
    	a. 0.93 Ga
    	a. 4.2 Ma
    	a. 0.2 ka
-1. Dinosaurs first appear in the geological record in rocks from about 215 Ma and then most became extinct at 65 Ma. What percentage of geological time does this represent?
-1. If sediments typically accumulate at a rate of 1 mm/year, what thickness of sediment could accumulate over a period of 30 million years?
-1. Does uniformitarianism mean that conditions on Earth are uniform, and never change?
-1. Summarize the main idea behind plate tectonics.
+
+4. Dinosaurs first appear in the geological record in rocks from about 215 Ma and then most became extinct at 65 Ma. What percentage of geological time does this represent?
+
+5. If sediments typically accumulate at a rate of 1 mm/year, what thickness of sediment could accumulate over a period of 30 million years?
+
+6. Does uniformitarianism mean that conditions on Earth are uniform, and never change?
+
+7. Summarize the main idea behind plate tectonics.
 
 ## Answers to Chapter Review Questions
 
 1. Geology requires that we consider vast amounts of time, and think about the effects that accumulate over thousands, millions, or even billions of years.
-1. There are many ways that geologists contribute. Geologists provide information to reduce the risk of harm from hazards such as earthquakes, volcanoes, and slope failures; they play a critical role in the discovery of important resources; they contribute to our understanding of life and its evolution through paleontological studies; and they play a leading role in the investigation of climate change, past and present and its implications.
-1. Ages in years:
+
+2. There are many ways that geologists contribute. Geologists provide information to reduce the risk of harm from hazards such as earthquakes, volcanoes, and slope failures; they play a critical role in the discovery of important resources; they contribute to our understanding of life and its evolution through paleontological studies; and they play a leading role in the investigation of climate change, past and present and its implications.
+
+3. Ages in years:
     a. 2.75 ka = 2,750 years
     a. 0.93 Ga = 930,000,000 years
     a. 14.2 Ma = 14,200,000 years
     a. 0.2 ka = 200 years
-1. 215 - 65 = 150 Ma. Since the age of the Earth is 4570 Ma, this represents 150/4,570 = 0.033 or 3.3% of geological time.
-1. At 1 mm/y 30,000,000 mm of sediment would accumulate over that 30 million years. This is equivalent to 30,000 m or 30 km. Few sequences of sedimentary rock are even close to that thickness because most sediments accumulate at much lower rates, more like 0.1 mm/y. Also, over time the sediments are compressed.
-1. No. Uniformitarianism means that we can use the processes we observe today to help us understand what happened in the past.
-1. Plate tectonics is the idea that Earth's outer layer is broken into rigid plates. The plates move around and interact with each other along their margins.
+
+4. 215 - 65 = 150 Ma. Since the age of the Earth is 4570 Ma, this represents 150/4,570 = 0.033 or 3.3% of geological time.
+
+5. At 1 mm/y 30,000,000 mm of sediment would accumulate over that 30 million years. This is equivalent to 30,000 m or 30 km. Few sequences of sedimentary rock are even close to that thickness because most sediments accumulate at much lower rates, more like 0.1 mm/y. Also, over time the sediments are compressed.
+
+6. No. Uniformitarianism means that we can use the processes we observe today to help us understand what happened in the past.
+
+7. Plate tectonics is the idea that Earth's outer layer is broken into rigid plates. The plates move around and interact with each other along their margins.
 
 ## References
 

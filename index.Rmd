@@ -3,7 +3,6 @@ title: "Physical Geology"
 author: "Karla Panchuk, Steven Earle, and contributors"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes

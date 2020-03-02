@@ -262,49 +262,49 @@ Early Earth was heated by radioactive decay, collisions with bodies from space, 
 
 The search for exoplanets has identified 53 planets that are similar in size to Earth and within the habitable zone of their stars. These are thought to be rocky worlds like Earth, but the compositions of these planets are not known for certain.
 
-## Review Questions
+## Chapter Review Questions
 
 1. How can astronomers view events that happened in the universe's distant past?
 
-1. In this image of three spectra, one is from the sun, and the other two are from galaxies. One of the galaxies is the Andromeda galaxy. Which spectrum is from Andromeda?
+2. In this image of three spectra, one is from the sun, and the other two are from galaxies. One of the galaxies is the Andromeda galaxy. Which spectrum is from Andromeda?
 
 ```{r fig-spectra-sun-two-galaxies, fig.cap='Spectra for the sun and two galaxies. Source: Karla Panchuk (2015) CC BY 4.0'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/spectra.png")
 ```
 
-1. Astronomers looking for some of the earliest stars in the universe were surprised to find a planetary system called HIP 11952, which existed 12.8 billion years ago. This was very early in the universe's history, when stars still consisted largely of hydrogen and helium. Do you think there were terrestrial planets in this system? Why or why not?
+3. Astronomers looking for some of the earliest stars in the universe were surprised to find a planetary system called HIP 11952, which existed 12.8 billion years ago. This was very early in the universe's history, when stars still consisted largely of hydrogen and helium. Do you think there were terrestrial planets in this system? Why or why not?
 
-1. Summarize the trends in size and composition of objects in the solar system.
+4. Summarize the trends in size and composition of objects in the solar system.
 
-1. What is the frost line, and what does it help to explain?
+5. What is the frost line, and what does it help to explain?
 
-1. Why is Pluto not considered a planet?
+6. Why is Pluto not considered a planet?
 
-1. What is differentiation?
+7. What is differentiation?
 
-1. The exoplanet Kepler-452b is within the habitable zone of its star. In our solar system, planets a similar distance from the Sun are terrestrial planets. Why can we not say for certain that Kepler-452b's distance from its star means it is a terrestrial planet?
+8. The exoplanet Kepler-452b is within the habitable zone of its star. In our solar system, planets a similar distance from the Sun are terrestrial planets. Why can we not say for certain that Kepler-452b's distance from its star means it is a terrestrial planet?
 
-1. Of the planetary systems discovered thus far, none are exactly like our solar system. Does this mean our solar system is unique in the universe?
+9. Of the planetary systems discovered thus far, none are exactly like our solar system. Does this mean our solar system is unique in the universe?
 
 ## Answers to Chapter Review Questions
 
 1. To see an event, light from that event must reach our eyes. Light travels very quickly (about 300,000,000 m/s), but the universe is very, very large. Depending on how far away the event was, it could take billions of years for light to travel from the event to our eyes so we can see it. Astronomers take advantage of this fact to view the universe's past.
 
-1. B is the spectrum from the Andromeda galaxy. We know that one spectrum represents the sun, which is not moving toward or away from us. (Our orbit is not perfectly circular, but the small eccentricity is not a factor in this comparison.) We know that the Andromeda galaxy is on a collision course with us, so it is the exception to the rule that galaxies are moving away from us, and their light is red-shifted. That means the spectrum B which is shifted furthest to the left (blue-shifted) is Andromeda, and spectrum A which is furthest to the right (red-shifted) is a galaxy moving away from us. That means C is the sun.
+2. B is the spectrum from the Andromeda galaxy. We know that one spectrum represents the sun, which is not moving toward or away from us. (Our orbit is not perfectly circular, but the small eccentricity is not a factor in this comparison.) We know that the Andromeda galaxy is on a collision course with us, so it is the exception to the rule that galaxies are moving away from us, and their light is red-shifted. That means the spectrum B which is shifted furthest to the left (blue-shifted) is Andromeda, and spectrum A which is furthest to the right (red-shifted) is a galaxy moving away from us. That means C is the sun.
 
-1. The planetary system consisted of two Jupiter-sized gas giant planets. Gas giant planets contain large amounts of hydrogen, and hydrogen was plentiful in the early universe. In contrast, terrestrial planets have heavier elements, especially silica, iron, magnesium, and nickel, that had yet to be manufactured by stars. Those elements were not present in sufficient abundance to form terrestrial planets until much later.
+3. The planetary system consisted of two Jupiter-sized gas giant planets. Gas giant planets contain large amounts of hydrogen, and hydrogen was plentiful in the early universe. In contrast, terrestrial planets have heavier elements, especially silica, iron, magnesium, and nickel, that had yet to be manufactured by stars. Those elements were not present in sufficient abundance to form terrestrial planets until much later.
 
-1. Closest to the sun we find the small, rocky, terrestrial planets with metal cores. Further out are the gas giant planets, which are the largest in the solar system. They consist mostly of hydrogen, and have cores of rock and ice. Beyond the gas giant planets are the ice giant planets, which are next largest. They have a mantle of ice (not just water ice but ammonia and methane ice), and a rocky core. Smaller objects in the solar system include rocky bodies within the asteroid belt between Mars and Jupiter, and bodies of ice and dust in the Kuiper belt and Oort cloud beyond Neptune.
+4. Closest to the sun we find the small, rocky, terrestrial planets with metal cores. Further out are the gas giant planets, which are the largest in the solar system. They consist mostly of hydrogen, and have cores of rock and ice. Beyond the gas giant planets are the ice giant planets, which are next largest. They have a mantle of ice (not just water ice but ammonia and methane ice), and a rocky core. Smaller objects in the solar system include rocky bodies within the asteroid belt between Mars and Jupiter, and bodies of ice and dust in the Kuiper belt and Oort cloud beyond Neptune.
 
-1. The frost line marks the distance from the sun beyond which temperatures were cool enough to allow ice to form. This helps to explain why the terrestrial planets are closer to the sun, and the Jovian and ice giant planets farther away. Mineral grains could solidify and begin to accrete closer to the sun, forming terrestrial planets, because they have higher melting points. In contrast, water vapour, methane, and ammonia had to be farther from the sun before they could freeze and begin to accrete.
+5. The frost line marks the distance from the sun beyond which temperatures were cool enough to allow ice to form. This helps to explain why the terrestrial planets are closer to the sun, and the Jovian and ice giant planets farther away. Mineral grains could solidify and begin to accrete closer to the sun, forming terrestrial planets, because they have higher melting points. In contrast, water vapour, methane, and ammonia had to be farther from the sun before they could freeze and begin to accrete.
 
-1. Planets are defined as having cleared their orbits of debris. Pluto is located within the Kuiper belt, so it shares its orbit with other objects. There are two other criteria in the definition of a planet: planets in our solar system must orbit the sun, and they must have a spherical shape. Pluto satisfies both these criteria, but sadly the people deciding whether or not Pluto should be a planet are not amenable to a "best two out of three" compromise.
+6. Planets are defined as having cleared their orbits of debris. Pluto is located within the Kuiper belt, so it shares its orbit with other objects. There are two other criteria in the definition of a planet: planets in our solar system must orbit the sun, and they must have a spherical shape. Pluto satisfies both these criteria, but sadly the people deciding whether or not Pluto should be a planet are not amenable to a "best two out of three" compromise.
 
-1. Differentiation is the separation of materials within a planet such that dense materials sink to the core. In Earth's case, the denser materials are iron and nickel.
+7. Differentiation is the separation of materials within a planet such that dense materials sink to the core. In Earth's case, the denser materials are iron and nickel.
 
-1. The fact that we have terrestrial planets close to the sun makes sense in terms of the frost line, but it does not seem to be a hard-and-fast rule in other planetary systems. Therefore, we can't conclude from Kepler-452b's position alone that it is a terrestrial planet.
+8. The fact that we have terrestrial planets close to the sun makes sense in terms of the frost line, but it does not seem to be a hard-and-fast rule in other planetary systems. Therefore, we can't conclude from Kepler-452b's position alone that it is a terrestrial planet.
 
-1. The rules of the accretion game mean that there are many complex interactions, so even a small difference in the starting conditions or in how the game goes in the beginning could have major implications in the end. For that reason, we shouldn't expect to find a planetary system that matches ours in every minute detail. However, just because we haven't found a similar planetary system does not mean one does not exist. Our planet-finding methods are biased toward discovering large planets orbiting close to their stars, whereas our solar system has small planets close to the sun and larger ones farther away. That doesn't mean our methods won't eventually turn up a system like ours, just that they are more likely to turn up systems that are different.
+9. The rules of the accretion game mean that there are many complex interactions, so even a small difference in the starting conditions or in how the game goes in the beginning could have major implications in the end. For that reason, we shouldn't expect to find a planetary system that matches ours in every minute detail. However, just because we haven't found a similar planetary system does not mean one does not exist. Our planet-finding methods are biased toward discovering large planets orbiting close to their stars, whereas our solar system has small planets close to the sun and larger ones farther away. That doesn't mean our methods won't eventually turn up a system like ours, just that they are more likely to turn up systems that are different.
 
 ## References
 
