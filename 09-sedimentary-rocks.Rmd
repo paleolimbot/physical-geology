@@ -178,7 +178,7 @@ Chemical and biochemical sedimentary rocks are classified based on the minerals 
 ### Carbonate Rocks
 
 
-Carbonate rocks are those in which the dominant mineral contains the carbonate anion (CO<sub>3</sub>^2-^). The main carbonate minerals are calcite and aragonite. Both minerals have the formula CaCO<sub>3</sub> but they have different crystal structures. A less common carbonate mineral that is still important for forming carbonate rocks is dolomite, which has the formula CaMg(CO<sub>3</sub>)<sub>2</sub>. It is similar to calcite and aragonite, except that some of the calcium is replaced with magnesium. Dolomite is more common as a replacement mineral, which has replaced calcite in carbonate rocks.
+Carbonate rocks are those in which the dominant mineral contains the carbonate anion (CO~3~^2-^). The main carbonate minerals are calcite and aragonite. Both minerals have the formula CaCO~3~ but they have different crystal structures. A less common carbonate mineral that is still important for forming carbonate rocks is dolomite, which has the formula CaMg(CO~3~)~2~. It is similar to calcite and aragonite, except that some of the calcium is replaced with magnesium. Dolomite is more common as a replacement mineral, which has replaced calcite in carbonate rocks.
 
 #### Limestone
 
@@ -187,7 +187,7 @@ __Limestone__ is comprised of calcite and aragonite. It can occur as a chemical 
 
 Almost all limestone forms in marine (i.e., oceans or salty seas) environments, and most of that forms on the shallow continental shelves, especially in tropical regions with coral reefs. Today continental shelves are relatively narrow zones along the margins of continents, but for large parts of geologic history sea-level was much higher, and large parts of the interiors of continents were flooded.
 
-Reefs are highly productive ecosystems populated by a wide range of organisms, many of which use calcium and bicarbonate ions from seawater to make carbonate minerals (especially calcite) for their shells and other structures. These include corals as well as green and red algae, urchins, sponges, molluscs, and crustaceans. Some of micro-organisms use CaCO<sub>3</sub> to build tiny __tests__ (shells) which accumulate on the ocean floor when these organisms die. Erosion can break all of these carbonate materials apart, scattering fragments throughout surrounding region (Figure \@ref(fig:figure-9-9)).
+Reefs are highly productive ecosystems populated by a wide range of organisms, many of which use calcium and bicarbonate ions from seawater to make carbonate minerals (especially calcite) for their shells and other structures. These include corals as well as green and red algae, urchins, sponges, molluscs, and crustaceans. Some of micro-organisms use CaCO~3~ to build tiny __tests__ (shells) which accumulate on the ocean floor when these organisms die. Erosion can break all of these carbonate materials apart, scattering fragments throughout surrounding region (Figure \@ref(fig:figure-9-9)).
 
 
 ```{r figure-9-9, fig.cap='Various corals and green algae on a reef at Ambergris, Belize. The light-coloured sand consists of carbonate fragments eroded from the reef organisms. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/corals.png)_'}
@@ -235,14 +235,14 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 #### Dolostone
 
 
-__Dolostone__ (also referred to as dolomite) is the carbonate rock made of the mineral dolomite (CaMg(CO<sub>3</sub>)<sub>2</sub>). Dolostone is quite common (there’s a whole Italian mountain range named after it), which is surprising because marine organisms do not precipitate dolomite. Dolomite forms through __dolomitization__, a process thought to involve chemical reactions between magnesium-rich water percolating through rocks, and sediments containing calcite.
+__Dolostone__ (also referred to as dolomite) is the carbonate rock made of the mineral dolomite (CaMg(CO~3~)~2~). Dolostone is quite common (there’s a whole Italian mountain range named after it), which is surprising because marine organisms do not precipitate dolomite. Dolomite forms through __dolomitization__, a process thought to involve chemical reactions between magnesium-rich water percolating through rocks, and sediments containing calcite.
 
 Calcite and dolomite can be distinguished from one another by applying a drop of weak acid to the rock; calcite will react with weak acid, whereas dolomite will not. Also, when dolomite weathers, it tends to turn buff (tan) in colour, whereas calcite tends toward grey and white.
 
 ### Chert
 
 
-Chert is made of silica (SiO<sub>2</sub>). It has the same chemical formula as quartz, but is __cryptocrystalline__, meaning that the quartz crystals comprising chert are so small that it is difficult to see them even under a microscope. Chert can be a chemical sedimentary rock, often forming as beds within limestone (Figure \@ref(fig:figure-9-14)), or as irregular lenses or blobs (nodules). It can also be biochemical. Some tiny marine organisms (e.g., diatoms and radiolaria) make their tests from silica. When they die their tiny shells (or tests) settle slowly to the bottom of the lake or ocean, where they accumulate and are transformed into chert.
+Chert is made of silica (SiO~2~). It has the same chemical formula as quartz, but is __cryptocrystalline__, meaning that the quartz crystals comprising chert are so small that it is difficult to see them even under a microscope. Chert can be a chemical sedimentary rock, often forming as beds within limestone (Figure \@ref(fig:figure-9-14)), or as irregular lenses or blobs (nodules). It can also be biochemical. Some tiny marine organisms (e.g., diatoms and radiolaria) make their tests from silica. When they die their tiny shells (or tests) settle slowly to the bottom of the lake or ocean, where they accumulate and are transformed into chert.
 
 
 ```{r figure-9-14, fig.cap='Chert (brown layers) interbedded with limestone, Triassic Quatsino Fm, Quadra Island, BC. All of the layers have been folded, and the chert, being more resistant to weathering than limestone, stands out. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Chert.png)_'}
@@ -290,7 +290,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 <div>
 <div>
 
-Although all evaporite deposits are unique because of differences in the chemistry of the water, in most cases minor amounts of carbonates start to precipitate when the solution is reduced to about 50% of its original volume. Gypsum (CaSO<sub>4</sub>·H<sub>2</sub>O) precipitates at about 20% of the original volume, and halite (NaCl) precipitates at 10%. Other important evaporite minerals include sylvite (KCl) and borax (Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>·10H<sub>2</sub>O). Sylvite is mined as potash at numerous locations across Saskatchewan from evaporites that formed during the Devonian (~385 Ma) when an inland sea occupied much of the region.
+Although all evaporite deposits are unique because of differences in the chemistry of the water, in most cases minor amounts of carbonates start to precipitate when the solution is reduced to about 50% of its original volume. Gypsum (CaSO~4~·H~2~O) precipitates at about 20% of the original volume, and halite (NaCl) precipitates at 10%. Other important evaporite minerals include sylvite (KCl) and borax (Na~2~B~4~O~7~·10H~2~O). Sylvite is mined as potash at numerous locations across Saskatchewan from evaporites that formed during the Devonian (~385 Ma) when an inland sea occupied much of the region.
 
 
 
@@ -320,7 +320,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 ## Organic Sedimentary Rocks
 
-Organic sedimentary rocks are those containing large quantities of organic molecules. Organic molecules contain carbon, but in this context we are referring specifically to molecules with carbon-hydrogen bonds, such as materials from the soft tissues of plants and animals. In other words, the carbon in calcite- CaCO<sub>3</sub> wouldn’t make calcite an organic mineral because it isn’t bonded to hydrogen.
+Organic sedimentary rocks are those containing large quantities of organic molecules. Organic molecules contain carbon, but in this context we are referring specifically to molecules with carbon-hydrogen bonds, such as materials from the soft tissues of plants and animals. In other words, the carbon in calcite- CaCO~3~ wouldn’t make calcite an organic mineral because it isn’t bonded to hydrogen.
 
 An important organic sedimentary rock is coal. Most coal forms in swampy land adjacent to rivers and within deltas, and where climates are humid and tropical to temperate. The vigorous growth of vegetation leads to an abundance of organic matter that accumulates within stagnant, acidic water. This limits decay and oxidation of the organic material. If this situation—where the dead organic matter is submerged in oxygen-poor water—is maintained for centuries to millennia, a thick layer of material can accumulate. Limited decay will transform this layer into __peat __(Figure \@ref(fig:figure-9-18)a, Figure \@ref(fig:figure-9-19) upper left).
 

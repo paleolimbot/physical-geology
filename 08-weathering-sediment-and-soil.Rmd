@@ -178,7 +178,7 @@ Chemical weathering results from chemical changes to minerals that become unstab
 
 __Dissolution__ reactions produce ions, but no minerals, and are reversible if the solvent is removed. A household example would be dissolving a teaspoon of table salt (the mineral halite) in a glass of water. The halite will separate into Na^+^ and Cl^-^ ions. If the water in the glass is allowed to evaporate, there will not be enough water molecules to hold the Na^+^ and Cl^-^ ions apart, and the ions will come together again to form halite. Gypsum and anhydrite are other minerals that will dissolve in water alone.
 
-Other minerals, such as calcite, will dissolve in acidic water. Acidic water is common in nature, because carbon dioxide (CO<sub>2</sub>) in the atmosphere reacts with water vapour in the atmosphere, and with water on land and in the oceans to produce carbonic acid (Figure \@ref(fig:figure-8-9)).
+Other minerals, such as calcite, will dissolve in acidic water. Acidic water is common in nature, because carbon dioxide (CO~2~) in the atmosphere reacts with water vapour in the atmosphere, and with water on land and in the oceans to produce carbonic acid (Figure \@ref(fig:figure-8-9)).
 
 
 ```{r figure-8-9, fig.cap='Calcite weathering by dissolution. Top: Carbon dioxide reacts with water to make acid. Bottom: Acid reacts with calcite and produces ions. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Modified after [What-When-How](http://what-when-how.com/paramedic-care/ventilation-clinical-essentials-paramedic-care-part-2/). Molecules from [JMSE Molecular Editor](http://biomodel.uah.es/en/DIY/JSME/draw.en.htm), Bienfait and Ertl (2013), with permission for CC BY-NC-SA use._'}
@@ -186,7 +186,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 ```
 
 
-While rainwater and atmospheric CO<sub>2</sub> can combine to create carbonic acid, the amount of CO<sub>2</sub> in the air is enough to make only very weak carbonic acid. In contrast, biological processes acting in soil can result in a much higher concentration of CO<sub>2</sub> within soil, as well as adding organic acids. Water that percolates through the soil can become significantly more acidic.
+While rainwater and atmospheric CO~2~ can combine to create carbonic acid, the amount of CO~2~ in the air is enough to make only very weak carbonic acid. In contrast, biological processes acting in soil can result in a much higher concentration of CO~2~ within soil, as well as adding organic acids. Water that percolates through the soil can become significantly more acidic.
 
 Calcite is a major component of the sedimentary rock called limestone (typically more than 95%). In the presence of acidic groundwater, limestone can dissolve underground. Over time the dissolution can remove enough of the calcite to form caves.
 
@@ -218,7 +218,7 @@ Silicate minerals other than feldspar can undergo hydrolysis, but with different
 #### Hydration
 
 
-Hydration reactions involve water being added to the chemical structure of a mineral. An example of a hydration reaction is when anhydrite (CaSO<sub>4</sub>) is transformed into gypsum (CaSO<sub>4</sub>·2H<sub>2</sub>O). A consequence of hydration is that the resulting mineral has a greater volume than the original mineral. In the case of the Mosul Dam, hydration of anhydrite has important consequences. The increase in volume applied force to an overlying limestone layer, breaking it into pieces. While unbroken limestone is a strong enough material upon which to build a foundation, broken limestone is too weak to provide a safe foundation.
+Hydration reactions involve water being added to the chemical structure of a mineral. An example of a hydration reaction is when anhydrite (CaSO~4~) is transformed into gypsum (CaSO~4~·2H~2~O). A consequence of hydration is that the resulting mineral has a greater volume than the original mineral. In the case of the Mosul Dam, hydration of anhydrite has important consequences. The increase in volume applied force to an overlying limestone layer, breaking it into pieces. While unbroken limestone is a strong enough material upon which to build a foundation, broken limestone is too weak to provide a safe foundation.
 
 #### Oxidation
 
@@ -226,9 +226,9 @@ Hydration reactions involve water being added to the chemical structure of a min
 __Oxidation __happens when free oxygen (i.e., oxygen not bound up in molecules with other elements) is involved in chemical reactions. Oxidation reactions provide valuable insight into Earth’s early surface conditions because there is a clear transition in the rock record from rocks containing no minerals that are products of oxidation reactions, to rocks containing abundant minerals produced by oxidation. This reflects a transition from an oxygen-free atmosphere to an oxygenated one.
 
 In iron-rich minerals such as olivine, the oxidation reaction begins with taking iron out of the mineral and putting it into solution as an ion. Olivine reacts with carbonic acid, leaving dissolved iron, bicarbonate, and silicic acid:
-<p style="text-align: center">Fe<sub>2</sub>SiO<sub>4</sub> + 4H<sub>2</sub>CO<sub>3 </sub>→ 2Fe^<sub>2</sub>+^ + 4HCO<sub>3</sub>^-^ + H<sub>4</sub>SiO<sub>4</sub></p>
+<p style="text-align: center">Fe~2~SiO~4~ + 4H~2~CO<sub>3 </sub>→ 2Fe^~2~+^ + 4HCO~3~^-^ + H~4~SiO~4~</p>
 Iron and oxygen dissolved in water react in the presence of bicarbonate to produce hematite and carbonic acid:
-<p style="text-align: center">2Fe^<sub>2</sub>+^ + ½ O<sub>2</sub> + 2H<sub>2</sub>O + 4HCO<sub>3</sub>^-^ → Fe<sub>2</sub>O<sub>3 </sub>+ 4H<sub>2</sub>CO<sub>3</sub></p>
+<p style="text-align: center">2Fe^~2~+^ + ½ O~2~ + 2H~2~O + 4HCO~3~^-^ → Fe~2~O<sub>3 </sub>+ 4H~2~CO~3~</p>
 When the olivine in basalt is oxidized, the basalt takes on a reddish colour that is distinct from the dark grey or black of unweathered basalt (Figure \@ref(fig:figure-8-12)).
 
 
@@ -239,7 +239,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 ```
 
 
-The oxidation reaction would be similar for other iron-containing silicate minerals such as pyroxene, amphibole, and biotite. Iron in sulphide minerals such as pyrite (FeS<sub>2</sub>) can also be oxidized in this way.
+The oxidation reaction would be similar for other iron-containing silicate minerals such as pyroxene, amphibole, and biotite. Iron in sulphide minerals such as pyrite (FeS~2~) can also be oxidized in this way.
 
 Hematite is not the only mineral that can result from oxidation. In fact, a wide range of iron oxide minerals that can form in this way, In granite, for example, biotite and amphibole can be altered to form the iron oxide and iron hydroxyoxide minerals that are referred to in combination as __limonite__ (orange material in Figure \@ref(fig:figure-8-13)).
 
@@ -253,7 +253,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 
 
 Oxidation reactions can pose an environmental problem in areas where rocks have elevated levels of sulphide minerals such as pyrite. This is because when oxygen and water react with pyrite, sulphuric acid is produced:
-<p style="text-align: center">2FeS<sub>2</sub> + 7O<sub>2</sub> + 2H<sub>2</sub>O → 2FeSO<sub>4</sub> + 2H<sub>2</sub>SO<sub>4</sub></p>
+<p style="text-align: center">2FeS~2~ + 7O~2~ + 2H~2~O → 2FeSO~4~ + 2H~2~SO~4~</p>
 The runoff from areas where this process is taking place is known as __acid rock drainage__ (ARD), and even a rock with 1% or 2% pyrite can produce significant ARD. Some of the worst examples of ARD are at metal mine sites, especially where pyrite-bearing rock and waste material have been mined from deep underground, and then piled up and left exposed to water and oxygen. In these cases the problem is referred to as __acid mine drainage__. One example is the Mt. Washington Mine near Courtenay on Vancouver Island (Figure \@ref(fig:figure-8-12)), but there are many similar sites across Canada and around the world.
 
 
@@ -511,7 +511,7 @@ Parent material for soils can be any type of bedrock, and any type of unconsolid
 
 Sandy soils develop from quartz-rich parent material, such as granite, sandstone, or loose sand. Quartz-poor material, such as shale or basalt, generates soils with little sand.
 
-Parent materials provide important nutrients to residual soils. For example, a minor constituent of granitic rocks is the calcium-phosphate mineral apatite, which is a source of the important soil nutrient phosphorus. Basaltic parent material tends to generate very fertile soils because, in addition to phosphorus, it provides significant amounts of iron, magnesium, and calcium. The iron, magnesium, and calcium come from minerals such as olivine ((Mg,Fe)<sub>2</sub>SiO<sub>4</sub>) and plagioclase feldspar (CaAl<sub>2</sub>Si<sub>2</sub>O<sub>8</sub>) in the basalt.
+Parent materials provide important nutrients to residual soils. For example, a minor constituent of granitic rocks is the calcium-phosphate mineral apatite, which is a source of the important soil nutrient phosphorus. Basaltic parent material tends to generate very fertile soils because, in addition to phosphorus, it provides significant amounts of iron, magnesium, and calcium. The iron, magnesium, and calcium come from minerals such as olivine ((Mg,Fe)~2~SiO~4~) and plagioclase feldspar (CaAl~2~Si~2~O~8~) in the basalt.
 
 Some unconsolidated materials, such as river-flood deposits, make for especially good soils because they tend to be rich in clay minerals. Clay minerals have large surface areas with negative charges that are attractive to positively charged elements like calcium, magnesium, iron, and potassium — important nutrients for plant growth.
 
@@ -825,8 +825,8 @@ The geological component of the carbon cycle affects Earth's climate over the lo
 <ol>
  	<li>What must happen to a body of rock before exfoliation can occur?</li>
  	<li>Saskatchewan's climate is consistently cold in the winter and consistently warm in the summer. What times of year would frost wedging to be an important weathering mechanism?</li>
- 	<li>What are the products of the hydrolysis of the feldspar albite (NaAlSi<sub>3</sub>O<sub>8</sub>)?</li>
- 	<li>Oxidation weathering of pyrite (FeS<sub>2</sub>) can lead to acid rock drainage (ARD). What are the environmental impacts of ARD?</li>
+ 	<li>What are the products of the hydrolysis of the feldspar albite (NaAlSi~3~O~8~)?</li>
+ 	<li>Oxidation weathering of pyrite (FeS~2~) can lead to acid rock drainage (ARD). What are the environmental impacts of ARD?</li>
  	<li>Imagine that you and a friend encounter an old graveyard on a walk through the forest. You see a granite tombstone with the date 1705 carved into it. The tombstone next to it is too badly weathered to read the date. Your friend looks at the badly weathered stone and declares, "Look how weathered this stone is! It must be from _way_ before 1705." Do you agree?</li>
  	<li>Many sand deposits are dominated by quartz, with very little feldspar. What weathering and erosion conditions are required to get feldspar-rich sand?</li>
  	<li>What ultimately happens to most of the clay that forms during the hydrolysis of silicate minerals?</li>
@@ -844,7 +844,7 @@ The geological component of the carbon cycle affects Earth's climate over the lo
 <ol>
  	<li>Rock must be exposed at surface. It has to be uplifted from where it formed deep in the crust, and the material on top has to be eroded.</li>
  	<li>Frost wedging is most effective when temperatures swing between freezing and thawing from day to day. In Saskatchewan that happens consistently in the early spring and late fall.</li>
- 	<li>The feldspar albite (NaAlSi<sub>3</sub>O<sub>8</sub>) will be converted to a clay (such as kaolinite) and sodium ions in solution.</li>
+ 	<li>The feldspar albite (NaAlSi~3~O~8~) will be converted to a clay (such as kaolinite) and sodium ions in solution.</li>
  	<li>Acid rock drainage (ARD) creates acidic stream runoff. It also increases the solubility of a wide range of metals, some of which are toxic to wildlife and humans.</li>
  	<li>If the stones are both granite, then it would be reasonable to conclude that the badly weathered tombstone is much older than the other, because it has been exposed to weathering for much longer. On the other hand, if the badly weathered stone is a rock that is less resistant to weathering, like limestone, then the badly weathered stone could be the same age, or even younger than the granite one.</li>
  	<li>Feldspar-rich sand is formed where granitic rocks are being weathered and where mechanical weathering predominates over chemical weathering. For a deposit of feldspar-rich sand to be preserved, the sand must be deposited close to its source to limit the opportunities for chemical weathering.</li>

@@ -115,7 +115,7 @@ Two key areas of research ultimately led to the acceptance of continental drift,
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0151.png")
 ```
 
-When rocks form, some of the minerals that make them up can become aligned with the Earth's magnetic field, just like a compass needle pointing to north. This happens to the mineral magnetite (Fe<sub>3</sub>O<sub>4</sub>) when it crystallizes from magma. Once the rock cools the crystals are locked in place. This means that if the rock moves, the crystals can't realign themselves, and they retain a __remnant magnetism__. This would be like jamming your compass needle so that if you turned away from north, the needle would turn with you rather than continuing to point north.
+When rocks form, some of the minerals that make them up can become aligned with the Earth's magnetic field, just like a compass needle pointing to north. This happens to the mineral magnetite (Fe~3~O~4~) when it crystallizes from magma. Once the rock cools the crystals are locked in place. This means that if the rock moves, the crystals can't realign themselves, and they retain a __remnant magnetism__. This would be like jamming your compass needle so that if you turned away from north, the needle would turn with you rather than continuing to point north.
 
 Rocks like basalt, which cool from a high temperature and commonly have relatively high levels of magnetite, are particularly susceptible to being magnetized in this way. However, even sediments and sedimentary rocks can take on remnant magnetism as long as they have small amounts of magnetic minerals, because the magnetic grains can gradually become lined up with Earth's magnetic field as the sediments are deposited.
 

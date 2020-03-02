@@ -100,7 +100,7 @@ Volcanic eruptions produce three types of materials: gas, lava, and fragmented d
 
 Magma contains gas. At high pressures, the gases are dissolved within magma. However, if the pressure decreases, the gas comes out of solution, forming bubbles. This process is analogous to what happens when a pop bottle is opened. Pop is bottled under pressure, forcing carbon dioxide gas to dissolve into the fluid. As a result, a bottle of pop that you find on the supermarket shelf will have few to no bubbles. If you open the bottle, you decrease the pressure within it. The pop will begin to fizz as carbon dioxide gas comes out of solution and forms bubbles.
 
-The main component of volcanic gas emissions is water vapour, followed by carbon dioxide (CO<sub>2</sub>), sulphur dioxide (SO<sub>2</sub>), and hydrogen sulphide (H<sub>2</sub>S).
+The main component of volcanic gas emissions is water vapour, followed by carbon dioxide (CO~2~), sulphur dioxide (SO~2~), and hydrogen sulphide (H~2~S).
 
 Volcanoes release gases when erupt, and through openings called __fumaroles __(Figure \@ref(fig:figure-11-7)). They can also release gas into soil and groundwater.
 
@@ -659,7 +659,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09
 
 In 2005 U. S. Geological Survey geologist Chris Newhall made a list of the six most important signs of an imminent volcanic eruption. They are:
 <ol>
- 	<li>_Gas leaks_ — the release of gases (mostly H<sub>2</sub>O, CO<sub>2</sub>, and SO<sub>2</sub>) from the magma into the atmosphere through cracks in the overlying rock</li>
+ 	<li>_Gas leaks_ — the release of gases (mostly H~2~O, CO~2~, and SO~2~) from the magma into the atmosphere through cracks in the overlying rock</li>
  	<li>_Bulging_ — the deformation of part of the volcano, indicating that a magma chamber at depth is swelling or becoming more pressurized</li>
  	<li>_Seismicity_ — many (hundreds to thousands) of small earthquakes, indicating that magma is on the move. The quakes may be the result of the magma forcing the surrounding rocks to crack, or a harmonic vibration that is evidence of magmatic fluids moving underground.</li>
  	<li>_Seismicity ceases_ — a sudden decrease in the rate of earthquake activity. This may indicate that magma has stalled, and that\ something is about to give way</li>
@@ -684,7 +684,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ### Detecting Gases
 
 
-Water vapour quickly turns into clouds of liquid water droplets and is relatively easy to detect just by looking, but CO<sub>2</sub> and SO<sub>2</sub> are not as obvious. It’s important to be able to monitor changes in the composition of volcanic gases, and we need instruments to do that. Some can be monitored from a distance (from the ground or even from the air) using infrared devices, but to obtain more accurate data, we need to sample the air and do chemical analysis. This can be achieved with instruments placed on the ground close to the source of the gases, or by collecting samples (Figure \@ref(fig:figure-11-43)) and analyzing them in a lab.
+Water vapour quickly turns into clouds of liquid water droplets and is relatively easy to detect just by looking, but CO~2~ and SO~2~ are not as obvious. It’s important to be able to monitor changes in the composition of volcanic gases, and we need instruments to do that. Some can be monitored from a distance (from the ground or even from the air) using infrared devices, but to obtain more accurate data, we need to sample the air and do chemical analysis. This can be achieved with instruments placed on the ground close to the source of the gases, or by collecting samples (Figure \@ref(fig:figure-11-43)) and analyzing them in a lab.
 
 
 ```{r figure-11-43, fig.cap='A geologist collects a gas sample from Sherman Crater, Mt. Baker, Washington. Gas is drawn through a titanium tube inserted in a fumarole, and collected in a glass vacuum flask. _Source: D. Tucker, U. S. Geological Survey (2006) Public Domain [view source](http://www.mbvrc.wwu.edu/images/GasSampling.jpg)_'}
