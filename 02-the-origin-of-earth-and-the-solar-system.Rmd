@@ -116,7 +116,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01
 
 In general, planets can be classified into three categories based on what they are made of (Figure \@ref(fig:figure-2-8)). __Terrestrial planets__ are those planets like Earth, Mercury, Venus, and Mars that have a core of metal surrounded by rock. __Jovian planets __(also called __gas giants__) are those planets like Jupiter and Saturn that consist predominantly of hydrogen and helium. __Ice giants__ are planets such as Uranus and Neptune that consist largely of water ice, methane (CH~4~) ice, and ammonia (NH~3~) ice, and have rocky cores. Often, the ice giant planets Uranus and Neptune are grouped with Jupiter and Saturn as gas giants; however, Uranus and Neptune are very different from Jupiter and Saturn.
 
-
 ```{r figure-2-8, fig.cap='Three types of planets. Jovian (or gas giant) planets such as Jupiter consist mostly of hydrogen and helium. They are the largest of the three types. Ice giant planets such as Uranus are the next largest. They contain water, ammonia, and methane ice, and have rocky cores. Terrestrial planets such as Earth are the smallest, and they have metal cores covered by rocky mantles. _Source: Karla Panchuk (2015) CC BY 4.0. Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/22.8-e1441139905761.png")
 ```
@@ -150,7 +149,6 @@ You would also have to watch out for some dangers:
 - Compare and contrast our solar system with other planetary systems.
 
 #### Winners and Losers
-
 
 The outcome of the game is evident in Figure \@ref(fig:figure-2-9). Today eight official winners are recognized, with Jupiter taking the grand prize, followed closely by Saturn. Both planets have trophy cases with more than 60 moons each, and each has a moon that is larger than Mercury. Prior to 2006, Pluto was also counted a winner, but in 2006 a controversial decision revoked Pluto's planet status. The reason was a newly formalized definition of a planet, which stated that an object can only be considered a planet if it is massive enough to have swept its orbit clean of other bodies. Pluto is situated within the icy clutter of the Kuiper belt, so it does not fit this definition.
 

@@ -41,7 +41,6 @@ We need to know something about the inside of our planet— what it’s made of,
 
 Earth consists of three main layers: the __crust__, the __mantle__, and the __core __(Figure \@ref(fig:figure-3-4)). The core accounts for almost half of Earth's radius, but it amounts to only 16.1% of Earth's volume. Most of Earth's volume (82.5%) is its mantle, and only a small fraction (1.4%) is its crust.
 
-
 ```{r figure-3-4, fig.cap='Earth\'s interior. Right- crust, mantle, and outer and inner core to scale. Left- Cutaway showing continental and ocean crust, and upper mantle layers. The lithosphere is the crust plus the uppermost layer of the mantle. _Source: Karla Panchuk (2018) CC BY 4.0. Earth photo by NASA (n.d.) Public Domain [view source](https://www.nasa.gov/sites/default/files/thumbnails/image/edu_what_is_earth_0.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/earth_interior-1024x617.png")
 ```
@@ -280,7 +279,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 The topics covered in this chapter can be summarized as follows:
 
 ### Earth's Layers
-
 
 Earth is divided into a rocky crust and mantle, and a core consisting largely of iron. The crust and the uppermost mantle form the lithosphere, which is broken into tectonic plates. The next layer, the asthenosphere, allows the plates to move because it deforms by flowing.
 

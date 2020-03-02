@@ -3,20 +3,15 @@
 
 _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
 
-
-
 ```{r figure-12-1, fig.cap='Demolition of a structure damaged when an earthquake of magnitude 6.3 struck Christchurch, New Zealand on February 22, 2011. Many structures had already sustained damage from an earthquake that struck six months earlier, in September of 2010. Collapsing structures and falling debris accounted for most of the 185 deaths. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Photograph: Terry Philpott (2012) CC BY-NC 2.0 [view source](https://flic.kr/p/dPBShT). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Christchurch_demo.png")
 ```
-
 
 <div class="bcc-box bcc-highlight">
 
 ##### Learning Objectives {-}
 
-
 After reading this chapter, and answering the review questions at the end, you should be able to:
-
 
 - Explain how elastic deformation of Earth's crust results in earthquakes.
 - Describe how the main shock and immediate aftershocks define the rupture surface of an earthquake, and explain how the transfer of stress to other parts of a fault is related to aftershocks.
@@ -26,19 +21,15 @@ After reading this chapter, and answering the review questions at the end, you s
 - Describe the hazards caused by earthquakes, including ground shaking, fires, slope failures, liquefaction, and tsunami.
 - Explain how the risk of an earthquake can be assessed, and describe steps that governments and individuals can take to minimize the impacts of earthquakes.
 
-
 </div>
 
 ### Why Study Earthquakes?
 
-
 On the morning of June 23, 1946, a magnitude 7.3 earthquake struck Vancouver Island. It caused substantial damage to structures, including the school shown in Figure \@ref(fig:figure-12-2), and resulting in one fatality. The shaking was so violent that the seismograph measuring the earthquake in Victoria was broken a few seconds after the earthquake started. Even if the seismograph had survived, it was not sensitive enough to provide sufficiently detailed information about local earthquakes, and was unable to record some of them at all. There was only one monitoring station in British Columbia, so while it was possible to determine how far away the earthquake was from the station, geologists were not able to say in which direction. In 1955, Canadian seismologist W. G. Milne wrote that "the 1946 earthquake indicated in a very forceful manner the need for better instruments for the study of earthquakes in British Columbia." A network of improved instruments was established as a direct result of the earthquake.
-
 
 ```{r figure-12-2, fig.cap='Damage to an elementary school in Courtenay, British Columbia after a magnitude 7.3 earthquake on Sunday, June 23, 1946. Left: A hole left after the chimney collapsed through the roof. Right: Damage inside the school. In addition to damaging structures, the earthquake triggered numerous slope failures. _Source: Photographs courtesy of Earthquakes Canada. Click the image for image sources and terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Vancouver_Island_nomap.png")
 ```
-
 
 Time and time again earthquakes have caused massive damage and many, many casualties. Recording earthquakes and determining their location of origin is important for establishing what geological conditions are responsible for the earthquakes, and understanding the risk they pose. After new, more sensitive instruments were installed at the Dominion Astrophysical Observatory in Victoria, geologists quickly learned that they had underestimated earthquake activity in the area. Between June of 1948 and August of 1951, 224 local earthquakes were recorded!
 
@@ -46,12 +37,10 @@ By studying earthquakes, geoscientists and engineers are making progress toward 
 
 ###### Additional Resources
 
-
 <div>Lamontagne, M., Halchuk, S., Cassidy, J. F., and Rogers, G. C (2008) Significant Canadian Earthquakes of the Period 1600 - 2008. _Seismological Research Letters 79_(2), 211 - 223. doi: 10.1785/gssrl.79.2.211 [Read the paper](https://openpress.usask.ca/app/uploads/sites/29/2017/11/SRL2008_Lamontagne_etal.pdf)</div>
 Detailed description of the effects of the 1946 earthquake: Hodgson, E. A. (1946). British Columbia Earthquake, June 23, 1946. _The Journal of the Royal Astronomical Society of Canada XL_(8), 285 - 319. [Read the paper ](https://openpress.usask.ca/app/uploads/sites/29/2017/11/1946JRASC__40__285H.pdf)
 
 ###### References
-
 
 Milne, W. G. (1955). Seismology in British Columbia. _The Journal of the Royal Astronomical Society of Canada XLIX_(4), 141 - 150. [Read the paper](https://openpress.usask.ca/app/uploads/sites/29/2017/11/1955JRASC__49__141M.pdf)
 
@@ -59,9 +48,7 @@ Ministry for Culture and Heritage (2017). Christchurch earthquake kills 185. [Vi
 
 ## What is an Earthquake?
 
-
 ### Earthquake Shaking Comes from Elastic Deformation
-
 
 Earthquakes occur when rock __ruptures__ (breaks), causing rocks on one side of a fault to move relative to the rocks on the other side. Although motion along a fault is part of what happens when an earthquake occurs, rocks grinding past each other is not what creates the shaking. In fact, it could be said that the earthquake happens _after _rocks have undergone most of the displacement. Consider this: if rocks slide a few centimetres or even metres along a fault, would that motion _alone_ explain the incredible damage caused by some earthquakes? If you were in a car that suddenly accelerated then stopped, you would feel a jolt. But earthquakes are not a single jolt. Buildings can swing back and forth until they shake themselves to pieces, train tracks can buckle and twist into s-shapes, and roads can roll up and down like waves on the ocean. During an earthquake, rock is not only slipping. It is also vibrating like a plucked guitar string.
 
@@ -69,26 +56,21 @@ Rocks might seem rigid, but when stress is applied they may stretch. If there ha
 
 Figure \@ref(fig:figure-12-3) (top) shows this sequence of events. Stress is applied to a rock and deforms it. The deformed rock ruptures, forming a fault. After rupturing, the rock above and below the fault snaps back to the shape it had before deformation.
 
-
 ```{r figure-12-3, fig.cap='Elastic deformation, rupture, and elastic rebound. Top: Stress applied to a rock causes it to deform by stretching. When the stress becomes too much for the rock, it ruptures, forming a fault. The rock snaps back to its original shape in a process called elastic rebound. Bottom: On an existing fault, asperities keep rocks on either side of the fault from sliding. Stress deforms the rock until the asperities break, releasing the stress, and causing the rocks to spring back to their original shape. _Source: Karla Panchuk (2017) CC BY 4.0. Modified after Steven Earle (2015) CC BY 4.0 [view original](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/elastic-deformation-and-rupture.png)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Elastic_rebound-1024x770.png")
 ```
-
 
 Ruptures can also occur along pre-existing faults (Figure \@ref(fig:figure-12-3), bottom). The rocks on either side of the fault are locked together because bumps along the fault, called __asperities__, prevent the rocks from moving relative to each other. When the stress is great enough to break the asperities, the rocks on either side of the fault can slide again. While the rocks are locked together, stress can cause elastic deformation. When asperities break and release the stress, the rocks undergo elastic rebound and return to their original shape.
 
 ### Rupture Surfaces Are Where the Action Happens
 
-
 Images like 12.3 are useful for illustrating elastic deformation and rupture, but they can be misleading. The rupture that happens doesn't occur as in 12.3, with the block being ruptured through and through. The rupture and displacement only happen along a subsection of a fault, called the __rupture surface__. In Figure \@ref(fig:figure-12-4), the rupture surface is the dark pink patch. It takes up only a part of the __fault plane__ (lighter pink). The fault plane represents the surface where the fault exists, and where ruptures have happened in the past. Although the fault plane is drawn as being flat in Figure \@ref(fig:figure-12-4), faults are not actually perfectly flat.
 
 The location on the fault plane where the rupture happens is called the __hypocentre__ or __focus__ of the earthquake (Figure \@ref(fig:figure-12-4), right). The location on Earth's surface immediately above the hypocentre is the __epicentre__ of the earthquake.
 
-
 ```{r figure-12-4, fig.cap='Rupture surface (dark pink), on a fault plane (light pink). The diagram represents a part of the crust that may be tens or hundreds of kilometres long. The rupture surface is the part of the fault plane along which displacement occurred. Left: In this example, the near side of the fault is moving to the left, and the lengths of the arrows within the rupture surface represent relative amounts of displacement. Coloured arrows represent propagation of failure on a rupture surface. In this case, the failure starts at the dark blue heavy arrow and propagates outward, reaching the left side first (green arrows) and the right side last (yellow arrows). Right: An earthquake\'s location can be described in terms of its hypocentre (or focus), the location on the fault plane where the rupture happens, or in terms of its epicentre (red star), the location above the hypocentre. _Source: Left: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2016/07/rupture-surface.png). Right: Karla Panchuk (2017) CC BY 4.0.<br>_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Rupture_focus_epicentre-1024x301.png")
 ```
-
 
 Within the rupture surface, the amount of displacement varies. In Figure \@ref(fig:figure-12-4), the larger arrows indicate where there has been more displacement, and the smaller arrows where there has been less. Beyond the edge of the rupture surface there is no displacement at all. Notice that this particular rupture surface doesn't even extend to the land surface of the diagram.
 
@@ -100,39 +82,31 @@ Depending on the extent of the rupture surface, the propagation of __failures__ 
 
 ### Shifting Stress Causes Foreshocks and Aftershocks
 
-
 Earthquakes don't usually occur in isolation. There is often a sequence in which smaller earthquakes occur prior to a larger one, and then progressively smaller earthquakes occur after. The largest earthquake in the series is the __mainshock__. The smaller ones that come before are __foreshocks__, and the smaller ones that come after are __aftershocks__. These descriptions are relative, so it can be necessary to reclassify an earthquake. For example, the strongest earthquake in a series is classified as the mainshock, but if another even bigger one comes after it, the bigger one is called the mainshock, and the earlier one is reclassified as an aftershock.
 
 A rupture surface does not fail all at once. A rupture in one place leads to another, which leads to another. Aftershocks and foreshocks represent the same thing, except on a much larger scale. The rupture illustrated in Figure \@ref(fig:figure-12-4) reduced stress in one area, but in doing so, transferred stress to others (Figure \@ref(fig:figure-12-5)). Imagine a frayed rope breaking strand by strand. When a strand breaks, the tension on that strand is released, but the remaining strands must still hold up the same amount of weight. If another strand breaks under the increased burden, the remaining strands have an even greater burden than before. In the same way that the stress causes one strand after another to fail, a rupture can trigger subsequent ruptures nearby.
-
 
 ```{r figure-12-5, fig.cap='Stress changes related to an earthquake. Stress decreases in the area of the rupture surface, but increases on adjacent parts of the fault. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2016/07/stress-changes-e1439324273866.png)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/stress-changes-e1439324273866.png")
 ```
 
-
 Numerous aftershocks were associated with the magnitude 7.8 earthquake that struck Haida Gwaii in October of 2012 (Figure \@ref(fig:figure-12-6); mainshock in red, aftershocks in white). Some of the stress released by the mainshock was transferred to other nearby parts of the fault, and contributed to a cascade of smaller ruptures. But stress transfer need not be restricted to the fault along which an earthquake happened. It will affect the rocks in general around the site of the earthquake and may lead to increased stress on other faults in the region. The aftershocks from the Haida Gwaii earthquake are scattered rather than located only on the main faults.
-
 
 ```{r figure-12-6, fig.cap='Magnitude 7.8 Haida Gwaii earthquake and aftershocks. Mainshock (red circle marks the epicentre) occurred on October 28th, 2012. Aftershocks are for the period from October 28th to November 10th of 2012. Although the epicentre is near a transform boundary, the rupture was influenced more by compression related to the subduction zone. _Source: Karla Panchuk (2017) CC BY 4.0. Base map with epicentres from the U. S. Geological Survey Latest Earthquakes tool [view interactive map](https://earthquake.usgs.gov/earthquakes/map/#%7B%22autoUpdate%22%3A%5B%5D%2C%22basemap%22%3A%22satellite%22%2C%22feed%22%3A%221510350207999%22%2C%22listFormat%22%3A%22default%22%2C%22mapposition%22%3A%5B%5B50.42601852427907%2C-136.680908203125%5D%2C%5B54.7246201949245%2C-128.331298828125%5D%5D%2C%22overlays%22%3A%5B%22plates%22%5D%2C%22restrictListToMap%22%3A%5B%22restrictListToMap%22%5D%2C%22search%22%3A%7B%22id%22%3A%221510350207999%22%2C%22name%22%3A%22Search%20Results%22%2C%22isSearch%22%3Atrue%2C%22params%22%3A%7B%22starttime%22%3A%222012-10-27%2000%3A00%3A00%22%2C%22endtime%22%3A%222012-11-10%2023%3A59%3A59%22%2C%22maxlatitude%22%3A53.387%2C%22minlatitude%22%3A26.515%2C%22maxlongitude%22%3A-103.23%2C%22minlongitude%22%3A-143.309%2C%22minmagnitude%22%3A2%2C%22orderby%22%3A%22time%22%7D%7D%2C%22sort%22%3A%22newest%22%2C%22timezone%22%3A%22utc%22%2C%22viewModes%22%3A%5B%22list%22%2C%22map%22%2C%22settings%22%5D%2C%22event%22%3Anull%7D). Subduction zone after Wang et al. (2015). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Haida_Gwaii_aftershocks.png")
 ```
 
-
 The effects of stress transfer may not show immediately. Aftershocks can be delayed for hours, days, weeks, or even years. Because stress transfer affects a region, not just a single fault, and because there can be delays between the event that transferred stress and the one that was triggered by the transfer, it can sometimes be hard to be know whether one earthquake is actually associated with another, and whether a foreshock or aftershock should be assigned to a particular mainshock.
 
 ### Episodic Tremor and Slip
-
 
 __Episodic tremor and slip__ (ETS) is periodic slow sliding along part of a subduction boundary. It does not produce recognizable earthquakes, but does produce seismic tremor (observed as rapid seismic vibrations on instruments). It was first discovered on the Vancouver Island part of the Cascadia subduction zone by Geological Survey of Canada geologists Herb Dragert and Gary Rogers.^[Rogers, G. and Dragert, H. (2003). Episodic tremor and slip on the Cascadia subduction zone: The chatter of silent slip. _Science, 300,_ 1942-1943.]
 
 The boundary between the subducting Juan de Fuca plate and the North America plate can be divided into three segments (Figure \@ref(fig:figure-12-7)). The cold upper part of the boundary is the __locked zone__. There the plates are stuck together for long periods of time. When slip does occur, it generates very large earthquakes. The last time the locked zone along Canada's west coast slipped was January 26, 1700. It caused an earthquake of magnitude 9. The warm lower part of the boundary, called the __continuous slip zone__, is sliding continuously because the warm rock is weaker. The central part of the boundary, the __ETS zone__, isn’t cold enough to be stuck, but isn’t warm enough to slide continuously. Instead it slips episodically approximately every 14 months for about 2 weeks, moving a few centimetres each time.
 
-
 ```{r figure-12-7, fig.cap='Episodic tremor and slip along the Cascadia subduction zone. The Juan de Fuca plate is locked to the North American plate at the top of the subduction zone, but lower down it is slipping continuously. In the intermediate (ETS) zone, the plate alternately sticks and slips on a regular schedule. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2016/07/Episodic-tremor.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Episodic-tremor-1024x469.png")
 ```
-
 
 It might seem that periodic slip along this part of the plate helps to reduce tension, and thus reduce the risk of a large earthquake. In fact, the opposite is likely the case. The movement along the ETS part of the plate boundary transfers stress to the adjacent locked part of the plate. During the two-week ETS period, the transfer of stress means an increased chance of a large earthquake.
 
@@ -140,16 +114,11 @@ Since 2003, ETS processes have also been observed in subduction zones in Mexico 
 
 ###### Additional Resources
 
-
 [IRIS Teachable Moment slides for the October 2012 Haida Gwaii earthquake ](https://openpress.usask.ca/app/uploads/sites/29/2017/11/121028queencharlotte.pdf)
 
 ###### References
 
-
 Wang, K., Jiangheng, H., Schulzeck, F., Hyndman, R. D., and Riedel, M. (2015). Thermal Condition of the 27 October 2012 Mw 7.8 Haida Gwaii Subduction Earthquake at the Obliquely Convergent Queen Charlotte Margin. _Bulletin of the Seismological Society of America, 105_(2B), 1290–1300. doi: 10.1785/0120140183
-
-
-
 
 ## Measuring Earthquakes
 
@@ -157,21 +126,17 @@ The shaking from an earthquake travels away from the rupture in the form of __se
 
 ### Types of Seismic Waves
 
-
 Seismic waves are classified according to where they travel, and how they move particles.
 
 #### Body Waves
-
 
 Seismic waves that travel through Earth's interior are called __body waves__. __P-waves__ are body waves that move by alternately compressing and stretching materials in the direction the wave moves. For this reason, P-waves are also called compression waves. The "P" in P-wave stands for primary, because P-waves are the fastest of the seismic waves. They are the first to be detected when an earthquake happens.
 
 A P-wave can be simulated by fixing one end of a spring to a solid surface, then giving the other end a sharp push toward the surface (Figure \@ref(fig:figure-12-8), top). The compression will propagate (travel) along the length of the spring. Some parts of the spring will be stretched, and others compressed. Any one point on the spring will jiggle forward and backward as the compression travels along the spring.
 
-
 ```{r figure-12-8, fig.cap='Seismic waves simulated using a spring and rope attached to a fixed surface. Top: P-waves travel as pulses of compression. Bottom: S-waves move particles at right angles to the direction of motion. _Source: Karla Panchuk (2018) CC BY 4.0 modified after Steven Earle (2015) CC BY 4.0 [view original](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0091.png)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/body_waves.png")
 ```
-
 
 __S-waves__ are body waves that move with a shearing motion, shaking particles from side to side. S-waves can be simulated by fixing one end of a rope to a solid surface, then giving the other end a flick (Figure \@ref(fig:figure-12-8), bottom). Any one point on the rope will move from side to side at a right angle to the direction in which the snaking motion is traveling. The "S" in S-wave stands for secondary, because S-waves are slower than P-waves, and are detected after the P-waves are measured. S-waves cannot travel through liquids.
 
@@ -179,27 +144,21 @@ P-waves and S-waves can travel rapidly through geological materials, at speeds m
 
 #### Surface Waves
 
-
 When body waves reach Earth’s surface, some of their energy is transformed into surface waves, which travel along Earth's surface. Two types of surface waves are __Rayleigh waves__ and __Love waves__ (Figure \@ref(fig:figure-12-9)). Rayleigh waves (R-waves) are characterized by vertical motion of the ground surface, like waves rolling on water. Love waves (L-waves) are characterized by side-to-side motion. Notice that the effects of both kinds of surface waves diminish with depth in Figure \@ref(fig:figure-12-9).
 
 Surface waves are slower than body waves, and are detected after the body waves. Surface waves typically cause more ground motion than body waves, and therefore do more damage than body waves.
-
 
 ```{r figure-12-9, fig.cap='Surface waves travel along Earth\'s surface and have a diminished impact with depth. Rayleigh waves (left) cause a rolling motion, and Love waves (right) cause the ground to shift from side to side. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/seismic-surface.png). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/seismic-surface-1024x264.png")
 ```
 
-
 ### Recording Seismic Waves Using a Seismograph
 
-
 A __seismometer__ is an instrument that detects seismic waves. An instrument that combines a seismometer with a device for recording the waves is called a s__eismograph__. The graphical output from a seismograph is called a __seismogram__. Figure \@ref(fig:figure-12-10) (right) shows how a seismograph works. The instrument consists of a frame or housing that is firmly anchored to the ground. A mass is suspended from the housing, and can move freely on a spring. When the ground shakes, the housing shakes with it, but the mass remains fixed. A pen attached to the mass moves up and down on a rotating drum of paper, drawing a wavy line, the seismogram. The seismograph in Figure \@ref(fig:figure-12-10) (right) is oriented to measure vertical ground motion. The photo on the left shows a seismograph oriented to record horizontal ground motion.
-
 
 ```{r figure-12-10, fig.cap='How a seismograph records earthquakes. _Source: Left- Karla Panchuk (2018) CC BY-NC-SA 4.0 modified after IRIS (2012) "How Does a Seismometer Work?" [view source](https://www.iris.edu/hq/inclass/fact-sheet/how_does_a_seismometer_work); Right: Karla Panchuk (2018) CC BY-SA 4.0, photo by Z22 (2014) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Seismogram_at_Weston_Observatory.JPG). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/seismograph.png")
 ```
-
 
 The pen and drum of a mechanical seismograph record the motion of the ground relative to the mass. However, unless an earthquake causes a large amount of ground motion directly beneath the seismograph, the height of the wave recorded on paper might be very small, making the seismogram difficult to analyze. The seismograph on the right has a device to amplify the ground motion, drawing larger waves that are easier to study.
 
@@ -207,42 +166,31 @@ Modern seismographs record shaking as electrical signals, and are able to transm
 
 ### Finding The Location of an Earthquake
 
-
 P-waves travel faster than S-waves. As the waves travel away from the location of an earthquake, the P-wave gets farther and father ahead of the S-wave. Therefore, the farther a seismograph is from the location of an earthquake, the longer the delay between when the P-wave arrival is recorded, and the S-wave arrival is recorded. The delay between the P-wave and S-wave arrival appears as a widening gap in a diagram of P-wave and S-wave travel times (Figure \@ref(fig:figure-12-11), grey lines).
 
 P-wave and S-wave arrival times can be identified on seismograms. In the three seismograms in Figure \@ref(fig:figure-12-11), the arrivals of the P-waves and S-waves are marked with arrows, and the interval in minutes between the P-wave and S-wave arrivals are noted. The seismograms were recorded at three different __seismic stations__ (earthquake monitoring locations equipped with seismographs). The distance of each station from the earthquake is determined by finding the distance along the graph where the gap between the P-wave and S-wave travel-time curves matches the delay between P-wave and S-wave arrivals on the seismogram.
-
 
 ```{r figure-12-11, fig.cap='Using P-wave and S-wave travel times to determine how far seismic waves have travelled. Grey curves show the distance travelled by P-waves and S-waves after an earthquake occurs. P-waves are faster than S-waves, and the gap between them increases with time and distance. The delays between P-wave and S-wave arrivals on seismograms are matched to the curve to find the distances of seismic stations from the source of the seismic waves. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0 modified after IRIS (n.d.) "How Are Earthquakes Located?" [view source](https://www.iris.edu/hq/files/publications/brochures_onepagers/doc/OnePager6.pdf)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/travel_time_IRISmod.png")
 ```
 
-
-
-
 The delay between the P-wave and S-wave arrival at a seismic station can indicate how far the station is from the source of the earthquake, but not the direction from which the seismic waves travelled. The possible locations of the earthquake can be represented on a map by drawing a circle around the seismic station, with the radius of the circle being the distance determined from the P-wave and S-wave travel times (Figure \@ref(fig:figure-12-12)). If this is done for at least three seismic stations, the circles will intersect at the origin of the earthquake.
-
 
 ```{r figure-12-12, fig.cap='Locating earthquakes by drawing three circles with radii of lengths determined from P-wave and S-wave travel times. Station names (SOCO, TEIG, SSPA) correspond to seismograms in Figure \\@ref(fig:figure-12-11) _Source: IRIS (n.d.) "How Are Earthquakes Located?" [view source](https://www.iris.edu/hq/files/publications/brochures_onepagers/doc/OnePager6.pdf) Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/EQ_location_IRIS.png")
 ```
 
-
 ### How Big Was It?
-
 
 Earthquakes can be described in terms of their __magnitude__, which reflects the amount of energy released by the shaking. They can also be described in terms of __intensity__, which characterizes the impact of the shaking on people and their surroundings.
 
 #### Earthquake Magnitude
 
-
 Earthquake magnitudes are determined by measuring the amplitudes of seismic waves. The __amplitude__ is the height of the wave relative to the baseline (Figure \@ref(fig:figure-12-13)). Wave amplitude depends on the amount of energy carried by the wave. The amplitudes of seismic waves reflect the amount of energy released by earthquakes.
-
 
 ```{r figure-12-13, fig.cap='Seismogram for a small earthquake that occurred near Vancouver Island in 1997. The maximum amplitude of the S-wave is indicated. _Source: Karla Panchuk (2018) CC BY 4.0 modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/P-and-S-waves.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/Amplitude.png")
 ```
-
 
 The __Richter magnitude__ scale uses the amplitudes of S-waves, and corrects for the decrease in amplitude that happens as the waves travel away from their source. The correction depends on how seismic waves interact with the specific rock types through which they travel, and therefore on local conditions, so the Richter magnitude is also referred to as the __local magnitude__.
 
@@ -250,14 +198,11 @@ While news reports about earthquakes might still refer to the "Richter scale" wh
 
 The magnitude scale is a logarithmic one rather than a linear one- an increase of one unit of magnitude corresponds to a 32 times increase in energy release (Figure \@ref(fig:figure-12-14)). There are far more low-magnitude earthquakes than high-magnitude earthquakes. In 2017 there were 7 earthquakes of M7 (magnitude 7) or greater, but millions of tiny earthquakes.
 
-
 ```{r figure-12-14, fig.cap='Earthquake magnitude and corresponding energy release. Energy release increases by approximately 32 times for each unit change in magnitude. _Source: IRIS (n.d.) "How Often Do Earthquakes Occur?" [view source](https://www.iris.edu/hq/inclass/fact-sheet/how_often_do_earthquakes_occur)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/EQ_Frequency_IRIS-1024x574.png")
 ```
 
-
 #### Earthquake Intensity
-
 
 Intensity scales were first used in the late 19th century, and then adapted in the early 20th century by Giuseppe Mercalli and modified later by others to form what we now call the __Modified Mercalli Intensity Scale__ (Table 12.1). To determine the intensity of an earthquake, reports are collected about what people felt and how much damage was done. The reports are then used to assign intensity ratings to regions where the earthquake was felt.
 <table>
@@ -320,11 +265,9 @@ Intensity scales were first used in the late 19th century, and then adapted in t
 </table>
 Intensity values are assigned to locations, rather than to the earthquake itself. This means that intensity can vary for a given earthquake, depending on the proximity to the epicentre and local conditions. For the 1946 M7.3 Vancouver Island earthquake, intensity was greatest in the central island region (Figure \@ref(fig:figure-12-15)). In some communities within this region, chimneys were damaged on more than 75% of buildings. Some roads were made impassable, and a major rock slide occurred. The earthquake was felt as far north as Prince Rupert, as far south as Portland Oregon, and as far east as the Rockies, but with less intensity.
 
-
 ```{r figure-12-15, fig.cap='Intensity map for the M7.3 Vancouver Island earthquake on June 23, 1946. _Source: Earthquakes Canada, Natural Resources Canada (2016) [view source](http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/19460623-en.php). Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Vancouver-Island.jpg")
 ```
-
 
 Intensity estimates are important as a way to identify regions that are especially prone to strong shaking. A key factor is the nature of the underlying geological materials. The weaker the underlying materials, the more likely it is that there will be strong shaking. Areas underlain by strong solid bedrock tend to experience far less shaking than those underlain by unconsolidated river or lake sediments.
 
@@ -332,73 +275,55 @@ An example of this effect is the 1985 M8 earthquake that struck the Michoacán r
 
 ###### References
 
-
 Ammon, C. J. (2001). Earthquake Size [Visit website](http://eqseis.geosc.psu.edu/~cammon/HTML/Classes/IntroQuakes/Notes/earthquake_size.html)
-
 
 ## Earthquakes and Plate Tectonics
 
 Bands of earthquakes trace out plate boundaries (coloured dots, Figure \@ref(fig:figure-12-16)). The depths of earthquakes, and the width of the band, depend on the type of plate boundary. Mid-ocean ridges and transform margins have shallow earthquakes (usually less than 30 km deep), in narrow bands close to plate margins. Subduction zones have earthquakes at a range of depths, including some more than 700 km deep. Bands of earthquakes are wider along subduction zones because they take place throughout the subducting slab that extends beneath the opposing plate. Wide swaths of scattered earthquakes may correspond to continent-continent collision zones, such as between the Eurasian plate and the African, Arabian, and Indian plates to the south. Wide swaths of scattered earthquakes may also correspond to continental rift zones, such as in eastern Africa.
 
-
 ```{r figure-12-16, fig.cap='Earthquakes greater than magnitude 5, from 2000 to 2008. Bands of earthquakes mark tectonic plates. Narrow bands with shallow earthquakes (marked in red) indicate transform boundaries or mid-ocean ridge divergent boundaries. Wider bands with earthquakes at a range of depths are subduction zones. Wide bands of scattered earthquakes mark continent-continent convergent margins (e.g., between the Indian and Eurasian plates), or continental rift zones (e.g., in eastern Africa). _Source: Lisa Christiansen, Caltech Tectonics Observatory (2008) [view source](https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691). Plate and ocean basin labels added. Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Earthquakes_and_plates.png")
 ```
-
-
-
 
 Earthquakes are also relatively common at a few locations away from plate boundaries. Some are related to the buildup of stress due to continental rifting or the transfer of stress from other regions, and some are not well understood. Locations include the Great Rift Valley area of Africa, the Lake Baikal area of Russia, and Tibet.
 
 ### Earthquakes at Divergent and Transform Plate Boundaries
 
-
 Earthquakes along divergent and transform plate margins are shallow (usually less than 30 km deep) because below those depths, rock is too hot and weak to avoid being permanently deformed by the stresses in those settings. If deformation is permanent, then removing the stress does not result in the rocks snapping back to their original shape. No snapping back means no shaking.
 
 Mid-ocean ridge divergent plate margins are offset by numerous transform faults (Figure \@ref(fig:figure-12-17)). The locations of earthquakes along mid-ocean ridges, and the mechanisms for causing them, depend on how rapidly the mid-ocean ridges are spreading. The Pacific-Antarctic Ridge (left) is spreading relatively rapidly at 42 to 94 mm/year, depending on the location along the ridge. Rapid spreading causes rocks near the axis of the spreading centre to be hot and weak. As a result, most of the earthquakes (white dots) are located along transform faults, where rocks are cooler and stronger. Along rapidly spreading ridges, new ocean crust is bent upward into wide, high ridges. As spreading proceeds and crust moves away from the ridge, the bend is relaxed, and the crust stretches and breaks. This triggers earthquakes many kilometres away from the ridge.
-
 
 ```{r figure-12-17, fig.cap='Locations of earthquakes of magnitude 4 and greater from 1990 to 2010 along two mid-ocean ridges. Plate boundaries are marked in red. Arrows show the direction of plate motion. Left: Rapidly spreading Pacific-Antarctic ridge with earthquakes concentrated along transform faults. Right: Slowly spreading Southwest Indian Ridge, with earthquakes along both spreading segments and transform faults. _Source: Karla Panchuk (2017) CC BY 4.0. Base maps with epicentres generated using the U. S. Geological Survey Latest Earthquakes website. [Visit Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Div_Trans_Eq.png")
 ```
 
-
 The Southwest Indian Ridge (right) spreads very slowly, at approximately 14 mm/year. Rocks are cooler and stronger along the slowly spreading ridge than along the rapidly spreading one. In the slow-spreading environment, earthquakes are generated when rocks along the ridge axis stretch and break. Earthquakes are more evenly distributed between divergent and transform segments of the boundary than they are along fast-spreading ridges.
 
 Earthquakes in continental rift zones are also shallow, but scattered more broadly than those along mid-ocean ridges. Lake Baikal (Figure \@ref(fig:figure-12-28)), the world's oldest, deepest, and largest freshwater lake, formed 25 million years ago because of continental rifting. Note the scale in Figure \@ref(fig:figure-12-18), and compare how widely the earthquakes (blue dots) are spread in the Lake Baikal region, versus along the mid-ocean ridges in Figure \@ref(fig:figure-12-17).
-
 
 ```{r figure-12-18, fig.cap='Blue circles mark the locations of earthquakes of M4 and greater from 1990 to 2010 along the Lake Baikal rift zone. White lines show some of the faults in the region. White lines with tick marks are normal faults related to spreading. Arrows show the direction of spreading. White lines without tick marks are transform faults. The Siberian Craton (shaded region) is strong 2 billion year old crust. _Source: Karla Panchuk (2017) CC BY 4.0. Faults after U. S. Geological Survey (see references). Base maps (inset and rift views) with epicentres generated using the U. S. Geological Survey Latest Earthquakes website. [Visit Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Baikal_Rift_Eqs-1.png")
 ```
 
-
 One reason for the difference in earthquake distribution in continental rift zones is that the rifts are only beginning to form. Faulting is "disorganized" within the continental crust. There is no well-established spreading centre, unlike mid-ocean ridges. Another reason is that the locations of faults, and thus earthquakes, in continental rift zones are affected by pre-existing geological structures within continental crust. In the case of the Lake Baikal rift, the strong, ancient crust of the Siberian Craton influences the orientation of the faults forming the rift. Faults run parallel to the craton near Lake Baikal. As rifting extends to the east, the part of the craton in the upper right of Figure \@ref(fig:figure-12-18) may deflect rifting southward.
 
 ### Earthquakes at Convergent Boundaries
 
-
-
 #### Subduction Zones
-
 
 Along convergent plate margins with subduction zones, earthquakes range from shallow to depths of up to 700 km. Earthquakes occur where the two plates are in contact, as well as in zones of deformation on the overriding plate, and along the subducting slab deeper within the mantle. The result is that epicentres of earthquakes farther to the interior of the overriding plate will correspond to increasingly deep earthquakes.
 
 Where the Pacific plate subducts beneath the North American plate, forming the Aleutian volcanic arc (Figure \@ref(fig:figure-12-19)), earthquakes increase in depth moving northward, following the Pacific plate into the mantle. Earthquakes between 0 and 33 km deep (red circles) occur closest to the subduction zone (red line; teeth point in the direction of the subducting slab). While there is some overlap, earthquakes between 33 and 70 km deep (white circles) occur in a band that reaches farther the north. Farthest north are the epicentres for earthquakes between 70 and 300 km deep (green dots). The deepest earthquake during the seven year interval shown in Figure \@ref(fig:figure-12-19) is represented by the large green dot farthest to the north. It occurred at a depth of 265 km.
 
-
 ```{r figure-12-19, fig.cap='Earthquakes of M4.5 and greater from 2010 to 2017 along the Aleutian Trench subduction zone (red line; teeth point in the direction of the subducting slab). White arrows show the directions of plate movement. Circle colours indicate the depths of earthquakes (see legend, lower left). Earthquakes become deeper moving north from the subduction zone. _Source: Karla Panchuk (2017) CC BY 4.0. Base maps with epicentres generated using the U. S. Geological Survey Latest Earthquakes website. [Visit Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/#%7B%22feed%22%3A%221511022407828%22%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22satellite%22%2C%22restrictListToMap%22%3A%5B%22restrictListToMap%22%5D%2C%22timezone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B48.548%2C-178.072%5D%2C%5B53.724%2C-165.328%5D%5D%2C%22overlays%22%3A%5B%22plates%22%5D%2C%22viewModes%22%3A%5B%22list%22%2C%22map%22%5D%2C%22listFormat%22%3A%22default%22%2C%22autoUpdate%22%3Afalse%2C%22search%22%3A%7B%22id%22%3A%221511022407828%22%2C%22name%22%3A%22Search%20Results%22%2C%22isSearch%22%3Atrue%2C%22params%22%3A%7B%22starttime%22%3A%222000-10-17%2000%3A00%3A00%22%2C%22endtime%22%3A%222017-11-16%2023%3A59%3A59%22%2C%22maxlatitude%22%3A53.724%2C%22minlatitude%22%3A48.548%2C%22maxlongitude%22%3A-165.328%2C%22minlongitude%22%3A-178.072%2C%22minmagnitude%22%3A4.5%2C%22mindepth%22%3A0%2C%22maxdepth%22%3A33%2C%22orderby%22%3A%22time%22%7D%7D%7D)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Conv_Aleut_Eqs.png")
 ```
 
-
 Earthquakes occur in subduction zones for a variety of reasons. Stresses associated with the collision of two plates cause deformation in the overriding plate, and thus shallow earthquakes. Shallow earthquakes also happen on the subducting slab when a locked zone (orange line, Figure \@ref(fig:figure-12-20)) ruptures. The locked zone is where the largest earthquakes on Earth, called __megathrust earthquakes__, occur. There is the potential for a wider rupture zone on a gently dipping subduction zone boundary compared to other boundaries.
-
 
 ```{r figure-12-20, fig.cap='Factors contributing to earthquakes in subduction zones. Not all factors shown here are present in all subduction zones. Stress from bending, flexing, and stretching may cause ruptures. Changes in the mechanical properties of the mantle may affect how subucting slabs move, contributing additional stresses. The histogram at right shows the global average number of earthquakes at depth, for earthquakes greater than M5. The increase in earthquakes beneath 480 km may be caused in part by weakening as olivine transforms into high pressure/temperature polymorphs. _Source: Karla Panchuk (2017) CC BY 4.0. Modified after Green et al. (2010)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/SZearthquakes-1-1024x605.png")
 ```
-
 
 If subduction is rapid, the subducting plate will bend more as it enters the mantle (slab A in Figure \@ref(fig:figure-12-20)), causing the upper edge of the plate to stretch, and the interior and lower edge to be compressed. Stress from bending can cause shallow to intermediate earthquakes on these plates. Even without bending, the subducting slab can become stretched by its own weight as it falls into the mantle.
 
@@ -410,42 +335,33 @@ The bar chart on the right of Figure \@ref(fig:figure-12-20) shows global averag
 
 #### Continent-Continent Convergence Zones
 
-
 Where continents collide, earthquakes are scattered over a much wider area compared to earthquakes along mid-ocean ridges, transform margins, or subduction zones. An example is where the Indian plate collides with the Eurasian plate (Figure \@ref(fig:figure-12-21)). At one time, India was a separate continent, and ocean crust separated India from the Eurasian plate. For a time, a subduction zone existed where ocean lithosphere from the Indian plate subducted beneath the Eurasian plate. But when the two land masses finally met, they became locked together and the subduction zone was closed off. Today the Indian plate is still pushing against the Eurasian plate in the regions indicated by the red arrows in Figure \@ref(fig:figure-12-21). The collision is accommodated by transform boundaries along the Indian plate. Regions of overall transform motion are indicated in Figure \@ref(fig:figure-12-21) with blue arrows.
-
 
 ```{r figure-12-21, fig.cap='Earthquakes of M4.5 and greater from 1990 to 2017 along the collision zone between the Indian and Eurasian plates. Red lines- plate boundaries; red arrows- collision zones; blue arrows- transform zones. _Source: Karla Panchuk (2017) CC BY 4.0. Base maps with epicentres generated using the U. S. Geological Survey Latest Earthquakes website. [Visit Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/#%7B%22feed%22%3A%221511395559710%22%2C%22sort%22%3A%22newest%22%2C%22basemap%22%3A%22satellite%22%2C%22restrictListToMap%22%3A%5B%22restrictListToMap%22%5D%2C%22timezone%22%3A%22utc%22%2C%22mapposition%22%3A%5B%5B2.987%2C-307.266%5D%2C%5B40%2C-251.367%5D%5D%2C%22overlays%22%3A%5B%22plates%22%5D%2C%22viewModes%22%3A%5B%22list%22%2C%22map%22%5D%2C%22listFormat%22%3A%22default%22%2C%22autoUpdate%22%3Afalse%2C%22search%22%3A%7B%22id%22%3A%221511395559710%22%2C%22name%22%3A%22Search%20Results%22%2C%22isSearch%22%3Atrue%2C%22params%22%3A%7B%22starttime%22%3A%221990-10-17%2000%3A00%3A00%22%2C%22endtime%22%3A%222017-11-16%2023%3A59%3A59%22%2C%22maxlatitude%22%3A40%2C%22minlatitude%22%3A2.987%2C%22maxlongitude%22%3A-251.367%2C%22minlongitude%22%3A-307.266%2C%22minmagnitude%22%3A4.5%2C%22orderby%22%3A%22time%22%7D%7D%7D)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Inda_Asia_EQ.png")
 ```
 
-
 The majority of earthquakes in Figure \@ref(fig:figure-12-21) occur at depths less than 70 km, however they are still abundant down to 150 km, and extend to more than 300 km depth at some locations. Deeper earthquakes may be caused by continued northwestward subduction of part of the Indian plate beneath the Eurasian plate in this area. Even though the area is no longer a subduction zone, the subducted slab still remains, and is subject to stresses that can trigger earthquakes.
 
 Some of the earthquakes in Figure \@ref(fig:figure-12-21) are related to the transform faults on either side of the Indian plate, and most of the others are related to the squeezing caused by the continued convergence of the Indian and Eurasian plates. That squeezing has caused the Eurasian plate to be thrust over the Indian plate, building the Himalayas and the Tibet Plateau to enormous heights. Most of the earthquakes of Figure \@ref(fig:figure-12-21) are related to the thrust faults shown in Figure \@ref(fig:figure-12-22) (and to hundreds of other similar ones that cannot be shown at this scale). The southernmost thrust fault in Figure \@ref(fig:figure-12-22) (the Main Boundary Fault) is equivalent to the convergent boundary in Figure \@ref(fig:figure-12-21).
-
 
 ```{r figure-12-22, fig.cap='Schematic diagram of the India-Asia convergent boundary, showing examples of the types of faults along which earthquakes are focused. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/India-Asia-convergent-boundary.png) after D. Vuichard (Figure \\@ref(fig:figure-2-3)) in Ives and Messerli (1989)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/India-Asia-convergent-boundary.png")
 ```
 
-
 ### Intraplate Earthquakes
-
 
 __Intraplate earthquakes__ (within-plate earthquakes) are those that occur away from plate boundaries. Some intraplate earthquakes are related to human activities. When humans trigger earthquakes it is referred to as __induced seismicity__. In Saskatchewan there have been 20 earthquakes since 1985 (all less than magnitude 4), and the majority occurred near potash mines. Excavation changes the stress in surrounding rocks, so earthquakes may occur in the rocks above excavated parts of the mine. In Alberta, induced seismicity is triggered by hydraulic fracturing operations when water pressure increases along existing faults, causing them to slip.
 
 Intraplate earthquakes not related to human activities often occur along ancient rift zones. In eastern Canada, the Charlevoix seismic zone (approximately 100 km northeast of Québec City; Figure \@ref(fig:figure-12-23)), is associated with a rift-zone faults that developed when an ancient ocean basin began to form more than 500 million years ago. Coincidentally, the rocks of the Charlevoix Seismic Zone are also fragmented because of a meteorite impact (the crater margin is indicated by the blue circle in Figure \@ref(fig:figure-12-23)), weakening them further. While the Charlevoix zone is far from any boundary of the North American plate, tectonic forces acting on plate boundaries are still transmitted to the interior of the continent, contributing to the stress that causes the faults along the rift zone to rupture. 
 
-
 ```{r figure-12-23, fig.cap='Charlevoix seismic zone, site of intraplate earthquakes. The location of the Charlevoix seismic zone is indicated by the star on the map of Canada. Dots indicate earthquake epicentres. The size of the dots indicates magnitude. White lines indicate fault segments. The dashed circle marks the edge of a crater formed by a meteorite impact 342 million years ago. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Epicentre data from Earthquakes Canada. Click the image for more attributions and data sources._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/12/Charlevoix_ISZ.png")
 ```
 
-
 Intraplate earthquakes can be large earthquakes. The Charlevoix seismic zone has had five earthquakes of magnitudes between 6 and 7 since 1663. The New Madrid seismic zone in the Mississippi River Valley had a series of four earthquakes with magnitudes between 7 and 8 in the winter of 1811-1812. The population of the region was sparse at the time, but today there are major cities in the New Madrid seismic zone, including Memphis, Tennessee, and St. Louis, Missouri.
 
 ###### References
-
 
 <header class="article__header">
 <div class="highwire-cite-title">Bao, X., and Eaton, D. W. (2016). Fault activation by hydraulic fracturing in western Canada. _Science 354_(6318), 1406-1409. doi: 10.1126/science.aag2583</div>
@@ -472,63 +388,49 @@ Earthquakes Canada, Natural Resources Canada (2016) Earthquake zones in Eastern 
 <div>Sloan, R. A., Jackson, J. A., McKenzie, D., &amp; Priestley, K. (2011). Earthquake depth distributions in central Asia, and their relations with lithosphere thickness, shortening and extension. _Geophysics Journal International 185, _1-29. doi: 10.1111/j.1365-246X.2010.04882.x</div>
 <div></div>
 
-
 ## The Impacts of Earthquakes
 
 Earthquakes can have direct impacts, such as structural damage to buildings from shaking, and secondary impacts, such as triggering landslides, fires, and tsunami. The types and extent of impacts will depend on local conditions where the earthquake strikes. The geological materials in the area matter, as does the type of terrain, and whether the region is near the coast or not. The extent of impact and type of damage will depend on whether the area is predominantly urban or rural, densely or sparsely populated, highly developed or underdeveloped. It will depend on whether the infrastructure has been designed to withstand shaking.
 
 ### Damage to Structures from Shaking
 
-
 As with the example of the 1985 Mexico earthquake, the geological foundations on which structures are built will affect the amount of shaking that occurs. Earthquakes produce seismic waves that vibrate at different rates, or __frequencies__. Waves with rapid vibrations have a high frequency, and waves with slower vibrations have lower frequencies.
 
 The energy of the higher frequency waves tends to be absorbed by solid rock. Lower frequency waves pass through solid rock without being absorbed, but are absorbed and amplified by soft sediments. It is therefore very common to see much worse earthquake damage in areas underlain by soft sediments than in areas of solid rock. During the 1989 Loma Prieta earthquake, parts of a two-layer highway in the Oakland area near San Francisco collapsed where they were built on soft sediments (Figure \@ref(fig:figure-12-24)).
-
 
 ```{r figure-12-24, fig.cap='A collapsed section of the Cypress Freeway in Oakland California. _Source: U. S. Geological Survey (1989) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Cypress_collapsed.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Cypress-Freeway.jpg")
 ```
 
-
 Building damage is also greatest in areas of soft sediments, and multi-storey buildings tend to be more seriously damaged than smaller ones. Buildings can be designed to withstand most earthquakes, and this practice is increasingly applied in earthquake-prone regions. Turkey is one such region, but even though Turkey had a relatively strong building code in the 1990s, adherence to the code was poor. Builders did whatever they could to save costs, including using inappropriate materials in concrete, and reducing the amount of steel reinforcing. The result was more than 17,000 deaths in the 1999 M7.6 Izmit earthquake (Figure \@ref(fig:figure-12-25)). After two devastating earthquakes that year, Turkish authorities strengthened the building code further, but the new code has been applied only in a few regions, and enforcement of the code is still weak, as revealed by the amount of damage from a M7.1 earthquake in eastern Turkey in 2011.
-
 
 ```{r figure-12-25, fig.cap='Damage from the 1999 M7.6 Izmit, Turkey earthquake. _Source: Left; USGS (1999) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Izmit_eart2.jpg); Right: USGS (1999) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Izmit_eart3.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/Izmit_1999_USGS.png")
 ```
 
-
 Structures underlain by sediments may be at risk of another hazard, called __liquefaction__, in which sediment is transformed into a fluid. When water-saturated sediments are shaken, the grains may lose contact with each other, and no longer support one another. Water between the grains holds them apart, causing the sediment to turn to mud and flow. The loss of support can lead to the collapse of buildings or other structures that might otherwise have sustained little damage. During the 1964 M7.6 earthquake in Niigata, Japan, liquefaction caused buildings to sink into the sediments (Figure \@ref(fig:figure-12-26)).
-
 
 ```{r figure-12-26, fig.cap='Collapsed apartment buildings in the Niigata area of Japan. The material beneath the buildings was liquefied by the 1964 earthquake. _Source: DOC/NOAA/NESDIS/NCEI (1964) Public Domain [view source](https://catalog.data.gov/dataset/1964-niigata-japan-images)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/Niigata.jpg")
 ```
 
-
 Parts of the Fraser River delta are also prone to liquefaction-related damage. The region is characterized by a 2 m to 3 m thick layer of fluvial silt and clay above a layer of water-saturated fluvial sand that is at least 10 m thick (Figure \@ref(fig:figure-12-27)). Under these conditions, seismic shaking can be amplified, and the sandy sediments will liquefy. This could lead to subsidence and tilting of buildings. Liquefaction can also contribute to slope failures and to fountains of sandy mud (sand volcanoes) in areas where there is loose saturated sand beneath a layer of more cohesive clay. Current building-code regulations in the Fraser delta area require that measures be taken to strengthen the ground beneath multi-story buildings prior to construction.
-
 
 ```{r figure-12-27, fig.cap='Recent unconsolidated sedimentary layers in the Fraser River delta area (top) and the potential consequences in the event of a damaging earthquake. _Source: Steven Earle (2015) CC BY 4.0 _[_view source_](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/unconsolidated-sedimentary-layers.png)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/unconsolidated-sedimentary-layers-1024x629.png")
 ```
 
-
-
 <div class="bcc-box bcc-info">
 
 ##### Experiments with Liquefaction
-
 
 To see liquefaction for yourself, go to a sandy beach and find a place near the water’s edge where the sand is wet. While standing in one place on a wet part of the beach, start moving your feet up and down at a frequency of about once per second. Within a few seconds the previously firm sand will start to lose strength, and you’ll gradually sink in up to your ankles.
 
 If you can’t get to a beach, put some sand into a small container, saturate it with water, and then pour the excess water off. Shake the container gently to get the water to separate and then pour the excess water away. You may have to do this more than once. Place a small rock on the surface of the sand. It should sit there for hours without sinking in. Now, holding the container in one hand gently thump the side or the bottom with your other hand, about twice a second. The rock should gradually sink in as the sand around it becomes liquefied.
 
-
 ```{r figure-12-28, fig.cap='Fine, damp sand before shaking (left) and after (right). _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Liquefaction.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Liquefaction-1024x465.png")
 ```
-
 
 As you were moving your feet up and down or thumping the container, it’s likely that you soon discovered the most effective rate for getting the sand to liquefy. Stepping up and down as fast as you can (several times per second) on the wet beach would not have been effective, nor would you have achieved much by stepping once every several seconds. The body of sand vibrates most readily in response to shaking that is close to its natural harmonic frequency, and liquefaction is also most likely to occur at that frequency.
 
@@ -536,36 +438,27 @@ As you were moving your feet up and down or thumping the container, it’s likel
 
 ### Slope Failure
 
-
 Ground shaking during an earthquake can be enough to weaken rock and loose materials to the point of failure. Earthquakes can also trigger failures on slopes that are already weak. In January of 2011 a M7.6 earthquake offshore of El Salvador triggered slope failures that killed nearly 600 people (Figure \@ref(fig:figure-12-29)).
-
 
 ```{r figure-12-29, fig.cap='A slope gives way in a suburb of San Salvador after the January 2001 earthquake offshore of El Salvador. This is one of hundreds of slope failures resulting from the earthquake. _Source: U. S. Geological Survey (2001) Public Domain [view source](https://commons.wikimedia.org/wiki/File:ElSalvadorslide.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/The-Las-Colinas-debris-758x1024.jpg")
 ```
 
-
 ### Fires
 
-
 Fires are commonly associated with earthquakes because gas lines rupture and electrical lines are damaged when the ground shakes. Most of the damage in the great 1906 San Francisco earthquake was caused by massive fires in the downtown area of the city (Figure \@ref(fig:figure-12-30)). Some 25,000 buildings were destroyed by those fires, which were fueled by gas leaking from broken pipes. Fighting the fires was difficult because water mains had also ruptured. Today the risk of fires can be reduced through P-wave early warning systems if utility operators can decrease pipeline pressure and break electrical circuits.
-
 
 ```{r figure-12-30, fig.cap='Fires in San Francisco following the 1906 earthquake. _Source: Pillsbury Picture Co. (1906) Public Domain, courtesy of the Library of Congress Prints and Photographs Division [view source](http://www.loc.gov/pictures/resource/pan.6a01913/)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/SanFranburning-1024x244.jpg")
 ```
 
-
 ### Tsunami
 
-
 Large earthquakes that take place beneath the ocean have the potential to displace large volumes of water. In a subduction zone, for example, the overriding plate becomes distorted by elastic deformation. It is squeezed laterally and pushed up (Figure \@ref(fig:figure-12-31) top). When an earthquake happens, the plate rebounds over an area of thousands of square kilometres, generating waves- a __tsunami__ (Figure \@ref(fig:figure-12-31), middle). The waves spread across the ocean at velocities of several hundred kilometres per hour. Tsunami can make it to the far side of an ocean in about the same time as a passenger jet.
-
 
 ```{r figure-12-31, fig.cap='Tsunami triggered along a subduction zone. Top: The overriding crust is deformed because it is locked to the subducting slab. Middle: When the locked zone ruptures, the crust rebounds, and waves are created. Bottom: Tsunami waves have small amplitudes in the deep ocean, but once in shallow water, they slow down, causing the waves to become taller and closer together. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Top and middle modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Elastic-deformation.png). Bottom modified after COMET/UCAR (1997-2017) [view source](http://www.torbenespersen.dk/Publish/tsunami/media/graphics/comet_wave_transition.jpg). Click the image for COMET/UCAR attribution and terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/tsunami-1-718x1024.png")
 ```
-
 
 Tsunami waves gain their height as they travel through shallower waters. In the deep ocean, the waves may be so small as to go undetected by ships, but when they are slowed down by interacting with the ocean floor, they can become much taller (Figure \@ref(fig:figure-12-31), bottom). In the tsunami following the 2004 Sumatra earthquake, the tallest waves were more than 30 m high.
 
@@ -573,14 +466,11 @@ Subduction earthquakes must be large to generate significant tsunami. Earthquake
 
 Tsunami can have an impact across an entire ocean basin. They spread across the ocean at velocities of several hundred kilometres per hour, and can make it to the far side of an ocean in about the same time as a passenger jet. In 1700 a rupture along the Cascadia thrust fault running from Vancouver Island to northern California resulted in a M9 earthquake. It generated a tsunami that travelled across the Pacific Ocean, and was recorded in Japan nine hours later. A computer simulation of the tsunami (Figure \@ref(fig:figure-12-32)) shows how long it took tsunami waves from the Cascadia earthquake to travel across the Pacific Ocean, and how high the waves were. Notice that over all, the waves decrease in height moving away from the rupture, but they increase in height again as they reach the opposite side of the Pacific Ocean.
 
-
 ```{r figure-12-32, fig.cap='Computer simulation of the tsunami from the 1700 M9 Cascadia earthquake. Colours show open-ocean wave heights. Contours show travel time in hours. Tsunami wave heights increase as the tsunami reached the western margin of the Pacific ocean. _Source: NOAA/PMEL/Center for Tsunami Research (2011) Public Domain [view source](https://nctr.pmel.noaa.gov/cascadia_simulated/images/CascadiaL1annotated.png) / [view context](https://nctr.pmel.noaa.gov/cascadia_simulated/index.html)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/tsunami-1024x779.png")
 ```
 
-
 ###### References
-
 
 Earthquakes Canada, Natural Resources Canada (2016). The M9 Cascadia Megathrust Earthquake of January 26, 1700. [Visit website](http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/17000126-en.php)
 
@@ -588,39 +478,31 @@ University Corporation for Atmospheric Research (2010). Propagation. _Tsunamis. 
 
 U. S. Geological Survey (2014). Indian Ocean Tsunami Remembered — Scientists reflect on the 2004 Indian Ocean that killed thousands. [Visit website](https://www2.usgs.gov/blogs/features/usgs_top_story/indian-ocean-tsunami-remembered-scientists-reflect-on-the-2004-indian-ocean-that-killed-thousands/)
 
-
 ## Forecasting Earthquakes and Minimizing Impacts
 
 It has long been a dream of seismologists, geologists, and public safety officials to be able to accurately predict the location, magnitude, and timing of earthquakes on time scales that would be useful for minimizing danger to the public and damage to infrastructure (e.g., weeks, days, hours). Many methods of prediction that have been explored. These include using observations of warning foreshocks, changes in magnetic fields, episodic tremor and slip, changing groundwater levels, strange animal behaviour, patterns in the timing between earthquakes, and how stress is transferred after a rupture. So far, none of these has provided a reliable method. Although there are some reports of successful earthquake predictions, they are rare, and many are surrounded by doubtful circumstances.
 
 ### The Parkfield Prediction Experiment
 
-
 There was great hope for earthquake predictions late in the 1980s when attention was focused on part of the San Andreas Fault at Parkfield, approximately 200 km south of San Francisco, California. Between 1881 and 1965 there were five earthquakes at Parkfield. They were spaced at approximately 20-year intervals, all confined to the same 20 km-long segment of the fault, and all very close to M6 (Figure \@ref(fig:figure-12-33)). Both the 1934 and 1966 earthquakes were preceded by small foreshocks exactly 17 minutes before the main quake.
-
 
 ```{r figure-12-33, fig.cap='Earthquakes on the Parkfield segment of the San Andreas Fault between 1881 and 2004. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Parkfield-segment.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Parkfield-segment-1024x434.png")
 ```
 
-
 The U. S. Geological Survey recognized this as an excellent opportunity to understand earthquakes and earthquake prediction, so they armed the Parkfield area with a huge array of geophysical instruments and waited. The next earthquake was expected to happen around 1987, but nothing happened! The “1987 Parkfield earthquake” finally struck in September 2004. Fortunately, all of the equipment was still there to record the earthquake, but it was no help from the perspective of earthquake prediction. There were no significant precursors to the 2004 Parkfield earthquake in any of the parameters measured, including tremors, changes in rock deformation, the magnetic field, the electrical conductivity of the rock, and __creep__ (motion along the fault that is not accompanied by earthquakes). There was no foreshock. In other words, even though every available technique was used to monitor it, the 2004 earthquake came with no warning whatsoever.
 
 ### Earthquake Probabilities
-
 
 To be useful to the public and governments, earthquake predictions must be accurate _most _of the time, not just _some_ of the time. If a prediction method is only accurate 10% of the time (and even that isn’t possible with the current state of knowledge), the public will lose faith in the process very quickly, and then will ignore all of the predictions. The hope for earthquake prediction is not dead, but it was hit hard by the Parkfield experiment.
 
 Today the focus of efforts in earthquake-prone regions is to provide forecasts of __<span style="font-family: Times">earthquake probability</span>__. Earthquake probabilities express the likelihood that an earthquake of a given magnitude will occur at a location within a given period of time. An example of this approach for the San Francisco Bay region of California is shown in Figure \@ref(fig:figure-12-34). Based on a wide range of information, including past earthquake history, accumulated stress from plate movement, and known stress transfer, seismologists and geologists have predicted the likelihood of a M6.7 or greater earthquake on each of eight major faults that cut through the region. The greatest probabilities are on the San Andreas, Rogers Creek/Hayward faults, and Calaveras/Paicines faults. There is a 72% chance that a major and damaging earthquake will take place somewhere in the region prior to 2043.
 
-
 ```{r figure-12-34, fig.cap='Earthquake outlook for 2014-2047. Probabilities for individual faults are marked on the faults. _Source: U. S. Geological Survey (2014) Public Domain [view report](https://pubs.usgs.gov/fs/2016/3020/fs20163020.pdf)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/SF_probability_2014.png")
 ```
 
-
 ### Using Earthquake Probability Information
-
 
 Decision makers can use forecasts of earthquake probability to assist with educating the public about earthquake risks, and to determine what action is necessary to make infrastructure earthquake-safe. Building safe infrastructure requires strong building codes, and enforcement of those codes. Building code compliance is robust in most developed countries, but is inadequate in many developing countries.
 
@@ -630,11 +512,9 @@ The program in British Columbia illustrates a challenge with seismic upgrades of
 
 ### Earthquake Preparedness
 
-
 Earthquake preparedness involves the formulation of public emergency plans, including escape routes, medical facilities, shelters, and food and water supplies. It also includes personal planning, such as emergency supplies (food, water, shelter, and warmth), escape routes from houses and offices, and communication strategies (with a focus on ones that don’t involve the cellular network).
 
 ###### References
-
 
 Finn, W. D. L., &amp; Dexter, A. (2012). Risk Management Plan for School Seismic Mitigation Program. [View report](https://www2.gov.bc.ca/assets/gov/education/administration/resource-management/capital-planning/risk_management_plan_school_seismic_mitigation_program_2012.pdf)
 
@@ -643,38 +523,31 @@ Province of British Columbia (n.d.). Seismic Mitigation Program. [Visit website]
 Province of British Columbia (2017). Seismic Mitigation Program Progress Report. [View report](https://www2.gov.bc.ca/assets/gov/education/administration/resource-management/capital-planning/seismic-mitigation/progress_report.pdf)
 <div></div>
 
-
 ## Summary
 
 The topics covered in this chapter can be summarized as follows:
 
 ###  What Is an Earthquake?
 
-
 An earthquake is the shaking that results when a deformed body of rock snaps back to its original shape. The rupture is initiated at a point but quickly spreads across the area of a fault, with aftershocks initiated by stress transfer. Episodic tremor and slip is a periodic slow movement, accompanied by harmonic tremors, along the middle part of a subduction zone boundary.
 
 ###  Measuring Earthquakes
-
 
 Earthquakes produce seismic waves that can be measured by a seismograph. The amplitudes of seismic waves are used to determine the amount of energy released by an earthquake- its magnitude. For the moment magnitude scale used today, the amount of energy released by an earthquake is proportional to the size of the rupture surface, the amount of displacement, and the strength of the rock. Intensity is a measure of the amount of shaking that occurs, and damage done at locations that experience an earthquake. Intensity will vary depending on the distance to the epicentre, the depth of the earthquake, and the type of geological materials present.
 
 ###  Earthquakes and Plate Tectonics
 
-
 Most earthquakes happen at or near plate boundaries. Along divergent and transform boundaries earthquakes are shallow (less than 30 km depth), but at convergent boundaries they can be hundreds of kilometers beneath the surface. The largest earthquakes happen when a broad segment of the locked zone of a subduction zone ruptures. Intraplate earthquakes happen away from plate boundaries. They can be caused by human activities, or renewed motion on ancient faults.
 
 ###  The Impacts of Earthquakes
-
 
 Damage to buildings is the most serious consequence of most large earthquakes. The amount of damage is related to the type and size of buildings, how they are constructed, and the nature of the material on which they are built. Other important consequences are fires, damage to bridges and highways, slope failures, liquefaction, and tsunami.
 
 ###  Forecasting Earthquakes and Minimizing Impacts
 
-
 There is no reliable technology for predicting earthquakes, but the probability of one happening within a certain time period can be forecast. We can minimize earthquake impacts by ensuring that the public is aware of the risk, that building codes are enforced, that existing buildings like schools and hospitals are seismically sound, and that both public and personal emergency plans are in place.
 
 #### Review Questions
-
 
 <ol>
  	<li>What causes the shaking during an earthquake?</li>
@@ -684,7 +557,6 @@ There is no reliable technology for predicting earthquakes, but the probability 
  	<li>What is the difference between the magnitude of an earthquake and its intensity?</li>
  	<li>How much more energy is released by a magnitude 7 earthquake compared to a magnitude 5 earthquake?</li>
  	<li>The images below show earthquake locations for three regions of ocean lithosphere. The colour scheme indicates the depths of earthquakes. a) The images show a subduction zone, a slowly spreading mid-ocean ridge, and a rapidly spreading mid-ocean ridge. Which is which? b) In the image with the subduction zone, which side is the subducting plate, and which is the overriding plate?
-
 
 ```{r figure-12-35, fig.cap='Earthquakes along plate margins. Dots are colour coded according to depth. _Source: Map details from Lisa Christiansen, Caltech Tectonics Observatory (2008) [view source](https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691). Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/Tectonic_setting_question.png")
@@ -697,7 +569,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01
  	<li>What are some of the things we should know about an area in order to help minimize the impacts of an earthquake?</li>
  	<li>What is the difference between earthquake prediction and forecasting earthquake probability?</li>
 </ol>
-
 
 ## Answers to Chapter  Review Questions
 

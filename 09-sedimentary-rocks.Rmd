@@ -3,47 +3,35 @@
 
 _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/) by Steven Earle_
 
-
-
 ```{r figure-9-1, fig.cap='Cretaceous sedimentary rocks exposed along a road near Drumheller, Alberta, Canada. Sedimentary rocks form in layers called beds, and the planar boundaries that separate each bed are called contacts. Each bed tells a story about the conditions in which it formed. In this picture the beds are indicating that sea level repeatedly rose and fell. The black layer about halfway up the picture is a coal seam. It tells us that the environment at that time was swampy. _Source: Karla Panchuk (2008) CC BY 4.0_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Drumheller-roadside-1024x768.jpg")
 ```
-
 
 <div class="bcc-box bcc-highlight">
 
 ##### Learning Objectives {-}
 
-
 After reading this chapter and answering the review questions at the end, you should be able to:
 
-
 - Explain the differences between the four kinds of sedimentary rocks: clastic, chemical, biochemical, and organic.
 - Describe some of the specific kinds of rocks in each of the four categories, and the depositional environments in which they form.
 - Describe the various terrestrial and marine sedimentary depositional environments, and explain how the formation of sedimentary basins is related to plate tectonic processes.
 - Apply your understanding of the features of sedimentary rocks, including grain characteristics, sedimentary structures, and fossils, to the interpretation of past depositional environments and climates.
 
-
-
-
 - Explain the differences between the four kinds of sedimentary rocks: clastic, chemical, biochemical, and organic.
 - Describe some of the specific kinds of rocks in each of the four categories, and the depositional environments in which they form.
 - Describe the various terrestrial and marine sedimentary depositional environments, and explain how the formation of sedimentary basins is related to plate tectonic processes.
 - Apply your understanding of the features of sedimentary rocks, including grain characteristics, sedimentary structures, and fossils, to the interpretation of past depositional environments and climates.
-
 
 </div>
 
 ### Sedimentary Rocks Form From the Products of Weathering and Erosion
 
-
 Weathering and erosion (Chapter 8) are the first two steps in the transformation of pre-existing rocks into sedimentary rocks. The remaining steps in the formation of sedimentary rocks are transportation, deposition, burial, and lithification. These steps are shown on the right-hand side of the rock cycle diagram in Figure \@ref(fig:figure-9-2)
-
 
 ```{r figure-9-2, fig.cap='The rock cycle. Processes related to sedimentary rocks are shown on the right-hand side. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/The-rock-cycle.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/The-rock-cycle.png")
 ```
-
 
 __<span style="font-family: Times">Transportation</span>__ is the movement of sediments or dissolved ions from the site of erosion to a site of deposition. This can be by wind, flowing water, glacial ice, or mass movement down a slope. __<span style="font-family: Times">Deposition</span>__ takes place where the conditions change enough so that the sediments can no longer be transported. This could happen if the current slows down.
 
@@ -51,79 +39,60 @@ __<span style="font-family: Times">Burial</span>__ occurs when sediments are dep
 
 ### Four Types of Sedimentary Rocks
 
-
 Sedimentary rocks can be divided into four main types: __<span style="font-family: Times">clastic, chemical, biochemical, </span>__and__<span style="font-family: Times"> organic</span>__. __<span style="font-family: Times">Clastic</span>__ sedimentary rocks are composed mainly of material that is transported as solid fragments (called clasts), and then cemented together by minerals that precipitated from solution. __<span style="font-family: Times">Chemical</span>__ sedimentary rocks are composed mainly of material that is transported as ions in solution. __<span style="font-family: Times">Biochemical</span>__ sedimentary rocks also form from ions in solution, but organisms play an important role in converting those ions into calcium carbonate or silica body parts. __<span style="font-family: Times">Organic</span>__ sedimentary rocks contain large amounts of organic matter, such as from plant leaves and tree bark.
 
 ## Clastic Sedimentary Rocks
 
-
 ### How Clastic Sediments Become Sedimentary Rocks
 
-
 __Lithification__ (Figure \@ref(fig:figure-9-3)) is the process of converting sediments into solid rock. __Compaction __is the first step. Sediments that have been deposited are buried when more and more sediments accumulate above them. The weight of the overlying sediments pushes the clasts together, closing up some of the pore spaces (the gaps between grains) and forcing them together. Pore spaces often contain water (although they can also contain air or even hydrocarbons), so the water is squeezed out.
-
 
 ```{r figure-9-3, fig.cap='Lithification turns sediments into solid rock. Lithification involves the compaction of sediments and then the cementation of grains by minerals that precipitate from groundwater in the spaces between these grains. _Source: Karla Panchuk (2016) CC BY 4.0_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/lithification-1024x409-1024x409.png")
 ```
 
-
 __Cementation__ is the next step. Groundwater flowing through the remaining pore spaces contains ions, and these ions may precipitate, leaving behind minerals in the pore spaces. These minerals bind the grains together, and are referred to collectively as __cement__. Quartz and calcite are common cement minerals, but depending on pressure, temperature, and chemical conditions, cement might also include other minerals such as hematite and clay.
 
 Figure \@ref(fig:figure-9-4) shows sandstone viewed under a microscope. The grains are all quartz but they appear different shades of grey because they are being viewed through cross-polarized light. It is difficult to tell the grains from the cement in this case because both are made of quartz, but in the image on the right the more obvious grain boundaries are marked with dashed lines. Some of the cement is marked with blue shading. Using the image on the right, see if you can pick out the grain boundaries in the image on the left.
-
 
 ```{r figure-9-4, fig.cap='Sandstone under a microscope. Grains and cement are quartz. Left- Original image. Right- Visible grain boundaries are marked with dashed lines, and some of the cement is shaded in blue. _Source: Karla Panchuk (2018) CC BY 4.0 modified after Woudloper, Public Domain [view source](http://bit.ly/218II28)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/cement.png")
 ```
 
-
 ### Types of Clastic Sedimentary Rocks
 
-
 Clastic sedimentary rocks are named according to the characteristics of clasts (rock and mineral fragments) that comprise them. These characteristics include grain size, shape, and sorting. The different types of clastic sedimentary rocks are summarized in Figure \@ref(fig:figure-9-5)
-
 
 ```{r figure-9-5, fig.cap='Types of clastic sedimentary rocks. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0, Photos by James St. John and R. Weller/ Cochise College. Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/clastic_table.png")
 ```
 
-
 #### Coarse-Grained Clastic Rocks
-
 
 Clastic sedimentary rocks in which a significant proportion of the clasts are larger than 2 mm are known as conglomerate if the clasts are well rounded, or breccia if they are angular (Figure \@ref(fig:figure-9-5), top row). Conglomerates form in high-energy environments, such as fast-flowing rivers, where the particles can become rounded as they bump into each other while being carried along. Breccias typically form where the particles are not transported a significant distance, such as in alluvial fans and talus slopes.
 
 #### Medium-Grained Clastic Rocks
 
-
 __Sandstone__ (Figure \@ref(fig:figure-9-5), middle row) is a very common sedimentary rock, and there are many different kinds of sandstone. It is worth knowing something about the different types because they are organized according to characteristics that are useful for the detective work of figuring out what conditions led to the formation of a particular sandstone. Broadly, sandstones can be divided into two groups: arenite and wacke (rhymes with tacky).
 
 __Arenite__ is “clean” sandstone consisting mostly of sand-sized grains and cement, with less than 15% of fine-grained silt and clay in the __matrix__ (the material between the sand-sized grains). Arenites are subdivided according to what the sand-sized grains are made of (Figure \@ref(fig:figure-9-6)). If 90% or more of the grains are quartz, then the sandstone is called a __quartz arenite__ (also called a __quartz sandstone__). If more than 10% of the grains are feldspar and more of the grains are feldspar than fragments of other rocks (lithic^[“Lithic” means “rock.” Lithic clasts are rock fragments (multimineralic fragments), as opposed to single-mineral fragments.] fragments) then the sandstone is called an__ arkosic arenite__, or just __arkose__. If the rock has more than 10% rock fragments, and more rock fragments than feldspar, it is __lithic arenite__.
-
 
 ```{r figure-9-6, fig.cap='A compositional triangle for arenite sandstones, with the three most common components of sand-sized grains: quartz, feldspar, and rock fragments. Arenites have less than 15% silt or clay. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/arenite-sandstones.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/arenite-sandstones.png")
 ```
 
-
-
-
 __Wacke__ is a "dirty" sandstone, containing 15-75% fine-grained particles (clay, silt) in its matrix. A wacke can have more fine-grained particles than cement in its matrix, making for a crumbly rock. Wackes are subdivided in the same way that arenites are: quartz wacke, feldspathic wacke, and lithic wacke. Another name for a lithic wacke is __greywacke__.
 
 Figure \@ref(fig:figure-9-7) shows thin sections^[Thin sections are slivers of rock sliced thinly enough so that light can pass through them, and they can be examined under a microscope.] (microscopic views) of quartz arenite, arkose, and lithic wacke. In the images, quartz grains are marked Q, feldspar grains are marked F, and lithic fragments are marked L. Notice the relative abundances of each component in the three types of rocks.
-
 
 ```{r figure-9-7, fig.cap='Photos of thin sections of three types of sandstone. Some of the minerals are labelled: Q=quartz, F=feldspar and L= lithic (rock fragments). The quartz arenite and arkose have relatively little silt/clay matrix, while the lithic wacke has abundant matrix. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/sandstones-2.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/sandstones-2-1024x301.png")
 ```
 
-
 <div>
 <div>
 
 #### Fine-Grained Clastic Rocks
-
 
 Rock composed of at least 75% silt- and clay-sized clasts is called __mudrock__ (Figure \@ref(fig:figure-9-5), bottom row). If a mudrock shows evidence of fine layers (laminations) and breaks into sheets, it is called __shale__. Otherwise, it is __siltstone__ (dominated by silt), __mudstone__ (a mix of silt and clay), or __claystone__ (dominated by clay). The fine-grained nature of mudrocks tells us that they form in very low energy environments, such as lakes, flood plains, and the deep ocean.
 <div class="textbox textbox--exercises"><header class="textbox__header">
@@ -138,13 +107,11 @@ Use Figures 9.6 and 9.7 to give the appropriate name to the sandstone in each of
 <tr>
 <td style="width: 50%">
 
-
 ```{r figure-9-8a, fig.cap='Sandstone 1. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/thin-2.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Exercise-6.2.2.png")
 ```
 </td>
 <td style="width: 50%">
-
 
 ```{r figure-9-8b, fig.cap='Sandstone 2. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/thin-3.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Exercise-6.2.3.png")
@@ -163,12 +130,10 @@ Clastic sediments are deposited in a wide range of environments, including from 
 
 ### Sediment Maturity
 
-
 Maturity in sediments refers to the extent to which sediment characteristics reflect prolonged weathering and transport. Prolonged weathering and transport cause clasts to become smaller, rounder, and more well-sorted. It removes minerals that are more susceptible to weathering, such as feldspar, leaving a sediment consisting predominantly of quartz or clay. On the spectrum of sediment maturity, quartz sandstone or shale would be mature sedimentary rocks, and wacke or conglomerate would be an immature rocks.
 
 </div>
 </div>
-
 
 ## Chemical and Biochemical Sedimentary Rocks
 
@@ -178,11 +143,9 @@ Chemical and biochemical sedimentary rocks are classified based on the minerals 
 
 ### Carbonate Rocks
 
-
 Carbonate rocks are those in which the dominant mineral contains the carbonate anion (CO~3~^2-^). The main carbonate minerals are calcite and aragonite. Both minerals have the formula CaCO~3~ but they have different crystal structures. A less common carbonate mineral that is still important for forming carbonate rocks is dolomite, which has the formula CaMg(CO~3~)~2~. It is similar to calcite and aragonite, except that some of the calcium is replaced with magnesium. Dolomite is more common as a replacement mineral, which has replaced calcite in carbonate rocks.
 
 #### Limestone
-
 
 __Limestone__ is comprised of calcite and aragonite. It can occur as a chemical sedimentary rock, forming inorganically due to precipitation, but most limestone is biochemical in origin. In fact, limestone is by far the most common biochemical sedimentary rock.
 
@@ -190,51 +153,39 @@ Almost all limestone forms in marine (i.e., oceans or salty seas) environments, 
 
 Reefs are highly productive ecosystems populated by a wide range of organisms, many of which use calcium and bicarbonate ions from seawater to make carbonate minerals (especially calcite) for their shells and other structures. These include corals as well as green and red algae, urchins, sponges, molluscs, and crustaceans. Some of micro-organisms use CaCO~3~ to build tiny __tests__ (shells) which accumulate on the ocean floor when these organisms die. Erosion can break all of these carbonate materials apart, scattering fragments throughout surrounding region (Figure \@ref(fig:figure-9-9)).
 
-
 ```{r figure-9-9, fig.cap='Various corals and green algae on a reef at Ambergris, Belize. The light-coloured sand consists of carbonate fragments eroded from the reef organisms. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/corals.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/corals.png")
 ```
 
-
 Figure \@ref(fig:figure-9-10) shows a cross-section through a typical reef environment in a tropical region (normally between 40° N and 40° S). Reefs tend to form near the edges of steep drop-offs because the reef organisms thrive on nutrient-rich upwelling currents. As the reef builds up, it is eroded by waves and currents to produce carbonate sediments that are transported into the steep offshore __fore-reef__ area and the shallower inshore __back-reef__ area. Reef-derived sediments are dominated by reef-type carbonate fragments of all sizes, including mud.
-
 
 ```{r figure-9-10, fig.cap='Cross-section through a typical tropical reef. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/tropical-reef.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/tropical-reef.png")
 ```
 
-
 In many such areas, carbonate-rich sediments also accumulate in quiet lagoons, where mud and mollusc-shell fragments predominate (Figure \@ref(fig:figure-9-11), left) or in offshore areas with strong currents, where either foraminifera tests accumulate (Figure \@ref(fig:figure-9-11), middle) or calcite crystallizes inorganically to form __ooids__ – spheres of calcite that form in shallow tropical ocean water with strong currents (Figure \@ref(fig:figure-9-11), right).
-
 
 ```{r figure-9-11, fig.cap='Carbonate rocks and sediments. Left- Mollusc-rich limestone formed in a lagoon area at Ambergris, Belize. Middle- Foraminifera-rich sediment from a submerged carbonate sandbar near to Ambergris, Belize . Right- Ooids from a beach at Joulters Cay, Bahamas. _Sources: Left, Middle- Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Screen-Shot-2015-06-10-at-7.09.27-PM.png); Right- Wilson44691 (2010) Public Domain [view source](https://commons.wikimedia.org/wiki/File:JoultersCayOoids.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Carbonate-sediments.png")
 ```
 
-
 Limestone also accumulates in deeper water, from the steady settling out of the carbonate shells of tiny organisms that lived near the ocean surface. Processes on the ocean floor cause the water in the deepest parts of the ocean to become more acidic. This puts a lower limit on how deep in the ocean calcite and aragonite can accumulate, because they dissolve under acidic conditions.
 
 #### Tufa and Travertine
 
-
 Calcite can form chemical sedimentary rocks on land in a number of environments. __Tufa__ forms at springs. The tufa towers in Figure \@ref(fig:figure-9-12) formed where spring water discharged into lake water.
-
 
 ```{r figure-9-12, fig.cap='Tufa towers (made of calcium carbonate) in Mono Lake, California. Evaporation keeps the concentration of ions in the lake very high, allowing the calcium carbonate to precipitate. _Source: Brocken Inaglory (2006) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Mono_lake_tufa.JPG)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/1024px-Mono_lake_tufa-1024x683.jpg")
 ```
 
-
 __Travertine__ (which is less porous) forms at hot springs. Similar material precipitates within limestone caves to form __speleothems__ (mineral deposits in caves, Figure \@ref(fig:figure-9-13)) such as __stalactites__ and __stalagmites__.
-
 
 ```{r figure-9-13, fig.cap='Speleothems in Cave Nefza in Tunisia _Source: Badreddine Besbes (2015) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Stalagmite,_stalactite_de_grotte_de_NEFZA.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Stalagmite_stalactite_de_grotte_de_NEFZA-1024x681.jpg")
 ```
 
-
 #### Dolostone
-
 
 __Dolostone__ (also referred to as dolomite) is the carbonate rock made of the mineral dolomite (CaMg(CO~3~)~2~). Dolostone is quite common (there’s a whole Italian mountain range named after it), which is surprising because marine organisms do not precipitate dolomite. Dolomite forms through __dolomitization__, a process thought to involve chemical reactions between magnesium-rich water percolating through rocks, and sediments containing calcite.
 
@@ -242,17 +193,13 @@ Calcite and dolomite can be distinguished from one another by applying a drop of
 
 ### Chert
 
-
 Chert is made of silica (SiO~2~). It has the same chemical formula as quartz, but is __cryptocrystalline__, meaning that the quartz crystals comprising chert are so small that it is difficult to see them even under a microscope. Chert can be a chemical sedimentary rock, often forming as beds within limestone (Figure \@ref(fig:figure-9-14)), or as irregular lenses or blobs (nodules). It can also be biochemical. Some tiny marine organisms (e.g., diatoms and radiolaria) make their tests from silica. When they die their tiny shells (or tests) settle slowly to the bottom of the lake or ocean, where they accumulate and are transformed into chert.
-
 
 ```{r figure-9-14, fig.cap='Chert (brown layers) interbedded with limestone, Triassic Quatsino Fm, Quadra Island, BC. All of the layers have been folded, and the chert, being more resistant to weathering than limestone, stands out. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Chert.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Chert.png")
 ```
 
-
 ### Banded Iron Formations (BIFs)
-
 
 <div>
 <div>
@@ -261,11 +208,9 @@ Some ancient chert beds — most dating to between 1800 and 2400 Ma — are also
 
 </div>
 
-
 ```{r figure-9-15, fig.cap='An example of a banded iron formation with dark iron oxide layers interspersed with chert stained red by hematite. This rock is 2.1 billion years old. _Source: Andre Karwath CC BY-SA (2005) [view source](https://commons.wikimedia.org/wiki/File:Black-band_ironstone_(aka).jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/1280px-Black-band_ironstone_aka-1024x737.jpg")
 ```
-
 
 </div>
 <div>
@@ -274,7 +219,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 ### Evaporites
 
-
 <div>
 
 In arid regions, lakes and inland seas typically have no stream outlet, and the water that flows into them is removed only by evaporation. Under these conditions, the water becomes increasingly concentrated with dissolved salts, and eventually some of these salts may reach saturation levels and start to crystallize (Figure \@ref(fig:figure-9-16)).
@@ -282,18 +226,14 @@ In arid regions, lakes and inland seas typically have no stream outlet, and the 
 </div>
 </div>
 
-
 ```{r figure-9-16, fig.cap='Spotted Lake, near Osoyoos, BC. This photo was taken in May when the water was relatively fresh because of winter rains. By the end of the summer the surface of this lake is typically fully encrusted with salt deposits. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Spotted-Lake.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Spotted-Lake.png")
 ```
-
 
 <div>
 <div>
 
 Although all evaporite deposits are unique because of differences in the chemistry of the water, in most cases minor amounts of carbonates start to precipitate when the solution is reduced to about 50% of its original volume. Gypsum (CaSO~4~·H~2~O) precipitates at about 20% of the original volume, and halite (NaCl) precipitates at 10%. Other important evaporite minerals include sylvite (KCl) and borax (Na~2~B~4~O~7~·10H~2~O). Sylvite is mined as potash at numerous locations across Saskatchewan from evaporites that formed during the Devonian (~385 Ma) when an inland sea occupied much of the region.
-
-
 
 </div>
 <div class="textbox textbox--exercises"><header class="textbox__header">
@@ -305,19 +245,15 @@ Although all evaporite deposits are unique because of differences in the chemist
 
 This is an easy experiment that you can do at home. Pour about 50 mL (just less than 1/4 cup) of very hot water into a cup and add 2 teaspoons (10 mL) of salt. Stir until all or almost all of the salt has dissolved, then pour the salty water (leaving any undissolved salt behind) into a shallow wide dish or a small plate. Leave it to evaporate for a few days and observe the result. It may look a little like the Figure \@ref(fig:figure-9-17) These crystals are up to ~3 mm in diameter.
 
-
 ```{r figure-9-17, fig.cap='Salt crystals up to ~ 3 mm across. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Evaporite.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Evaporite.png")
 ```
 
-
 </div>
-
 
 </div>
 </div>
 </div>
-
 
 ## Organic Sedimentary Rocks
 
@@ -325,11 +261,9 @@ Organic sedimentary rocks are those containing large quantities of organic molec
 
 An important organic sedimentary rock is coal. Most coal forms in swampy land adjacent to rivers and within deltas, and where climates are humid and tropical to temperate. The vigorous growth of vegetation leads to an abundance of organic matter that accumulates within stagnant, acidic water. This limits decay and oxidation of the organic material. If this situation—where the dead organic matter is submerged in oxygen-poor water—is maintained for centuries to millennia, a thick layer of material can accumulate. Limited decay will transform this layer into __peat __(Figure \@ref(fig:figure-9-18)a, Figure \@ref(fig:figure-9-19) upper left).
 
-
 ```{r figure-9-18, fig.cap='Formation of coal. (a) Accumulation of organic matter within a swampy area forms a layer of peat; (b) The organic matter is buried under sediment and is compressed; (c) With greater burial, lignite coal forms; (d) At even greater depths, bituminous and eventually anthracite coal form. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Formation-of-coal.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Formation-of-coal-1024x539.png")
 ```
-
 
 At some point the swamp deposit is covered with more sediment — typically because a river changes its course or sea level rises (Figure \@ref(fig:figure-9-18)b). As more sediments are added, the organic matter is compressed and heated as temperatures increase with depth. This has the effect of concentrating the carbon within the coal. The amount of heating will determine how far this process progresses.
 
@@ -337,24 +271,19 @@ The further the process does progress, the more the coal will go from having obv
 
 At between 1,000 m to 5,000 m depth and temperatures up to 150°C m, __bituminous__ __coal__ forms (Figure \@ref(fig:figure-9-18)d, 9.19 lower right). At depths beyond 5,000 m and temperatures over 150°C, __anthracite__ coal forms (Figure \@ref(fig:figure-9-19) lower left). In fact, as temperatures rise, the lower-grade forms of coal are actually being transformed from sedimentary to metamorphic rocks.
 
-
 ```{r figure-9-19, fig.cap='The formation of coal begins when plant matter is prevented from decaying by accumulating in low-oxygen, acidic water. A layer of peat forms. Heating and compression of peat form lignite, bituminous coal, and finally anthracite, as pressure and temperature increases. _Source: Karla Panchuk (2017) CC BY-NC-SA 4.0. Photos by R. Weller/ Cochise College and U. S. Geological Survey. Click the image for more attributions and terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/coal.png")
 ```
 
-
 The transition from peat to anthracite results in a progressive increase in the carbon concentration, in hardness, and in the amount of energy available to be released upon combustion.
-
 
 ## Depositional Environments and Sedimentary Basins
 
 Sediments accumulate in a wide variety of environments, both on the continents and in the oceans. Some of the more important of these environments are illustrated in Figure \@ref(fig:figure-9-20)
 
-
 ```{r figure-9-20, fig.cap='Some of the important depositional environments for sediments and sedimentary rocks. _Source: Steven Earle (2015) CC BY 4.0 view source, modified after Mike Norton (2008) CC BY-SA 2.0 [view source](https://commons.wikimedia.org/wiki/File:SedimentaryEnvironment.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/sediments.png")
 ```
-
 
 Tables 9.1 and 9.2 provide a summary of the processes and sediment types that pertain to the various depositional environments illustrated in Figure \@ref(fig:figure-9-19). The types of sediments that accumulate in these environments are examined in more detail in the last section of this chapter.
 <table style="border-collapse: collapse;width: 100%;height: 216px" border="1">
@@ -475,11 +404,9 @@ Tables 9.1 and 9.2 provide a summary of the processes and sediment types that pe
 </table>
 Most of the sediments that you might see around you, including talus on steep slopes, sand bars in streams, or gravel in road cuts, will never become sedimentary rocks. This is because they have only been deposited relatively recently — perhaps a few centuries or millennia ago — and will be re-eroded before they are buried deep enough beneath other sediments to be lithified. In order for sediments to be preserved long enough to be turned into rock (a process that takes millions or tens of millions of years) they need to have been deposited in a basin in which sediments can be preserved for that long. Most such basins are formed by plate tectonic processes (Figure \@ref(fig:figure-9-21)).
 
-
 ```{r figure-9-21, fig.cap='Some types of tectonically produced basins: (a) trench basin, (b) forearc basin, (c) foreland basin, and (d) rift basin. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/basins.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/basins.png")
 ```
-
 
 __Trench basins__ form where a subducting oceanic plate dips beneath the overriding continental or oceanic lithosphere. They can be several kilometres deep, and in many cases, host thick sequences of sediments from nearby eroding coastal mountains. There is a well-developed trench basin off the west coast of Vancouver Island.
 
@@ -487,17 +414,14 @@ A __forearc basin__ lies between the subduction zone and the volcanic arc, and m
 
 A __foreland basin__ is caused by the mass of a mountain range depressing the crust. A __rift basin__ forms where continental crust is being pulled apart, and the crust on both sides the rift subsides. If rifting continues this will eventually becomes a narrow sea, and then an ocean basin. The East African rift basin represents an early stage in this process.
 
-
 ## Sedimentary Structures and Fossils
 
 Through careful observation over the past few centuries, geologists have discovered that the accumulation of sediments and sedimentary rocks takes place according to some important geological principles that can be summarized as follows:
-
 
 - Explain the differences between the four kinds of sedimentary rocks: clastic, chemical, biochemical, and organic.
 - Describe some of the specific kinds of rocks in each of the four categories, and the depositional environments in which they form.
 - Describe the various terrestrial and marine sedimentary depositional environments, and explain how the formation of sedimentary basins is related to plate tectonic processes.
 - Apply your understanding of the features of sedimentary rocks, including grain characteristics, sedimentary structures, and fossils, to the interpretation of past depositional environments and climates.
-
 
 These and other principles are discussed in more detail in [Chapter 19](https://openpress.usask.ca/physicalgeology/chapter/19-2-relative-dating-methods-2/).
 
@@ -505,61 +429,47 @@ In addition to these principles that apply to all sedimentary rocks, a number of
 
 __Bedding__ refers to sedimentary layers that can be distinguished from one another on the basis of characteristics such as texture, composition, colour, or weathering characteristics (Figure \@ref(fig:figure-9-22)). They may also be similar layers separated by __partings__, narrow regions marking weaker surfaces where erosion is enhanced. Bedding is an indication of changes in depositional processes that may be related to seasonal differences, changes in climate, changes in locations of rivers or deltas, or tectonic changes. Bedding can form in almost any depositional environment.
 
-
 ```{r figure-9-22, fig.cap='Beds in the Triassic Sulphur Mt. Formation near Exshaw, Alberta. Bedding is defined by differences in colour and texture, and also by partings (darker lines) between beds that may otherwise appear to be similar. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Triassic-Sulphur.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Triassic-Sulphur.png")
 ```
 
-
 __Cross-bedding__ is bedding that contains angled layers. It forms when sediments are deposited by flowing water or wind (Figure \@ref(fig:figure-9-23)). Cross-beds in streams tend to be on the scale of cm to tens of cm, while those in __aeolian__ (wind deposited) sediments can be on the scale of metres.
-
 
 ```{r figure-9-23, fig.cap='Cross-bedded Jurassic Navajo Formation aeolian sandstone at Zion National Park, Utah. In most of the layers the cross-beds dip down toward the right, implying wind direction from right to left during deposition. One bed dips in the opposite direction, implying a different wind direction. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Cross-bedded.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Cross-bedded.png")
 ```
 
-
 Cross-beds form as sediments are deposited on the leading edge of an advancing ripple or dune. Each layer is related to a different ripple that advances in the flow direction, and is partially eroded by the following ripple (Figure \@ref(fig:figure-9-23)). Cross-bedding is a very important sedimentary structure to recognize because it can provide information on the direction of current flows and, when analyzed in detail, on other features like the rate of flow and the amount of sediment available.
-
 
 ```{r figure-9-24, fig.cap='Formation of cross-beds as a series of ripples or dunes that migrate with the flow. Each ripple advances forward (right to left in this view) as more sediment is deposited on its leading face. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Formation-of-cross-beds.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Formation-of-cross-beds.png")
 ```
 
-
 __Ripples__, which are associated with the formation of cross-bedding under unidirectional flow, may be preserved on the surfaces of sedimentary beds. Ripples formed in flowing water can also help to determine flow direction because they tend to have their steepest surface facing down-flow. Ripples can also form from back-and-forth flows, like at a beach, but these do not leave cross-beds, and are symmetrical, without one side steeper than the other.
 
 __Graded bedding__ is characterized by a change in grain size from bottom to top within a single bed. “Normal” graded beds are coarse at the bottom and become finer toward the top (Figure \@ref(fig:figure-9-25)), a product of deposition from a slowing current. Some graded beds are reversed (coarser at the top), and this normally results from deposition by a fast-moving debris flow. Most graded beds form in a submarine fan environment, where sediment-rich flows descend periodically from a shallow marine shelf down a slope and onto the deeper sea floor.
-
 
 ```{r figure-9-25, fig.cap='Graded bedding going from pebbles at the bottom to sand at the top. _Source: Cropped from James St. John (2018) CC BY 2.0 [view source](https://flic.kr/p/25m1kaG)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/11/JamesStJohn_graded_bedding-cropped.jpg")
 ```
 
-
 In a stream environment, boulders, cobbles, and pebbles can become __imbricated__, meaning that they are generally tilted in the same direction. Clasts in streams tend to tilt with their upper ends pointing downstream, because this is the most stable position with respect to the stream flow (Figure \@ref(fig:figure-9-26)).
-
 
 ```{r figure-9-26, fig.cap='Imbrication of clasts in a fluvial environment. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/imbrication-of-clasts.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/imbrication-of-clasts.png")
 ```
 
-
 __Mud cracks__ form when a shallow body of water (e.g., a tidal flat or pond), into which muddy sediments have been deposited, dries up and cracks (Figure \@ref(fig:figure-9-27)). This happens because the clay in the upper mud layers shrinks upon drying.
-
 
 ```{r figure-9-27, fig.cap='Mud cracks in a tidal flat in England. _Source: Alan Parkinson (2000) CC BY-SA 2.0 [view source](https://commons.wikimedia.org/wiki/File:Dried_mud_creeks_on_the_shores_of_the_Wash_-_geograph.org.uk_-_10669.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Mud-cracks.png")
 ```
 
-
 The various structures described above are critical to understanding and interpreting the formation of sedimentary rocks. In addition to these structures, geologists also look very closely at sedimentary grains to determine their mineralogy or lithology (in order to make inferences about the type of source rock and the weathering processes), their degree of rounding, their sizes, and the extent to which they have been sorted by transportation and depositional processes.
 
 ##### A Note About Fossils
 
-
 Fossils are not covered in detail in this book, but they are extremely important for understanding sedimentary rocks. Fossils can be used to date sedimentary rocks, but just as importantly, they tell us a great deal about the depositional environment of the sediments and the climate at the time: they can help to differentiate marine, aquatic, and terrestrial environments; estimate the depth of the water; detect the existence of currents; and estimate average temperature and precipitation.
-
 
 <div class="textbox textbox--exercises"><header class="textbox__header">
 <p class="textbox__title">Exercise: Interpreting Past Environments</p>
@@ -569,12 +479,10 @@ Fossils are not covered in detail in this book, but they are extremely important
 
 Sedimentary rocks can tell us a great deal about the environmental conditions that existed during the time of their formation. For each of the following rocks, make some inferences about the following:
 
-
 - Explain the differences between the four kinds of sedimentary rocks: clastic, chemical, biochemical, and organic.
 - Describe some of the specific kinds of rocks in each of the four categories, and the depositional environments in which they form.
 - Describe the various terrestrial and marine sedimentary depositional environments, and explain how the formation of sedimentary basins is related to plate tectonic processes.
 - Apply your understanding of the features of sedimentary rocks, including grain characteristics, sedimentary structures, and fossils, to the interpretation of past depositional environments and climates.
-
 
 __Quartz sandstone:__ no feldspar, well-sorted and well-rounded quartz grains, cross-bedded
 
@@ -586,7 +494,6 @@ __Breccia:__ poorly sorted, angular limestone fragments; orange-red matrix
 
 </div>
 </div>
-
 
 ## Groups, Formations, and Members
 
@@ -600,11 +507,9 @@ In areas where detailed geological information is needed (for example, within a 
 
 The sedimentary rocks of the Nanaimo Group on Vancouver Island provide a useful example for understanding groups, formations, and members. During the latter part of the Cretaceous Period, from about 90 Ma to 65 Ma, a thick sequence of clastic rocks was deposited in a foreland basin between what is now Vancouver Island and the BC mainland (Figure \@ref(fig:figure-9-28)). Nanaimo Group comprises a 5000 m thick sequence of conglomerate, sandstone, and mudstone layers. Coal was mined from the Nanaimo Group rocks from around 1850 to 1950 in the Nanaimo region, and is still being mined in the Campbell River area.
 
-
 ```{r figure-9-28, fig.cap='The distribution of the Upper Cretaceous Nanaimo Group rocks on Vancouver Island, the Gulf Islands, and in the Vancouver area. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Upper-Cretaceous-Nanaimo-Group-rocks.png), modified after Mustard (1994)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Upper-Cretaceous-Nanaimo-Group-rocks.png")
 ```
-
 
 The Nanaimo Group is divided into 11 formations (Table 9.3). In general, the boundaries between formations are based on major lithological differences. A wide range of depositional environments existed during the accumulation of the Nanaimo Group rocks, from nearshore marine for the Comox and Haslam Formation; to fluvial and deltaic with backwater swampy environments for the coal-bearing Extension, Pender, and Protection Formations; to a deep-water submarine fan environment for the upper six formations. The differences in the depositional environments are probably a product of variations in tectonic-related uplift over time.
 <table border="1">
@@ -695,23 +600,17 @@ The five lower formations of the Nanaimo Group are all exposed in the Nanaimo ar
 
 There is much variety in the Nanaimo Group rocks, and it would take hundreds of photographs to illustrate all of the different types of rocks. Nevertheless, a few representative examples are shown in Figures 9.30-9.32.
 
-
 ```{r figure-9-30, fig.cap='Nanaimo Group, Spray Formation. Turbidite layers on Gabriola Island. Each turbidite set consists of a lower sandstone layer (light colour) that grades upward into siltstone, and then into mudstone. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Turbidite-layers.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Turbidite-layers.png")
 ```
-
-
 
 ```{r figure-9-31, fig.cap='Nanaimo Group, Pender Formation. Two separate layers of fluvial sandstone with a thin (approx. 75 cm) coal seam in between. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/fluvial-sandstone.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/fluvial-sandstone.png")
 ```
 
-
-
 ```{r figure-9-32, fig.cap='Nanaimo Group, Comox Formation. The metal object is the end of a rock hammer that is 3 cm wide. Almost all of the clasts in this view are well-rounded basalt pebbles cobbles eroded from the Triassic Karmutsen Formation which makes up a major part of Vancouver Island. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Comox-Formation.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Comox-Formation.png")
 ```
-
 
 ###### References
 
@@ -723,36 +622,29 @@ The topics covered in this chapter can be summarized as follows:
 
 ###  Clastic Sedimentary Rocks
 
-
 Sedimentary clasts are classified based on their size, and variations in clast size have important implications for transportation and deposition. Clastic sedimentary rocks range from conglomerate to mudstone. Clast size, sorting, composition, and shape are important features that allow us to differentiate clastic rocks and understand the processes that took place during their deposition.
 
 ###  Chemical and Biochemical Sedimentary Rocks
-
 
 Chemical and biochemical sedimentary rocks form from ions that were transported in solution, and then converted into minerals by chemical and/or biological processes. The most common biochemical rock, limestone, typically forms in shallow tropical marine environments, where biological activity is a very important factor. Chert and banded iron formations can be from deep-ocean environments. Evaporites form where the waters of lakes and inland seas become supersaturated due to evaporation.
 
 ###  Organic Sedimentary Rocks
 
-
 Organic sedimentary rocks contain abundant organic carbon molecules (molecules with carbon-hydrogen bonds). An example is coal, which forms when dead plant material is preserved in stagnant swamp water, and later compressed and heated.
 
 ###  Depositional Environments and Sedimentary Basins
-
 
 There is a wide range of depositional environments, both on land (including glaciers, lakes, and rivers) and in the ocean (including deltas, reefs, shelves, and the deep-ocean floor). In order to be preserved, sediments must accumulate in sedimentary basins, many of which form through plate-tectonic processes.
 
 ###  Sedimentary Structures and Fossils
 
-
 The deposition of sedimentary rocks can be described in terms of a series of principles, including original horizontality, superposition, and faunal succession. Sedimentary rocks can also have distinctive structures that are important in determining their depositional environments. Fossils are useful for determining the age of a rock, the depositional environment, and the climate at the time of deposition.
 
 ###  Groups, Formations, and Members
 
-
 Sedimentary sequences are classified into groups, formations, and members so that they can be mapped easily and without confusion.
 
 #### Review Questions
-
 
 <ol>
  	<li>What are the minimum and maximum sizes of sand grains?</li>
@@ -770,8 +662,6 @@ Sedimentary sequences are classified into groups, formations, and members so tha
  	<li>What are the criteria for the application of a formation name to a series of sedimentary rocks?</li>
  	<li>Explain why some of the Nanaimo Group formations have been divided into members, while others have not.</li>
 </ol>
-
-
 
 ## Answers to Chapter  Review Questions
 

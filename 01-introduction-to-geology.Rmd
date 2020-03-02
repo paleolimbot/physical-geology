@@ -87,7 +87,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08
 
 There is no single method of inquiry that is specifically the scientific method. Furthermore, scientific inquiry is not necessarily different from serious research in other disciplines. The key features of serious inquiry are the following:
 
-
 - Explain what geology is, and why we study Earth.
 - Describe the kinds of work that geologists do.
 - Explain what is meant by _geological time_.
@@ -202,7 +201,6 @@ Despite the different past conditions on Earth as a whole, there still exist env
 ### Plate Tectonics
 
 It is only within the last 50 years or so that we have been able to answer questions like, "How did that mountain range get there?" and "Why do earthquakes happen where they do?" The theory of __plate tectonics__- the idea that Earth's surface is broken into large moving fragments, called __plates__- profoundly changed our perspective on how the Earth works. Figure \@ref(fig:figure-1-8) shows Earth's 15 largest tectonic plates, along with arrows indicating the plates' direction of motion, and how fast they go. (Longer arrows mean faster motion.) There are many more plates on Earth that are too small to show conveniently in Figure \@ref(fig:figure-1-8). A more detailed map of Earth's tectonic plates can be found at [here](https://openpress.usask.ca/app/uploads/sites/29/2017/05/Plate_tectonics_map.gif).
-
 
 ```{r figure-1-8, fig.cap='Earth\'s fifteen largest tectonic plates. Black arrows show the direction of plate motions. The length of the arrow indicates velocity. Red arrows show how plates move relative to each other. _Source: Steven Earle (2015) CC BY 4.0. [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image043_2.png) Modified after U. S. Geological Survey (1996) Public Domain [view original](https://pubs.usgs.gov/gip/dynamic/slabs.html)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Plates_map_small.png")

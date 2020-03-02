@@ -246,7 +246,6 @@ In the same 1965 paper, Wilson introduced the idea that the crust can be divided
 
 J. Tuzo Wilson used a paper model similar to the one in Figure \@ref(fig:figure-4-21) to explain transform faults to his colleagues. To use this model, print Figure \@ref(fig:figure-4-21), cut around the outside, and then slice along the line A-B (the fracture zone) with a sharp knife. Fold down the top half where shown, and then pinch together in the middle. Do the same with the bottom half. When you're done, you should have two folds of paper extending downward as in Figure \@ref(fig:figure-4-22).
 
-
 ```{r figure-4-21, fig.cap='Transform fault model. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image039.png), modified after Stewart (1990).'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Transform-model-1024x405-1024x405.png")
 ```
@@ -391,14 +390,11 @@ This situation may not continue for too much longer, however. As the Atlantic Oc
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image067.png")
 ```
 
-
 A subduction zone will develop, and the oceanic plate will begin to descend under the continent. Once this happens, the continents will no longer continue to move apart because the spreading at the mid-Atlantic ridge will be taken up by subduction. If spreading along the mid-Atlantic ridge continues to be slower than spreading within the Pacific Ocean, the Atlantic Ocean will start to close up, and eventually (in a 100 million years or more) North and South America will collide again with Europe and Africa. If this continues without changing for another few hundred million years, we will be back to where we started, with one supercontinent (Figure \@ref(fig:figure-4-35)).
-
 
 ```{r figure-4-35, fig.cap='Sequence of reconstructions showing the possible future configuration of land masses on Earth at 50, 150, and 250 million years from now. Movements culminate in the formation of a new supercontinent called Pangea Ultima. _Source: Karla Panchuk (2017) CC BY-NC-SA 4.0. Maps from C. R. Scotese, PALEOMAP Project (www.scotese.com). Click the image for map sources and terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Pangea-ultima-494x1024-494x1024.png")
 ```
-
 
 There is strong evidence around the margins of the Atlantic Ocean that this process has taken place before. There are roots of ancient mountain belts along the eastern margin of North America, the western margin of Europe, and the north-western margin of Africa, which show that these landmasses once collided with each other to form a mountain chain. The mountain chain might have been as big as the Himalayas.
 
@@ -415,7 +411,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 Mantle convection is often said to be critical to plate tectonics. While this is almost certainly so, there is still debate about the actual forces that make the plates move. One side of the argument holds that the plates are only moved by the traction caused by mantle convection, and that friction between the asthenosphere and lithosphere pulls the lithosphere along as the mantle convects. The other side holds that traction plays only a minor role and that __ridge-push__ and __slab-pull__ are more important (Figure \@ref(fig:figure-4-37)).
 
 __Ridge-push__ refers to gravity causing lithosphere to slide downhill away from the elevated mid-ocean ridges. __Slab-pull__ refers to the weight of subducting slabs dragging the rest of the plate down into the mantle.
-
 
 ```{r figure-4-37, fig.cap='Models for plate motion mechanisms. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image081.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image081.png")

@@ -8,9 +8,7 @@ from [_Physical Geology_](https://opentextbc.ca/geology/) by Steven Earle</p>
 
 ##### Learning Objectives {-}
 
-
 After reading this chapter, completing the exercises within it, and answering the questions at the end, you should be able to:
-
 
 - Explain how slope stability is related to slope angle
 - Summarize some of the factors that influence the strength of materials on slopes, including the type of rock, the presence and orientation of planes of weakness such as bedding planes or fractures, the type of unconsolidated material upon the slope, and the effects of water flowing upon or within the slope material
@@ -20,7 +18,6 @@ After reading this chapter, completing the exercises within it, and answering th
 - Describe the main types of mass wasting — creep, slump, slide, fall, and debris or mud flow — in terms of the types of materials involved, the type of motion, and the likely rates of motion
 - Explain what steps we can take to delay mass wasting, and why we cannot prevent it permanently
 - Describe some of the measures that can be taken to mitigate the risks associated with mass wasting
-
 
 </div>
 
@@ -36,20 +33,15 @@ knitr::include_graphics("https://physicalgeology.pressbooks.com/wp-content/uploa
 
 What can we learn from the Hope Slide? In general, we cannot prevent most mass wasting events, and significant effort is required if an event is to be predicted with any level of certainty. Understanding the geology is critical to understanding mass wasting. Although slope failures are inevitable in a region with steep slopes, larger slope failures happen less frequently than smaller ones. The consequences of a large mass wasting event also vary depending on the downslope conditions, such as the presence of people, buildings, roads, or fish-bearing streams.
 
-
-
 An important reason for learning about mass wasting is to understand the nature of how and why materials fail in mass wasting events. If we understand this better, we can use this knowledge to help minimize the risks from similar events in the future.
 
 ## Factors That Control Slope Stability
 
-
 ### Slope Angle and the Forces Acting On A Slope
-
 
 A block of rock situated on a rock slope is pulled by gravity toward Earth’s centre (vertically down, Figure \@ref(fig:figure-15-2)). We can split the vertical gravitational force into two components (vectors) relative to the slope: one pulling the block down parallel to the slope (the __shear force__), and the other pulling the block directly into (i.e., perpendicular) to the slope (the __normal force__).
 
 The shear force pulls the block down the slope, but the block does not move unless the shear force overcomes (is greater than) the friction between the block and the slope. This friction holding the block on the slope may be quite weak if the block has split away from the main body of rock, or may be very strong if the block is still connected to the other rock on the slope. The strength of the relationship between the block and the slope is called the __shear strength__. For example, in Figure \@ref(fig:figure-15-2)a, the shear strength is greater than the shear force, so the block will not move. In Figure \@ref(fig:figure-15-2)b the slope is steeper, and the shear force is approximately equal to the shear strength. The block may or may not move under these circumstances. In Figure \@ref(fig:figure-15-2)c, the slope is steeper still, so the shear force is considerably greater than the shear strength, and the block will move.
-
 
 ```{r figure-15-2, fig.cap='| Differences in the shear and normal components of the gravitational force on slopes with differing steepness. The total gravitational force is the same in all three cases. In (a) the shear force (red line aligned with slope) is substantially less than the shear strength (green arrow), so the block is stable. In (b) the shear force and shear strength are nearly equal, so the block may or may not move. In (c) the shear force is greater than the shear strength, so the block will move. _Source: Steven Earle (2015) CC BY 4.0. [view source ](https://opentextbc.ca/geology/)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Differences-in-the-shear-and-normal-components-1024x919.png")
@@ -59,8 +51,6 @@ Slopes are created by uplift in the Earth’s crust and modified by erosion. In 
 ### Slope Strength
 
 The strength of the materials on slopes can vary widely. Solid rocks tend to be strong, but rock strength varies widely, so this is not always the case. If we consider just the strength of the rocks and ignore issues such as fracturing and layering, then most crystalline rocks (e.g., granite, basalt, or gneiss) are very strong, while some metamorphic rocks (e.g., schist) are only moderately strong. Sedimentary rocks have variable strength. Dolostone and some limestone are strong, most sandstone and conglomerate are moderately strong, and some sandstone and all mudstones are quite weak.
-
-
 
 Fractures, metamorphic foliation (excluding gneissosity and banding), or bedding can significantly reduce the strength of rock. In the context of mass wasting, this is most critical if the planes of weakness are parallel to the slope and least critical if they are perpendicular to the slope. This is illustrated in Figure \@ref(fig:figure-15-3) At locations A and B the bedding is nearly perpendicular to the slope and the layers of rock are relatively stable. At location D the bedding is nearly parallel to the slope and the layers of rock are relatively unstable. At location C the bedding is nearly horizontal, and the stability is intermediate between the two extremes.
 
@@ -72,19 +62,15 @@ Internal variations in the composition and structure of rocks can significantly 
 
 Unconsolidated sediments are generally weaker than sedimentary rocks because they are not cemented and, in most cases, have not been significantly compressed by overlying materials. Unconsolidated sediments can still bind together, and the strength of that binding is called cohesion. A cohesive sediment binds together strongly and if you picked it up with a shovel it would stick together in a lump (e.g., sand mixed with clay, clay). A sediment that is not very cohesive is weakly bound and would probably fall apart if you picked it up with a shovel (e.g., sand, silt). The deposits that make up the cliffs at Point Grey, Vancouver, B.C. include sand, silt, and clay, overlain by sand. The finer deposits at Point Grey are relatively cohesive (they maintain a steep slope, Figure \@ref(fig:figure-15-4) left). The overlying sand is not very cohesive (relatively weak) and has a shallower slope because there are many slope failures in the sand deposit.
 
-
 ```{r figure-15-4, fig.cap='Left: Glacial outwash deposits at Point Grey, Vancouver, B.C. The dark lower layer is made up of sand, silt, and clay. The light upper layer is well-sorted sand, which has experienced slope failure and formed a cone of talus. Right: Glacial till on Quadra Island, B.C. The till is strong enough to have formed a near-vertical slope. _Source: Steven Earle (2015) CC BY 4.0. [View source ](https://opentextbc.ca/geology/)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Glacial-outwash-and-Glacial-till-1024x483.png")
 ```
 
 In contrast to poorly cohesive sediment deposits, glacial till can be as strong as some sedimentary rock. Glacial till is typically a mixture of clay, silt, sand, gravel, and larger clasts and forms and is compressed beneath tens to thousands of metres of glacial ice (Figure \@ref(fig:figure-15-4), right).
 
-
-
 Apart from the type of material on a slope, the amount of water that the material contains is the most important factor controlling its strength. This is especially true for unconsolidated materials (e.g., Figure \@ref(fig:figure-15-4)), but it also applies to bodies of rock. Granular sediments, like the sand at Point Grey, have lots of pore spaces between the grains. These spaces may be completely dry (filled only with air), moist (some spaces are water filled), or completely saturated (Figure \@ref(fig:figure-15-5)).
 
 Unconsolidated sediments tend to be strongest when they are moist because the small amounts of water at grain boundaries holds the grains together due to surface tension. Surface tension is the tension at the surface of a fluid that allows the liquid to resist an external force. Liquids always tend to acquire the lowest surface area possible; this happens because molecules at the surface of the fluid are attracted to the molecules below the surface). This is the property of liquid water that allows insects to walk over it. Dry sediments are held together only by the friction between grains, and if they are well sorted or well rounded, or both, this cohesion is weak, due to minimal grain contact. Saturated sediments tend to be the weakest of all because the water pushes the grains apart, decreasing friction between grains. Water will also reduce the strength of solid rock, if the rock has porosity, fractures, bedding planes, and/or clay-bearing zones, especially when the rock is saturated with water (saturated conditions).
-
 
 ```{r figure-15-5, fig.cap='| Depiction of dry, moist, and saturated sand. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Depiction-of-dry-moist-and-saturated-sand.png")
@@ -98,15 +84,12 @@ Water pressure is an important factor in slope failure. As you move deeper in sa
 
 Water also has an interesting effect on clay-bearing materials. All clay minerals will absorb a small quantity of water, which reduces the strength of the clay. The smectite clays (such as the bentonite used in cat litter) can absorb a lot of water, and this water pushes the clay sheets apart at a molecular level, which makes the clay swell. Smectite that has expanded in this way has almost no strength; it is extremely slippery. Thus, slopes containing smectite clay are more likely to experience slope failure when they are saturated.
 
-
-
 Water can increase the mass of the material on a slope, because the mass of the water is a component of the overall mass of the slope material. This increases the gravitational force pulling the slope materials down. A water saturated body of sediment with 25% porosity weighs approximately 13% more than it does when it is completely dry, so the gravitational shear force is also 13% higher. In the situation shown in Figure \@ref(fig:figure-15-2)b, a 13% increase in the shear force is enough to overcome the shear strength, and the block would move down the slope.
 
 <div class="bcc-box bcc-info">
 <div class="textbox exercises">
 
 ##### Exercise 15.1 Sand and Water
-
 
 <img class="aligncenter wp-image-1271" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Sand-and-Water-1024x768.jpg" alt="Sand and Water" width="400" height="300" />
 
@@ -127,8 +110,6 @@ Finally, put some sand into a cup and fill the cup with water so the sand is jus
 
 In the previous section, we discussed the shear force and the shear strength of materials on slopes, and factors that can decrease the shear strength. Shear force is primarily related to slope angle, and once a slope angle is set, the shear force is constant. But shear strength can change quickly for a variety of reasons. Events that lead to a rapid decrease in shear strength are triggers for mass wasting.
 
-
-
 An increase in water content is the most common trigger of mass wasting. This can result from rapid melting of snow or ice, heavy rain, or other events that change the pattern of water flow on and through the material. Rapid melting can be caused by a dramatic increase in temperature (e.g., in spring or early summer), or by a volcanic eruption. Heavy rains are typically related to storms. An example of a major slope failure caused by an increase in water content was the Oso landslide that occurred in Washington State, USA in 2014 (Figure \@ref(fig:figure-15-6)). The flow buried the community of Steelhead Haven and killed 43 people.
 
 ```{r figure-15-6, fig.cap='| The Oso landslide, a flow that occurred in Washington State, USA 22 March 2014. Source: Matthew Sissel (2014) Public Domain. [View source](https://www.dvidshub.net/image/1209679/oso-mudslide)'}
@@ -137,21 +118,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11
 
 Changes in water flow patterns can be caused by earthquakes, dammed streams from previous slope, or human structures that interfere with runoff (e.g., buildings, roads, or parking lots). An example of this is a deadly 2005 debris flow in North Vancouver, B.C. This slope failure took place in an area where there had been previous slope failures. A report written in 1980 recommended that the municipal authorities and residents take steps to address surface and slope drainage issues. Unfortunately, little was done to improve the situation or to take steps that could have prevented the 2005 slope failure. The failure happened during a rainy period but was likely triggered by excess runoff related to the roads at the top of this slope and by landscape features including addition of fill to backyards in the area above the failure.
 
-
-
 In some cases, a decrease in water content can lead to failure. This is most common with clean sand deposits (e.g., the upper layer in Figure \@ref(fig:figure-15-4) (left)), which loses some of its strength when most of the water around the grains is removed (i.e., as the sand water content drops the surface tension decreases).
 
-
-
 Freezing and thawing can also trigger some forms of mass wasting e.g., thawing can release a block of rock that was frozen to a slope by a film of ice.
-
-
 
 One other process that can weaken a body of rock or sediment is shaking. The most obvious source of shaking is an earthquake. Shaking from highway traffic, construction, or mining can also weaken rock. Several deadly mass wasting events (including snow avalanches) were triggered by the M7.8 earthquake in Nepal in April 2015.
 
 ## Classification of Mass Wasting
-
-
 
 - Explain how slope stability is related to slope angle
 - Summarize some of the factors that influence the strength of materials on slopes, including the type of rock, the presence and orientation of planes of weakness such as bedding planes or fractures, the type of unconsolidated material upon the slope, and the effects of water flowing upon or within the slope material
@@ -233,9 +206,7 @@ A typical talus slope, near Keremeos in southern BC, is shown in Figure \@ref(fi
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/talus-slope-and-The-results-of-a-rock-fall-1024x384.png")
 ```
 
-
 ### Rock Slide
-
 
 A rock slide is a large body of rock that is sliding along a sloping surface. In most cases, the movement is parallel to a fracture, bedding plane, or metamorphic foliation plane; thus, most rock slides are translational slope failures.
 
@@ -243,21 +214,17 @@ The speed of the movement can range from very slow to moderately fast. The word 
 
 The Downie Slide was recognized prior to the construction of the Revelstoke Dam, and was moving very slowly at the time of dam construction (a few cm/year). Geological engineers were concerned that the presence of water in the reservoir (visible in Figure \@ref(fig:figure-15-9)) could further weaken the plane of failure, leading to an acceleration of the motion. The result would have been a catastrophic failure into the reservoir that would have sent a wall of water over the dam and into the community of Revelstoke.
 
-
 ```{r figure-15-9, fig.cap='| The Downie Slide, a sackung, on the shore of the Revelstoke Reservoir (above the Revelstoke Dam). The head scarp is visible at the top and a side-scarp along the left side. Source: Joyce McBeth (2018) CC BY 4.0, image © 2018 Google Earth, Data Google CNES / Airbus Data LDEO-Columbia, NSF, NOAA Data SIO, NOAA, U.S. Navy, NGA, GEBCO DigitalGlobe Landsat / Copernicus Province of BC.'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/DownieSlideGoogleEarth-1024x635.png")
 ```
 
 During the construction of the dam, the engineers tunnelled into the rock at the base of the slide and drilled hundreds of drainage holes upward into the plane of failure. This allowed water to drain out more efficiently so that the hydrostatic pressure was decreased, which decreased the rate of movement of the sliding block. BC Hydro monitors this site continuously. The slide block is currently moving more slowly than it was prior to the construction of the dam.
 
-
-
 In the summer of 2008, a large block of rock slid rapidly from a steep slope above Highway 99 near Porteau Cove, BC (between Horseshoe Bay and Squamish). The block crashed into the highway and adjacent railway and broke into many pieces, and the highway was closed for several days. Engineers and geoscientists took steps to stabilize the slope to decrease the risk of future rock falls. Rock bolts (long metal rods) were installed to anchor the blocks of rocks and prevent them falling Drainage holes were installed to drain water from the slope and decrease the water pressure. As shown in Figure \@ref(fig:figure-15-10), the rock along the slope is fractured parallel to the slope, and this almost certainly contributed to the failure. However, it is not actually known what triggered this event as the weather was dry and warm during the preceding weeks, and there was no significant earthquake in the region.
 
 ```{r figure-15-10, fig.cap='Site of the 2008 rock slide at Porteau Cove. Notice the prominent fracture set parallel to the surface of the slope. The slope has been stabilized with rock bolts (top arrow) and holes have been drilled into the rock to improve drainage (tube from drainage hole indicated with bottom arrow). Risk to passing vehicles from rock fall has been reduced by hanging mesh curtains (background), which secures loose material to the slope. Source: Joyce McBeth (2018) CC BY 4.0 after Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/RockBoltSeatoSky.png")
 ```
-
 
 ### Rock Avalanche
 
@@ -267,12 +234,9 @@ If a rock slides and then starts moving quickly (m/s), the rock is likely to bre
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/2010-Mt.-Meager-rock-avalanche-.png")
 ```
 
-
 ### Creep or Solifluction
 
 The very slow — mm/y to cm/y — movement of soil or other unconsolidated material down slope is known as __creep__. Creep, which normally only affects the upper several centimetres of loose material, is typically a type of very slow flow. In some cases, sliding may take place too.
-
-
 
 Creep can be facilitated by freezing and thawing because, as shown in Figure \@ref(fig:figure-15-12), particles are lifted perpendicular to the surface by the growth of ice crystals within the soil, and then move downwards vertically due to gravity when the ice melts. The same effect can be produced by frequent wetting and drying of the soil. In cold environments,__ solifluction__ is a more intense form of freeze-thaw-triggered creep.
 
@@ -285,7 +249,6 @@ Creep is most noticeable on moderate-to-steep slopes where trees or fence posts 
 ```{r figure-15-13, fig.cap='| Evidence of creep-generated terracettes on the Peace River hills in northeastern B.C. Source: Joyce McBeth (2018) CC BY 4.0.'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Creep-1024x683.jpg")
 ```
-
 
 ### Slump
 
@@ -301,12 +264,9 @@ An example of a slump in the Lethbridge area of Alberta is shown in Figure \@ref
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/slump-along-the-banks-of-a-small-coulee-near-Lethbridge.jpg")
 ```
 
-
 ### Mudflows and Debris Flows
 
 As you saw in Exercise 15.1, when a mass of sediment becomes completely saturated with water, the mass loses strength, to the extent that the grains may be pushed apart and may flow, even on a gentle slope. This can happen during rapid spring snowmelt or heavy rains and is also relatively common during volcanic eruptions because of rapid melting of snow and ice. If the material involved is primarily sand-sized or smaller, it is known as a mudflow, such as the one shown in Figure \@ref(fig:figure-15-16). A mudflow or debris flow on a volcano or during a volcanic eruption is called a __lahar__.
-
-
 
 If the material involved is gravel sized or larger, it is known as a debris flow. Since it takes more gravitational force to overcome friction and move larger particles, debris flows typically form in areas with steeper slopes and higher water pressure. In many cases, a debris flow takes place within a steep stream channel and is triggered by the collapse of bank material into the stream. This may create a temporary dam followed by a major flow of water and debris when the dam finally bursts. This is the situation that led to the fatal debris flow at Johnsons Landing, BC, in 2012.
 
@@ -324,7 +284,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 <div class="textbox exercises">
 
 ##### Exercise 15.2 Classifying Slope Failures
-
 
 These four photos show some of the different types of slope failures described above. Try to identify each and provide some criteria to support your choice.
 <table>
@@ -345,7 +304,6 @@ _Source of images: Steven Earle (2015) CC BY 4.0. [View source](https://opentext
 </div>
 </div>
 
-
 ## Preventing, Delaying, Monitoring, and Mitigating Mass Wasting
 
 We cannot prevent mass wasting, however, in many situations there are actions we can take to reduce or mitigate the damaging effects of mass wasting on people and infrastructure. Where we can neither delay nor mitigate mass wasting, we may consider trying to initiate the slope failure in a controlled manner. In areas prone to mass wasting that cannot be controlled or mitigated, we can minimize risk by not building in these areas at all.
@@ -354,20 +312,15 @@ We cannot prevent mass wasting, however, in many situations there are actions we
 
 It is comforting to think that we can prevent some effects of mass wasting by mechanical means. For example, the rock bolts in the road cut at Porteau Cove on the Sea-toSky highway in BC (Figure \@ref(fig:figure-15-10)) or the drill holes used to drain water out of the slope at the Downie Slide (Figure \@ref(fig:figure-15-9)), or the building of physical barriers, such as retaining walls along highway roadcuts. These preventative measures are not permanent though, they are subject to degradation over time. The rock bolts in the road cut at Porteau Cove will slowly start to corrode after a few years, and within a few decades many of them will begin to lose their strength. Unless they are replaced, they will no longer support the slope. Likewise, drainage holes at the Downie Slide will eventually become plugged with sediment and chemical precipitates, and unless they are periodically unplugged, their effectiveness will decrease. Eventually, unless new holes are drilled, the drainage will be compromised, and the slide will start to move again. This is why careful slope monitoring by geological and geotechnical engineers is important at major mass wasting sites such as the Downie Slide and along the Sea-to-Sky highway. Our efforts to control mass wasting are only as good as our efforts to maintain the preventive measures.
 
-
-
 Delaying mass wasting is a worthy endeavour because during the time that the measures are still effective, they can save lives and reduce damage to property and infrastructure such as homes and roads. But we must be careful to avoid activities that could make mass wasting more likely. One of the most common anthropogenic causes of mass wasting is road construction, and this applies both to remote gravel roads built for forestry and mining, and large urban and regional highways.
 
 ```{r figure-15-18, fig.cap='| An example of a road constructed by cutting into a steep slope and the use of the cut material as fill. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/road-constructed-by-cutting-into-a-steep-slope.png")
 ```
 
-
 Road construction is a potential problem for two reasons. First, creating a flat road surface on a slope inevitably involves creating a cut bank that is steeper than the original slope. This might also involve creating a filled bank that is both steeper and weaker than the original slope (Figure \@ref(fig:figure-15-18)). Second, roadways typically cut across natural drainage features, and unless great care is taken to reroute the runoff water, oversaturation of slope material can occur, contributing to mass wasting.
 
 Apart from saturation and water pressure considerations, engineers building roads and other infrastructure on bedrock slopes have to carefully consider the geology, and especially any weaknesses or discontinuities in the rock related to bedding, fracturing, or foliation. If possible, situations like that at Porteau Cove (Figure \@ref(fig:figure-15-10)) should be avoided — by building somewhere else — rather than trying to stitch the slope back together with rock bolts.
-
-
 
 It is widely believed that construction of buildings above steep slopes can contribute to the instability of the slope. This is likely true, but probably not because of the weight of the building. As you will determine by completing Exercise 15.3 below, a typical house is not heavier than the excavated ground that was removed to build the house. A more likely contributor to instability of the slopes below buildings is changes to the water drainage and to the saturation of the slope (by watering gardens, for example).
 
@@ -378,22 +331,15 @@ It is widely believed that construction of buildings above steep slopes can cont
 
 It is commonly believed that building a house (or some other building) at the top of a slope will add a lot of extra weight to the slope, which could contribute to slope failure. But what does a house weigh compared to the material removed when you build it? A typical 150 m^2^ (approximately 1,600 ft^2^) wood-frame house with a basement and a concrete foundation weighs about 145 t (metric tonnes). But most houses are built on foundations that are excavated into the ground. This involves digging a hole and taking that material away, so we need to subtract what that excavated material weighs. Assuming our 150 m^2^ house required an excavation that was 15 m by 11 m by 1 m deep, which is 165 m^3^ of material. Unconsolidated sediments have densities ranging from about 0.8 to 1.7 t per m^3^.
 
-
-
 For this exercise, consider a sand with a dry density of 1.2 t per m^3^ for this calculation. Calculate the weight of the materials that were removed and compare that with the weight of the house and its foundation.
 
-
-
 If you are thinking that building a bigger building is going to add more weight, consider that bigger buildings need bigger and deeper excavations, and in many cases the excavations may be into solid rock, which is denser than surficial materials.
-
-
 
 Consider how a building might change the drainage on a slope. Water can be collected by roofs, go into downspouts, and form concentrated flows that are directed onto or into the slope. Likewise, drainage from nearby access roads, lawn irrigation, leaking pools, and septic systems can all alter the surface and groundwater flow in a slope. Soil excavated from a basement.
 
 ```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/How-Much-Does-a-House-Weigh-and-Can-It-Contribute-to-a-Slope-Failure.png) Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/How-Much-Does-a-House-Weigh-and-Can-It-Contribute-to-a-Slope-Failure.png")
 ```
-
 
 </div>
 </div>
@@ -412,14 +358,9 @@ Mt. Rainier, a glacier-covered volcano in Washington State (15.20), could produc
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/RainierSeattle.jpg")
 ```
 
-
-
-
-
 ```{r figure-15-21, fig.cap='| Major pathways of Mt Rainier lahars over the past 10,000 years, Washington State, USA. Source: USGS (2005) Public Domain [view source](https://volcanoes.usgs.gov/volcanoes/mount_rainier/hazard_lahars.html), modified from Driedger et al (2005) Public Domain. [View source](https://pubs.er.usgs.gov/publication/gip19)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/11/Rainier_lahars_USGS.jpg")
 ```
-
 
 ### Mitigating the Impacts of Mass Wasting
 
@@ -435,15 +376,11 @@ Debris flows are inevitable, unpreventable, and unpredictable in many parts of B
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/mitigating-debris-flows-on-the-Sea-to-Sky-Highway-1024x313.png")
 ```
 
-
 Finally, in situations where we cannot do anything to delay, predict, contain, or mitigate slope failures, the responsible and ethical thing to do is to avoid building in or using the risky area. Sometimes this may require relocating a community after discovering a previously-unidentified risk. There is a famous example of this in BC at a site known as Garibaldi, 25 km south of Whistler. In the early 1980s the village of Garibaldi had a population of about 100, with construction underway on some new homes, and plans for many more. In the months that followed the deadly 1980 eruption of Mt. St. Helens in Washington State, the BC Ministry of Transportation commissioned a geological study to assess risks along their highways. The study revealed that a steep cliff known as The Barrier (Figure \@ref(fig:figure-15-24)) had collapsed in 1855, leading to a large rock avalanche, and that it was likely to collapse again unpredictably, putting the village of Garibaldi at extreme risk. In an ensuing court case, it was ruled that the Garibaldi site was not a safe place for people to live. Those who already had homes there were compensated, and everyone was ordered to leave.
-
 
 ```{r figure-15-24, fig.cap='| The Barrier, south of Whistler, BC, was the site of a huge rock avalanche in 1855, which extended from the cliff visible here 4 km down the valley and across the current location of the Sea-to-Sky Highway and the Cheakamus River. _ Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/The-Barrier.jpg")
 ```
-
-
 
 ## Summary
 
@@ -451,11 +388,9 @@ The topics covered in this chapter can be summarized as follows:
 
 ###  Factors That Control Stability on Slopes
 
-
 Slope stability is controlled by the slope angle and the strength of the material on the slope. Slopes are a product of tectonic uplift, and their strength is determined by the type of material on the slope and its water content. Rock strength varies widely and is determined by internal planes of weakness and their orientation with respect to the slope. In general, the more water contained by the slope material, the greater the likelihood of failure. This is especially true for unconsolidated sediments, where excess water pushes against the grains. Addition of water is the most common trigger of mass wasting and can come from storms or rapid snow melt.
 
 ###  Classification of Mass Wasting
-
 
 The key criteria for classifying mass wasting are the nature of the movement that takes place, the type of material, and the speed of the material movement. Mass wasting events can be a precipitous fall of rock through the air, material sliding as a solid mass along either a plane or a curved surface, or internal flow of material as a viscous fluid. The type of material influences the mass movement, specifically whether it is solid rock or unconsolidated sediments. Slope failures can have translational (planar) or rotational (curved) rupture surfaces. The important types of mass wasting are creep, slump, slide, fall, and debris flow or mudflow.
 
@@ -467,12 +402,9 @@ We cannot prevent mass wasting, but we can delay it through efforts to strengthe
 
 #### Questions for Review
 
-
-
 ```{r , fig.cap='[](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/gravitational-force-on-the-unconsolidated-sediment.png) Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geology/)'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/gravitational-force-on-the-unconsolidated-sediment.png")
 ```
-
 
 1. In the scenario shown here, the gravitational force on the unconsolidated sediment overlying the point marked with an X is depicted by the black arrow. The red arrow in the diagram depicts the shear strength of the sediment.
 <ol style="list-style-type: lower-alpha">
@@ -506,7 +438,6 @@ Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geolog
 
 </div>
 
-
 ## Answers to Chapter  Review Questions
 
 1. (a) The shear force and normal force vectors are shown on the left-hand diagram:
@@ -528,7 +459,6 @@ Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geolog
 7. Residents at risk from Mt. Rainier lahars need to know what the warnings mean and roughly how much time they have between receiving a warning and being in actual danger. They need to create a plan to exit their residence quickly, and they need to know which way to go to get to safety as efficiently as possible.
 
 8. Some of the important factors include:
-
 
 - Explain how slope stability is related to slope angle
 - Summarize some of the factors that influence the strength of materials on slopes, including the type of rock, the presence and orientation of planes of weakness such as bedding planes or fractures, the type of unconsolidated material upon the slope, and the effects of water flowing upon or within the slope material

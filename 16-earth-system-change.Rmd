@@ -3,20 +3,15 @@
 
 _Adapted by Karla Panchuk from [Physical Geology](https://opentextbc.ca/geology/chapter/chapter-19-climate-change/) by Steven Earle_
 
-
-
 ```{r figure-16-1, fig.cap='Antarctic Peninsula. Antarctica was not always covered by ice. A change in the Earth system triggered the onset of Antarctic glaciation approximately 40 million years ago. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Photo: Liam Quinn (2011) [view source](https://flic.kr/p/aeGSmH). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Lemaire_Channel.png")
 ```
-
 
 <div class="bcc-box bcc-highlight">
 
 ##### Learning Objectives {-}
 
-
 After reading this chapter, completing the exercises within it, and answering the questions at the end, you should be able to:
-
 
 - Explain why it is useful to think of Earth as a system.
 - Describe the effect of feedbacks on the climate system.
@@ -30,17 +25,13 @@ After reading this chapter, completing the exercises within it, and answering th
 - Summarize the kinds of observations that show signals of present-day climate change.
 - Describe the current and projected state of the Earth system in the Anthropocene Epoch.
 
-
 </div>
 
 #### The Only Constant Is Change
 
-
 If one thing has been constant about the Earth system over geological time, it is unceasing change. In the geological record of climate, sedimentary deposits provide evidence of glaciations in the distant past; the chemical characteristics of sea-floor sediments tell about periods of extreme warmth. The Earth-system, and thus Earth's climate, has not only changed frequently, but also with large temperature fluctuations. Today’s mean global temperature is approximately 16°C. During Snowball Earth episodes more than 600 million years ago, when Earth's surface was frozen from pole to pole (or nearly so), the global mean was as cold as -50°C. At various other times in Earth history, it has been close to 30°C.
 
 Part of this chapter addresses natural processes of climate change, how they work, and how we know what Earth's past climate was like. Geologists study those natural climate-change processes to understand how human-caused, or __anthropogenic__, changes to the Earth system might affect the climate in the future, and how much the climate has changed over the time that humans increased their influence on the Earth-system. The rest of the chapter addresses what has been learned by asking those questions.
-
-
 
 ## What Is the Earth System?
 
@@ -52,11 +43,9 @@ The climate change related to the opening of the Drake Passage (Figure \@ref(fig
 
 Prior to 40 million years ago, the Drake Passage did not exist (top left map), and neither did the Antarctic ice cap. The arm of land connecting South America and Antarctica allowed warm ocean currents (red arrows) to carry heat from the equator to Antarctica. When the gap opened up, a new cold-water current formed (blue arrows) that blocked warm water from reaching Antarctica. Without the warm current, Antarctica froze over.
 
-
 ```{r figure-16-2, fig.cap='An example of Earth-system interactions. The opening of the Drake Passage changed how ocean currents moved heat around the planet, and cooled Antarctica until it froze over. Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Map: Modified after Woods Hole Oceanographic Institution ([view source](http://www.whoi.edu/oceanus/v2/article/images.do?id=2508)). Click the image for more attributions and terms of use.'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Earth-System-example.png")
 ```
-
 
 There were many interconnecting processes within the Earth-system (Figure \@ref(fig:figure-16-2), right) that drove glaciation in Antarctica. First, heat energy within Earth drove plate tectonics (lithosphere), making it possible for South America to separate from Antarctica. This impacted ocean currents (hydrosphere), and ultimately how water was stored on Antarctica (hydrosphere) by changing the climate of Antarctica.
 
@@ -74,13 +63,11 @@ The short version of why it’s important to look at Earth as a system is that e
 
 ### Feedbacks Amplify or Diminish Earth-System Change
 
-
 The web of interactions in the Earth system is complex, but there is yet another level of complication. Sometimes a change in the Earth system can trigger other changes that have the effect of amplifying the original change, or diminishing it. The series of interactions that amplify or diminish a change are called __feedbacks__. A feedback that amplifies change is called a __positive feedback__. A feedback that diminishes the size of a change is called a __negative feedback__.
 
 In the events related to the glaciation of Antarctica, the formation of ice is an example of a positive feedback. Ice formation was caused by cooling, but it triggered even more cooling by reflecting sunlight away from Earth's surface. This is called __ice albedo feedback__. An example of a negative feedback is plant growth. Plants need CO~2~ to make food, so as long as the plants have enough nutrients and water, and temperatures are still suitable, increasing CO~2~ in the atmosphere could increase plant growth. Plant growth would draw down atmospheric CO~2~, so that there would be less warming than would otherwise be expected from the initial rise in atmospheric CO~2~ levels.
 
 #### Misconceptions About Feedbacks
-
 
 There are two common misconceptions about feedbacks. One misconception is that positive feedbacks result in changes that are good, and negative feedbacks result in changes that are bad. In fact, whether a feedback is positive or negative is unrelated to whether or not the change would be considered a good thing. For example, if a feedback accelerates warming and makes an ecosystems uninhabitable for animals that used to live there, it would still be a positive feedback even though it had a negative impact on the animals in that ecosystem. A feedback that slowed the rate of warming and gave the animals time to adapt would still be considered a negative feedback even though it helped the animals to survive.
 
@@ -88,69 +75,49 @@ Another misconception is that a positive feedback always results in some value i
 
 ### Feedbacks and Instability in the Earth System
 
-
 The potential for sudden extreme changes in the Earth system depends on what feedbacks are available. At times when Earth's climate was much warmer than today, no glaciers were present. When the climate is much cooler, a relatively small decrease in temperature could be enough to start the formation of ice and trigger the ice albedo feedback. However, if the climate is much warmer, the same decrease in temperature would not cool Earth enough to trigger the ice albedo feedback, and further climate cooling would be avoided. The reverse is also true- if warming occurs in a climate that is cold enough for glaciers to form, some of that ice might melt, reducing the albedo of Earth's surface, and permitting even more warming. On the other hand, if the climate is already too warm for ice to exist, a small amount of warming won't be amplified in the same way.
 
 The albedo effect is not the only feedback that can make cooler climates less stable. Melting of __<span style="font-family: Times">permafrost</span>__ (sediment that remains frozen year round) can also have an impact. Frozen soil contains trapped organic matter that is converted by micro-organisms to CO~2~ and methane (CH~4~) when the soil thaws. Both these gases contribute to warming when they accumulate in the atmosphere. Additional warming can cause even more permafrost to melt, permitting even more activity by micro-organisms, and releasing more CO~2~ and CH~4~.
 
 Either of these feedbacks is enough on their own to accelerate climate change, but when they are both present together, the effect is even stronger. What this means is that the conditions in the Earth system _before_ a change happens—called the __initial conditions__—play an important role in determining the impact of any changes that occur. A change that would have little impact under one set of initial conditions could have far reaching effects under another. Thinking of Earth as a system is a way to factor in the initial conditions. Otherwise we would be very puzzled why a small rise in global temperatures at one time in Earth history could have almost no discernible effect, but the same rise in temperatures at another time could lead to profound change.
 
-
-
-
-
-
 ## Causes of Climate Change
 
-
 ### What Is Climate?
-
 
 Our day-to-day experience of the Earth system is in the form of the conditions we experience at Earth's surface. The daily conditions that we think of as __weather__—the temperature, presence or absence of precipitation, winds, humidity, and so on—are a snapshot of the state of the Earth system at a particular instant in time and in a particular location. The weather that we get is variable, but in Saskatchewan most people would not be surprised to experience summer days with temperatures of 20 °C to 30 °C, and winter days with temperatures between –20 °C to –30 °C. Our notion of what summers and winters are generally like reflects our understanding of Saskatchewan's __climate__. If we get a day in July with a daytime high of 10 °C, that would seem like unusually cold _weather_ because we know it is uncharacteristic of the _climate_ over all.
 
 We characterize the climate by collecting data about the weather every day, and then calculating the average conditions over a period of decades. The Government of Canada provides averages for the periods 1961 to 1990, 1971 to 2000, and 1981 to 2010 in an [online database that is searchable by geographic location or station](http://climate.weather.gc.ca/climate_normals/index_e.html). Data measured at Saskatoon's Diefenbaker International Airport show that the average annual temperature from 1981 to 2010 is 0.6 °C higher than the annual average from 1961 to 1990, due warmer conditions in the winter and early spring (Figure \@ref(fig:figure-16-3)).
 
-
 ```{r figure-16-3, fig.cap='Average temperatures for the periods 1961 to 1990, and 1981 to 2010 measured at Saskatoon\'s Diefenbaker International Airport (YXE). _Source: Karla Panchuk (2018) CC BY 4.0. [View YXE data for 1961 to 1990](http://climate.weather.gc.ca/climate_normals/results_1961_1990_e.html?searchType=stnName&amp;txtStationName=saskatoon&amp;searchMethod=contains&amp;txtCentralLatMin=0&amp;txtCentralLatSec=0&amp;txtCentralLongMin=0&amp;txtCentralLongSec=0&amp;stnID=1473&amp;dispBack=0). [View YXE data for 1981 to 2010](http://climate.weather.gc.ca/climate_normals/results_1981_2010_e.html?searchType=stnName&amp;txtStationName=saskatoon&amp;searchMethod=contains&amp;txtCentralLatMin=0&amp;txtCentralLatSec=0&amp;txtCentralLongMin=0&amp;txtCentralLongSec=0&amp;stnID=3328&amp;dispBack=0)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Daily_Avg_Temp_YXE.png")
 ```
-
 
 The _climate_ as represented by the 1961 to 1990 interval was slightly cooler than the _climate_ represented by the 1981 to 2010 interval. People who lived in Saskatoon between 1961 and 2010 may or may not have a sense that the _weather_ they experienced from day to day was different for those intervals. In fact, some may have the record high of 35.3 °C on September 4, 1978 seared into their memory, and feel that Septembers just aren't as hot as they used to be. They would be correct that as of 2017, there are no September temperatures recorded at the Diefenbaker International Airport weather station with a daytime high greater than 35.3 °C. But if that gave them the impression that Septembers are cooler _on average_ today than in the past, that would not be consistent with the data.
 
 ### Climate-Forcing Mechanisms
 
-
 A __climate-forcing mechanism__ is a process that causes climate to change. Climate forcings work by initiating changes in how heat energy moves into, through, and out of the Earth system. When we discuss a particular climate change event, the climate-forcing mechanism is what initiated the change. Feedbacks also alter climate, but we want to know what triggered the feedbacks in the first place.
 
 #### Climate Forcing by Changes in Insolation
-
 
 __Insolation__, or __<span style="text-decoration: underline">in</span>coming <span style="text-decoration: underline">sol</span>ar radi<span style="text-decoration: underline">ation</span>__, refers to how much of the sun’s energy reaches Earth’s surface in a given period of time. Insolation is measured in Watts per square meter (W/m^2^).
 
 ##### Long-term Solar Evolution
 
-
 Over the long term (billions of years), stars like our sun become larger, brighter, and hotter (Figure \@ref(fig:figure-16-4)). Earth receives 40% more heat from the sun today than it did 4.5 billion years ago. In Figure \@ref(fig:figure-16-4), the blue _Now _arrow shows the sun’s current point in its life history. Although the blue arrow appears to indicate an instant in time, the time interval reflecting the duration of human existence on Earth is but a tiny fraction of the width of the line. As far as human experience is concerned, the long-term evolution of the sun is so slow that it has made no difference at all on insolation for the entire time humans have existed.
-
 
 ```{r figure-16-4, fig.cap='The life history of a star, from condensation of a nebula, to expansion to a red giant, and ending as a white dwarf. _Source: Karla Panchuk (2017) CC BY 4.0. Modified after Oliver Beatson (2009) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Solar_Life_Cycle.svg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/solar_evolution.png")
 ```
 
-
 ##### Orbital Cycles
 
-
 Insolation is also affected by cyclical changes in Earth’s orbit and rotation. Over intervals of approximately 100,000 years, the __eccentricity __of Earth’s orbit changes. Eccentricity is a measure of how elliptical a circle is. Higher eccentricity means that the orbit is more elliptical (Figure \@ref(fig:figure-16-5), left, blue orbit), whereas lower eccentricity means the orbit is more circular (Figure \@ref(fig:figure-16-5), left, red orbit). __Eccentricity__ is important because when it is high, the Earth-sun distance varies more from season to season than it does when eccentricity is low.
-
-
-
 
 ```{r figure-16-5, fig.cap='Cycles in Earth’s orbit. Left: The shape of Earth’s orbit (its eccentricity) changes over 100,000 year cycles from more circular to more elliptical. Middle: Over 41,000 year periods, Earth’s axis of rotation nods toward and away from the sun. Right: Over 21,000 year cycles, Earth wobbles on its axis of rotation. _Source: Karla Panchuk (2017) CC BY 4.0. Modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/milankovitch.png). Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/orbital_cycles.png")
 ```
-
 
 Over intervals of approximately 41,000 years, the __obliquity __of Earth’s axis of rotation changes (Figure \@ref(fig:figure-16-5), middle). This results in a nodding motion that alters how directly the sun shines on Earth’s poles. When the angle is at its maximum (24.5°), Earth’s seasonal differences are accentuated. When the angle is at its minimum (22.1°), seasonal differences are minimized.
 
@@ -160,21 +127,15 @@ The importance of eccentricity, tilt, and precession to Earth’s climate cycles
 
 The most important factors are whether the northern hemisphere is pointing toward or away from the sun at its closest or farthest approach, and how eccentric the sun’s position is in Earth’s orbit. For example, if the northern hemisphere is at it farthest distance from the sun during summer (Figure \@ref(fig:figure-16-6), top), this means cooler summers. If the northern hemisphere is at its closest distance to the sun during summer (Figure \@ref(fig:figure-16-6), bottom), this means hotter summers. Cool summers — as opposed to cold winters — are the key factor in the accumulation of glacial ice, so the upper scenario in Figure \@ref(fig:figure-16-6) is the one that promotes glaciation. This factor is greatest when eccentricity is high.
 
-
-
-
 ```{r figure-16-6, fig.cap='Effect of precession on insolation in the northern hemisphere summers. In (a) the northern hemisphere summer takes place at greatest Earth-sun distance, so summers are cooler. In (b) (10,000 years or one-half precession cycle later) the opposite is the case, so summers are hotter. The red dashed line represents Earth’s path around the Sun. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/effect-of-precession-on-insolation-in-the-northern-hemisphere-summers.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/effect-of-precession-on-insolation-in-the-northern-hemisphere-summers-1024x434-1024x434.png")
 ```
 
-
 The effects of all three cycles are evident in geochemical climate data. Figure \@ref(fig:figure-16-7) shows the “signals” for obliquity (A), eccentricity (B), and precession (C) over a period from 800,000 years in the past, to 800,000 years in the future. The vertical black line running down the middle of the diagram marks the present day. When the insolation from all three signals is determined, the result is a more complex waveform (D) with times of low variation in insolation, and times with higher variation in insolation.
-
 
 ```{r figure-16-7, fig.cap='Comparison of orbital cycles, insolation, and climate data for a 1.6 million year period. _Source: Karla Panchuk (2017) CC BY-SA 4.0, modified after Incredio (2009) CC BY 3.0 [view source.](https://commons.wikimedia.org/wiki/File:MilankovitchCyclesOrbitandCores.png) Click the image for more attributions._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/insolation_all-781x1024.png")
 ```
-
 
 The graphs E and F are climate information measured in microfossils dwelling at the ocean floor (E) and in water from ice cores (F). Peaks in temperature in F correspond to peaks in the oxygen isotope record in E, which indicate that it was warmer, there was less ice, and sea level was higher. Troughs are times when Earth was deep within an ice age. It was cooler, there was ice on land, and sea level was lower.
 
@@ -186,63 +147,42 @@ In general, times of warmest or coolest temperatures don’t line up perfectly w
 
 ##### Sunspot Cycles
 
-
 __Sunspots__ are dark patches that appear on the surface of the sun as a result of intense local disturbances in the sun’s magnetic field (Figure \@ref(fig:figure-16-8), left). Loops of plasma (gas with electrical charge, Figure \@ref(fig:figure-16-8), right) follow along magnetic field lines from one sunspot to another.
-
-
-
 
 ```{r figure-16-8, fig.cap='Sunspots. Left: Photograph of sunspots with dots representing the size of Earth and Jupiter for scale. Right: Plasma loops viewed in x-ray wavelengths jumping from one sunspot to another on the sun’s surface. _Source: Left- NASA/Solar Dynamics Observatory (2012) Public Domain [view source](https://phys.org/news/2012-05-big-sunspots.html). Right- NASA/Solar Dynamics Observatory (2015) Public Domain [view source](https://www.nasa.gov/content/coronal-loops-in-an-active-region-of-the-sun)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/sunspots.png")
 ```
 
-
 Sunspots appear dark because they are lower-temperature regions on the sun’s surface. For that reason you might think that more sunspots means a reduction in insolation. In fact, just the opposite is true, because sunspots are a side-effect of increased solar activity. Peaks in the number of sunspots counted annually since approximately 1870 (Figure \@ref(fig:figure-16-9), blue), coincide with peaks in measurements of solar energy output from the same time period (Figure \@ref(fig:figure-16-9), pink).
-
 
 ```{r figure-16-9, fig.cap='Sunspot cycles. Peaks in the number of sunspots (blue) occur approximately every 11 years, and these correspond to peaks in solar energy output (pink). The influence of sunspot cycles is too small to have a clear impact on global average temperatures (grey). _Source: Karla Panchuk (2017) CC BY-SA 4.0. Sunspot records modified after D. Bice (n.d.) CC BY-SA 3.0 [view source](https://www.e-education.psu.edu/earth103/sites/www.e-education.psu.edu.earth103/files/module02/Sunspot%20and%20TSI.png). Global average temperature modified after Met Office (2015) Contains public sector information licensed under the [Open Government Licence v1.0.](https://www.metoffice.gov.uk/about-us/legal/tandc#Use-of-Crown-Copyright) [view source](http://www.metoffice.gov.uk/research/news/2015/global-average-temperature-2015) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/sunspot_data-1024x655.png")
 ```
-
 
 Sunspot cycles happen over approximately 11 year intervals, and the changes in insolation that occur during these cycles are relatively small. In the end the effect of sunspot cycles on climate can be lost amidst other factors. In Figure \@ref(fig:figure-16-9) there is no clear relationship between the sunspot cycles and the global average temperatures (in grey) reported for the same period.
 <div class="textbox shaded">
 
 ##### Be Aware of Graph Scales
 
-
 Figure \@ref(fig:figure-16-9) shows three kinds of data: temperatures, sunspot numbers, and solar energy flow. Each of these data sets is a different type of information, so each needs its own vertical axis. The vertical axes are scaled so that the data fill the area of the graph as much as possible. Stretching the vertical scale to fit the full plotting area makes it easier to see how well the peaks and troughs in each record line up with each other. Unfortunately, this can also skew our impression of the data. For example, in the period from 1880 to 1920, all three records have a similar vertical distance from peak to trough. In other words, all three records have approximately the same size of wiggles. This does not mean that the change in insolation from sunspot cycles was big enough to cause all of the variation in the temperature record. From this graph alone, there is no way to tell how much the change in insolation due to sunspot cycles mattered to global temperatures during the period 1880 to 1920.
-
-
 
 </div>
 
 #### Climate Forcing by Changes in Heat Transport
 
-
 The ocean transports large amounts of heat around the Earth through a conveyor-belt-like system of currents. The ocean has surface currents that are driven by wind, but it also has deeper currents that are not wind-driven. The deeper currents behave like stacked rivers because they are different temperatures and have different salt contents, and therefore different densities. The differences in density between these water masses are what drive circulation. Circulation that is driven by density is called __thermohaline circulation__; _thermo_ refers to heat and _haline_ refers to salt.
 
 To see how this works, consider the warm and saline Gulf Stream current (Figure \@ref(fig:figure-16-10), top). It flows northward past Britain and Iceland into the Norwegian Sea, and cools as it moves north, becoming denser. Its high salinity contributes to its density, and it sinks, or __downwells__, deep beneath the surrounding water, forming the __North Atlantic Deep Water__ (NADW) current that flows south. Meanwhile, at the southern extreme of the Atlantic, very cold water adjacent to Antarctica also sinks to the bottom to become the __Antarctic Bottom Water__ (AABW) current. The AABW flows north, beneath the NADW.
-
-
-
 
 ```{r figure-16-10, fig.cap='A simplified north-south cross-section through the Atlantic Ocean basin showing the different current layers. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/vertical-movement-of-water-along-a-north-south-cross-section.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/vertical-movement-of-water-along-a-north-south-cross-section-1024x369.png")
 ```
 
-
-
-
 The water that sinks in the areas of deep water formation in the Norwegian Sea and adjacent to Antarctica moves very slowly at depth. It eventually resurfaces, or __upwells__, in the Indian Ocean between Africa and India, and in the Pacific Ocean, north of the equator (Figure \@ref(fig:figure-16-11)).
-
 
 ```{r figure-16-11, fig.cap='Global thermohaline circulation patterns. Red lines are surface currents, and blue lines are deep currents. _Source: NASA Earth Observatory (2008) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Thermohaline_Circulation_2.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/thermohaline-circulation-system-1024x642.png")
 ```
-
-
-
 
 Some ocean currents move warm water from the equator toward the poles. As in the example of the Drake Passage, the path of warm currents can have a significant impact on the climate of a region, and potentially of the planet as a whole. Processes that disrupt the density of seawater can slow or stop currents, preventing warm water from reaching higher latitudes. The recovery from the last ice age is characterized by sudden returns to glacial conditions over as little as 3 years. This is thought to be the result of enormous glacial lakes forming on continents as the glaciers melted, then being suddenly released into the ocean by a burst ice dam. The glacial water would be very cold, but it would also be fresh, making it less dense than the ocean water. The fresh glacial water would form a cap and slow the downwelling conveyor belt at high latitudes.
 
@@ -252,112 +192,77 @@ Because of these studies, we have an idea of what the physical properties of the
 
 Measurements of the actual flow rate at depth in the Atlantic Ocean (Figure \@ref(fig:figure-16-12), right, blue dots) confirm that density decreases in downwelling regions (black and red lines) when circulation slows. A more recent study (Caesar et al., 2018) has shown that observed and model temperatures follow the same pattern, with cooling where the blue patches are in Figure \@ref(fig:figure-16-12), and warming in the region of the orange patches. This is to be expected because the slowdown in circulation affects how heat is moved northward.
 
-
 ```{r figure-16-12, fig.cap='Using changing density to track circulation in the Atlantic Ocean. Left- Density calculated from measurements of temperature and salinity in a layer between 1,000 m and 2,500 m depth in the Labrador Sea (black box). Middle- Model results used to see what change in density can be expected. The model shows the same general relationship, with lower density in the Labrador Sea, and higher density to the south. Note that density units are in kg/m^2^ rather than kg/m^3^ because they are integrated over the layer. Right- Changing density in the Labrador Sea over time. Red and black lines show changes in density from two different data sets. In general, the peaks and troughs of these data sets match up. Blue dots are measurements of the rate of circulation from a project that began collecting data in 2004. See the References section for more information about the relevant studies. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Modified after Jon Robson (2013) CC BY-SA 4.0 [view source](https://www.climate-lab-book.ac.uk/2013/amoc-decline/)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/AMOC_short-term-1024x652.png")
 ```
 
-
-
 <div class="textbox">
 
-
 ##### Is Atlantic Circulation Slowing Down More than Usual?
-
 
 Changes in the Atlantic meridional overturning circulation (AMOC) happen from decade to decade. To know whether circulation is changing compared to what is normal, it is necessary to get information about what circulation looked like in the past. This is difficult to do, because measurements of circulation rates, temperature, and salinity don't go back as far as we need them to.
 
 In a new study, Thornalley et al. (2018) have used geochemical analyses of microfossils to build a longer-term record of temperatures, then used that record to look for the temperature "fingerprint" of slowing AMOC, an increasing difference in the temperatures of surface waters compared to deeper waters in the downwelling zone (Figure \@ref(fig:figure-16-13), top). They observe a longer-term cooling trend beginning at the close of the Little Ice Age, suggesting that less heat is being moved toward the downwelling zone (labelled A on the globe in Figure \@ref(fig:figure-16-13)).
 
-
 ```{r figure-16-13, fig.cap='Long-term record of Atlantic Meridional Overturning Circulation (AMOC). Top- Temperature fingerprint of circulation determined using geochemical analyses of marine microfossil shells. Results show the difference between temperatures measured at depth at A on the globe, and temperatures measured near the surface at B. Cooling at A relative to B is indicative of weakening AMOC. Bottom- Changes in silt grain-size used to show changes in the velocity of currents at depth at C on the globe. A smaller average grain size means a slower current, and weaker AMOC. _Source: Karla Panchuk (2018) CC BY 4.0. Modified after Thornalley et al. (2018). Locator globe modified after Reisio (n.d.) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Blankmap-ao-090N-north_pole.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Thornalley-et-al-1024x952.png")
 ```
-
-
-
 
 They also measured the size of silt grains on the sea floor, above which a southward-moving component of the AMOC system flows (location labelled C on the globe in Figure \@ref(fig:figure-16-13)). Grain size is used as a substitute for a direct measure of ocean current velocity because the velocity determines what grain size can be carried. They identified a lower average grain size over the past ~150 years compared to the average grain size from earlier (Figure \@ref(fig:figure-16-13), bottom, dashed lines). The authors of the study note that the average grain size changes more during cold events in the Northern Hemisphere (the Dark Ages Cold Period and the Little Ice Age).
 
 Thornalley et al (2018) conclude that the AMOC has been weaker on average during the past ~150 years than during the previous ~1,500 years. However, they cannot say for sure how much of that change is from melting that occurred at the close of the Little Ice Age, from melting triggered by warming since the Industrial Revolution, or some combination of the two. Direct measurements of density and current velocity tell us that as of 2017, the AMOC continues to weaken.
 
-
-
 </div>
-
-
 
 ##### Plate Tectonics and Heat Transport
 
-
 The opening of the Drake Passage is one example of how plate tectonic changes can affect ocean heat transport, and therefore climate. Plate tectonic changes that build or break up continents also play a role. When continents become large, ocean currents warm their margins, but the interiors can be much cooler. Anyone living on the Canadian prairies who has shivered through -40 °C temperatures in the winter, while watching news reports of rain in Vancouver will be familiar with this effect. When the supercontinent Gondwana was over the south pole approximately 300 million years ago (Figure \@ref(fig:figure-16-14)), this triggered an ice age. The build-up of ice was hastened by the ice albedo feedback effect.
-
 
 ```{r figure-16-14, fig.cap='Glaciation on the supercontinent Gondwana. Paleogeographic reconstruction for 306 million years ago._ Source: C. R. Scotese, PALEOMAP Project (www.scotese.com) [view source.](http://www.scotese.com/late.htm) Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Carboniferous_Scotese.jpg")
 ```
 
-
 ##### Short-Term Cycles in Heat Transport: El Niño Southern Oscillation
 
-
 The __El Niño Southern Oscillation__ (__ENSO__) operates on a much shorter timescale than climate forcings driven by plate tectonics or orbital cycles, alternating between __El Niño__ and __La Niña__ events on timescales of between two and seven years (Figure \@ref(fig:figure-16-15)).
-
 
 ```{r figure-16-15, fig.cap='Variations in the ENSO index from 1950 to 2015. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Variations-in-the-ENSO-index.png). Modified after Klaus Wolter/ NOAA (n.d.) Public Domain [view source](https://www.esrl.noaa.gov/psd/enso/mei.ext/index.html)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Variations-in-the-ENSO-index.png")
 ```
 
-
 Under normal conditions, strong winds blowing westward across the Pacific cause water to pile up in the western Pacific. This forces deeper colder water to the surface in the eastern Pacific (Figure \@ref(fig:figure-16-16), left). During La Niña events, further intensification of winds causes even more cold water to upwell. During an El Niño event, the winds weaken, allowing water to flow back to the east (Figure \@ref(fig:figure-16-16), right). The cold water settles deeper once again, meaning that warmer water is present along the eastern margin of the Pacific Ocean.
-
 
 ```{r figure-16-16, fig.cap='El Niño Southern Oscillation (ENSO) cycles are driven by changes in wind patterns that affect the distribution of warm and cold water in the Pacific Ocean. _Source: Karla Panchuk (2018) CC BY 4.0. Modified after Fred the Oyster and NOAA/PMEL/TAO Project Office. View [Normal Conditions](https://commons.wikimedia.org/wiki/File:ENSO_-_normal.svg)/ [El Niño](https://commons.wikimedia.org/wiki/File:ENSO_-_El_Ni%C3%B1o.svg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/ENSO-mechanism.png")
 ```
 
-
 ENSO events affect weather on a global scale (Figures 16.17 and 16.18). In western Canada, El Niño years have warmer than average winters, whereas La Niña years have cooler than average winters.
-
 
 ```{r figure-16-17, fig.cap='El Niño climate impacts. _Source: NOAA Climate.gov (n.d.) Public Domain [view source](https://www.pmel.noaa.gov/elnino/lanina-faq)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Nino_winterandsummer_620_from_climate.gov__0.jpg")
 ```
 
-
-
-
-
 ```{r figure-16-18, fig.cap='La Niña climate impacts. _Source: NOAA Climate.gov (n.d.) Public Domain [view source](https://www.pmel.noaa.gov/elnino/lanina-faq)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Nina_winterandsummer_620_from_climate.gov_.jpg")
 ```
 
-
-
-
 ### Climate Forcing by Changes in the Atmosphere's Energy Budget
-
 
 Earth’s atmosphere regulates climate by controlling how much energy from Earth’s surface escapes to space, and how much of the sun’s energy reaches Earth’s surface.
 
 #### Albedo
 
-
 Albedo is a measure of the reflectivity of a surface. Earth’s various surfaces have widely differing albedos, expressed as the percentage of light that reflects off a given material. This is important because most solar energy that hits a very reflective surface is not absorbed and therefore does little to warm Earth. Water in the oceans or on a lake is one of the darkest surfaces, reflecting less than 10% of the incident light. Clouds and snow or ice are among the brightest surfaces, reflecting 70% to 90% of the incident light (Figure \@ref(fig:figure-16-19)).
-
 
 ```{r figure-16-19, fig.cap='Typical albedo values for Earth surfaces. Surfaces with low values reflect less light than surfaces with high values. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Typical-albedo-values-for-Earth-surfaces.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Typical-albedo-values-for-Earth-surfaces-1024x339-1024x339.png")
 ```
 
-
 ##### Albedo, Feedbacks, and the Acceptance of Milanković Cycles as a Climate Forcing Mechanism
-
 
 When Milanković published his hypothesis in 1924, it was widely ignored, partly because it was evident to climate scientists that the forcing produced by the orbital variations alone was not strong enough to drive the climate changes of the glacial cycles. Those scientists did not recognize the power of positive feedbacks. It wasn’t until 1973, 15 years after Milanković’s death, that sufficiently high-resolution data were available to show that the Pleistocene glaciations were indeed driven by the orbital cycles, and it became evident that the orbital cycles were just the first step, initiating a range of feedback mechanisms that made the climate change, many of which were related to albedo.
 
 Consider the following:
-
 
 - Explain why it is useful to think of Earth as a system.
 - Describe the effect of feedbacks on the climate system.
@@ -371,7 +276,6 @@ Consider the following:
 - Summarize the kinds of observations that show signals of present-day climate change.
 - Describe the current and projected state of the Earth system in the Anthropocene Epoch.
 
-
 <div class="textbox textbox--exercises"><header class="textbox__header">
 <p class="textbox__title" style="text-align: center">Exercise: Albedo Impacts of Vegetation Changes</p>
 
@@ -380,11 +284,9 @@ Consider the following:
 
 Changes in climate can cause forests to be replaced by grasslands, which have higher albedo than dark forest cover. If deserts expand, vegetated areas can be replaced by higher-albedo sand. Many human activities affect albedo, including adding urban surfaces to an environment, and planting crops. Figure \@ref(fig:figure-16-20) shows a forest that has been clear-cut. If a clear-cut has an albedo similar to that of sand, how would clear cutting change the albedo of the area?
 
-
 ```{r figure-16-20, fig.cap='A clear-cut near Eugene, Oregon. _Source: Calibas (2011) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Clearcutting-Oregon.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/1280px-Clearcutting-Oregon-1024x682.jpg")
 ```
-
 
 Note that trees cool their environment through transpiration, when they release water vapour from their leaves. Changes in local temperatures when trees are clear-cut also include the effects of reduced evaporative cooling. Changes in vegetative cover also affect the rates of CO~2~ uptake by plants.
 
@@ -393,44 +295,31 @@ Note that trees cool their environment through transpiration, when they release 
 
 #### Greenhouse Gases (GHGs)
 
-
 All molecules vibrate at various frequencies and in various ways, and some of those vibrations take place at frequencies within the range of the infrared radiation that is emitted by Earth’s surface. Gases with two atoms, such as O~2~, can only vibrate by stretching (back and forth; Figure \@ref(fig:figure-16-21) top), and those vibrations are much faster than that of IR radiation. Gases with three or more atoms (such as CO~2~) can vibrate in other ways, such as by bending (Figure \@ref(fig:figure-16-21) bottom). Those vibrations are slower and allow the molecules to absorb and release infrared radiation.
-
 
 ```{r figure-16-21, fig.cap='Molecules with two atoms (top) vibrate differently from molecules with more than two (bottom), and this determines whether a gas will be a greenhouse gas or not. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/co2-vibrations-2.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/co2-vibrations-2-555x1024.png")
 ```
 
-
 When infrared radiation interacts with CO~2~ or with one of the other GHGs, the molecular vibrations are enhanced because there is a match between the wavelength of the light and the vibrational frequency of the molecule. This makes the molecule vibrate more vigorously, heating the surrounding air in the process. These molecules also emit infrared radiation in all directions, some of which reaches Earth’s surface. Heating due to the vibrations of greenhouse gas molecules is called the __greenhouse effect__. Water molecules (H~2~O), and methane molecules (CH~4~) also interact with infrared radiation when they vibrate, so they are greenhouse gases as well.
 
 Ice core records show that over the last 800,000 years, rapid cycles into and out of glacial temperatures are associated with similarly-timed cycles in atmospheric CO~2~ levels (Figure \@ref(fig:figure-16-21)).
-
 
 ```{r figure-16-22, fig.cap='Variations in atmospheric CO~2~ levels and temperature over the last 800,000 years. Top- CO~2~ concentration from [ice core data in Lüthi et al (2008)](https://www.ncdc.noaa.gov/paleo-search/study/6091). The dashed line shows a recent measurement of atmospheric CO~2~ levels from the Mauna Loa Observatory. [Click to view the latest measurements](https://scripps.ucsd.edu/programs/keelingcurve/). Bottom: Temperature record derived from oxygen isotope measurements of water in ice cores. [Data from Jouzel et al (2008).](https://www.ncdc.noaa.gov/paleo-search/study/6080) Upper dashed line- global surface temperature for 2016 from NASA\'s Goddard Institute for Space Studies Reference line. [Click to view the most recent anomaly](https://climate.nasa.gov/vital-signs/global-temperature/). Lower dashed line: average temperature for the past 1000 years. _Source: Karla Panchuk (2018) CC BY 4.0, modified after National Research Council (2010) [view source](https://nas-sites.org/americasclimatechoices/more-resources-on-climate-change/climate-change-lines-of-evidence-booklet/evidence-impacts-and-choices-figure-gallery/#jp-carousel-736). Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/CO2-temp-800k.png")
 ```
 
-
-
 <div class="textbox">
 
-
 ##### Earth-System Response Time
-
 
 You might have noticed that for most of the 800,000-year record in Figure \@ref(fig:figure-16-22), there is a fairly consistent relationship between scale of change in atmospheric CO~2~ levels and the resulting change in temperature. You might also have noticed that compared to most of the record, the rise in temperature since 1950 is unexpectedly small, given the increase in atmospheric CO~2~ levels since that time. The reason for the relatively small temperature increase in response to the recent CO~2~ increase is in large part because the recent rise in CO~2~ is happening far more rapidly than other parts of the Earth system can respond. The ocean in particular is slowing down the response.
 
 The ocean takes up heat from the atmosphere, and thus helps to determine surface temperatures. A relatively cool ocean can take up more heat from the atmosphere, reducing warming. The fastest way for the ocean as a whole to take up heat is through the "stirring" that happens with ocean circulation, but circulation happens on thousand-year timescales. The slow rate of circulation means that centuries from now, there will still be cool water rising up from the deep ocean that has yet to be exposed to the warmer surface conditions. At other times in the 800,000-year record, changes in CO~2~ levels happened on timescales much closer to those at which the ocean takes up heat.
 
-
-
 </div>
 
-
-
 #### Atmospheric Effects of Volcanic Eruptions
-
 
 Volcanic eruptions don’t just involve lava flows and exploding rock fragments. Eruptions also release particles and gases into the atmosphere. Important volcanic gases include water vapour, CO~2~, and sulphur dioxide (SO~2~). Volcanic CO~2~ emissions can contribute to climate warming if a greater-than-average level of volcanism is sustained over a long time. At the end of the Permian Period, the massive Siberian Traps were produced by eruptions lasting at least a million years. Large quantities of CO~2~ were released, warming the climate and triggering a cascade of Earth-system responses. The end of the Permian Period at 252 Ma is marked by the greatest mass extinction in Earth history.
 
@@ -444,13 +333,10 @@ Over the shorter term, however, volcanic eruptions can have the opposite effect,
 
 ###### References
 
-
 <div class="hlFld-Title">
 <div class="publicationContentTitle">
 
 Caesar, I., Rahmstorf, S., Robinson, A., Feulner, G., &amp; Saba, V. (2018). Observed fingerprint of a weakening Atlantic Ocean overturning circulation. _Nature 556. _194-196. https://doi.org/10.1038/s41586-018-0006-5 [View abstract](https://doi.org/10.1038/s41586-018-0006-5)
-
-
 
 Ingleby, B., &amp; Huddleston, M. (2007). Quality control of ocean temperature and salinity profiles—Historical and real-time data. _Journal of Marine Systems, 65, _158-175. doi:10.1016/j.jmarsys.2005.11.019 [Full text](https://icdc.cen.uni-hamburg.de/fileadmin/user_upload/icdc_Dokumente/EN4/inglebyandhuddleston_QualityControlofOceanTemperatureandSalinityProfiles_HistoricalandRealTimeData_JMARSYS_65_158-175_2007.pdf)
 
@@ -462,19 +348,13 @@ Ingleby, B., &amp; Huddleston, M. (2007). Quality control of ocean temperature a
 
 Met Office Hadley Centre (n.d.) _EN3: quality controlled subsurface ocean temperature and salinity data._ [Visit website (data available)](https://www.metoffice.gov.uk/hadobs/en3/). Note: EN4 data set (new version) available [here](https://www.metoffice.gov.uk/hadobs/en4/).
 
-
-
 RAPID-AMOC (n.d.) _RAPID: monitoring the Atlantic Meridional Overturning Circulation at 26.5°N since 2004._ [Visit website (data available)](http://www.rapid.ac.uk/)
-
-
 
 Robson, J., Hodson, D., Hawkins, E., &amp; Sutton, R. (2014). Atlantic overturning in decline? _Nature Geoscience 7_(2-3). https://doi.org/10.1038/ngeo2050 [Open access version](https://www.climate-lab-book.ac.uk/2013/amoc-decline/)
 
 <p class="chaptertitle hanging-indent">Shaffrey, L.C., Stevens, I., Norton, W. A., Roberts, M. J., Vidale, P. L., Harle, J. D., Jrrar, A., Stevens, D. P., Woodage, M. J., Demory, M. E., Donners, J., Clark, D. B., Clayton, A., Cole, J. W., Wilson, S. S., Connelley, W. M., Davies, T. M., Iwi, A. M., Johns, T. C., King, J. D., New, A. L., Singlo, J. M., Slingo, A., Steenman-Clark, L., &amp; Martin, G. M. (2009). U.K. HiGEM: The New U.K. High-Resolution Global Environment Model—Model Description and Basic Evaluation. _Journal of Climate 22_, 1861 - 1896. doi:10.1175/2008JCLI2508.1 [Full text](https://doi.org/10.1175/2008JCLI2508.1)</p>
 
 Smith, D. M., &amp; Murphy, J. M. (2007). An objective ocean temperature and salinity analysis using covariances from a global climate model. _Journal of Geophysical Research, 112_(C02022). doi:10.1029/2005JC003172
-
-
 
 Thornalley, D. J. R., Oppo, D. W., Ortega, P., Robson, J. I., Brierley, C. M., Davis, R., Hall, I. R., Moffa-Sanchez, P., Rose, N. L., Spooner, P. T., Yashayaev, I., &amp; Keigwin, L. D. (2018). Anomalously weak Labrador Sea convection and Atlantic overturning during the past 150 years. _Nature 556, _227-230. https://doi.org/10.1038/s41586-018-0007-4 [View abstract](https://www.nature.com/articles/s41586-018-0007-4)
 
@@ -485,13 +365,11 @@ Thornalley, D. J. R., Oppo, D. W., Ortega, P., Robson, J. I., Brierley, C. M., D
 
 </div>
 
-
 ## Methods for Studying Past Climate
 
 Whereas _weather_ refers to day-to-day variations in temperature, precipitation, winds, and so on, _climate_ refers to long-term trends in weather patterns (over decades or more). The term __paleoclimate __refers to Earth’s climate in the past. The information we have about Earth’s past climates can be classified as __direct data__ or __proxy data__. Direct data are information derived from first-hand observations of climate. Direct data can be __instrumental data__, derived from tools designed to quantify observations, or from qualitative descriptions.
 
 __Proxy data __are information derived from natural materials with characteristics that are affected by climate in a systematic way. This could also be said of some instrumental data: an alcohol thermometer uses the fact that the volume of alcohol changes in a consistent way in response to temperature. Proxy data rely on relationships that are also as systematic and consistent, but there are important differences:
-
 
 - Explain why it is useful to think of Earth as a system.
 - Describe the effect of feedbacks on the climate system.
@@ -505,10 +383,7 @@ __Proxy data __are information derived from natural materials with characteristi
 - Summarize the kinds of observations that show signals of present-day climate change.
 - Describe the current and projected state of the Earth system in the Anthropocene Epoch.
 
-
-
 ### Types of Direct Data
-
 
 __Instrumental records__ of climate are those derived from tools such as thermometers, rain gauges, or satellite measurements of the extent of ice sheets. Instrumental records are a recent development, as the history of the Earth system goes. The oldest known temperature measurements cover the period from 1654 to 1670, and were made by monks and Jesuit priests who operated stations within a meteorological network supported by the Medici family of Florence.
 
@@ -516,9 +391,7 @@ Non-instrumental historical records of climate also exist, and cover periods of 
 
 <div class="textbox">
 
-
 ##### The Challenges of Getting Climate Information from Historical Records
-
 
 In their paper _Historical Climate Records in China and Reconstruction of Past Climates_, Jiacheng Zhang and Thomas Crowley used official Chinese records extending as far back as 1000 CE to get a detailed picture of climate. This involved transforming descriptions of weather events into a systematic scale. One challenge is defining the scale, but another is deciding what individual accounts actually mean. The authors point out that records of rain or drought can reflect the perceptions and generalizations of the people who wrote about the weather, rather than what actually happened. Consider the following description of rainfall in 1644 from _Diary of Qi Zongmin_:
 
@@ -528,23 +401,15 @@ Does this mean there was no rain at all prior to May, or just very little? Was i
 
 As the authors caution, "a great deal of cross-checking [is required] in order to arrive at a useful descriptive account of climate anomalies.”
 
-
-
 </div>
-
-
 
 ### Sources of Proxy Data
 
-
-
 #### Tree Rings
-
 
 The study of tree growth rings for the purpose of understanding past states of the Earth system is called __dendroclimatology__. Temperatures and a history of drought or wet periods can be reconstructed from the widths of tree rings. Because tree rings form annually, these records can also be well constrained in time. The widths of tree rings reflect how fast the tree grows in a given season. There are factors other than temperature and moisture that affect growth rate, so a sampling strategy must be carefully designed to ensure confidence in climate reconstructions.
 
 #### Stable Isotopes
-
 
 Atoms have a nucleus made of protons and neutrons. The number of protons in the nucleus determines what element the atom is, and will always be the same for a given element. In contrast, the number of neutrons can vary for an element. Versions an element having different numbers of neutrons are the __isotopes__ of that element.
 
@@ -556,39 +421,29 @@ The pair of isotopes used to reconstruct past temperatures are the oxygen isotop
 
 #### Ice Cores
 
-
 The ice in polar glaciers and mountain glaciers preserves a detailed snapshot of Earth’s atmosphere and climate. A sample of Earth’s atmosphere, including gases and particles, is captured and held within the ice, and buried beneath subsequent ice layers. The annual layers in the ice can be used to determine a timescale for the data. The gases in air bubbles trapped within ice (Figure \@ref(fig:figure-16-23)) are analyzed to determine the chemical composition of the atmosphere at the time the gasses were trapped.
-
 
 ```{r figure-16-23, fig.cap='A researcher holds a fragment of ice from Antarctica. The dots in the fragment are air bubbles containing samples of Earth\'s past atmosphere._ Source: Atmospheric Research, CSIRO (2000) CC BY 3.0 [view source](http://www.scienceimage.csiro.au/image/521)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/CSIRO_Antarctic_Ice_sm.jpeg")
 ```
 
-
 __Ice cores__ (Figure \@ref(fig:figure-16-24)) are cylinders of ice retrieved using a specialized drill bit. The cores are carefully packaged and stored in specially designed facilities (Figure \@ref(fig:figure-16-25)) until they are analyzed.
-
 
 ```{r figure-16-24, fig.cap='A scientist weighs and measures a cylinder of core from the West Antarctic Ice Sheet before she packages it for transport. _Source: NASA/Lora Koenig (2010) CC BY 2.0 [view source](https://flic.kr/p/9h8E9k)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/800px-Ice_Core_Vitals_5433412179.jpg")
 ```
 
-
-
 ```{r figure-16-25, fig.cap='[National Science Foundation Ice Core Facility](https://icecores.org/) in Lakewood, Colorado. Ice cores are housed in tubes 1 m long. The main storage facility is kept at -36 ºC. Fortunately, scientists can examine the cores under much warmer conditions in a nearby room maintained at -24 ºC. _Source: U. S. Geological Survey/ Eric Cravens (n.d.) Public Domain [view source](https://commons.wikimedia.org/wiki/File:NICL_Freezer.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/1024px-NICL_Freezer-1024x768.jpg")
 ```
 
-
 #### Rock and Fossil Distributions
 
-
 Earth can be divided into six main climate zones (Figure \@ref(fig:figure-16-26)). The zones run roughly along lines of latitude, so that the climate zone changes as you move north or south of the equator. When the climate warms, the zones shift away from the equator; an area now in the boreal climate zone might have been in the warm temperate climate zone when Earth’s climate was warmer. When the climate cools, the zones shift toward the equator.
-
 
 ```{r figure-16-26, fig.cap='Six climate zones of the Köppen-Geiger classification. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Modified after LordToran (2007) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Klimag%C3%BCrtel-der-erde.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/Climate_zones.png")
 ```
-
 
 Some rock types are characteristic of particular climate zones. For example, coal deposits are characteristic of a subtropical climate. Limestone with coral reef fossils is characteristic of a tropical climate. If a rock type is found outside of its climate zone, that might indicate a change in climate. Coal can be found near Estevan, Saskatchewan, now in the warm temperate climate zone. This suggests that at one time, a warmer climate resulted in a northward shift of the subtropical climate zone. Some of the oil in western Canada is present in pore spaces within ancient coral reefs. The warm temperate climate zone cannot have been at its present location when those reefs formed.
 
@@ -596,19 +451,15 @@ Fossils can be used similarly. If an organism lives in a habitat with a particul
 
 The study of pollen and plant spores, called __palynology__, is very helpful for determining the distribution of plants when evidence of larger plant parts (e.g., fossil leaves and bark) is absent. Pollen and spores are very tough, and will survive in the environment when other plant materials do not. A detailed record of pollen and spores, and hence of the climate zones in a particular location, can be derived from lake sediments. Lakes in climates with strong seasonality (a distinct difference in temperature as seasons progress) can accumulate distinct annual sediment layers, called __varves __(Figure \@ref(fig:figure-16-27)). Each year is represented by a light layer and a dark layer. The light layers consist of sand and silt from spring runoff. The darker layers include organic matter accumulated during the year.
 
-
 ```{r figure-16-27, fig.cap='Varves in a core from Canoe Brook, Drummerston, Vermont. Each pair of light and dark layers represents one year. The top of the core is to the right. _Source: Karla Panchuk (2017) CC BY-NC-SA 4.0 (labels added). Modified after Jack Ridge/ North American Glacial Varve Project (2008) [view source](http://eos.tufts.edu/varves/votw_details.asp?vid=1). Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/varves.png")
 ```
-
 
 Varves can be counted to determine the age of the sediment, and the pollen and spores within the sediment can be extracted to see what types of vegetation were present at different times.
 
 ###### References
 
 Ridge, J.C. (2008) The North American Glacial Varve Project. Retrieved from http://eos.tufts.edu/varves
-
-
 
 Zhang, J., &amp; Crowley, T. (1989). Historical Climate Records in China and Reconstruction of Past Climates. _Journal of Climate 2_(8), 833-849. https://doi.org/10.1175/1520-0442(1989)002&lt;0833:HCRICA&gt;2.0.CO;2 [Full text](https://journals.ametsoc.org/doi/abs/10.1175/1520-0442%281989%29002%3C0833%3AHCRICA%3E2.0.CO%3B2)
 
@@ -622,37 +473,29 @@ When computer models are discussed, we acknowledge that there is a difference be
 
 ### What Are Computer Models, Exactly?
 
-
 Computer models describe natural phenomena using mathematical equations. On the most basic level, computer models take some quantity—whether heat, water, or the concentration of a pollutant—and calculate how it moves through a system. Sometimes they look only at how that quantity changes through time. A computer model of the water volume in a bathtub could be limited to looking at how rapidly water flows in through the tap, and how rapidly it flows out through the drain. But sometimes models look at how a quantity changes in space as well as through time.
 
 A study of wind-driven currents in a lake must include information about the shape and depth of the lake to capture how friction at the lake bottom and along the sides affects water flow (Figure \@ref(fig:figure-16-28)). Data about the lake shape and depth (Figure \@ref(fig:figure-16-28), top) is translated to a model grid (Figure \@ref(fig:figure-16-28), bottom). Calculations are done to see how wind and friction control how water moves into and out of each cell in the grid.
-
 
 ```{r figure-16-28, fig.cap='Set-up for a model of wind-driven current flow in Lake Ontario. Top: Map of Lake Ontario showing water depth and the location of current meters. Bottom: Grid used to translate water depth information for model calculations. _Source: Karla Panchuk (2002) CC BY 4.0. Based on the exercise described in Chapter 10 of Slingerland &amp; Kump (2011).<br>_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/Lake-Ontario-grid.png")
 ```
 
-
 The model produces information about wave height (Figure \@ref(fig:figure-16-29), left) and shows the direction and speed of water flow across the lake using arrows of different sizes (Figure \@ref(fig:figure-16-29), right). If scientists are interested in how a pollutant would move around the lake, they can include the location where the pollutant is added, and how rapidly it is added, and track how it moves.
-
 
 ```{r figure-16-29, fig.cap='Height of the water surface (left) and current velocity (right) from a model of wind-driven flow in Lake Ontario. The length of current arrows shows the speed of the current, and the arrow points in the direction of flow. _Source: Karla Panchuk (2002) CC BY 4.0. Based on the exercise described in Chapter 10 of Slingerland &amp; Kump (2011).<br>_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/Lake-Ontario-results-1024x495.png")
 ```
 
-
 If the model is to be used to track the movement of a pollutant through the lake, it is important to know that it has done a good job of calculating the current velocity. In this case, data from current meters in the lake can be compared to the current velocities that the model calculates (Figure \@ref(fig:figure-16-30)). The model captures the fact that flow is northward near the margins of the lake, and southward in the middle, but the model current velocities are not exactly the same. This means that the model would do a good job of predicting where the pollution went, but not as good a job at predicting how fast it got there.
-
 
 ```{r figure-16-30, fig.cap='Comparison of model results with current meter data. Points plotted beneath the blue dashed line indicate northward flow. Points above indicate southward flow. _Source: Karla Panchuk (2002) CC BY 4.0. Data from Simons and Schertzer (1989)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/09/model-data-comparison.png")
 ```
 
-
 The model in this case had a relatively course representation of the lake geography, so a first step would be to make the grid cells smaller to do a better job of simulating the shape of the lake, then look at the flow in finer detail. Another step would be to represent the lake water using a vertical stack of several grid cells to better capture the extent to which bottom friction and wind force affect the lake water at different depths, and to do a better job of representing the water depth.
 
 ### An Example of Using a Computer Model to Study Past Earth-System Change
-
 
 The Paleocene-Eocene Thermal Maximum (PETM) was a sudden global warming event that happened approximately 56 million years ago. There was interest in studying this event because its suddenness was thought to be a good analogy for the rapid changes happening in the Earth system today. Cores from ocean-floor rocks show that the oceans became so acidified during the PETM that calcium carbonate sediments dissolved over vast areas of the ocean floor, vanishing entirely from some regions. The same cores also showed a shift in the carbon-isotope composition of calcium carbonate sediments.
 
@@ -671,11 +514,9 @@ In the end, the model showed that some of the scenarios did not even come close 
 
 ### Predicting the Future of the Earth System with Models
 
-
 Using models to investigate the Earth system requires careful consideration of how to build the model and run experiments. But it also requires skillful use of real-life measurements to set up the model, and to interpret and evaluate its results. The PETM model study was an example of how a model can be used to test hypotheses about past behaviour of the Earth system. There were data from before, during, and after the event to help set up the model and gauge its effectiveness.
 
 Using Earth-system models to predict the future is a different kind of modeling challenge, because we don't already know what the right answer is. The situation being modeled hasn't happened yet. Scientists who try to predict the future of the Earth system have to do things a bit differently in order to have some confidence in the reliability of their model outcomes:
-
 
 - Explain why it is useful to think of Earth as a system.
 - Describe the effect of feedbacks on the climate system.
@@ -689,21 +530,15 @@ Using Earth-system models to predict the future is a different kind of modeling 
 - Summarize the kinds of observations that show signals of present-day climate change.
 - Describe the current and projected state of the Earth system in the Anthropocene Epoch.
 
-
-
 ###### References
 
 Simons, T. J., &amp; Schertzer, W. M. (1989) _The circulation of Lake Ontario during the summer of 1982 and the winter of 1982/83_. Burlington, ON: Environment Canada. [Full text](http://publications.gc.ca/site/eng/9.854046/publication.html)
-
-
 
 Slingerland, R., &amp; Kump, L. (2011). _Mathematical Modeling of Earth's Dynamical Systems__: __A Primer_. Princeton, NJ: Princeton University Press.
 
 ## Humans in the Earth System
 
-
 ### The Start of Human Influence on the Earth System
-
 
 _Anthropogenic_ change in the Earth system is change caused by humans. Many discussions of anthropogenic climate-change place the start of human impacts on the Earth system at the beginning of the industrial era, in the mid 18th century. The industrial era was when humans began to use fossil fuels—at the time, mostly coal—on a much larger scale than before to do things like run manufacturing machinery and trains.
 
@@ -711,21 +546,17 @@ Some climate scientists place the first anthropogenic impacts much earlier, howe
 
 Whether anthropogenic climate change began with the Agricultural Revolution or the Industrial Revolution may be a matter for debate for some, but it is clear that Earth-system change accelerated once the Industrial Revolution began. Part of this is due to the fact that agricultural activities had to be scaled up to feed an ever-growing population. When humans first started growing crops, the world population was approximately 5 million (Figure \@ref(fig:figure-16-31)), fewer people than live in Toronto today. The world population rose to approximately 18 million when wetland rice cultivation began (fewer people than live within the city limits of Beijing today), to over 800 million at the start of the Industrial Revolution. The world population was estimated at 7,600 million in 2018.
 
-
 ```{r figure-16-31, fig.cap='World population growth over the past 12,000 years. _Source: Steven Earle (2015) CC BY 4.0, [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/World-population-growth-over-the-past-12000-years-.png). Data from Roser and Ortiz-Ospina (2018) [view source](https://ourworldindata.org/world-population-growth)/ [view data file](https://ourworldindata.org/wp-content/uploads/2013/05/WorldPopulationAnnual12000years_interpolated_HYDEandUNto2015.csv)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/World-population-growth-over-the-past-12000-years-.png")
 ```
-
 
 The other reason humans accelerated Earth-system change after the start of the industrial era is that human activities required a source of energy, and __fossil fuels__ such as coal and oil were that source. Fossil fuels are those derived largely from plant material that grew, died, and was partially preserved at various times throughout Earth history. The plants removed CO~2~ from the atmosphere when they were alive, and stored it in organic compounds in their tissues. The materials accumulated over hundreds of millions of years in settings like swampy forests, shallow seas, and deltas. When fossil fuels are burned, the stored carbon is released back into the atmosphere as CO~2~.
 
 ### The Carbon-Isotope Fingerprints of Fossil Fuel
 
-
 Carbon isotopes provide insights into the extent to which fossil fuels have impacted the Earth system, because fossil fuels have a unique carbon-isotope fingerprint that is detectable in the atmosphere and in geological materials.
 
 ##### Stable Carbon Isotopes (12-Carbon and 13-Carbon)
-
 
 When plants transform CO~2~ into tissues, the process imparts a unique carbon-isotope signature to the resulting organic matter. Plants preferentially take in CO~2~ with the isotope ^12^C over CO~2~ with isotope ^13^C. They do so in a consistent way, giving plant tissues a distinctive ratio of ^13^C to ^12^C. Fossil fuels are derived from plant materials, and they preserve this isotopic ratio.
 
@@ -735,11 +566,9 @@ For most of the past 1000 years, the atmosphere has had a δ^13^C of approximate
 
 As we would expect, the carbon isotope composition of the atmosphere takes a sudden downward turn at the same time that humans undertake the Industrial Revolution, and begin burning large quantities of fossil fuels, adding CO~2~ to the atmosphere at an accelerating rate (Figure \@ref(fig:figure-16-32)).
 
-
 ```{r figure-16-32, fig.cap='A 1000-year record of atmospheric CO~2~ levels (blue circles) and carbon isotope composition (grey circles) measured in Antarctic ice cores. The Industrial Revolution (grey shading), marking the start of the industrial era and the large-scale use of fossil fuels by humans, coincides with a sudden rise in CO~2~ levels, and a fall in the carbon-isotope composition of atmospheric CO~2~. _Source: Karla Panchuk (2018) CC BY 4.0. Data from Rubino et al (2013)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/CO2_d13C.png")
 ```
-
 
 Scientists who study past climates on Earth are familiar with carbon-isotope records like this one, because such records are used to reconstruct major changes in the Earth system through their impact on the carbon cycle. In carbon-isotope records from the distant past, a shift of more than 1.5‰ would be enough to catch the attention of a researcher and make them wonder what could have happened.
 
@@ -748,7 +577,6 @@ What is unusual about the 1.5‰ drop today in comparison to those observed in t
 Carbon dioxide in the atmosphere mixes into the oceans, where organisms take up carbonate ions to make calcium carbonate shells. The 1.5‰ drop has been imprinted in the calcium carbonate of marine organisms like sponges (Böhm et al, 2002), and will remain in the rock record globally, as evidence of human activity. Because of this, and because of many other such markers that are being left in the rock record by human activities (the presence of plastic, for example), some have suggested that it is time to define a new division of geological time, the __Anthropocene Epoch__. The start of the Anthropocene Epoch would mark the point at which human activities became evident in the geological record.
 
 ##### Radioactive Carbon (14-Carbon)
-
 
 Carbon-14 dating relies on the fact that ^14^C decays to ^14^N at a known rate. By knowing the rate, and how much ^14^C and ^14^N are present, we can work out how long the decay has been happening. Knowledge of the decay rate of ^14^C also makes it useful to track fossil fuel additions to the atmosphere.
 
@@ -760,22 +588,17 @@ The effects of fossil fuel CO~2~ on atmospheric Δ^14^C levels must account for 
 
 ### The Carbon Cycle and Change in Today's Earth System
 
-
 Change in the Earth system is strongly driven by Earth’s carbon cycle, the interrelated materials and processes that change carbon from one form to another, and move it from one reservoir to another (Figure \@ref(fig:figure-16-33)). The CO~2~ in the atmosphere is just one part of the carbon cycle. Carbon in the atmosphere is taken in by marine and terrestrial plants, and released when they are decomposed. Microbial activities in the soil and respiration by plants release carbon. Carbon also moves into and out of the ocean through exchange processes at the ocean’s surface.
-
 
 ```{r figure-16-33, fig.cap='Flows of carbon in the Earth system. Numbers are rates in billions of tons of carbon (gigaton, Gt) per year. Yellow numbers are rates unrelated to human activity. Red numbers show the contribution of human activities as of 2012. _Source: U.S. Department of Energy (2012) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Carbon_cycle.jpg) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Carbon_cycle-1024x863.jpg")
 ```
 
-
 In the carbon cycle today, natural processes as a whole comprise far more of the flow in the carbon cycle than human activities do. For comparison, the relative sizes of flows in Figure \@ref(fig:figure-16-33) are illustrated by the size of the arrows. As of 2012, human activities were responsible for approximately 9 billion tons (9 Gt) of carbon added to the atmosphere per year. A large part of the 9 Gt comes from burning oil, coal, and gas, and some from changes in how land is used (e.g., clearing forests to plant crops, Figure \@ref(fig:figure-16-34)). Some comes from changes that humans have made that affect the ability of the Earth system to take up carbon.
-
 
 ```{r figure-16-34, fig.cap='Flow diagram illustrating the pathways through which human activities produce greenhouse gases. The diagram connects the items in each column with flows that ultimately lead to the type of fuel used, and the greenhouse gasses produced. The width of each band is proportional to the quantity flowing from one column to the next. Note that F-Gas refers to anthropogenic fluorinated gases, which are extremely powerful greenhouse gases. _Source: Fischedick et al. (2014), Figure \\@ref(fig:figure-10-1), based on Bajželj et al. (2013). [View source (p. 745).](https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter10.pdf) Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/anthro_emissions_by_sector-1024x585.png")
 ```
-
 
 The Earth system has accommodated the 9 billion tons by taking up an additional 3 billion tons per year in photosynthesis, and dissolving an additional 2 billion tons per year in the ocean. The remaining 4 billion tons accumulates in the atmosphere each year because the Earth system does not presently have the capacity to remove it.
 
@@ -785,31 +608,23 @@ For fossil fuels, on the other hand, the carbon was removed from the atmosphere 
 
 ### Signals of Present-Day Earth-System Change
 
-
-
 #### Rising Temperatures
 
-
 From studies of Earth's past climate history, it is clear what to expect as atmospheric CO~2~ levels rise. Climate warming is one outcome. We know from ice core records that global average temperatures are warmer now than they have been for most of the last 800,000 years ([Figure \@ref(fig:figure-16-22)](https://openpress.usask.ca/app/uploads/sites/29/2018/08/CO2-temp-800k.png)). Over the shorter term, direct measurements show that the climate has been on a warming trend after the start of the Industrial Revolution ([Figure \@ref(fig:figure-16-9)](https://openpress.usask.ca/app/uploads/sites/29/2018/08/sunspot_data.png)). Proxy data making up a revised version of the "hockey stick" diagram—so named because the shape reminded some people of a hockey stick laying on its side—take the record back to 1000 years ago, and show global average temperatures falling until the onset of the industrial era (Figure \@ref(fig:figure-16-35)).
-
 
 ```{r figure-16-35, fig.cap='Global average temperature change for the last 1000 years. Blue- The original "hockey stick" diagram showing a reconstruction of northern hemisphere temperatures using tree rings as a proxy. Red- Direct temperature measurements. Green dots- Global temperature reconstruction using a wide range of direct measurements, historical records, and proxies (sediments, ice cores, tree rings, corals, stalagmites, pollen). The original hockey stick diagram was the focus of much controversy because it was the first evidence of anthropogenic climate change that could be understood by the general public. The PAGES2K project sought to bring vast quantities of data to establish once and for all whether a global signal of warming could be reliably discerned. The result was very similar to the original hockey stick. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Modified after Klaus Bittermann (2013) CC BY-SA 4.0 [view source](https://commons.wikimedia.org/wiki/File:T_comp_61-90.pdf). [Learn more about PAGES2K and find data.](https://thinkprogress.org/most-comprehensive-paleoclimate-reconstruction-confirms-hockey-stick-e7ce8c3a2384/)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Hockey_stick_annotated-2-1024x657.png")
 ```
 
-
 #### Sea Level Change
-
 
 [As of April 2018](https://climate.nasa.gov/vital-signs/sea-level/), global sea level has risen approximately 28 cm since 1800. According to satellite data, the average rate of change since 1993 has been a rise of approximately 3 mm per year. Part of the rise is due to the expansion of seawater as it warms. Another part of the rise is from water added by melting glaciers and other year-round land-based snow and ice. Note that melting of sea ice—ice already floating in the ocean—does not contribute directly to sea-level rise because the ice is already floating in the ocean.
 
 Based on how much melting has occurred thus far, sea levels are projected to rise to between 47 cm and 130 cm above 1880 levels (Figure \@ref(fig:figure-16-36)). However, there is some uncertainty about how melting rates will respond to changes in the Earth system that result from climate change, such as changes in currents, or seawater beneath the leading edge of melting ice sheets warming the ice from beneath. With that uncertainty factored in, sea level rise could be as low as 33 cm above 1880 levels, or more than 2 m higher.
 
-
 ```{r figure-16-36, fig.cap='Measured and projected change in global average sea level. Data come from proxy records as well as from direct measurements from tidal gauges and satellite data. Projected sea level rise could be as little as 33 cm over 1800 levels, or as much as 206 cm. _Source: Karla Panchuk (2018) modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Projected-sea-level-increases-to-2100.png) and J. Willis, Jet Propulsion Laboratory (2013). [View source and more information about this figure.](https://data.globalchange.gov/report/nca3/chapter/our-changing-climate/figure/past-and-projected-changes-in-global-sea-level-rise) Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/projected-sea-level-change-1024x704.png")
 ```
-
 
 Keep in mind that the global average is indeed an average. Where ocean waters experience more warming, and thus more thermal expansion, sea level rise may be greater than elsewhere. Regions that are rebounding as ice melts could experience less sea level rise, or even a fall in sea level, because the elevation of the terrain is actually increasing over time. On the other hand, regions on the peripheral bulge around the margins of ice sheets could experience greater than average sea level rise because the terrain will subside at the same time that the oceans are gaining volume.
 
@@ -817,34 +632,23 @@ Areas that become flooded could experience greater than average sea level rise, 
 
 #### Melting Ice Sheets
 
-
 Keeping track of how rapidly ice sheets are melting is important both for being able to predict future sea level change, and for knowing in general how rapidly the Earth system is changing. In a recent study, Bamber et al. (2018) analyzed satellite measurements to determine how much mass had been lost from the Antarctic ice sheets, the Greenland Ice Sheet, and from other glaciers and ice caps around the world since 1992 (Figure \@ref(fig:figure-16-37)).
-
 
 ```{r figure-16-37, fig.cap='Large ice sheets of Antarctica and Greenland (blue) and glaciers and ice caps (yellow). Circles are proportional to the area of each region that is covered by glaciers. The green part of the circle indicates the proportion of the ice with margins resting on land, and the blue part indicates margins in the ocean. This difference is important in part because of the potential for faster melting when the base of an ice sheet is in contact with warming seawater. _Source: Bamber et al. (2018) CC BY 4.0. [View source (see Fig. 1)](http://iopscience.iop.org/article/10.1088/1748-9326/aac2f0/meta)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/erlaac2f0f1_hr-1024x652.jpg")
 ```
 
-
 The study found that over all, the mass of ice in ice sheets, ice caps, and glaciers has been falling at an increasing rate since 1992, and therefore adding to sea level at an increasing rate (Figure \@ref(fig:figure-16-38)). The exception is the East Antarctic Ice Sheet, which actually showed an increase in mass during the studied interval. This is because snowfall has increased in the East Antarctic, to the point where more snow is falling now than at any time in the past 2000 years (Medley et al., 2017). The East Antarctic is warming just as the West is, but the difference is that the winds that preferentially bring precipitation to the East rather than the West can carry more moisture because the air is warmer.
-
 
 ```{r figure-16-38, fig.cap='Results of a study of the change in mass of ice on Earth\'s surface. Satellite data show that over all, melting has accelerated since 1992. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Bamber et al. (2018) CC BY 4.0. [View source (see Fig. 11)](http://iopscience.iop.org/article/10.1088/1748-9326/aac2f0/meta)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/ice-melt-contribution.png")
 ```
 
-
-
-
 ###### References
 
 Bajželj, B., Allwood, J. M., and Cullen, J. M. (2013). Designing Climate Change Mitigation Plans That Add Up. _Environmental Science &amp; Technology 47_, 8062-8069. doi: 10.1021/es400399h. Retrieved from [http://pubs.acs.org/doi/pdf/10.1021/es400399h](http://pubs.acs.org/doi/pdf/10.1021/es400399h)
 
-
-
 Bamber, J. L., Westaway, R. M., Marzeion, B., &amp; Wouters, B. (2018). The land ice contribution to sea level during the satellite era. _Environmental Research Letters 13_(2018). https://doi.org/10.1088/1748-9326/aac2f0 [Full text](http://iopscience.iop.org/article/10.1088/1748-9326/aac2f0/meta)
-
-
 
 Böhm, F., Haase-Schramm, A., Eisenhauer, A., Dullo, W.-C., Joachimski, M. M., Lehnert, H., &amp; Reitner, J. (2002). Evidence for preindustrial variations in the marine surface water carbonate system from coralline sponges. _Geochem. Geophys. Geosyst., 3_(3), 10.1029/2001GC000264. Retrieved from [http://onlinelibrary.wiley.com/doi/10.1029/2001GC000264/epdf](http://onlinelibrary.wiley.com/doi/10.1029/2001GC000264/epdf)
 
@@ -856,15 +660,9 @@ Earth System Research Laboratory, Global Monitoring Division, NOAA (n.d.). _The 
 
 Fischedick M., Roy, J., Abdel-Aziz, A., Acquaye, A., Allwood, J. M., Ceron, J.-P., Y. Geng, Y., Kheshgi, H., Lanza, A., Perczyk, D., Price, L., Santalla, E., Sheinbaum, C., and Tanaka, K. (2014). Industry. In: _Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change_. Edenhofer, O., Pichs-Madruga, R., Sokona, Y., Farahani, E., Kadner, S., Seyboth, K., Adler, A., Baum, I., Brunner, S., Eickemeier, P., Kriemann, B., Savolainen, J., Schlömer, S., von Stechow, C., Zwickel, T., and Minx, J. C. (eds.). Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. Retrieved from [https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter10.pdf ](https://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_chapter10.pdf)
 
-
-
 Madrigal, A. C. (2017, September 5) _The Houston Flooding Pushed the Earth's Crust Down 2 Centimeters_. [View at _The Atlantic_](https://www.theatlantic.com/technology/archive/2017/09/hurricane-harvey-deformed-the-earths-crust-around-houston/538866/).
 
-
-
 Medley, B., McConnell, J. R., Neumann, T. A., Reijmer, C. H., Chellman, N., Sigl, M., &amp; Kipfstuhl, S. (2018). Temperature and Snowfall in Western Queen Maud Land Increasing Faster Than Climate Model Projections. _Geophysical Research Letters 45_(3), 1472-1480.[ https://doi.org/10.1002/2017GL075992 ](https://doi.org/10.1002/2017GL075992)
-
-
 
 Rahmstorf, S. (2013). _Most Comprehensive Paleoclimate Reconstruction Confirms Hockey Stick_. [View at ThinkProgress.org ](https://thinkprogress.org/most-comprehensive-paleoclimate-reconstruction-confirms-hockey-stick-e7ce8c3a2384/)
 
@@ -884,23 +682,19 @@ Rahmstorf, S. (2013). _Most Comprehensive Paleoclimate Reconstruction Confirms H
 </div>
 </section></div>
 
-
 ## Welcome to the Anthropocene
 
 Geologists still have not agreed on an official start date for the Anthropocene Epoch, but it is unlikely that they would disagree that we are presently in it. What this means in practical terms is that humans today are experiencing the results of past human influence on the Earth system, and humans in the future will experience the results of decisions made today.
 
 ### Data on Key Sources of Radiative Forcing
 
-
 The __Intergovernmental Panel on Climate Change__ (IPCC) was established by the United Nations in 1988 to help with those decisions. Is responsible for reviewing the scientific literature on climate change and issuing periodic reports on several topics, including the scientific basis for understanding climate change, our vulnerability to observed and predicted climate changes, and what we can do to limit climate change and minimize its impacts.
 
 In their Fifth Assessment Report, Summary for Policy Makers, the IPCC identified the main contributions to heating or cooling our atmosphere, and the impact they had in 2011 compared to 1750, before the industrial age (Figure \@ref(fig:figure-16-39)). The main natural source of radiative forcing is the sun, but it contributes relatively little compared to anthropogenic sources. The greatest contribution over all comes from anthropogenic CO~2~ (top row). Note that the bar sizes indicate the relative contribution, and correspond to the scale at the bottom of the diagram. Bars to the left of the zero line indicate cooling of the atmosphere, and bars to the right indicate warming. The column on the far right indicates how confident scientists are in their assessment of radiative forcing for each source (VH = very high; H = high; M = medium; L = low).
 
-
 ```{r figure-16-39, fig.cap='Anthropogenic and natural contributions to radiative forcing in 2011 compared to 1750. _Source: IPCC (2013) [View source (SPM.5, p. 14).](https://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf) Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/FigSPM-05-1024x872.jpg")
 ```
-
 
 The biggest anthropogenic contributor to warming, CO~2~, accounts for 50% of positive forcing. CH~4~ and its atmospheric derivatives (CO~2~, H~2~O, and O~3~) account for 29%, and the halocarbon gases (mostly leaked from air-conditioning appliances) and nitrous oxide (N~2~O, from burning fossils fuels) account for 5% each. Carbon monoxide (CO, also produced by burning fossil fuels) accounts for 7%, and the volatile organic compounds other than methane (NMVOC) account for 3%.
 
@@ -908,47 +702,37 @@ CO~2~ emissions come mostly from coal- and gas-fired power stations, motorized v
 
 ### Projected Warming
 
-
 The IPCC projects future warming by using scenarios that represent different possible paths that take into account global population, economic development, and global co-operation. In their best-case scenario, called RCP2.6 (RCP stands for representative concentration pathway, and 2.6 refers to a radiative forcing of 2.6 W/m^2^), global CO~2~ emissions begin to decline after 2020, and go to zero by 2080. Their worst-case scenario is RCP8.5, in which global CO~2~ emissions continue to rise rapidly. Intermediate scenarios reflect cases where global CO~2~ emissions eventually peak, but do not go to zero.
-
 
 ```{r figure-16-40, fig.cap='Model projections to 2100 for surface temperatures (a) and the extent of sea ice in September in the Northern Hemisphere (b). Black line: data; Grey shading: model attempts to simulate conditions from 1950 to 2005; Blue: best-case scenario with peak CO~2~ emissions in 2020 and zero emissions by 2080; Red: worst-case scenario with no decline in emissions. Numbers indicate the number of models run for each scenario. Shading indicates range of uncertainty. _Source: IPCC (2013) [View source (Fig. SPM.7, p. 14).](https://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf) Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/projected-warming.png")
 ```
 
-
 In the best-case scenario, temperatures stabilize at approximately 1 ºC above 1996 temperatures by the end of the century. As of 2018 there is no global plan in place that will meet the timeline of RCP2.6, and cause emissions to decline after 2020. For sea ice, all but the best-case scenario have the average sea ice extent beneath the dashed line, which effectively means the northern hemisphere would be ice-free.
 
 ### Extreme Climate-System Events
 
-
 In 2015 the World Meteorological Organization (WMO) published an analysis of extreme climate-system events, and showed that the number of such events globally was almost 5 times higher in the decade 2001-2010 than in the decade 1971-1980 (Figure \@ref(fig:figure-16-41)).
-
 
 ```{r figure-16-41, fig.cap='Numbers of climate-system disasters between 1971 and 2010. _Source: WMO (2015) Atlas of Mortality and Economic Losses from Weather, Climate and Water Extremes: 1970-2012. [View source (p. 9).](https://public.wmo.int/en/resources/library/atlas-mortality-and-economic-losses-weather-and-climate-extremes-1970-2012) Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Numbers-of-various-types-of-disasters-between-1971-and-2010.png")
 ```
 
-
 Analyses of natural disasters and extreme weather events by the European Academies' Science Advisory Council (EASAC) showed that from 1980 to 2010, extreme weather, floods, and mass movement related to floods increased by more than three-fold in Europe. In the same study, analyses of insurance-industry data showed that globally, Europe and South America are the _least_ affected. The number of events has been more than twice as great in Asia, Australia/Oceania, and North America (EASAC, 2013). The EASAC recently published an updat to their study, to include data up to 2016. They now say that floods and mass movement events have increased in Europe by more than 4 times from 1980 levels (EASAC, 2018).
 
 #### Extreme Temperatures
-
 
 The major types of disasters reported by the WMO report are related to climate are floods and storms, but the health implications of extreme temperatures are also becoming a great concern. In the decade 1971 to 1980, extreme temperatures were the fifth most common natural disasters; by 2001 to 2010, they were the third most common.
 
 For several weeks in July and August of 2010, a massive heat wave affected western Russia, especially the area southeast of Moscow. Temperatures soared to over 40°C, as much as 12°C above normal over a wide area, and wildfires raged in many parts of the country. Over 55,000 deaths are attributed to the heat and to respiratory problems associated with the fires (Figure \@ref(fig:figure-16-42)).
 
-
 ```{r figure-16-42, fig.cap='Temperature anomalies across Russia and neighbouring regions during July 2010. _Source: Earth Observatory (2010) Public Domain [view source](https://earthobservatory.nasa.gov/images/45069/heatwave-in-russia)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/russia_anomaly_small.png")
 ```
 
-
 A clue to explaining the heatwave was simultaneous flooding in Pakistan: in July, rainfalls were 70% higher than normal, and in August rainfalls were 102% above normal. Flooding from heavy rains combined with a burst dam impacted 18 million people, killing 1,985. These events were linked by a change in atmospheric circulation that caused weather patterns to stall out over Russia and Pakistan. The change itself was due in part to a decrease in the temperature differences between high and low latitudes, caused by warming in the north.
 
 ### Sea-Level Rise and Tropical Storm Impacts
-
 
 Projections for sea-level rise to the end of this century vary widely (Figure \@ref(fig:figure-16-36)), however it is already the case that low-lying coastal regions are experiencing increased flooding during storm events. Flood defenses designed decades ago are or will soon be insufficient in the face of increasingly frequent and more extreme storm events. In a 2008 report, the Organisation for Economic Co-operation and Development (OECD) estimated that by 2070 approximately 150 million people living in coastal areas could be at risk of flooding due to the combined effects of sea-level rise, increased storm intensity, and land subsidence. The assets at risk (buildings, roads, bridges, ports, etc.) are on the order of $35 trillion ($35,000,000,000,000). Countries with the greatest exposure of population to flooding are China, India, Bangladesh, Vietnam, U.S.A., Japan, and Thailand. Some of the major cities at risk include Shanghai, Guangzhou, Mumbai, Kolkata, Dhaka, Ho Chi Minh City, Tokyo, Miami, and New York.
 
@@ -956,90 +740,62 @@ One of the other risks for coastal populations, besides sea-level rise, is that 
 
 When Hurricane Sandy hit New Jersey and New York in 2012 (Figure \@ref(fig:figure-16-43)), it had a devastating impact in part because it smashed into the coast directly rather than moving parallel to the coast. There was some speculation that the unusual path was the result of changes in atmospheric circulation that were related to climate change. We can't say for certain whether climate change caused Sandy to move the way it did, but we can say with confidence that climate change worsened the impact of Sandy through sea-level rise. Consider that, over the previous 100 years, sea level had risen a foot at the southern-most tip of Manhattan Island. The island was hit by a 14-foot storm-surge, higher than it would have been without sea-level rise.
 
-
 ```{r figure-16-43, fig.cap='Damage from Hurricane Sandy on the coast of New Jersey. _Source: Master Sgt. Mark C. Olsen, New Jersey National Guard (2010) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Hurricane_Sandy_damage_Long_Beach_Island.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/1280px-Hurricane_Sandy_damage_Long_Beach_Island-1024x682.jpg")
 ```
 
-
 #### Tropical Storm Intensity
 
-
 Tropical storms get their energy from the evaporation of warm seawater in tropical regions. In the Atlantic Ocean, this takes place between 8° and 20° N in the summer. A correlation has been observed between variations in the sea-surface temperature (SST) of the tropical Atlantic Ocean (Figure \@ref(fig:figure-16-44), red) and the amount of power represented by Atlantic hurricanes between 1950 and 2008 (blue). Not only has the overall intensity of Atlantic hurricanes increased with the warming since 1975, but the correlation between hurricanes and sea-surface temperatures is very strong over that time period.
-
 
 ```{r figure-16-44, fig.cap='Relationship between Atlantic tropical storm cumulative annual intensity and Atlantic sea-surface temperatures. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Relationship-between-Atlantic-tropical-storm-cumulative-annual-intensity-and-Atlantic-sea-surface-temperatures.png)/ [view data source](http://wind.mit.edu/~emanuel/Papers_data_graphics.htm) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Relationship-between-Atlantic-tropical-storm-cumulative-annual-intensity-and-Atlantic-sea-surface-temperatures-1024x657-1024x657.png")
 ```
 
-
 Because warm air is able to hold more water than cold air, the general global trend over the past century has been one of increasing precipitation (Figure \@ref(fig:figure-16-45)). Note that this does not mean that precipitation has increased everywhere in the world. It means that even taking into account regions that have become drier, there is still more precipitation over all.
-
 
 ```{r figure-16-45, fig.cap='Global precipitation from 1901 to 2000. _Source: Karla Panchuk (2018) CC BY 4.0, with data from NASA/GISS. [Get data](https://data.giss.nasa.gov/precip_cru/graphs/)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Global-precipitation.png")
 ```
 
-
 ### Thawing Permafrost
 
-
 Most of northern Canada has a layer of permafrost that ranges from a few centimetres to hundreds of metres in thickness. The same is true in Alaska, Russia, and Scandinavia. One problem that northern communities are currently dealing with is that thawing permafrost is weakening sediments that were previously solid and stable. This can cause structures to settle, or even to sustain serious damage. Another problem with the weakening that occurs when permafrost thaws is that mass wasting can occur (Figure \@ref(fig:figure-16-46)). This is particularly dangerous for northern communities along coastlines, where homes may be near the shore and the slopes beneath them further weakened by strong wave action during severe storms.
-
 
 ```{r figure-16-46, fig.cap='A degrading permafrost site on the north coast of Alaska. _Source: Alaska Science Center, U. S. Geological Survey (2016) Public Domain [view source](https://earthobservatory.nasa.gov/images/87794/picturing-arctic-permafrost)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/degrading-permafrost-site-1024x591-1024x591.jpg")
 ```
 
-
 A longer-term issue with thawing permafrost is that micro-organisms begin to decompose organic matter within the newly thawed sediments, releasing CO~2~ and CH~4~. The amount of these greenhouse gases released by decomposing organic matter could be enough to generate a significant positive feedback, accelerating warming further. In some polar regions, including northern Canada, permafrost also includes methane hydrate, a highly concentrated form of CH~4~ trapped in solid form. Breakdown of permafrost releases this CH~4~ as well.
 
 ### Pests and Disease
 
-
 The geographical ranges of diseases and pests, especially those caused or transmitted by insects, have been shown to extend toward temperate regions because of climate change. West Nile virus and Lyme disease are two examples that already directly affect Canadians, while dengue fever could be an issue in the future. Canadians are also indirectly affected by the increase in populations of pests such as the mountain pine beetle (Figure \@ref(fig:figure-16-47)).
-
 
 ```{r figure-16-47, fig.cap='Mountain pine beetle damage in Manning Park, British Columbia. _Source: Jonhall (2010) CC BY 3.0 [view source](https://commons.wikimedia.org/wiki/File:Pine_Beetle_in_Manning_Park.jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Mountain-pine-beetle-damage-1024x765-1024x765.jpg")
 ```
 
-
 ###### References
 
 Berwyn, B. (2017, 27 March). _Climate Change-Fueled Jet Stream Linked to Brutal Floods and Heatwaves, Says Study_. [View at _Inside Climate News_](https://insideclimatenews.org/news/27032017/climate-change-global-warming-extreme-weather-jet-stream-michael-mann-penn-state)
 
-
-
 Charley, S. (2013, 13 June). _Hurricane Sandy took highly unusual path, but climate change doesn’t get the blame – yet._ [View at GeoSpace](https://blogs.agu.org/geospace/2013/06/03/hurricane-sandy-took-highly-unusual-path-but-climate-change-doesnt-get-the-blame-yet/)
-
-
 
 European Academies’ Science Advisory Council. (2013). _Trends in Extreme Weather Events in Europe: Implications for National and European Union Adaptation Strategies._ Halle (Saale), Germany: German National Academy of Sciences. [Full text](https://easac.eu/publications/details/trends-in-extreme-weather-events-in-europe/)
 
-
-
 European Academies’ Science Advisory Council. (2018). _Extreme weather events in Europe. Preparing for climate change adaptation: An update on EASAC’s 2013 study._ Halle (Saale), Germany: German National Academy of Sciences. [Full text](https://www.knaw.nl/shared/resources/internationaal/bestanden/EASACStatement_Extreme_Weather_EventsMarch2018.pdf)
-
-
 
 Furphy, D. (2013, 28 September). _What on earth is an RCP? A quick guide to carbon dioxide emissions scenarios used by the IPCC Assessment Report 5._ [View at _Medium_](https://medium.com/@davidfurphy/what-on-earth-is-an-rcp-bbb206ddee26)
 
-
-
 Intergovernmental Panel on Climate Change. (2013). _Summary for Policymakers. In: Climate Change 2013: The Physical Science Basis. __Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change _[Stocker,T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. [Full text](https://www.ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_SPM_FINAL.pdf)
 
-
-
 Scott, M. (2011, 6 April). _Heavy Rains and Dry Lands Don’t Mix: Reflections on the 2010 Pakistan Flood_. [View at _Earth Observatory_](https://earthobservatory.nasa.gov/Features/PakistanFloods)
-
-
 
 World Meteorological Organization. (2014). _Atlas of Mortality and Economic Losses from Weather, Climate, and Water Extremes (1970-2012)_. Geneva, Switzerland: World Meteorological Association. [Full text](https://public.wmo.int/en/resources/library/atlas-mortality-and-economic-losses-weather-and-climate-extremes-1970-2012)
 
 <div></div>
 <div><cite> </cite></div>
-
 
 ## Summary
 
@@ -1047,36 +803,29 @@ The topics covered in this chapter can be summarized as follows:
 
 ###  What Is the Earth System?
 
-
 Viewing Earth as a system allows us to take into account the complex ways in which the atmosphere, hydrosphere, biosphere, and lithosphere interact. Positive feedbacks amplify changes in the Earth system, and negative feedbacks reduce them. The stability of the Earth system will depend on what feedbacks are available. The presence of ice sheets makes the Earth system less stable.
 
 ###  Causes of Climate Change
-
 
 Weather describes day-to-day conditions, but climate refers to the long-term average conditions over decades or longer. Climate forcings alter climate. They include processes that change the rate and location of solar energy reaching Earth’s surface; processes that alter how ocean currents move heat around Earth’s surface; and processes that affect how heat moves into and out of the atmosphere. Climate forcings operate on a range of timescales, from billions of years to less than a decade. Changes in greenhouse gas concentrations and albedo are two climate forcings affected by human activities.
 
 ###  Methods for Studying Past Climate
 
-
 Climate conditions for some of human history can be determined from direct measurements that have been recorded, but for studying paleoclimate it is often necessary to use proxy data. Proxy data come from natural materials that behave in a systematic way in response to climate conditions like temperature or precipitation. Proxies include tree ring data, stable isotopes, measurements of gas bubbles trapped in ice, and the geographic distribution of rocks and fossils.
 
 ###  Computer Models of the Earth System
-
 
 Earth-system models use mathematical equations to simulate Earth-system processes. Models are set up and checked using real-life measurements. Model uncertainty is a number that tells us the likelihood that a particular model result falls within a certain range of values. It is a way to evaluate whether results can be used to draw meaningful conclusions.
 
 ###  Humans in the Earth System
 
-
 Data show recognizable anthropogenic influence on the Earth system beginning when humans began to use fossil fuels for industrial purposes. CO~2~ in the atmosphere has the isotopic fingerprints of fossil fuels. The flow of anthropogenic carbon into the Earth system is relatively small compared to some natural flows, but natural processes do not remove all of what humans put in, causing CO~2~ to accumulate in the atmosphere.
 
 ###  Welcome to the Anthropocene
 
-
 Humans today are experiencing the results of past human influence on the Earth system, and humans in the future will experience the results of decisions made today. The main source of radiative forcing is anthropogenic CO~2~. Humans are already experiencing extreme climate events related to warming. The best-case projected warming scenario will stabilize global average temperatures at ~1ºC above 1996 temperatures by the end of the century, but this will require a peak in anthropogenic CO~2~ emissions by 2020, and an end to anthropogenic CO~2~ emissions by 2080.
 
 #### Review Questions
-
 
 <ol>
  	<li>If you receive positive feedback on a project, this means someone says you did a good job. Does this mean a positive feedback in the climate system is also something good? Explain.</li>
@@ -1095,7 +844,6 @@ Humans today are experiencing the results of past human influence on the Earth s
  	<li>What evidence suggests that increasingly intense tropical storms can be expected as climate warms?</li>
  	<li>What are the potential impacts of thawing permafrost?</li>
 </ol>
-
 
 ## Answers to Chapter  Review Questions
 

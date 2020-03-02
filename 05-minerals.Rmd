@@ -406,7 +406,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04
 
 The following criteria are required for mineral crystals to grow:
 
-
 - The elements needed to make the mineral crystals must be present in sufficient abundance and appropriate proportions.
 - The physical and chemical conditions must be favourable.
 - There must be sufficient time for the atoms to become arranged into a lattice.
