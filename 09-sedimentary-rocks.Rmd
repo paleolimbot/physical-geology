@@ -89,9 +89,6 @@ Figure \@ref(fig:figure-9-7) shows thin sections^[Thin sections are slivers of r
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/sandstones-2-1024x301.png")
 ```
 
-<div>
-<div>
-
 #### Fine-Grained Clastic Rocks
 
 Rock composed of at least 75% silt- and clay-sized clasts is called __mudrock__ (Figure \@ref(fig:figure-9-5), bottom row). If a mudrock shows evidence of fine layers (laminations) and breaks into sheets, it is called __shale__. Otherwise, it is __siltstone__ (dominated by silt), __mudstone__ (a mix of silt and clay), or __claystone__ (dominated by clay). The fine-grained nature of mudrocks tells us that they form in very low energy environments, such as lakes, flood plains, and the deep ocean.
@@ -100,33 +97,18 @@ Rock composed of at least 75% silt- and clay-sized clasts is called __mudrock__ 
 
 ##### Exercise: Classifying Sandstones {-}
 
-Use Figures 9.6 and 9.7 to give the appropriate name to the sandstone in each of the magnified thin sections shown below.
+Use Figures \@ref(fig:figure-9-6) and \@ref(fig:figure-9-7) to give the appropriate name to the sandstone in each of the magnified thin sections shown below.
 
-<table class="aligncenter" style="border-collapse: collapse;width: 68.4324%;height: 228px">
-<tbody>
-<tr>
-<td style="width: 50%">
-
-```{r figure-9-8a, fig.cap='Sandstone 1. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/thin-2.jpg)_'}
+```{r figure-9-8a, fig.cap='Sandstone 1. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/thin-2.jpg)_', out.width="45%"}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Exercise-6.2.2.png")
 ```
 
-</td>
-<td style="width: 50%">
-
-```{r figure-9-8b, fig.cap='Sandstone 2. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/thin-3.jpg)_'}
+```{r figure-9-8b, fig.cap='Sandstone 2. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/thin-3.jpg)_', out.width="45%"}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Exercise-6.2.3.png")
 ```
 
-</td>
-</tr>
-<tr>
-<td style="width: 50%">Sandstone 1. Rounded sand-sized grains are approximately 99% quartz and 1% feldspar. Silt and clay make up less than 2% of the rock.</td>
-<td style="width: 50%">Sandstone 2. Angular sand-sized grains are approximately 70% quartz, 20% lithic fragments, and 10% feldspar. Silt and clay make up ~20% of the rock.</td>
-</tr>
-</tbody>
-</table>
-
+- Sandstone 1: Rounded sand-sized grains are approximately 99% quartz and 1% feldspar. Silt and clay make up less than 2% of the rock.
+- Sandstone 2: Angular sand-sized grains are approximately 70% quartz, 20% lithic fragments, and 10% feldspar. Silt and clay make up ~20% of the rock.
 
 </div>
 
@@ -135,9 +117,6 @@ Clastic sediments are deposited in a wide range of environments, including from 
 ### Sediment Maturity
 
 Maturity in sediments refers to the extent to which sediment characteristics reflect prolonged weathering and transport. Prolonged weathering and transport cause clasts to become smaller, rounder, and more well-sorted. It removes minerals that are more susceptible to weathering, such as feldspar, leaving a sediment consisting predominantly of quartz or clay. On the spectrum of sediment maturity, quartz sandstone or shale would be mature sedimentary rocks, and wacke or conglomerate would be an immature rocks.
-
-</div>
-</div>
 
 ## Chemical and Biochemical Sedimentary Rocks
 
@@ -266,123 +245,64 @@ Sediments accumulate in a wide variety of environments, both on the continents a
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/sediments.png")
 ```
 
-Tables 9.1 and 9.2 provide a summary of the processes and sediment types that pertain to the various depositional environments illustrated in Figure \@ref(fig:figure-9-19). The types of sediments that accumulate in these environments are examined in more detail in the last section of this chapter.
-<table style="border-collapse: collapse;width: 100%;height: 216px" border="1">
-<tbody>
-<tr style="height: 18px">
-<td style="width: 25%;height: 18px" colspan="4">__Table 9.1 Terrestrial Depositional Environments__</td>
-</tr>
-<tr style="height: 18px">
-<th style="width: 25%;height: 18px">Environment</th>
-<th style="width: 25%;height: 18px">Key Transport Processes</th>
-<th style="width: 25%;height: 18px">Depositional Settings</th>
-<th style="width: 25%;height: 18px">Typical Sediments</th>
-</tr>
-<tr style="height: 36px">
-<td style="width: 25%;height: 36px">Glacial</td>
-<td style="width: 25%;height: 36px">Gravity, moving ice, moving water</td>
-<td style="width: 25%;height: 36px">Valleys, plains, streams, lakes</td>
-<td style="width: 25%;height: 36px">Glacial till, gravel, sand, silt, clay</td>
-</tr>
-<tr style="height: 36px">
-<td style="width: 25%;height: 36px">Alluvial</td>
-<td style="width: 25%;height: 36px">Gravity, moving water</td>
-<td style="width: 25%;height: 36px">Where steep-sided valleys meet plains</td>
-<td style="width: 25%;height: 36px">Coarse angular fragments</td>
-</tr>
-<tr style="height: 36px">
-<td style="width: 25%;height: 36px">Fluvial</td>
-<td style="width: 25%;height: 36px">Moving water</td>
-<td style="width: 25%;height: 36px">Streams</td>
-<td style="width: 25%;height: 36px">Gravel, sand, silt, organic matter</td>
-</tr>
-<tr style="height: 18px">
-<td style="width: 25%;height: 18px">Aeolian</td>
-<td style="width: 25%;height: 18px">Wind</td>
-<td style="width: 25%;height: 18px">Deserts and coastal regions</td>
-<td style="width: 25%;height: 18px">Sand, silt</td>
-</tr>
-<tr style="height: 18px">
-<td style="width: 25%;height: 18px">Lacustrine</td>
-<td style="width: 25%;height: 18px">Moving Water</td>
-<td style="width: 25%;height: 18px">Lakes</td>
-<td style="width: 25%;height: 18px">Sand, silt, clay, organic matter</td>
-</tr>
-<tr style="height: 18px">
-<td style="width: 25%;height: 18px">Evaporite</td>
-<td style="width: 25%;height: 18px">Still water</td>
-<td style="width: 25%;height: 18px">Lakes in arid regions</td>
-<td style="width: 25%;height: 18px">Salts, clay</td>
-</tr>
-<tr style="height: 18px">
-<td style="width: 25%;height: 18px" colspan="4">_Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/chapter/6-3-depositional-environments-and-sedimentary-basins/)._</td>
-</tr>
-</tbody>
-</table>
-<table border="1">
-<tbody>
-<tr>
-<td colspan="4">__Table 9.2 Marine Depositional Environments__</td>
-</tr>
-<tr>
-<th>Environment</th>
-<th>Key Transport Processes</th>
-<th>Depositional Settings</th>
-<th>Typical Sediments</th>
-</tr>
-<tr>
-<td>Deltaic</td>
-<td>Moving water</td>
-<td>Deltas</td>
-<td>Sand, silt, clay, organic matter</td>
-</tr>
-<tr>
-<td>Beach</td>
-<td>Waves, long-shore currents</td>
-<td>Beaches, spits, sand bars</td>
-<td>Gravel, sand</td>
-</tr>
-<tr>
-<td>Tidal</td>
-<td>Tidal currents</td>
-<td>Tidal flats</td>
-<td>Fine-grained sand, silt, clay</td>
-</tr>
-<tr>
-<td>Reef</td>
-<td>Waves, tidal currents</td>
-<td>Reefs and adjacent basins</td>
-<td>Carbonates</td>
-</tr>
-<tr>
-<td>Shallow marine</td>
-<td>Waves, tidal currents</td>
-<td>Shelves, slopes, lagoons</td>
-<td>Carbonates in tropical climates; sand/silt/clay elsewhere.</td>
-</tr>
-<tr>
-<td>Lagoonal</td>
-<td>Little transportation</td>
-<td>Lagoon bottom</td>
-<td>Carbonates in tropical climates, silt, clay</td>
-</tr>
-<tr>
-<td>Submarine fan</td>
-<td>Underwater gravity flows</td>
-<td>Continental slopes, abyssal plains</td>
-<td>Gravel, sand, silt, clay</td>
-</tr>
-<tr>
-<td>Deep water</td>
-<td>Ocean currents</td>
-<td>Deep-ocean abyssal plains</td>
-<td>Clay, carbonate mud, silica mud</td>
-</tr>
-<tr>
-<td colspan="4">_Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/chapter/6-3-depositional-environments-and-sedimentary-basins/)._</td>
-</tr>
-</tbody>
-</table>
+Tables \@ref(tab:table-9-1) and \@ref(tab:table-9-2) provide a summary of the processes and sediment types that pertain to the various depositional environments illustrated in Figure \@ref(fig:figure-9-19). The types of sediments that accumulate in these environments are examined in more detail in the last section of this chapter.
+
+Table 9.1 Terrestrial Depositional Environments. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/chapter/6-3-depositional-environments-and-sedimentary-basins/)._
+
+```{r table-9-1}
+tibble::tibble(
+  Environment = c(
+    "Glacial", "Alluvial", "Fluvial",
+    "Aeolian", "Lacustrine", "Evaporite"
+  ),
+  `Key Transport Processes` = c(
+    "Gravity, moving ice, moving water", "Gravity, moving water", 
+    "Moving water", "Wind", "Moving Water",
+    "Still water"
+  ), `Depositional Settings` = c(
+    "Valleys, plains, streams, lakes", "Where steep-sided valleys meet plains", "Streams", 
+    "Deserts and coastal regions", "Lakes", "Lakes in arid regions"
+  ),
+  `Typical Sediments` = c(
+    "Glacial till, gravel, sand, silt, clay", "Coarse angular fragments", "Gravel, sand, silt, organic matter",
+    "Sand, silt", "Sand, silt, clay, organic matter", "Salts, clay"
+  )
+) %>% 
+  knitr::kable(
+    caption = "Terrestrial Depositional Environments. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/chapter/6-3-depositional-environments-and-sedimentary-basins/)._"
+  )
+```
+
+```{r table-9-2}
+
+tibble::tibble(
+  Environment = c(
+    "Deltaic", "Beach", 
+    "Tidal", "Reef", "Shallow marine", 
+    "Lagoonal", "Submarine fan", "Deep water"
+  ),
+
+  `Key Transport Processes` = c(
+    "Moving water", "Waves, long-shore currents",
+    "Tidal currents", "Waves, tidal currents", "Waves, tidal currents",
+    "Little transportation", "Underwater gravity flows", "Ocean currents"
+  ),
+  `Depositional Settings` = c(
+    "Deltas", "Beaches, spits, sand bars",
+    "Tidal flats", "Reefs and adjacent basins", "Shelves, slopes, lagoons",
+    "Lagoon bottom", "Continental slopes, abyssal plains", "Deep-ocean abyssal plains"
+  ),
+  `Typical Sediments` = c(
+    "Sand, silt, clay, organic matter", "Gravel, sand", 
+    "Fine-grained sand, silt, clay",  "Carbonates", "Carbonates in tropical climates; sand/silt/clay elsewhere.",
+    "Carbonates in tropical climates, silt, clay", "Gravel, sand, silt, clay", "Clay, carbonate mud, silica mud"
+  )
+) %>% 
+  knitr::kable(
+    caption = "Marine Depositional Environments _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/chapter/6-3-depositional-environments-and-sedimentary-basins/)._"
+  )
+```
+
 Most of the sediments that you might see around you, including talus on steep slopes, sand bars in streams, or gravel in road cuts, will never become sedimentary rocks. This is because they have only been deposited relatively recently — perhaps a few centuries or millennia ago — and will be re-eroded before they are buried deep enough beneath other sediments to be lithified. In order for sediments to be preserved long enough to be turned into rock (a process that takes millions or tens of millions of years) they need to have been deposited in a basin in which sediments can be preserved for that long. Most such basins are formed by plate tectonic processes (Figure \@ref(fig:figure-9-21)).
 
 ```{r figure-9-21, fig.cap='Some types of tectonically produced basins: (a) trench basin, (b) forearc basin, (c) foreland basin, and (d) rift basin. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/basins.png)_'}
@@ -489,94 +409,47 @@ The sedimentary rocks of the Nanaimo Group on Vancouver Island provide a useful 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Upper-Cretaceous-Nanaimo-Group-rocks.png")
 ```
 
-The Nanaimo Group is divided into 11 formations (Table 9.3). In general, the boundaries between formations are based on major lithological differences. A wide range of depositional environments existed during the accumulation of the Nanaimo Group rocks, from nearshore marine for the Comox and Haslam Formation; to fluvial and deltaic with backwater swampy environments for the coal-bearing Extension, Pender, and Protection Formations; to a deep-water submarine fan environment for the upper six formations. The differences in the depositional environments are probably a product of variations in tectonic-related uplift over time.
-<table border="1">
-<tbody>
-<tr>
-<td colspan="4"><strong>Table 9.3 Nanaimo Group Formations
-</strong></td>
-</tr>
-<tr>
-<th>Age (Ma)</th>
-<th>Formation</th>
-<th>Lithologies</th>
-<th>Depositional Environmemt</th>
-</tr>
-<tr>
-<td>~65-66</td>
-<td>Gabriola</td>
-<td>Sandstone with minor mudstone</td>
-<td>Submarine fan, high energy</td>
-</tr>
-<tr>
-<td>~66-67</td>
-<td>Spray</td>
-<td>Mudstone/ sandstone turbidites</td>
-<td>Submarine fan, low energy</td>
-</tr>
-<tr>
-<td>~67-68</td>
-<td>Geoffrey</td>
-<td>Sandstone and conglomerate</td>
-<td>Submarine fan, high energy</td>
-</tr>
-<tr>
-<td>~68-70</td>
-<td>Northumberland</td>
-<td>Mudstone turbidites</td>
-<td>Submarine fan, low energy</td>
-</tr>
-<tr>
-<td>~70</td>
-<td>De Courcy</td>
-<td>Sandstone</td>
-<td>Submarine fan, high energy</td>
-</tr>
-<tr>
-<td>~70-72</td>
-<td>Cedar District</td>
-<td>Mudstone turbidites</td>
-<td>Submarine fan, low energy</td>
-</tr>
-<tr>
-<td>~72-75</td>
-<td>Protection</td>
-<td>Sandstone and minor coal</td>
-<td>Nearshore marine and onshore deltaic and fluvial</td>
-</tr>
-<tr>
-<td>~75-80</td>
-<td>Pender</td>
-<td>Sandstone and minor coal</td>
-<td>Nearshore marine and onshore deltaic and fluvial</td>
-</tr>
-<tr>
-<td>~80</td>
-<td>Extension</td>
-<td>Conglomerate, with minor sandstone and some coal</td>
-<td>Nearshore marine and onshore deltaic and fluvial</td>
-</tr>
-<tr>
-<td>~80-85</td>
-<td>Haslam</td>
-<td>Mudstone and siltstone</td>
-<td>Shallow marine</td>
-</tr>
-<tr>
-<td>~85-90</td>
-<td>Comox</td>
-<td>Conglomerate, sandstone, mudstone (coal in the Campbell River area)</td>
-<td>Nearshore fluvial and marine</td>
-</tr>
-<tr>
-<td colspan="4"><em>Source: Steven Earle, with data from Mustard (1994)
-</em></td>
-</tr>
-</tbody>
-</table>
+The Nanaimo Group is divided into 11 formations (Table \@ref(tab:table-9-3)). In general, the boundaries between formations are based on major lithological differences. A wide range of depositional environments existed during the accumulation of the Nanaimo Group rocks, from nearshore marine for the Comox and Haslam Formation; to fluvial and deltaic with backwater swampy environments for the coal-bearing Extension, Pender, and Protection Formations; to a deep-water submarine fan environment for the upper six formations. The differences in the depositional environments are probably a product of variations in tectonic-related uplift over time.
+
+```{r table-9-3}
+tibble::tibble(
+  `Age (Ma)` = c(
+    "~65-66", "~66-67", "~67-68", "~68-70",
+    "~70", "~70-72", "~72-75", "~75-80", "~80", "~80-85", "~85-90"
+  ),
+  Formation = c(
+    "Gabriola", "Spray",
+    "Geoffrey", "Northumberland", 
+    "De Courcy", "Cedar District",
+    "Protection", "Pender",
+    "Extension", "Haslam", 
+    "Comox"
+  ),
+  Lithologies = c(
+    "Sandstone with minor mudstone", "Mudstone/ sandstone turbidites",
+    "Sandstone and conglomerate", "Mudstone turbidites", 
+    "Sandstone", "Mudstone turbidites", 
+    "Sandstone and minor coal", "Sandstone and minor coal",
+    "Conglomerate, with minor sandstone and some coal",  "Mudstone and siltstone", 
+    "Conglomerate, sandstone, mudstone (coal in the Campbell River area)"
+  ),
+  `Depositional Environmemt` = c(
+    "Submarine fan, high energy", "Submarine fan, low energy", 
+    "Submarine fan, high energy", "Submarine fan, low energy",
+    "Submarine fan, high energy", "Submarine fan, low energy", 
+    "Nearshore marine and onshore deltaic and fluvial", "Nearshore marine and onshore deltaic and fluvial", 
+    "Nearshore marine and onshore deltaic and fluvial", "Shallow marine",
+    "Nearshore fluvial and marine"
+  )
+) %>% 
+  knitr::kable(
+    caption = "Nanaimo Group Formations. _Source: Steven Earle, with data from Mustard (1994)_"
+  )
+```
+
 The five lower formations of the Nanaimo Group are all exposed in the Nanaimo area, and were well studied during the coal-mining era between 1850 and 1950. With the exception of the Haslam formation, they were divided into members, because that was useful for understanding the rocks in the areas where coal was mined.
 
-There is much variety in the Nanaimo Group rocks, and it would take hundreds of photographs to illustrate all of the different types of rocks. Nevertheless, a few representative examples are shown in Figures 9.30-9.32.
+There is much variety in the Nanaimo Group rocks, and it would take hundreds of photographs to illustrate all of the different types of rocks. Nevertheless, a few representative examples are shown in Figures \@ref(fig:figure-9-30), \@ref(fig:figure-9-31), and \@ref(fig:figure-9-32).
 
 ```{r figure-9-30, fig.cap='Nanaimo Group, Spray Formation. Turbidite layers on Gabriola Island. Each turbidite set consists of a lower sandstone layer (light colour) that grades upward into siltstone, and then into mudstone. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Turbidite-layers.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Turbidite-layers.png")
