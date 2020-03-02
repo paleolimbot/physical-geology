@@ -136,64 +136,52 @@ One other process that can weaken a body of rock or sediment is shaking. The mos
 
 While we do not classify slope failures by the shape of the rupture surface, it is nevertheless an important feature used to describe mass wasting processes. The __rupture surface__ is the boundary between the slope and the sliding material. Slope failures with curved rupture surfaces are called __rotational slope failures__, and slope failures with planar rupture surfaces are called __translational slope failures.__
 
-Unfortunately, classifying slope failure is not as simple as the classification scheme above suggests__.__ Many slope failures involve more than one type of motion, and often it is not easy to tell how the material moved. The types of slope failure that are covered in this chapter are summarized in Table 15.1.
-<table style="height: 561px;width: 433px">
-<tbody>
-<tr>
-<td>__Failure Type__</td>
-<td>__Type of Material__</td>
-<td>__Type of Motion__</td>
-<td>__Rate of Motion__</td>
-</tr>
-<tr>
-<td>__Rock fall__</td>
-<td>Rock fragments</td>
-<td>Vertical or near-vertical fall (plus bouncing in many cases)</td>
-<td>Very fast (&gt;10s m/s)</td>
-</tr>
-<tr>
-<td>__Rock slide__</td>
-<td>A large rock body</td>
-<td>Motion as a unit along a planar surface (translational sliding)</td>
-<td>Typically very slow (mm/y to cm/y), but some can be faster</td>
-</tr>
-<tr>
-<td>__Rock avalanche__</td>
-<td>A large rock body that slides and then breaks into small fragments</td>
-<td>Flow (at high speeds, the mass of rock fragments is suspended on a cushion of air)</td>
-<td>Very fast (&gt;10s m/s)</td>
-</tr>
-<tr>
-<td>__Creep__ __or solifluction__</td>
-<td>Soil or other overburden; in some cases, mixed with ice</td>
-<td>Flow (although sliding motion may also occur)</td>
-<td>Very slow (mm/y to cm/y)</td>
-</tr>
-<tr>
-<td>__Slump__</td>
-<td>Thick deposits (m to 10s of m) of unconsolidated sediment</td>
-<td>Motion as a unit along a curved surface (rotational sliding)</td>
-<td>Slow (cm/y to m/y)</td>
-</tr>
-<tr>
-<td>__Mudflow__</td>
-<td>Loose sediment with a significant component of silt and clay</td>
-<td>Flow (a mixture of sediment and water moves down a channel)</td>
-<td>Moderate to fast (cm/s to m/s)</td>
-</tr>
-<tr>
-<td>__Debris flow __</td>
-<td>Sand, gravel, and larger fragments</td>
-<td>Flow (similar to a mudflow, but typically faster)</td>
-<td>Fast (m/s)</td>
-</tr>
-</tbody>
-</table>
-__Table 15.1__ | Classification of slope failures based on type of material and motion. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _
+Unfortunately, classifying slope failure is not as simple as the classification scheme above suggests__.__ Many slope failures involve more than one type of motion, and often it is not easy to tell how the material moved. The types of slope failure that are covered in this chapter are summarized in Table \@ref(tab:table-15-1).
+
+```{r table-15-1}
+tibble::tibble(
+  `Failure Type` = c(
+    "__Rock fall__", 
+    "__Rock slide__",
+    "__Rock avalanche__", 
+    "__Creep__ or __solifluction__", 
+    "__Slump__",
+    "__Mudflow__", 
+    "__Debris flow __"
+  ),
+  `Type of Material` = c(
+    "Rock fragments",
+    "A large rock body", "A large rock body that slides and then breaks into small fragments",
+    "Soil or other overburden; in some cases, mixed with ice", "Thick deposits (m to 10s of m) of unconsolidated sediment",
+    "Loose sediment with a significant component of silt and clay",
+    "Sand, gravel, and larger fragments"
+  ), 
+  `Type of Motion` = c(
+    "Vertical or near-vertical fall (plus bouncing in many cases)",
+    "Motion as a unit along a planar surface (translational sliding)",
+    "Flow (at high speeds, the mass of rock fragments is suspended on a cushion of air)",
+    "Flow (although sliding motion may also occur)", 
+    "Motion as a unit along a curved surface (rotational sliding)",
+    "Flow (a mixture of sediment and water moves down a channel)",
+    "Flow (similar to a mudflow, but typically faster)"
+  ),
+  `Rate of Motion` = c(
+    "Very fast (>10s m/s)",
+    "Typically very slow (mm/y to cm/y), but some can be faster",
+    "Very fast (>10s m/s)", 
+    "Very slow (mm/y to cm/y)", 
+    "Slow (cm/y to m/y)",
+    "Moderate to fast (cm/s to m/s)", "Fast (m/s)"
+  )
+) %>% 
+  knitr::kable(
+    caption = "Classification of slope failures based on type of material and motion. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/)_"
+  )
+```
 
 ### Rock Fall
 
-Rock fragments can break off relatively easily from steep bedrock slopes, most commonly due to frost-wedging. If you ever hike along a steep mountain trail on a cool morning, you will probably hear the occasional fall of rock fragments onto a __talus slope.__ Water in the cracks in the rock freezes and expands overnight, and this can break the rock apart. When the ice thaws in the morning sun, some of these broken fragments will fall to the slope below (Figure \@ref(fig:figure-15-7)). __Talus slopes form from this fallen rock, forming slopes at the angle of repose below high rock walls (Figure \@ref(fig:figure-15-8), left)____.__ They are also known as scree slopes.____
+Rock fragments can break off relatively easily from steep bedrock slopes, most commonly due to frost-wedging. If you ever hike along a steep mountain trail on a cool morning, you will probably hear the occasional fall of rock fragments onto a __talus slope.__ Water in the cracks in the rock freezes and expands overnight, and this can break the rock apart. When the ice thaws in the morning sun, some of these broken fragments will fall to the slope below (Figure \@ref(fig:figure-15-7)). Talus slopes form from this fallen rock, forming slopes at the angle of repose below high rock walls (Figure \@ref(fig:figure-15-8), left). They are also known as scree slopes.
 
 ```{r figure-15-7, fig.cap='| The contribution of freeze-thaw to a rock fall. _Source: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/contribution-of-freeze-thaw-to-rock-fall.png")
@@ -285,21 +273,12 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 These four photos show some of the different types of slope failures described above. Try to identify each and provide some criteria to support your choice.
 
-<table>
-<tbody>
-<tr>
-<td> [<img class="wp-image-1284 alignnone" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures1.jpg" alt="Classifying Slope Failures1" width="227" height="181" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures1.jpg)</td>
-<td>[<img class="wp-image-1285 alignnone" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures2.jpg" alt="Classifying Slope Failures2" width="226" height="190" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures2.jpg)</td>
-</tr>
-<tr>
-<td>__ [<img class="alignnone wp-image-1286" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures3.jpg" alt="Classifying Slope Failures3" width="228" height="188" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures3.jpg)__</td>
-<td><strong> [<img class="wp-image-1287 alignnone" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures4.jpg" alt="Classifying Slope Failures4" width="220" height="186" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Classifying-Slope-Failures4.jpg)
-</strong></td>
-</tr>
-</tbody>
-</table>
-
-_Source of images: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/) _
+```{r, out.width="50%", fig.cap="_Source of images: Steven Earle (2015) CC BY 4.0. [View source](https://opentextbc.ca/geology/)_"}
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures1.jpg")
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures2.jpg")
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures3.jpg")
+knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Classifying-Slope-Failures4.jpg")
+```
 
 </div>
 
@@ -410,15 +389,14 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 2. In the diagrams shown here, a road cut is constructed in sedimentary rock with well-developed bedding. On the left, draw in the orientation of the bedding that would represent the greatest likelihood of slope failure. On the right, show the orientation that would represent the least likelihood of slope failure.
 
-<table style="width: 632px">
-<tbody>
-<tr>
-<td style="width: 299.5px">[<img class="aligncenter wp-image-1296" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/a-road-cut-.png" alt="a road cut" width="300" height="192" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/a-road-cut-.png)</td>
-<td style="width: 299.483px">[<img class="aligncenter wp-image-1296" src="https://openpress.usask.ca/app/uploads/sites/29/2017/05/a-road-cut-.png" alt="a road cut" width="300" height="192" />](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/a-road-cut-.png)</td>
-</tr>
-</tbody>
-</table>
-Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geology/)
+```{r, out.width="50%", fig.cap="Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geology/)"}
+knitr::include_graphics(
+  c(
+    "https://openpress.usask.ca/app/uploads/sites/29/2017/05/a-road-cut-.png",
+    "https://openpress.usask.ca/app/uploads/sites/29/2017/05/a-road-cut-.png"
+  )
+)
+```
 
 3. Explain why moist sand is typically stronger than either dry sand or saturated sand.
 
