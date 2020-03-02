@@ -196,11 +196,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 
 At many ARD sites, the pH of the runoff water is less than 4 (very acidic). Under these conditions, metals such as copper, zinc, and lead easily dissolve in water, which can be toxic to aquatic life and other organisms. For many years, the river downstream from the Mt. Washington Mine had so much dissolved copper in it that it was toxic to salmon. Remediation work has since been carried out at the mine and the situation has improved.
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title" style="text-align: center">Exercise: Chemical Weathering</p>
+<div class="textbox textbox--exercises">
 
-</header>
-<div class="textbox__content">
+##### Exercise: Chemical Weathering {-}
+
 
 For each of the following reactions, indicate which chemical weathering process—dissolution, hydrolysis, hydration, or oxidation—is the primary mechanism.
 
@@ -210,7 +209,7 @@ For each of the following reactions, indicate which chemical weathering process�
 1. Olivine → serpentine
 1. Pyroxene → iron oxide
 1. Anhydrite → gypsum
-</div>
+
 </div>
 
 ## Controls on Weathering Processes and Rates
@@ -313,16 +312,11 @@ __Rounding__ refers to whether clasts have sharp edges and corners or not (Figur
 
 __Sphericity__ describes whether a grain is elongate or not. Grains that are longer than they are wide (like an ellipse) have low sphericity, whereas grains that have the same diameter no matter where you measure it (like a sphere) have high sphericity. In the bottom row of boxes in Figure \@ref(fig:figure-8-19) the grains at the top of each box exhibit high sphericity, and the grains at the bottom exhibit low sphericity. Notice that a grain can be angular but still have high sphericity. It can be rounded, but still have low sphericity. Sphericity also increases the further the sediments are from their source.
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title" style="text-align: center">Exercise: Looking at Sand</p>
+<div class="textbox textbox--exercises">
 
-</header>
-<div class="textbox__content">
-<div>
+##### Exercise: Looking at Sand {-}
 
 Three samples of sand are shown below. Read the descriptions of what they contain and where they are from, then describe each sample in terms of grain size, sorting, rounding, and sphericity.
-
-</div>
 
 ```{r figure-8-20, fig.cap='Three examples of sand grains. _Source: Steven Earle (2016) CC BY 4.0 View sources: [Sample A](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image039.jpg)[, Sample B](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image041.jpg), [Sample C](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image043.jpg)._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/sand_examples.png")
@@ -334,7 +328,6 @@ Sample B: Quartz and rock fragments from a glacial stream deposit near Osoyoos, 
 
 Sample C: Grains of olivine (green) and volcanic glass (black) from a beach on the big island of Hawai'i. The grains are approximately 1 mm in diameter.
 
-</div>
 </div>
 
 ## Weathering and Soil Formation
@@ -517,13 +510,12 @@ __Organic soils__ form in areas with poor drainage and a rich supply of organic 
 
 In the permafrost regions of the north, where glacial retreat was most recent, the time available for soil formation has been short and the rate of soil formation slow. The soils are called __cryosols__ (the _cryo_ prefix is used to indicate extreme cold). In permafrost areas, the freeze-thaw process churns the soil, resulting in limited soil horizon development.
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title" style="text-align: center">Exercise: Soils of Canada</p>
+<div class="textbox textbox--exercises">
 
-</header>
-<div class="textbox__content">
+##### Exercise: Soils of Canada {-}
 
 Examine Figure \@ref(fig:figure-8-26) showing the distribution of soils in Canada, or use the interactive map by clicking on the figure. For each of the five soils types listed below, briefly describe the distribution. Explain the distribution based on what you know about the conditions under which the soil forms and the variations in climate and vegetation related to it.
+
 <table border="1">
 <tbody>
 <tr>
@@ -560,11 +552,10 @@ Examine Figure \@ref(fig:figure-8-26) showing the distribution of soils in Canad
 </table>
 
 </div>
-</div>
 
-###### Resources
+##### Resources {-}
 
-<p style="padding-left: 30px">[Soils of Canada](http://www.soilsofcanada.ca/) (University of Saskatchewan)</p>
+[Soils of Canada](http://www.soilsofcanada.ca/) (University of Saskatchewan)
 
 [Soil Classification: Soil Orders of Canada](http://soilweb.landfood.ubc.ca/classification/) Watch videos about each soil order.
 

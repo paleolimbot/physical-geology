@@ -77,19 +77,17 @@ In both experiments, parts of the clay became elongated in a particular directio
 
 Water is the main fluid present within rocks of the crust, and the only one considered here. The presence of water is important for two main reasons. First, water facilitates the transfer of ions between minerals and within minerals, and therefore increases the rates at which metamorphic reactions take place. This speeds the process up so metamorphism might occur more rapidly, or metamorphic processes that might not otherwise have had time to be completed are completed.
 
-Secondly, water—especially hot water—can have elevated concentrations of dissolved substances, making it an important medium for moving ions from one place to another within the crust. Processes facilitated by hot water are called __hydrothermal__ processes (_hydro_ refers to water, and _thermal_ refers to heat)<em>.
-</em>
+Secondly, water—especially hot water—can have elevated concentrations of dissolved substances, making it an important medium for moving ions from one place to another within the crust. Processes facilitated by hot water are called __hydrothermal__ processes (_hydro_ refers to water, and _thermal_ refers to heat).
 
 ### Time
 
 Most metamorphic reactions occur very slowly. Estimates of the growth rates of new minerals within a rock during metamorphism suggest that new material is added to the outside of mineral crystals at a rate of approximately 1 mm per million years. Very slow reaction rates make it difficult to study metamorphic processes in a lab.
 
 While the rate of metamorphism is slow, the tectonic processes that lead to metamorphism are also very slow, so there is a good chance that metamorphic reactions will be completed. For example, an important setting for metamorphism is many kilometres deep within the roots of mountain ranges. A mountain range takes tens of millions of years to form, and tens of millions of years more to be eroded to the extent that we can see the rocks that were metamorphosed deep beneath it.
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title" style="text-align: center">Exercise: How Long Did It Take?</p>
 
-</header>
-<div class="textbox__content">
+<div class="textbox textbox--exercises">
+
+##### Exercise: How Long Did It Take? {-}
 
 The large reddish crystals in Figure \@ref(fig:figure-10-5) are garnet, and the surrounding light coloured rock is dominated by muscovite mica. The Euro coin is 23 mm in diameter. Assume that the diameters of the garnets increased at a rate of 1 mm per million years. Based on the approximate average diameter of the garnets visible, estimate how long this metamorphic process might have taken.
 
@@ -97,7 +95,6 @@ The large reddish crystals in Figure \@ref(fig:figure-10-5) are garnet, and the 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/garnet_schist_Churchard-1024x768.jpg")
 ```
 
-</div>
 </div>
 
 ## Foliation and Rock Cleavage
@@ -269,11 +266,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 ```
 
 The answer to the ptygmatic fold mystery is that the folded layer is much stiffer than the surrounding layers. When squeezing forces act on the rock, the stiff layer buckles but the surrounding rock flows rather than buckling, because it isn't strong enough to buckle.
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title" style="text-align: center">Exercise: Naming Metamorphic Rocks</p>
 
-</header>
-<div class="textbox__content">
+<div class="textbox textbox--exercises">
+
+##### Exercise: Naming Metamorphic Rocks {-}
 
 Which metamorphic rock is described in each of the following?
 
@@ -281,7 +277,7 @@ Which metamorphic rock is described in each of the following?
 1. A very hard rock with a granular appearance and a glassy lustre. There is no evidence of foliation.
 1. A fine-grained rock that splits into wavy sheets. The surfaces of the sheets have a sheen to them.
 1. A rock that is dominated by aligned crystals of amphibole.
-</div>
+
 </div>
 
 ## Types of Metamorphism and Where They Occur
@@ -407,10 +403,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 ```
 
 One other line to notice in Figure \@ref(fig:figure-10-35) is the red dashed line on the right-hand side of the figure. This line represents temperatures and pressures where granite will begin to melt if there is water present. Migmatite is to the right of the line because it forms when some of the minerals in a metamorphic rock begin to melt, and then cool and crystallize again.
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<h3 class="textbox__title" style="text-align: center"><span style="color: #ffffff">Exercise: Metamorphic Rocks In Areas with Higher Geothermal Gradients</span></h3>
-</header>
-<div class="textbox__content">Figure \@ref(fig:figure-10-35) shows the types of rock that might form from mudrock at various points along the curve of the "typical" geothermal gradient (dotted green line). Looking at the geothermal gradient for volcanic regions (dotted yellow line), estimate the depths at which you would expect to find each of those rocks forming from a mudrock parent.</div>
+
+<div class="textbox textbox--exercises">
+
+##### Exercise: Metamorphic Rocks In Areas with Higher Geothermal Gradients {-}
+
+Figure \@ref(fig:figure-10-35) shows the types of rock that might form from mudrock at various points along the curve of the "typical" geothermal gradient (dotted green line). Looking at the geothermal gradient for volcanic regions (dotted yellow line), estimate the depths at which you would expect to find each of those rocks forming from a mudrock parent.
+
 </div>
 
 ### Index Minerals
@@ -442,10 +441,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 ```
 
 Building a narrative for the metamorphism in Nova Scotia’s Meguma Terrane is just one example of how index minerals can be used.
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<h3 class="textbox__title" style="text-align: center"><span style="color: #ffffff">Exercise: Scottish Metamorphic Zones</span></h3>
-</header>
-<div class="textbox__content">
+
+<div class="textbox textbox--exercises">
+
+##### Exercise: Scottish Metamorphic Zones {-}
 
 The map in Figure \@ref(fig:figure-10-40) shows part of western Scotland between the Great Glen Fault and the Highland Boundary Fault. The shaded areas are metamorphic rock, and the three metamorphic zones represented are garnet, chlorite, and biotite.
 
@@ -457,7 +456,6 @@ British Geologist George Barrow studied this area in the 1890s and was the first
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image031-300x298.png")
 ```
 
-</div>
 </div>
 
 ## Metamorphic Hydrothermal Processes and Metasomatism
@@ -484,10 +482,9 @@ A special type of metasomatism takes place where a hot pluton intrudes into carb
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image037-1024x871.jpg")
 ```
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<h3 class="textbox__title" style="text-align: center"><span style="color: #ffffff">Exercise: Contact Metamorphism and Metasomatism</span></h3>
-</header>
-<div class="textbox__content">
+<div class="textbox textbox--exercises">
+
+##### Exercise: Contact Metamorphism and Metasomatism {-}
 
 A pluton that has intruded into a series of sedimentary rocks, including sandstone, mudstone, and limestone (Figure \@ref(fig:figure-10-44)). What types of metamorphic rocks would you expect to see at locations a, b, and c?
 
@@ -495,7 +492,6 @@ A pluton that has intruded into a series of sedimentary rocks, including sandsto
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image038.png")
 ```
 
-</div>
 </div>
 
 ## Summary

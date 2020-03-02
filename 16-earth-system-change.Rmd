@@ -276,11 +276,9 @@ Consider the following:
 - Summarize the kinds of observations that show signals of present-day climate change.
 - Describe the current and projected state of the Earth system in the Anthropocene Epoch.
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title" style="text-align: center">Exercise: Albedo Impacts of Vegetation Changes</p>
+<div class="textbox textbox--exercises">
 
-</header>
-<div class="textbox__content">
+##### Exercise: Albedo Impacts of Vegetation Changes {-}
 
 Changes in climate can cause forests to be replaced by grasslands, which have higher albedo than dark forest cover. If deserts expand, vegetated areas can be replaced by higher-albedo sand. Many human activities affect albedo, including adding urban surfaces to an environment, and planting crops. Figure \@ref(fig:figure-16-20) shows a forest that has been clear-cut. If a clear-cut has an albedo similar to that of sand, how would clear cutting change the albedo of the area?
 
@@ -290,7 +288,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 
 Note that trees cool their environment through transpiration, when they release water vapour from their leaves. Changes in local temperatures when trees are clear-cut also include the effects of reduced evaporative cooling. Changes in vegetative cover also affect the rates of CO~2~ uptake by plants.
 
-</div>
 </div>
 
 #### Greenhouse Gases (GHGs)
@@ -324,11 +321,13 @@ The ocean takes up heat from the atmosphere, and thus helps to determine surface
 Volcanic eruptions don’t just involve lava flows and exploding rock fragments. Eruptions also release particles and gases into the atmosphere. Important volcanic gases include water vapour, CO~2~, and sulphur dioxide (SO~2~). Volcanic CO~2~ emissions can contribute to climate warming if a greater-than-average level of volcanism is sustained over a long time. At the end of the Permian Period, the massive Siberian Traps were produced by eruptions lasting at least a million years. Large quantities of CO~2~ were released, warming the climate and triggering a cascade of Earth-system responses. The end of the Permian Period at 252 Ma is marked by the greatest mass extinction in Earth history.
 
 Over the shorter term, however, volcanic eruptions can have the opposite effect, cooling the climate. SO~2~ reacts with water in the atmosphere to make droplets of sulphuric acid. The sulphuric acid droplets scatter sunlight, reducing how much of the sun’s energy can reach Earth’s surface. They also affect cloud formation. The volcanic cooling effect is relatively short-lived, because the particles settle out of the atmosphere within a few years.
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title" style="text-align: center">Exercise: Climate Change at the end of the Cretaceous Period</p>
 
-</header>
-<div class="textbox__content">The large extraterrestrial impact at the end of the Cretaceous Period 66 Ma ago is thought to have produced a massive amount of dust, which may have remained in the atmosphere for several years. It may also have produced a great deal of CO~2~. What do you think would have been the short-term and longer-term climate-forcing implications of these two factors?</div>
+<div class="textbox textbox--exercises">
+
+##### Exercise: Climate Change at the end of the Cretaceous Period {-}
+
+The large extraterrestrial impact at the end of the Cretaceous Period 66 Ma ago is thought to have produced a massive amount of dust, which may have remained in the atmosphere for several years. It may also have produced a great deal of CO~2~. What do you think would have been the short-term and longer-term climate-forcing implications of these two factors?
+
 </div>
 
 ## Methods for Studying Past Climate

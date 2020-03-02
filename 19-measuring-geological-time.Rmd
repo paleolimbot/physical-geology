@@ -102,11 +102,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 The __principle of baked contacts__ states that the heat of an intrusion will bake (metamorphose) the rocks in close proximity to the intrusion. Hence the presence of a baked contact indicates the intrusion is younger than the rocks around it. If an intrusive igneous rock is exposed via erosion, then later buried by sediments, the surrounding rocks will _not_ be baked, as the intrusion was already cold at the time of sediment deposition. But baked contacts may be difficult to discern, or may be minimally developed to absent when the intrusive rocks are low in volume or felsic (relatively cool) in composition.
 
 The__ principle of chilled margins__ states that the portion of an intrusion that has cooled and crystallized next to cold surrounding rock will form smaller crystals than the portion of the intrusion that cooled more slowly deeper in the instrusion, which will form larger crystals. Smaller crystals generally appear darker in colour than larger crystals, so a chilled margin appears as a darkening of the intrusive rock towards the surrounding rock. This principle can be used to distinguish between an igneous sill, which will have a chilled margin at top and bottom, and a subaerial lava flow, which will have a chilled margin only at the bottom.
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: Cross-Cutting Relationships</p>
 
-</header>
-<div class="textbox__content">
+<div class="textbox textbox--exercises">
+
+##### Exercise: Cross-Cutting Relationships {-}
 
 The outcrop in Figure \@ref(fig:figure-19-9) has three main rock types:
 
@@ -121,7 +120,6 @@ Note: The near-vertical stripes are blasting drill holes. The image is about 7 m
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/outcrop.jpg")
 ```
 
-</div>
 </div>
 
 ### Unconformities
@@ -142,11 +140,9 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/unconformities-1024x667.png")
 ```
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: Relative Dating with Unconformities</p>
+<div class="textbox textbox--exercises">
 
-</header>
-<div class="textbox__content">
+##### Exercise: Relative Dating with Unconformities {-}
 
 1. The surfaces G and H in Figure \@ref(fig:figure-19-12) are unconformities. What kind?
 1. If erosion at the surface stopped and sediments were deposited once again, what kind of unconformity would exist between the layer I and younger rocks?
@@ -156,7 +152,6 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/relative_dating_2nd.png")
 ```
 
-</div>
 </div>
 
 ## Dating Rocks Using Fossils
@@ -197,11 +192,9 @@ Foraminifera—small, calcium carbonate-shelled marine organisms that originated
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/foraminifera-1024x455.png")
 ```
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: Dating Rocks Using Index Fossils</p>
+<div class="textbox textbox--exercises">
 
-</header>
-<div class="textbox__content">
+##### Exercise: Dating Rocks Using Index Fossils {-}
 
 Figure \@ref(fig:figure-19-17) shows the age ranges for some late Cretaceous inoceramid clams in the genus _Mytiloides_. Using the bracketing method described above, determine the possible age range of a rock in which all five of these organisms were found.
 
@@ -211,10 +204,6 @@ How would the age range change if _M. subhercynius_ were not present in the rock
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Cretaceous-inoceramid-clams.png")
 ```
 
-<div>
-
-</div>
-</div>
 </div>
 
 ### Correlation
@@ -264,11 +253,10 @@ A more robust mineral to use to date certain types of igneous and metamorphic ro
 When we employ isotopic methods on minerals we are measuring an __age date__. Generally, an age date refers to the time since a mineral crystallized from molten rock (magma or lava). This is when the elements that make up the mineral get locked into the mineral's structure. But as we have already seen, elevated temperatures can cause elements to escape from a mineral, without the mineral melting. Hence when we date a mineral, we may be dating the time since the mineral crystallized from a melt, _or_ the time since the mineral last experienced a period of heating above its __Curie point__, which is the temperature beyond which the mineral is able to lose (or gain) elements from its structure, without melting. So we have to know something about the rock before we forge ahead to measure an age. We may choose a mineral and isotope pair that are very resistant to metamorphism, so that we can "see through" the metamorphism, and determine the original age that the mineral crystallized from a melt. Or we may be interested in the age of the metamorphic event itself, so choose a mineral and isotope pair that is susceptible to resetting the isotopic clock during metamorphism (such as by losing all of the daughter isotope).
 
 Absolute age dating is a powerful tool for unraveling the geological history of a region, but we have seen that we must ultimately rely upon igneous rocks (that may have later metamorphosed) for the minerals that we are able to date (see the next section for issues with dating sedimentary rocks directly). Another issue with absolute age dating is that it is expensive, with a single analysis costing several hundreds of dollars. Hence geologists never forget their relative age dating principles, and are always applying them in the field to determine the sequence of events that formed the rocks in a region.
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: Combining Absolute Ages with Relative Dating</p>
 
-</header>
-<div class="textbox__content">
+<div class="textbox textbox--exercises">
+
+##### Exercise: Combining Absolute Ages with Relative Dating {-}
 
 The age dates for three igneous rock layers are given. Use relative dating techniques to determine the age ranges for the sets of sedimentary units A, B, and C.
 
@@ -276,9 +264,6 @@ The age dates for three igneous rock layers are given. Use relative dating techn
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Absolute-and-relative-dating-1024x881.png")
 ```
 
-##### [h5p id="1"]
-
-</div>
 </div>
 
 ### Isotope Dating Techniques and Sedimentary Rocks
@@ -299,19 +284,16 @@ Radiocarbon dating (using ^14^C) can be applied to many geological materials, in
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Radiocarbon.png")
 ```
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: Radiometric Dating with Potassium-Argon</p>
+<div class="textbox textbox--exercises">
 
-</header>
-<div class="textbox__content">
+##### Exercise: Radiometric Dating with Potassium-Argon {-}
 
-<a id="exercise"></a>Assume that a feldspar crystal from the granite shown in Figure \@ref(fig:figure-19-19) was analyzed for ^40^K and ^40^Ar. The proportion of ^40^K remaining is 0.91. Using the decay curve shown on this graph, estimate the age of the rock. An example is provided (in blue) for a ^40^K proportion of 0.95, which is equivalent to an age of approximately 96 Ma. This is determined by drawing a horizontal line from 0.95 to the decay curve line, and then a vertical line from there to the time axis.
+Assume that a feldspar crystal from the granite shown in Figure \@ref(fig:figure-19-19) was analyzed for ^40^K and ^40^Ar. The proportion of ^40^K remaining is 0.91. Using the decay curve shown on this graph, estimate the age of the rock. An example is provided (in blue) for a ^40^K proportion of 0.95, which is equivalent to an age of approximately 96 Ma. This is determined by drawing a horizontal line from 0.95 to the decay curve line, and then a vertical line from there to the time axis.
 
 ```{r figure-19-23, fig.cap='Decay curve for potassium-argon dating. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2016/07/decay-curve.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/decay-curve.png")
 ```
 
-</div>
 </div>
 
 ## Other Dating Methods
@@ -354,11 +336,9 @@ __Magnetic chronology__ can be used as a dating technique because we can measure
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/pattern-of-magnetism.png")
 ```
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: Magnetic Dating</p>
+<div class="textbox textbox--exercises">
 
-</header>
-<div class="textbox__content">
+##### Exercise: Magnetic Dating {-}
 
 The fact that magnetic intervals can only be either _normal_ or _reversed_ places significant limits on the applicability of magnetic dating. If we find a rock with normal magnetism, we can’t know which normal magnetic interval it represents, unless we have some other information.
 
@@ -366,9 +346,6 @@ Using Figure \@ref(fig:figure-19-26) for reference, determine the age of a rock 
 
 How old is a rock that is limited to 2.6 to 3.2 Ma by fossils, and which has reversed magnetic polarity?
 
-[h5p id="3"]
-
-</div>
 </div>
 
 ## Understanding Geological Time
@@ -382,11 +359,10 @@ Another reason is to understand issues like extinction of endangered species, an
 One way to wrap your mind around geological time is to put it into the perspective of single year. At this rate, each hour of the year is equivalent to approximately 500,000 years, and each day is equivalent to 12.5 million years. If all of geological time is compressed down into a single year, Earth formed on January 1, and the first life forms evolved in late March (~3,500 Ma). The first multicellular life forms appeared on November 13 (~600 Ma), plants appeared on land on November 24, and amphibians on December 3. Reptiles evolved from amphibians during the first week of December, and dinosaurs and early mammals evolved by December 13. Non-avian dinosaurs, which survived for 160 million years, went extinct on Boxing Day (December 26). The Pleistocene glaciation began at ~6:30 p.m. on New Year’s Eve, and the last glacial ice melted from southern Canada by 11:59 p.m.
 
 It is worth repeating: on this time scale, the earliest ancestors of the animals and plants with which we are familiar did not appear on Earth until mid-November, the dinosaurs disappeared after Christmas, and most of Canada was periodically locked in ice from 6:30 to 11:59 p.m. on New Year’s Eve. As for people, the first to inhabit Canada arrived about one minute before midnight.
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: What Happened on Your Birthday?</p>
 
-</header>
-<div class="textbox__content">
+<div class="textbox textbox--exercises">
+
+##### Exercise: What Happened on Your Birthday? {-}
 
 Using the "all of geological time compressed to one year" concept, determine the geological date that is equivalent to your birthday. First, [go here ](http://mistupid.com/calendar/dayofyear.htm)to find out which day of the year your birth date is. Divide that number by 365, and multiply that number by 4,570 to determine the time (in millions since the _beginning_ of geological time). Subtract that number from 4,570 to determine the date back from the present.
 
@@ -394,7 +370,6 @@ Example: April Fool’s Day (April 1) is day 91 of the year: 91/365 = 0.2493. 0.
 
 Finally, go to the Foundation for Global Community’s [Walk through Time website](http://www.globalcommunity.org/wtt/walk_menu/) to find out what was happening on your day. The nearest date to 3,377 Ma is 3,400 Ma.
 
-</div>
 </div>
 
 ## Summary

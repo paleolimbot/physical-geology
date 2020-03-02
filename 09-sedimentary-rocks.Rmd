@@ -95,13 +95,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08
 #### Fine-Grained Clastic Rocks
 
 Rock composed of at least 75% silt- and clay-sized clasts is called __mudrock__ (Figure \@ref(fig:figure-9-5), bottom row). If a mudrock shows evidence of fine layers (laminations) and breaks into sheets, it is called __shale__. Otherwise, it is __siltstone__ (dominated by silt), __mudstone__ (a mix of silt and clay), or __claystone__ (dominated by clay). The fine-grained nature of mudrocks tells us that they form in very low energy environments, such as lakes, flood plains, and the deep ocean.
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: Classifying Sandstones</p>
 
-</header>
-<div class="textbox__content">
+<div class="textbox textbox--exercises">
+
+##### Exercise: Classifying Sandstones {-}
 
 Use Figures 9.6 and 9.7 to give the appropriate name to the sandstone in each of the magnified thin sections shown below.
+
 <table class="aligncenter" style="border-collapse: collapse;width: 68.4324%;height: 228px">
 <tbody>
 <tr>
@@ -126,8 +126,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 </tr>
 </tbody>
 </table>
+
+
 </div>
-</div>
+
 Clastic sediments are deposited in a wide range of environments, including from melting glaciers, slope failures, rivers (both fast and slow flowing), lakes, deltas, and ocean environments (both shallow and deep). Depending on the grain size in particular, they may eventually form into rocks ranging from mudstone to breccia and conglomerate. By examining clastic sedimentary rocks it is possible to translate the classification you have just learned into an interpretation of the environment in which the rocks were deposited.
 
 ### Sediment Maturity
@@ -203,47 +205,28 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 ### Banded Iron Formations (BIFs)
 
-<div>
-<div>
-
 Some ancient chert beds — most dating to between 1800 and 2400 Ma — are also part of a rock known as a __banded iron formation (BIF)__. It is a deep sea-floor deposit of iron oxide that is a common ore of iron. These rocks consist of alternating layers of dark iron oxide minerals (magnetite and hematite) and chert stained red by hematite (Figure \@ref(fig:figure-9-15)).
-
-</div>
 
 ```{r figure-9-15, fig.cap='An example of a banded iron formation with dark iron oxide layers interspersed with chert stained red by hematite. This rock is 2.1 billion years old. _Source: Andre Karwath CC BY-SA (2005) [view source](https://commons.wikimedia.org/wiki/File:Black-band_ironstone_(aka).jpg)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/1280px-Black-band_ironstone_aka-1024x737.jpg")
 ```
 
-</div>
-<div>
-
 BIFs formed before Earth's atmosphere was fully oxygenated. At that time, seawater contained abundant soluble ferrous iron (Fe^2+^). However, once cyanobacteria began releasing oxygen into the atmosphere as a byproduct of photosynthesis, the iron in the seawater reacted with the oxygen, turning it into insoluble ferric iron (Fe^3+^). The result was that iron oxide minerals precipitated and sank to the ocean floor. The prevalence of BIFs in rocks dating from 2400 to 1800 Ma reflects a time when free oxygen was being added to the atmosphere, but removed just as quickly by chemical reactions. After 1800 Ma, little dissolved iron was left in the oceans so no more BIFs formed.
 
 ### Evaporites
 
-<div>
-
 In arid regions, lakes and inland seas typically have no stream outlet, and the water that flows into them is removed only by evaporation. Under these conditions, the water becomes increasingly concentrated with dissolved salts, and eventually some of these salts may reach saturation levels and start to crystallize (Figure \@ref(fig:figure-9-16)).
-
-</div>
-</div>
 
 ```{r figure-9-16, fig.cap='Spotted Lake, near Osoyoos, BC. This photo was taken in May when the water was relatively fresh because of winter rains. By the end of the summer the surface of this lake is typically fully encrusted with salt deposits. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Spotted-Lake.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Spotted-Lake.png")
 ```
 
-<div>
-<div>
-
 Although all evaporite deposits are unique because of differences in the chemistry of the water, in most cases minor amounts of carbonates start to precipitate when the solution is reduced to about 50% of its original volume. Gypsum (CaSO~4~·H~2~O) precipitates at about 20% of the original volume, and halite (NaCl) precipitates at 10%. Other important evaporite minerals include sylvite (KCl) and borax (Na~2~B~4~O~7~·10H~2~O). Sylvite is mined as potash at numerous locations across Saskatchewan from evaporites that formed during the Devonian (~385 Ma) when an inland sea occupied much of the region.
 
-</div>
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: Making Evaporite</p>
 
-</header>
-<div class="textbox__content">
-<div>
+<div class="textbox textbox--exercises">
+
+##### Exercise: Making Evaporite {-}
 
 This is an easy experiment that you can do at home. Pour about 50 mL (just less than 1/4 cup) of very hot water into a cup and add 2 teaspoons (10 mL) of salt. Stir until all or almost all of the salt has dissolved, then pour the salty water (leaving any undissolved salt behind) into a shallow wide dish or a small plate. Leave it to evaporate for a few days and observe the result. It may look a little like the Figure \@ref(fig:figure-9-17) These crystals are up to ~3 mm in diameter.
 
@@ -251,10 +234,6 @@ This is an easy experiment that you can do at home. Pour about 50 mL (just less 
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Evaporite.png")
 ```
 
-</div>
-
-</div>
-</div>
 </div>
 
 ## Organic Sedimentary Rocks
@@ -473,11 +452,9 @@ The various structures described above are critical to understanding and interpr
 
 Fossils are not covered in detail in this book, but they are extremely important for understanding sedimentary rocks. Fossils can be used to date sedimentary rocks, but just as importantly, they tell us a great deal about the depositional environment of the sediments and the climate at the time: they can help to differentiate marine, aquatic, and terrestrial environments; estimate the depth of the water; detect the existence of currents; and estimate average temperature and precipitation.
 
-<div class="textbox textbox--exercises"><header class="textbox__header">
-<p class="textbox__title">Exercise: Interpreting Past Environments</p>
+<div class="textbox textbox--exercises">
 
-</header>
-<div class="textbox__content">
+##### Exercise: Interpreting Past Environments {-}
 
 Sedimentary rocks can tell us a great deal about the environmental conditions that existed during the time of their formation. For each of the following rocks, make some inferences about the following:
 
@@ -494,7 +471,6 @@ __Conglomerate:__ well-rounded pebbles and cobbles of granite and basalt; imbric
 
 __Breccia:__ poorly sorted, angular limestone fragments; orange-red matrix
 
-</div>
 </div>
 
 ## Groups, Formations, and Members
