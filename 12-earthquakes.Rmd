@@ -647,27 +647,27 @@ Province of British Columbia (2017). Seismic Mitigation Program Progress Report.
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 12.1 What Is an Earthquake?
+###  What Is an Earthquake?
 
 
 An earthquake is the shaking that results when a deformed body of rock snaps back to its original shape. The rupture is initiated at a point but quickly spreads across the area of a fault, with aftershocks initiated by stress transfer. Episodic tremor and slip is a periodic slow movement, accompanied by harmonic tremors, along the middle part of a subduction zone boundary.
 
-##### 12.2 Measuring Earthquakes
+###  Measuring Earthquakes
 
 
 Earthquakes produce seismic waves that can be measured by a seismograph. The amplitudes of seismic waves are used to determine the amount of energy released by an earthquake- its magnitude. For the moment magnitude scale used today, the amount of energy released by an earthquake is proportional to the size of the rupture surface, the amount of displacement, and the strength of the rock. Intensity is a measure of the amount of shaking that occurs, and damage done at locations that experience an earthquake. Intensity will vary depending on the distance to the epicentre, the depth of the earthquake, and the type of geological materials present.
 
-##### 12.3 Earthquakes and Plate Tectonics
+###  Earthquakes and Plate Tectonics
 
 
 Most earthquakes happen at or near plate boundaries. Along divergent and transform boundaries earthquakes are shallow (less than 30 km depth), but at convergent boundaries they can be hundreds of kilometers beneath the surface. The largest earthquakes happen when a broad segment of the locked zone of a subduction zone ruptures. Intraplate earthquakes happen away from plate boundaries. They can be caused by human activities, or renewed motion on ancient faults.
 
-##### 12.4 The Impacts of Earthquakes
+###  The Impacts of Earthquakes
 
 
 Damage to buildings is the most serious consequence of most large earthquakes. The amount of damage is related to the type and size of buildings, how they are constructed, and the nature of the material on which they are built. Other important consequences are fires, damage to bridges and highways, slope failures, liquefaction, and tsunami.
 
-##### 12.5 Forecasting Earthquakes and Minimizing Impacts
+###  Forecasting Earthquakes and Minimizing Impacts
 
 
 There is no reliable technology for predicting earthquakes, but the probability of one happening within a certain time period can be forecast. We can minimize earthquake impacts by ensuring that the public is aware of the risk, that building codes are enforced, that existing buildings like schools and hospitals are seismically sound, and that both public and personal emergency plans are in place.

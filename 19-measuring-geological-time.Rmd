@@ -530,33 +530,33 @@ Finally, go to the Foundation for Global Community’s [Walk through Time websit
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 19.1 The Geological Time Scale
+###  The Geological Time Scale
 
 
 The work of William Smith was critical to the establishment of the first geological timescale early in the 19^th^ century, but it wasn’t until the 20^th^ century that geologists were able to assign reliable dates to the various time periods. The geological timescale is now maintained by the International Commission on Stratigraphy. Geological time is divided into eons, eras, periods, and epochs.
 
-##### 19.2 Relative Dating Methods
+###  Relative Dating Methods
 
 
 We can determine the relative ages of different rocks by observing and interpreting relationships among them, such as superposition, cross-cutting, and inclusions. Gaps in the geological record are represented by various types of unconformities.
 
-##### 19.3 Dating Rocks Using Fossils
+###  Dating Rocks Using Fossils
 
 
 <p class="NormalOT">Fossils are useful for dating rocks back to ~600 Ma. If we know the age range of a fossil, we can date the rock in which it is found, but some organisms lived for many millions of years. Index fossils represent shorter geological time spans, and if a rock has several different fossils with known age ranges, we can narrow the time during which the rock formed.</p>
 
 
-##### 19.4 Isotopic Dating Methods
+###  Isotopic Dating Methods
 
 
 Radioactive isotopes decay at constant known rates, and can be used to date igneous and metamorphic rocks. Some commonly used isotope systems are potassium-argon, rubidium-strontium, uranium-lead, and carbon-nitrogen. Radiocarbon dating can be applied to sediments and sedimentary rocks, but only if they are younger than 60 ka, and contain organic material, or minerals of calcium carbonate.
 
-##### 19.5 Other Dating Methods
+###  Other Dating Methods
 
 
 There are many other methods for dating geological materials. Two that are widely used are dendrochronology and magnetic chronology. Dendrochronology, based on studies of tree rings, is widely applied to dating glacial events. Magnetic chronology is based on the known record of Earth’s magnetic field reversals.
 
-##### 19.6 Understanding Geological Time
+###  Understanding Geological Time
 
 
 <p class="NormalOT">While understanding geological time is relatively easy, actually comprehending the significance of the vast amounts of geological time is a great challenge. To be able to solve important geological problems and certain societal challenges, we need to really appreciate the vastness of geological time.</p>

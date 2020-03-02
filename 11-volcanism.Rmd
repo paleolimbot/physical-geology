@@ -821,42 +821,42 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 11.1 What Is A Volcano?
+###  What Is A Volcano?
 
 
 Volcanoes are places where molten rock escapes to Earth's surface. Some volcanoes are cone-shaped or hill-shaped mountains, and some eruptions happen along fissures. Eruptions are fed by a magma chamber beneath the volcano. Sometimes a volcano collapses into empty space in the magma chamber beneath, forming a caldera.
 
-##### 11.2 Materials Produced by Volcanic Eruptions
+###  Materials Produced by Volcanic Eruptions
 
 
 Volcanoes produce gas, lava flows, and debris called tephra. The characteristics of a lava flows depend on whether the lava is thin and runny (mafic with low gas content) or thick and sticky (felsic with high gas content). Tephra is classified according to size. Ash is less than 2 mm in diameter, lapilli is between 2 mm and 64 mm, and blocks and bombs are larger than 64 mm.
 
-##### 11.3 Types of Volcanoes
+###  Types of Volcanoes
 
 
 Cinder cones are relatively small straight-sided volcanoes that are composed mostly of mafic rock fragments. Composite volcanoes consist of alternating layers of lava flows and tephra. The tend to be intermediate to felsic in composition, and get steeper toward the top. Shield volcanoes are broad, low, hill-like volcanoes that form from layers of low-viscosity mafic lava.
 
-##### 11.4 Types of Volcanic Eruptions
+###  Types of Volcanic Eruptions
 
 
 Volcanic eruptions can be classified according to how explosive they are, and how high into the atmosphere they blast material. Hawai'ian eruptions are relatively gentle effusive eruptions of low-viscosity mafic lava, and form shield volcanoes. Strombolian eruptions are more vigorous eruptions of mafic tephra. They blast material hundreds of metres into the air. The tephra falls out of the atmosphere to form a cinder cone. Vulcanian eruptions are explosive eruptions of intermediate composition lava, producing pyroclastic flows and eruptive columns from 5 to 10 km high. Plinian eruptions are highly explosive eruptions of felsic lava, and can produce eruption columns up to 45 km high. Both Vulcanian and Plinian eruptions are associated with composite volcanoes. Hydrovolcanic eruptions are the explosive result of magma or lava interacting with water, and rapidly changing the water to steam.
 
-##### 11.5 Plate Tectonics and Volcanism
+###  Plate Tectonics and Volcanism
 
 
 Volcanism is closely related to plate tectonics. Most volcanoes are associated with convergent plate boundaries (at subduction zones), but a great deal of volcanic activity also occurs at divergent boundaries and areas of continental rifting. At convergent boundaries magma is formed where water from a subducting plate acts as a flux to lower the melting temperature of the adjacent mantle rock. At divergent boundaries magma forms because of decompression melting. Decompression melting also takes place within a mantle plume.
 
-##### 11.6 Volcanic Hazards
+###  Volcanic Hazards
 
 
 Most direct volcanic hazards are related to volcanoes that erupt explosively, especially composite volcanoes. Pyroclastic flows, some as hot as 1000 ˚C, can move at hundreds of km/h and will kill anything in the way. Lahars, volcano-related mudflows, can be large enough to destroy entire towns.  Lava flows are also destructive, but tend to move slowly enough to permit people to get to safety. Indirect hazards claim far more lives than direct hazards, and include famine related to volcanically-induced climate cooling.
 
-##### 11.7 Monitoring Volcanoes and Predicting Eruptions
+###  Monitoring Volcanoes and Predicting Eruptions
 
 
 Clues that a volcanic eruption might soon occur include earthquakes, a change in the type and amount of gases released, and changes in the shape of the volcano as magma moves within it. Volcanoes are monitored using seismometers to detect earthquakes, volcanic gases are sampled and analyzed, and instruments are used to detect deformation of the volcano. These tools make it possible to assess the hazard posed by a given volcano, and the risk of eruption.
 
-##### 11.8 Volcanoes in British Columbia
+###  Volcanoes in British Columbia
 
 
 British Columbia and the Yukon Territory include examples of volcanoes that form as a result of fluid-induced melting along a subduction zone (the Wrangell and Garibaldi volcanic belts) , as a result of decompression where the crust is thinning and stretching (Stikine Volcanic Belt and Wells Gray-Clearwater Volcanic Field), and because of mantle plume activity (Anahim Volcanic Belt).

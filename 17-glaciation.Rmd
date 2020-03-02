@@ -483,23 +483,23 @@ Lisiecki, L. E., and M. E. Raymo (2005). A Pliocene-Pleistocene stack of 57 glob
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 17.1 Types of Glaciers
+###  Types of Glaciers
 
 
 The two main types of glaciers are continental glaciers, which are very large and cover large parts of continents (e.g. the Antarctic Ice Sheet), and alpine glaciers, which occupy mountainous regions. Ice accumulates at higher elevations — above the equilibrium line — where the snow that falls in winter does not all melt in summer. In continental glaciers, ice flows outward from where it is thickest. In alpine glaciers, ice also flows from thicker to thinner regions in the glacier, obeying the law of gravity. At depth in glacier ice, flow occurs through internal deformation, but glaciers that have liquid water at their base can also flow by basal sliding. Crevasses form in the rigid surface ice in places where the lower plastic ice is changing flow rate or shape as it moves over the underlying topography.
 
-##### 17.2 Glacial Erosion
+###  Glacial Erosion
 
 
 Glaciers are important agents of erosion. Continental glaciers tend to erode land surface into flat plains, while alpine glaciers create a wide variety of different erosional features. The key feature of alpine glacial erosion is the U-shaped valley. Arêtes are sharp ridges that form between two valleys, and horns form where a mountain is glacially eroded on at least three sides. Since tributary glaciers do not erode as deeply as main-valley glaciers, hanging valleys exist where the two meet. On a smaller scale, both types of glaciers form roche moutonnées, d glacial grooves, and striae.
 
-##### 17.3 Glacial Deposits
+###  Glacial Deposits
 
 
 <p class="NormalOT"><span lang="EN-US">Glacial deposits form as materials are transported and deposited in a variety of different ways in a glacial environment. Sediments that are moved and deposited directly by ice are known as till. Till deposits left at the edges of the glacier as it recedes are known as moraines. Till can also form features such as drumlins (oval-shaped elongated hills) and kettle lakes. Glaciofluvial sediments are deposited by glacial streams, either forming eskers or large proglacial plains known as sandurs. Glaciolacustrine and glaciomarine sediments originate within glaciers and are deposited in lakes and oceans, respectively.</span></p>
 
 
-##### 17.4 Glaciations over Earth's History
+###  Glaciations over Earth's History
 
 
 <p class="NormalOT"><span lang="EN-US">There have been many glaciations in Earth’s past, the oldest known starting about 2.4 Ga. The late Proterozoic “Snowball Earth” glaciations were thought to be sufficiently intense to affect the entire planet. The Pleistocene Glaciation was a series of glacial events over the past 2.85 Ma. The periodicity of glaciations in the Pleistocene is related to subtle changes in Earth’s orbital characteristics (Milankovitch cycles), which are exaggerated by positive climate feedback processes. North America was most recently glaciated during the Wisconsinan Glaciation, from 150-50 ka. </span></p>

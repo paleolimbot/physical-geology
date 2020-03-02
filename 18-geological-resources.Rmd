@@ -463,27 +463,27 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The main topics of this chapter can be summarized as follows:
 
-##### 18.1 If You Can't Grow It, You Have To Mine It
+###  If You Can't Grow It, You Have To Mine It
 
 
 Geological resources are critical to our way of life and important to the Canadian economy. Gold, iron, copper, nickel, and potash are Canada’s most valuable mined commodities.
 
-##### 18.2 Metal Deposits
+###  Metal Deposits
 
 
 The proportions of metals in mineral deposits are typically several thousand times higher than those in average rocks, and special processes are required to extract the valuable content. Some deposits form through processes within a magma chamber, others during volcanism or adjacent to a stock, and some are related to sedimentary processes. Mining involves both surface and underground methods, but in either case, rock is brought to surface that can react with water and oxygen to produce acid rock drainage and metal contamination.
 
-##### 18.3 Industrial Materials
+###  Industrial Materials
 
 
 Non-metallic materials are very important to infrastructure and agriculture. Some of the major industrial minerals include sand and gravel, limestone for cement and agriculture, salt for a range of applications, potash fertilizer, and decorative stone.
 
-##### 18.4 Fossil Fuels
+###  Fossil Fuels
 
 
 The main fossil fuels are coal, oil, and gas. Coal forms on land in wet environments where organic matter can remain submerged and isolated from oxygen for millennia before it is buried by more sediments. The depth of that burial influences the grade of coal produced. Oil and gas originate from organisms living in marine environments, and again, fairly rapid burial is required to preserve the organic matter on the sea floor. At moderate burial depth (2 km to 4 km), oil is produced, and at greater depth, gas is produced. Both oil and gas migrate toward the surface and can be trapped beneath impermeable rock layers in structural features, such as anticlines or faults. Some unconventional fossil fuel resources include oil sands, shale gas, and coal-bed methane.
 
-##### 18.5 Diamonds
+###  Diamonds
 
 
 Diamonds originate in the mantle and are only brought to the surface by the very rare eruption of kimberlitic volcanoes. The relatively recent discovery of diamonds in Canada was based on the exhaustive search for diamond indicator minerals in glacial sediments. There are now six diamond mines in Canada.

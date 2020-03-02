@@ -722,32 +722,32 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 9.1 Clastic Sedimentary Rocks
+###  Clastic Sedimentary Rocks
 
 
 Sedimentary clasts are classified based on their size, and variations in clast size have important implications for transportation and deposition. Clastic sedimentary rocks range from conglomerate to mudstone. Clast size, sorting, composition, and shape are important features that allow us to differentiate clastic rocks and understand the processes that took place during their deposition.
 
-##### 9.2 Chemical and Biochemical Sedimentary Rocks
+###  Chemical and Biochemical Sedimentary Rocks
 
 
 Chemical and biochemical sedimentary rocks form from ions that were transported in solution, and then converted into minerals by chemical and/or biological processes. The most common biochemical rock, limestone, typically forms in shallow tropical marine environments, where biological activity is a very important factor. Chert and banded iron formations can be from deep-ocean environments. Evaporites form where the waters of lakes and inland seas become supersaturated due to evaporation.
 
-##### 9.3 Organic Sedimentary Rocks
+###  Organic Sedimentary Rocks
 
 
 Organic sedimentary rocks contain abundant organic carbon molecules (molecules with carbon-hydrogen bonds). An example is coal, which forms when dead plant material is preserved in stagnant swamp water, and later compressed and heated.
 
-##### 9.4 Depositional Environments and Sedimentary Basins
+###  Depositional Environments and Sedimentary Basins
 
 
 There is a wide range of depositional environments, both on land (including glaciers, lakes, and rivers) and in the ocean (including deltas, reefs, shelves, and the deep-ocean floor). In order to be preserved, sediments must accumulate in sedimentary basins, many of which form through plate-tectonic processes.
 
-##### 9.5 Sedimentary Structures and Fossils
+###  Sedimentary Structures and Fossils
 
 
 The deposition of sedimentary rocks can be described in terms of a series of principles, including original horizontality, superposition, and faunal succession. Sedimentary rocks can also have distinctive structures that are important in determining their depositional environments. Fossils are useful for determining the age of a rock, the depositional environment, and the climate at the time of deposition.
 
-##### 9.6 Groups, Formations, and Members
+###  Groups, Formations, and Members
 
 
 Sedimentary sequences are classified into groups, formations, and members so that they can be mapped easily and without confusion.

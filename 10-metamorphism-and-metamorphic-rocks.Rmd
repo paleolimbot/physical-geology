@@ -665,32 +665,32 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 10.1 Controls on Metamorphic Processes
+###  Controls on Metamorphic Processes
 
 
 Metamorphism is controlled by five main factors: the composition of the parent rock, the temperature to which the rock is heated, the amount and direction of pressure, the volumes and compositions of fluids that are present, and the amount of time available for metamorphic reactions to take place.
 
-##### 10.2 Foliation and Rock Cleavage
+###  Foliation and Rock Cleavage
 
 
 When the pressure acting on a rock is not uniform in all directions, foliation can develop. Foliation may occur in the form of platy or elongated mineral crystals that have grown at right angles to the maximum pressure, or it may develop when crystals or clasts within a rock are deformed. Foliation causes crystals or clasts within a rock to become aligned. When metamorphic rocks break parallel to the direction of foliation, rock cleavage results.
 
-##### 10.3 Classification of Metamorphic Rocks
+###  Classification of Metamorphic Rocks
 
 
 Metamorphic rocks are classified on the basis of texture and mineral composition. Foliation is a key feature of metamorphic rocks formed under directed pressure; foliated metamorphic rocks include slate, phyllite, schist, and gneiss. Metamorphic rocks formed in environments without strong directed pressure include hornfels, marble, and quartzite.
 
-##### 10.4 Types of Metamorphism and Where They Occur
+###  Types of Metamorphism and Where They Occur
 
 
 Almost all regions that experience metamorphism are being acted upon by plate-tectonic processes. Oceanic crustal rock can be metamorphosed near the spreading ridge where it was formed. Regional metamorphism takes place in areas where mountain ranges are forming, which are most common at convergent boundaries. Contact metamorphism takes place around magma bodies in the crust, which are also most common above convergent boundaries. Shock metamorphism happens when extraterrestrial bodies impact Earth, and is unusual among metamorphic processes because it occurs in seconds or minutes, rather than taking millions of years. Dynamic metamorphism occurs when shear stress is applied to rocks, such as along faults.
 
-##### 10.5 Metamorphic Facies and Index Minerals
+###  Metamorphic Facies and Index Minerals
 
 
 Metamorphic facies are groups of metamorphic rocks that form under the same range of pressure and temperature conditions, but from different parent rocks. Geologists use index minerals such as chlorite, garnet, andalusite, and sillimanite to identify metamorphic zones. Index minerals tell us about the pressure and temperature conditions under which metamorphic rocks formed.
 
-##### 10.6 Metamorphic Hydrothermal Processes and Metasomatism
+###  Metamorphic Hydrothermal Processes and Metasomatism
 
 
 Contact metamorphism takes place around magma bodies that have intruded into cool rocks in the crust. Heat from magma is transferred to the surrounding country rock, resulting in mineralogical and textural changes. Hot water from a cooling body of magma, or from convection of groundwater driven by the heat of the pluton, can lead to hydrothermal alteration. When large volumes of fluid are flushed through rocks experiencing metamorphic pressures and temperatures, metasomatism results. Metasomatism can cause valuable metals to accumulate in the surrounding rocks.

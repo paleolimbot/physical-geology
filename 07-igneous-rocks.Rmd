@@ -603,22 +603,22 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 7.1 Magma and How It Forms
+###  Magma and How It Forms
 
 
 Magma is molten rock, and in most cases, it forms from partial melting of existing rock. The chemistry of magma depends on the source rock that is melting, as well as the degree of partial melting that occurs. Magma forms by decompression melting, flux-induced melting, and heat transfer. Magmas range in composition from ultramafic to felsic. Mafic rocks are rich in iron, magnesium, and calcium, and contain approximately 50% silica. Felsic rocks are richer in silica (~70%) and have lower levels of iron, magnesium, and calcium, and higher levels of sodium and potassium than mafic rocks.
 
-##### 7.2 Crystallization of Magma
+###  Crystallization of Magma
 
 
 As a body of magma starts to cool, the first process to take place is the polymerization of silica tetrahedra into chains. This increases the magma’s viscosity (makes it thicker) and because felsic magmas have more silica than mafic magmas, they tend to be more viscous. Bowen's reaction series allows us to predict the order of crystallization of magma as it cools. Magma can be modified by fractional crystallization (separation of early-forming crystals), by mixing in material from the surrounding rocks by partial melting, and by mixing with magmas of differing chemistry.
 
-##### 7.3 Classification of Igneous Rocks
+###  Classification of Igneous Rocks
 
 
 Igneous rocks are classified based on their mineral composition and texture. Felsic igneous rocks have less than 20% dark minerals (ferromagnesian silicates including amphibole and/or biotite) with varying amounts of quartz, both potassium and plagioclase feldspars, and sometimes muscovite. Mafic igneous rocks have more than 50% dark minerals (primarily pyroxene) plus plagioclase feldspar. Most intrusive igneous rocks are phaneritic (individual crystals are visible unmagnified). If there were two stages of cooling (slow then fast), the texture may be porphyritic (large crystals in a matrix of smaller crystals).
 
-##### 7.4 Intrusive Igneous Bodies
+###  Intrusive Igneous Bodies
 
 
 Magma intrudes into country rock by pushing it aside or melting through it. Intrusive igneous bodies tend to be irregular (stocks and batholiths), tabular (dikes and sills), or pipe-like. Batholiths have areas of 100 km^2^ or greater, while stocks are smaller. Sills are parallel to existing layering in the country rock, while dikes cut across layering. A pluton that intruded into cold rock is likely to have a chilled margin.<strong>

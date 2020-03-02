@@ -433,17 +433,17 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 15.1 Factors That Control Stability on Slopes
+###  Factors That Control Stability on Slopes
 
 
 Slope stability is controlled by the slope angle and the strength of the material on the slope. Slopes are a product of tectonic uplift, and their strength is determined by the type of material on the slope and its water content. Rock strength varies widely and is determined by internal planes of weakness and their orientation with respect to the slope. In general, the more water contained by the slope material, the greater the likelihood of failure. This is especially true for unconsolidated sediments, where excess water pushes against the grains. Addition of water is the most common trigger of mass wasting and can come from storms or rapid snow melt.
 
-##### 15.2 Classification of Mass Wasting
+###  Classification of Mass Wasting
 
 
 The key criteria for classifying mass wasting are the nature of the movement that takes place, the type of material, and the speed of the material movement. Mass wasting events can be a precipitous fall of rock through the air, material sliding as a solid mass along either a plane or a curved surface, or internal flow of material as a viscous fluid. The type of material influences the mass movement, specifically whether it is solid rock or unconsolidated sediments. Slope failures can have translational (planar) or rotational (curved) rupture surfaces. The important types of mass wasting are creep, slump, slide, fall, and debris flow or mudflow.
 
-##### 15.3 Preventing, Delaying, and Mitigating Mass Wasting
+###  Preventing, Delaying, and Mitigating Mass Wasting
 
 
 <p class="NormalOT"><span lang="EN-US">We cannot prevent mass wasting, but we can delay it through efforts to strengthen the materials on slopes. Strategies include adding mechanical devices such as rock bolts or ensuring that water in the slope materials can easily drain away. Such measures are never permanent but may be effective for decades or even centuries. We can also avoid practices that make matters worse, such as cutting into steep slopes or impeding proper drainage. In some situations, the best approach is to mitigate the risks associated with mass wasting by constructing shelters or diversionary channels. In other cases, where slope failure is inevitable, we should simply avoid building in that location.</span></p>

@@ -790,37 +790,37 @@ Today, burning fossil fuels is causing an imbalance in the carbon cycle. Burning
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 8.1 Mechanical Weathering
+###  Mechanical Weathering
 
 
 Rocks weather when they are exposed to surface conditions. In most cases, conditions at Earth's surface are very different from the conditions under which the rocks formed. Mechanical weathering processes include exfoliation, freeze-thaw, salt crystallization, and the wedging effects of plant growth.
 
-##### 8.2 Chemical Weathering
+###  Chemical Weathering
 
 
 Chemical weathering takes place when minerals within rocks are not chemically stable in their existing environment. Chemical weathering processes include hydrolysis of silicate minerals to form clay minerals, oxidation of iron in silicate and other minerals to form iron oxide minerals, and dissolution of calcite.
 
-##### 8.3 Controls on Weathering Processes and Rates
+###  Controls on Weathering Processes and Rates
 
 
 Chemical weathering is faster when temperatures are warmer and moisture is present. Physical weathering is more important in regions with frequent freeze-thaw cycles. Weathering rates can depend on the abundance oxygen and carbon, and will vary with the mineral composition of a rock. Weathering accelerates weathering by exposing more surface area to chemical reactions.
 
-##### 8.4 Weathering and Erosion Produce Sediments
+###  Weathering and Erosion Produce Sediments
 
 
 Quartz grains are one of main products of weathering and erosion because quartz is resistant to chemical and mechanical weathering. Clay minerals, iron oxide and iron hydroxide minerals, aluminum hydroxide minerals, and ions in solution are common products of chemical weathering. Particles produced by weathering can be described in terms of their composition, grain size, sorting, rounding, and sphericity.
 
-##### 8.5 Weathering and Soil Formation
+###  Weathering and Soil Formation
 
 
 Soil is a mixture of fine mineral fragments (including quartz and clay minerals), organic matter, and empty spaces that may be partially filled with water. Soil formation is controlled by climate (especially temperature and humidity), the nature of the parent material, the slope (because soil can’t accumulate on steep slopes), and the amount of time available. Typical soils have layers called horizons, which form because of differences in the conditions with depth.
 
-##### 8.6 Soils of Canada
+###  Soils of Canada
 
 
 Canada has a range of soil types related to our unique conditions. The main types of soil form in forested and grassland regions, but there are extensive wetlands in Canada that produce organic soils, and large areas where soil development is poor because of cold conditions.
 
-##### 8.7 Weathering and Climate Change
+###  Weathering and Climate Change
 
 
 The geological component of the carbon cycle affects Earth's climate over the long term by changing atmospheric carbon dioxide levels. Carbon is added to the atmosphere during volcanic eruptions. It is extracted from the atmosphere when silicate minerals are weathered, and when it is transformed into organic matter by plants. Organic matter can be stored in soil, permafrost, and rocks. Burning of fossil fuels involves moving carbon from geological reservoirs to the atmosphere on timescales much faster than the geological carbon cycle operates.

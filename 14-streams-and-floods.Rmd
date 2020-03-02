@@ -504,27 +504,27 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 14.1 The Hydrological Cycle
+###  The Hydrological Cycle
 
 
 Water is stored in the oceans, glacial ice, the ground, lakes, rivers, and the atmosphere. Its movement is powered by solar energy and gravity.
 
-##### 14.2 Drainage Basins
+###  Drainage Basins
 
 
 All of the precipitation that falls within a drainage basin flows into the stream that drains that area. Stream drainage patterns are determined by the type of rock within the basin. Over geological time, streams change the landscape that they flow within, and eventually they become graded, meaning their profile becomes a smooth curve. A stream can lose that gradation if there is renewed uplift or if their base level changes for some other reason such as construction of a dam downstream.
 
-##### 14.3 Stream Erosion and Deposition
+###  Stream Erosion and Deposition
 
 
 The processes of erosion and deposition of particles within streams are primarily driven by the velocity of the stream water. Erosion and deposition of different-sized particles can happen simultaneously in a stream. Some particles are moved along the bottom of a river while others are carried in suspension. It takes a greater velocity of water to erode a particle from a stream bed than it does to keep it in suspension. Ions are also transported in solution. When a stream rises and then occupies its flood plain, the velocity of water over the flood plains slows and natural levees form along the edges of the stream channel.
 
-##### 14.4 Stream Types
+###  Stream Types
 
 
 Youthful streams in steep areas erode most rapidly downwards, and they tend to have steep, rocky, and relatively straight channels. Where sediment-rich streams empty into areas with lower gradients, braided streams can form. Meandering streams are common in areas with even lower gradients where silt and sand are the dominant sediments. Meandering streams erode the walls of their channels more rapidly than the channel base. Deltas form where streams flow into standing water.
 
-##### 14.5 Flooding
+###  Flooding
 
 
 Most streams in Canada have their highest discharge rates in spring and early summer, although the highest discharge in many of BC’s coastal streams is in the winter. Floods happen when a stream rises high enough to spill over its banks and spread across its flood plain. Some of the more significant floods in Canada include the Fraser River flood of 1948, the Saguenay River flood of 1996, the Red River flood of 1997, and the Alberta floods of 2013. We can estimate the probability of a specific flood level based on the record of past floods, and we can take steps to minimize the impacts of flooding such as building floodways to divert excess water and not building in flood-prone areas.

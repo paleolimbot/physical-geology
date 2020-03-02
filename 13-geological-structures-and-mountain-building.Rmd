@@ -525,27 +525,27 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 13.1 Stress and Strain
+###  Stress and Strain
 
 
 Stress within rocks, which includes compression, extension and shearing, originates from plate tectonic processes and the weight of overlying rocks. Rock that is stressed responds with either elastic or plastic strain, and may eventually break. The way a rock responds to stress depends on its composition and structure, the rate at which strain is applied, and also on the temperature, pressure, and the presence of fluid within the rock.
 
-##### 13.2 Folding
+###  Folding
 
 
 Folding is generally a ductile response to compression, although some brittle behaviour can happen during folding. A fold with a hinge that points upward is an anticline. A fold with a hinge that points downward is a syncline. The axial surface of a fold can be vertical, inclined, or even horizontal. The landforms produced by folds will depend on the resistance to weathering of rock layers within the fold.
 
-##### 13.3 Fractures, Joints, and Faults
+###  Fractures, Joints, and Faults
 
 
 Joints typically form during extension, but can also form during compression. Faulting, which involves the displacement of rock, can take place during compression or extension, as well as during shearing at transform boundaries.  Thrust faults are a type of reverse fault with a fault plane tilted at a low angle. Thrust faults are common in mountain belts formed by plate collisions.
 
-##### 13.4 Mountain Building
+###  Mountain Building
 
 
 Mountain building in zones of plate collision is called orogeny. The mountains that form are orogens, and consist of crust thickened and deformed by folding and faulting, as well as the intrusion of igneous rocks. Orogens in ocean-continent collision zones have volcanoes. Mountains formed in rift zones are the result of tilting of normal-faulted blocks, or some normal-faulted blocks subsiding while others remain elevated.
 
-##### 13.5 Measuring Geological Structures
+###  Measuring Geological Structures
 
 
 The strike and dip of planar surfaces, such as a bedding planes, fractures or faults are measured to help understand the geological history of a region. Special symbols are used to show the orientation of structural features on geological maps.

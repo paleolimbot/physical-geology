@@ -109,12 +109,12 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/10
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 6.1 What Is a Rock?
+###  What Is a Rock?
 
 
 A rock is a solid mass of geological materials. Geological materials include individual mineral crystals, inorganic non-mineral solids like glass, pieces broken from other rocks, and even fossils.
 
-##### 6.2 The Rock Cycle
+###  The Rock Cycle
 
 
 There are three main types of rock. Igneous rocks form when melted rock cools and solidifies. Sedimentary rock forms from fragments of other rocks, or when crystals precipitate from solution. Metamorphic rocks form when existing rocks are altered by heat, pressure, and/or chemical reactions. The rock cycle summarizes the processes that contribute to transformation of rock from one type to another. The rock cycle is driven by Earth’s internal heat, and by processes happening at the surface that are driven by solar energy.

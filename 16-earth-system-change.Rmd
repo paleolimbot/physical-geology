@@ -989,32 +989,32 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 The topics covered in this chapter can be summarized as follows:
 
-##### 16.1 What Is the Earth System?
+###  What Is the Earth System?
 
 
 Viewing Earth as a system allows us to take into account the complex ways in which the atmosphere, hydrosphere, biosphere, and lithosphere interact. Positive feedbacks amplify changes in the Earth system, and negative feedbacks reduce them. The stability of the Earth system will depend on what feedbacks are available. The presence of ice sheets makes the Earth system less stable.
 
-##### 16.2 Causes of Climate Change
+###  Causes of Climate Change
 
 
 Weather describes day-to-day conditions, but climate refers to the long-term average conditions over decades or longer. Climate forcings alter climate. They include processes that change the rate and location of solar energy reaching Earth’s surface; processes that alter how ocean currents move heat around Earth’s surface; and processes that affect how heat moves into and out of the atmosphere. Climate forcings operate on a range of timescales, from billions of years to less than a decade. Changes in greenhouse gas concentrations and albedo are two climate forcings affected by human activities.
 
-##### 16.3 Methods for Studying Past Climate
+###  Methods for Studying Past Climate
 
 
 Climate conditions for some of human history can be determined from direct measurements that have been recorded, but for studying paleoclimate it is often necessary to use proxy data. Proxy data come from natural materials that behave in a systematic way in response to climate conditions like temperature or precipitation. Proxies include tree ring data, stable isotopes, measurements of gas bubbles trapped in ice, and the geographic distribution of rocks and fossils.
 
-##### 16.4 Computer Models of the Earth System
+###  Computer Models of the Earth System
 
 
 Earth-system models use mathematical equations to simulate Earth-system processes. Models are set up and checked using real-life measurements. Model uncertainty is a number that tells us the likelihood that a particular model result falls within a certain range of values. It is a way to evaluate whether results can be used to draw meaningful conclusions.
 
-##### 16.5 Humans in the Earth System
+###  Humans in the Earth System
 
 
 Data show recognizable anthropogenic influence on the Earth system beginning when humans began to use fossil fuels for industrial purposes. CO~2~ in the atmosphere has the isotopic fingerprints of fossil fuels. The flow of anthropogenic carbon into the Earth system is relatively small compared to some natural flows, but natural processes do not remove all of what humans put in, causing CO~2~ to accumulate in the atmosphere.
 
-##### 16.6 Welcome to the Anthropocene
+###  Welcome to the Anthropocene
 
 
 Humans today are experiencing the results of past human influence on the Earth system, and humans in the future will experience the results of decisions made today. The main source of radiative forcing is anthropogenic CO~2~. Humans are already experiencing extreme climate events related to warming. The best-case projected warming scenario will stabilize global average temperatures at ~1ºC above 1996 temperatures by the end of the century, but this will require a peak in anthropogenic CO~2~ emissions by 2020, and an end to anthropogenic CO~2~ emissions by 2080.
