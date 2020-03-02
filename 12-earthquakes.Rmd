@@ -550,23 +550,34 @@ There is no reliable technology for predicting earthquakes, but the probability 
 ## Chatper Review Questions
 
 1. What causes the shaking during an earthquake?
-1. What is a rupture surface, and how does the area of a rupture surface relate to earthquake magnitude?
-1. What is an aftershock and how are aftershocks related to stress transfer?
-1. Episodic slip on the middle part of the Cascadia subduction zone is thought to increase the stress on the locked zone. Why?
-1. What is the difference between the magnitude of an earthquake and its intensity?
-1. How much more energy is released by a magnitude 7 earthquake compared to a magnitude 5 earthquake?
-1. The images below show earthquake locations for three regions of ocean lithosphere. The colour scheme indicates the depths of earthquakes. a) The images show a subduction zone, a slowly spreading mid-ocean ridge, and a rapidly spreading mid-ocean ridge. Which is which? b) In the image with the subduction zone, which side is the subducting plate, and which is the overriding plate?
+
+2. What is a rupture surface, and how does the area of a rupture surface relate to earthquake magnitude?
+
+3. What is an aftershock and how are aftershocks related to stress transfer?
+
+4. Episodic slip on the middle part of the Cascadia subduction zone is thought to increase the stress on the locked zone. Why?
+
+5. What is the difference between the magnitude of an earthquake and its intensity?
+
+6. How much more energy is released by a magnitude 7 earthquake compared to a magnitude 5 earthquake?
+
+7. The images below show earthquake locations for three regions of ocean lithosphere. The colour scheme indicates the depths of earthquakes. a) The images show a subduction zone, a slowly spreading mid-ocean ridge, and a rapidly spreading mid-ocean ridge. Which is which? b) In the image with the subduction zone, which side is the subducting plate, and which is the overriding plate?
 
 ```{r figure-12-35, fig.cap='Earthquakes along plate margins. Dots are colour coded according to depth. _Source: Map details from Lisa Christiansen, Caltech Tectonics Observatory (2008) [view source](https://www.nsf.gov/news/mmg/mmg_disp.jsp?med_id=64691). Click the image for terms of use._'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/01/Tectonic_setting_question.png")
 ```
 
-1. Why is earthquake damage likely to be more severe for buildings built on unconsolidated sediments as opposed to on solid rock?
-1. Why are fires common during earthquakes?
-1. What type of earthquake is likely to lead to a tsunami?
-1. What did we learn about earthquake prediction from the 2004 Parkfield earthquake?
-1. What are some of the things we should know about an area in order to help minimize the impacts of an earthquake?
-1. What is the difference between earthquake prediction and forecasting earthquake probability?
+8. Why is earthquake damage likely to be more severe for buildings built on unconsolidated sediments as opposed to on solid rock?
+
+9. Why are fires common during earthquakes?
+
+10. What type of earthquake is likely to lead to a tsunami?
+
+11. What did we learn about earthquake prediction from the 2004 Parkfield earthquake?
+
+12. What are some of the things we should know about an area in order to help minimize the impacts of an earthquake?
+
+13. What is the difference between earthquake prediction and forecasting earthquake probability?
 
 ## Answers to Chapter Review Questions
 

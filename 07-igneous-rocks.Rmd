@@ -511,12 +511,11 @@ Igneous rocks are classified based on their mineral composition and texture. Fel
 
 ###  Intrusive Igneous Bodies
 
-Magma intrudes into country rock by pushing it aside or melting through it. Intrusive igneous bodies tend to be irregular (stocks and batholiths), tabular (dikes and sills), or pipe-like. Batholiths have areas of 100 km^2^ or greater, while stocks are smaller. Sills are parallel to existing layering in the country rock, while dikes cut across layering. A pluton that intruded into cold rock is likely to have a chilled margin.<strong>
-</strong>
+Magma intrudes into country rock by pushing it aside or melting through it. Intrusive igneous bodies tend to be irregular (stocks and batholiths), tabular (dikes and sills), or pipe-like. Batholiths have areas of 100 km^2^ or greater, while stocks are smaller. Sills are parallel to existing layering in the country rock, while dikes cut across layering. A pluton that intruded into cold rock is likely to have a chilled margin.
 
 ## Chatper Review Questions
 
-1. What is the significance of the term _reaction _in _Bowen's reaction series_?
+1. What is the significance of the term _reaction_ in _Bowen's reaction series_?
 
 2. Why is it common for plagioclase crystals to be zoned from relatively calcium-rich in the middle to more sodium-rich toward the edge?
 
@@ -525,9 +524,9 @@ Magma intrudes into country rock by pushing it aside or melting through it. Intr
 4. Explain the difference between aphanitic and phaneritic textures.
 
 5. Name the following rocks:
-(a) An extrusive rock with 40% Ca-rich plagioclase and 60% pyroxene
-(b) An intrusive rock with 65% plagioclase, 25% amphibole, and 10% pyroxene
-(c) An intrusive rock with 25% quartz, 20% potassium feldspar, 50% plagioclase feldspar, and minor amounts of biotite
+    a. An extrusive rock with 40% Ca-rich plagioclase and 60% pyroxene
+    b. An intrusive rock with 65% plagioclase, 25% amphibole, and 10% pyroxene
+    c. An intrusive rock with 25% quartz, 20% potassium feldspar, 50% plagioclase feldspar, and minor amounts of biotite
 
 6. What is the difference between a concordant tabular intrusion and a discordant tabular intrusion?
 
@@ -560,6 +559,3 @@ Magma intrudes into country rock by pushing it aside or melting through it. Intr
 9. Batholiths (or stocks) intrude into existing rock by (a) melting through the country rock, or (b) causing the country rock to break and fall into the magma (stoping), or (c) pushing the country rock aside.
 
 10. Compositional layering forms when early-crystallizing minerals sink toward the bottom of a magma chamber. This can only happen in non-viscous magma. Mafic magma is typically much less viscous than felsic magma.
-
-### 
-

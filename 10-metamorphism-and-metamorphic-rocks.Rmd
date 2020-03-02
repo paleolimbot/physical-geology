@@ -545,34 +545,59 @@ Contact metamorphism takes place around magma bodies that have intruded into coo
 ## Chatper Review Questions
 
 1. What are the two main agents of metamorphism, and what are their respective roles in producing metamorphic rocks?
-1. What types of metamorphic rocks will form if a mudrock experiences very low, low, medium, and high-grade metamorphism?
-1. Why doesn’t granite change very much at lower metamorphic grades?
-1. Describe the main process of foliation development in a metamorphic rock such as schist.
-1. What process contributes to metamorphism of oceanic crust at a spreading ridge?
-1. How do variations in the geothermal gradient affect the depth at which different metamorphic rocks form?
-1. Blueschist metamorphism takes place within subduction zones. What are the particular temperature and pressure characteristics of this geological setting?
-1. Rearrange the following minerals in order of increasing metamorphic grade: biotite, garnet, sillimanite, chlorite.
-1. What is the role of magmatic fluids in the metamorphism that takes place adjacent to a pluton?
-1. How does metasomatism differ from regional metamorphism?
-1. How does the presence of a hot pluton contribute to metasomatism?
-1. What determines whether metasomatism will produce skarn?
-1. For each of the following metamorphic rocks, indicate the likely parent rock and the grade and/or type of metamorphism: chlorite schist, slate, mica-garnet schist, amphibolite, marble.
+
+2. What types of metamorphic rocks will form if a mudrock experiences very low, low, medium, and high-grade metamorphism?
+
+3. Why doesn’t granite change very much at lower metamorphic grades?
+
+4. Describe the main process of foliation development in a metamorphic rock such as schist.
+
+5. What process contributes to metamorphism of oceanic crust at a spreading ridge?
+
+5. How do variations in the geothermal gradient affect the depth at which different metamorphic rocks form?
+
+7. Blueschist metamorphism takes place within subduction zones. What are the particular temperature and pressure characteristics of this geological setting?
+
+8. Rearrange the following minerals in order of increasing metamorphic grade: biotite, garnet, sillimanite, chlorite.
+
+9. What is the role of magmatic fluids in the metamorphism that takes place adjacent to a pluton?
+
+10. How does metasomatism differ from regional metamorphism?
+
+11. How does the presence of a hot pluton contribute to metasomatism?
+
+12. What determines whether metasomatism will produce skarn?
+
+13. For each of the following metamorphic rocks, indicate the likely parent rock and the grade and/or type of metamorphism: chlorite schist, slate, mica-garnet schist, amphibolite, marble.
 
 ## Answers to Chapter Review Questions
 
 1. Heat and pressure are the main agents of metamorphism. Heat leads to mineralogical changes in the rock. Pressure also influences those mineralogical changes, while directed pressure (greater pressure in one direction) leads to foliation.
-1. Very low grade: slate; low grade: phyllite; medium grade: schist; high grade: gneiss.
-1. Granite remains largely unchanged at lower metamorphic grades because its minerals are still stable at those lower temperatures.
-1. Foliation develops in schist when new platy minerals grow with their longest dimension at a right angle to the direction of greatest pressure.
-1. At a spreading ridge the heat from volcanism leads to the development of a groundwater convection system in the rock of the oceanic crust. Heated water rises in the hot regions and is expelled into the ocean, while cold ocean water is drawn into the crust to replace it. The heated water leads to the conversion of olivine and pyroxene into chlorite and serpentine.
-1. The geothermal gradient varies as a function of tectonic setting, being greatest in volcanic regions and lowest along subduction zones. As a result the depth at which specific metamorphic grades is achieved will vary: the depth will be greater when the gradient is lower.
-1. The geothermal gradient is low within subduction zones because the cold subducting oceanic crust takes a long time to heat up. Pressure increases with depth at the normal rate, but temperature does not.
-1. Order of increasing metamorphic grade: chlorite, biotite, garnet, sillimanite.
-1. Water from any source facilitates metamorphism. Magmatic fluids typically contain dissolved ions at higher concentrations than in regular groundwater (especially copper, zinc, silver, gold, lithium, beryllium, boron and fluorine), leading to the formation of a unique set of minerals.
-1. Metasomatism involves fluids from magmatic or groundwater sources that play an important role in transporting ions into the system, and leading to the formation of new minerals. Regional metamorphism takes place over a larger area, depends more on plate tectonic conditions, and does not involve flushing the system with large amounts of fluid.
-1. A hot pluton heats the surrounding water, causing groundwater to convect. This can result a great deal of water, in some cases with elevated levels of specific ions, passing through the rock. Water from magma within the pluton also contributes to metasomatism.
-1. Limestone must be present to produce skarn.
-1. Parent rocks and metamorphic grades and types:
+
+2. Very low grade: slate; low grade: phyllite; medium grade: schist; high grade: gneiss.
+
+3. Granite remains largely unchanged at lower metamorphic grades because its minerals are still stable at those lower temperatures.
+
+4. Foliation develops in schist when new platy minerals grow with their longest dimension at a right angle to the direction of greatest pressure.
+
+5. At a spreading ridge the heat from volcanism leads to the development of a groundwater convection system in the rock of the oceanic crust. Heated water rises in the hot regions and is expelled into the ocean, while cold ocean water is drawn into the crust to replace it. The heated water leads to the conversion of olivine and pyroxene into chlorite and serpentine.
+
+6. The geothermal gradient varies as a function of tectonic setting, being greatest in volcanic regions and lowest along subduction zones. As a result the depth at which specific metamorphic grades is achieved will vary: the depth will be greater when the gradient is lower.
+
+7. The geothermal gradient is low within subduction zones because the cold subducting oceanic crust takes a long time to heat up. Pressure increases with depth at the normal rate, but temperature does not.
+
+8. Order of increasing metamorphic grade: chlorite, biotite, garnet, sillimanite.
+
+9. Water from any source facilitates metamorphism. Magmatic fluids typically contain dissolved ions at higher concentrations than in regular groundwater (especially copper, zinc, silver, gold, lithium, beryllium, boron and fluorine), leading to the formation of a unique set of minerals.
+
+10. Metasomatism involves fluids from magmatic or groundwater sources that play an important role in transporting ions into the system, and leading to the formation of new minerals. Regional metamorphism takes place over a larger area, depends more on plate tectonic conditions, and does not involve flushing the system with large amounts of fluid.
+
+11. A hot pluton heats the surrounding water, causing groundwater to convect. This can result a great deal of water, in some cases with elevated levels of specific ions, passing through the rock. Water from magma within the pluton also contributes to metasomatism.
+
+12. Limestone must be present to produce skarn.
+
+13. Parent rocks and metamorphic grades and types:
+
 <table>
 <tbody>
 <tr>

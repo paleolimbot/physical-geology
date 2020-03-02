@@ -662,33 +662,59 @@ British Columbia and the Yukon Territory include examples of volcanoes that form
 ## Chatper Review Questions
 
 1. What are the three main tectonic settings for volcanism on Earth?
-1. What is the primary mechanism for partial melting at a convergent plate boundary?
-1. Why are the viscosity and gas content of a magma important in determining the type of volcanic rocks that will be formed when that magma is extruded?
-1. Why do the gases in magma not form gas bubbles when the magma is deep within the crust?
-1. Where and why do pillow lavas form?
-1. What two kinds of volcanic materials make up a composite volcano?
-1. What is a lahar, and why are lahars commonly associated with eruptions of composite volcanoes?
-1. Under what other circumstances might a lahar form?
-1. Why do shield volcanoes have gentle slopes?
-1. Which type of volcanic mountain would last longest: a shield volcano, a cinder cone, or a composite volcano?
-1. Why is weak seismic activity (small earthquakes) typically associated with the early stages of a volcanic eruption?
-1. How can GPS technology be used to help monitor a volcano for activity?
-1. What is the likely geological origin of the Nazko Cone?
-1. What might be the explanation for southwestern B.C. having much less subduction-related volcanism than adjacent Washington and Oregon?
+
+2. What is the primary mechanism for partial melting at a convergent plate boundary?
+
+3. Why are the viscosity and gas content of a magma important in determining the type of volcanic rocks that will be formed when that magma is extruded?
+
+4. Why do the gases in magma not form gas bubbles when the magma is deep within the crust?
+
+5. Where and why do pillow lavas form?
+
+6. What two kinds of volcanic materials make up a composite volcano?
+
+7. What is a lahar, and why are lahars commonly associated with eruptions of composite volcanoes?
+
+8. Under what other circumstances might a lahar form?
+
+9. Why do shield volcanoes have gentle slopes?
+
+10. Which type of volcanic mountain would last longest: a shield volcano, a cinder cone, or a composite volcano?
+
+11. Why is weak seismic activity (small earthquakes) typically associated with the early stages of a volcanic eruption?
+
+12. How can GPS technology be used to help monitor a volcano for activity?
+
+13. What is the likely geological origin of the Nazko Cone?
+
+14. What might be the explanation for southwestern B.C. having much less subduction-related volcanism than adjacent Washington and Oregon?
 
 ## Answers to Chapter Review Questions
 
 1. The three main tectonic settings for volcanism are (1) subduction zones at convergent plate boundaries, (2) divergent plate boundaries, and (3) mantle plumes (a.k.a. hot spots).
-1. The primary mechanism for partial melting at a convergent plate boundary is the addition of water to hot mantle rock. The water reduces the melting temperature of the rock (flux melting).
-1. The explosiveness of a volcanic eruption depends on the pressure of the magma. Gases create that pressure, and if the magma is viscous those gases cannot escape easily. Felsic and intermediate magmas tend to have more gas than mafic magmas, and are also more viscous, trapping the gas in.
-1. When magma is deep within the crust the pressure is too high for the gases to bubble out of solution.
-1. Pillow lavas form where mafic lava erupts in water. When the magma oozes out into the water the outside cools first forming a hard skin that maintains the pillow shape.
-1. Composite volcanoes are formed of layers of lava flows and tephra (volcanic fragments ranging from fine ash to blocks and bombs) from explosive eruptions.
-1. A lahar is a mud flow or debris flow on a volcano. Lahars are common on composite volcanoes because they are steeper than shield volcanoes, they typically have ice and snow, and they are not as strong as shield volcanoes.
-1. Some lahars form during an eruption when snow and ice melt quickly, while others may form from heavy rain.
-1. The lava that forms shield volcanoes is typically low viscosity. It can flow easily and also tends to form lava tubes. As a result, it is able to travel a long way from the vent, forming a low broad shield.
-1. Cinder cones erode rapidly because they are mostly piles of tephra. Composite volcanoes are more resistant to weathering and erosion than cinder cones because lava flows help hold together tephra, but composite volcanoes still don't last as long as shield volcanoes. Shield volcanoes are stronger because they consist more of lava flows than tephra.
-1. Weak seismic activity is associated with all stages of a volcanic eruption. In the early stages magma is moving at depth and pushing rock aside, creating small earthquakes. The flow of magma can also produce special type of seismic response known as a harmonic tremor.
-1. GPS technology is used to determine if there is any slow deformation of the flanks of a volcano related to movement of magma toward the surface.
-1. The Nazko Cone is thought to be related to a mantle plume.
-1. One hypothesis to explain the lower rate of volcanism in British Columbia than in adjacent Washington and Oregon is that the northern part of the Juan de Fuca Plateis not subducting as quickly as the rest of the plate.
+
+2. The primary mechanism for partial melting at a convergent plate boundary is the addition of water to hot mantle rock. The water reduces the melting temperature of the rock (flux melting).
+
+3. The explosiveness of a volcanic eruption depends on the pressure of the magma. Gases create that pressure, and if the magma is viscous those gases cannot escape easily. Felsic and intermediate magmas tend to have more gas than mafic magmas, and are also more viscous, trapping the gas in.
+
+4. When magma is deep within the crust the pressure is too high for the gases to bubble out of solution.
+
+5. Pillow lavas form where mafic lava erupts in water. When the magma oozes out into the water the outside cools first forming a hard skin that maintains the pillow shape.
+
+6. Composite volcanoes are formed of layers of lava flows and tephra (volcanic fragments ranging from fine ash to blocks and bombs) from explosive eruptions.
+
+7. A lahar is a mud flow or debris flow on a volcano. Lahars are common on composite volcanoes because they are steeper than shield volcanoes, they typically have ice and snow, and they are not as strong as shield volcanoes.
+
+8. Some lahars form during an eruption when snow and ice melt quickly, while others may form from heavy rain.
+
+9. The lava that forms shield volcanoes is typically low viscosity. It can flow easily and also tends to form lava tubes. As a result, it is able to travel a long way from the vent, forming a low broad shield.
+
+10. Cinder cones erode rapidly because they are mostly piles of tephra. Composite volcanoes are more resistant to weathering and erosion than cinder cones because lava flows help hold together tephra, but composite volcanoes still don't last as long as shield volcanoes. Shield volcanoes are stronger because they consist more of lava flows than tephra.
+
+11. Weak seismic activity is associated with all stages of a volcanic eruption. In the early stages magma is moving at depth and pushing rock aside, creating small earthquakes. The flow of magma can also produce special type of seismic response known as a harmonic tremor.
+
+12. GPS technology is used to determine if there is any slow deformation of the flanks of a volcano related to movement of magma toward the surface.
+
+13. The Nazko Cone is thought to be related to a mantle plume.
+
+14. One hypothesis to explain the lower rate of volcanism in British Columbia than in adjacent Washington and Oregon is that the northern part of the Juan de Fuca Plateis not subducting as quickly as the rest of the plate.

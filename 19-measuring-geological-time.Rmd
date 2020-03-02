@@ -25,8 +25,6 @@ After reading this chapter and answering the review questions at the end, you sh
 
 </div>
 
-#### Geological Time Is Vast
-
 Time is the dimension that sets geology apart from most other sciences. Geological time is vast, and Earth has changed tremendously during this time. Even though most geological processes are very, very slow, the vast amount of time that has passed has allowed for the formation of extraordinary geological features, as shown in Figure \@ref(fig:figure-19-1)
 
 We have numerous ways of measuring geological time. We can tell the relative ages of rocks (e.g., whether one rock is older than another) based on their spatial relationships, we can use fossils to date sedimentary rocks because we have a detailed record of the evolution of life on Earth, and we can use a range of isotopic techniques to determine the absolute ages (in millions of years) of igneous and metamorphic rocks.
@@ -457,15 +455,24 @@ While understanding geological time is relatively easy, actually comprehending t
 ## Chatper Review Questions
 
 1. A granitic rock contains inclusions (xenoliths) of basalt. What can you say about the relative ages of the granite and the basalt?
-1. Explain the differences between a) disconformity and paraconformity; and b) nonconformity and angular unconformity
-1. What are the features of a useful index fossil?
-1. Figure \@ref(fig:figure-19-29) shows a geological cross-section. The granitic rock F at the bottom is the rock that you estimated the age of in the exercise in 19.4, _Radiometric Dating with Potassium-Argon_. A piece of wood from layer D has been sent for radiocarbon dating and the result was 0.55 ^14^C remaining. How old is layer D?
-1. Based on your answer to question 4, what can you say about the age of layer C in the figure above?
-1. What type of unconformity exists between layer C and rock F?
-1. What type of unconformity exists between layer C and rock B?
-1. We cannot use magnetic chronology to date anything older than ~780,000 years. Why?
-1. How did William Smith apply the principle of faunal succession to determine the relative ages of the sedimentary rocks of England and Wales?
-1. Access a copy of the geological time scale at http://www.stratigraphy.org/index.php/ics-chart-timescale. What are the names of the last age of the Cretaceous and the first age of the Paleogene? Print out the time scale and stick it on the wall above your desk!
+
+2. Explain the differences between a) disconformity and paraconformity; and b) nonconformity and angular unconformity
+
+3. What are the features of a useful index fossil?
+
+4. Figure \@ref(fig:figure-19-29) shows a geological cross-section. The granitic rock F at the bottom is the rock that you estimated the age of in the exercise in 19.4, _Radiometric Dating with Potassium-Argon_. A piece of wood from layer D has been sent for radiocarbon dating and the result was 0.55 ^14^C remaining. How old is layer D?
+
+5. Based on your answer to question 4, what can you say about the age of layer C in the figure above?
+
+6. What type of unconformity exists between layer C and rock F?
+
+7. What type of unconformity exists between layer C and rock B?
+
+8. We cannot use magnetic chronology to date anything older than ~780,000 years. Why?
+
+9. How did William Smith apply the principle of faunal succession to determine the relative ages of the sedimentary rocks of England and Wales?
+
+10. Access a copy of the geological time scale at http://www.stratigraphy.org/index.php/ics-chart-timescale. What are the names of the last age of the Cretaceous and the first age of the Paleogene? Print out the time scale and stick it on the wall above your desk!
 
 ```{r figure-19-29, fig.cap='Geological cross-section (left) and decay curve for ^14^C ages. _Source: Left- Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/geological-cross-section.png). Right- Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/diagram.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Ch19_review-1024x375.png")
@@ -474,12 +481,21 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 ## Answers to Chapter Review Questions
 
 1. Xenoliths of basalt within a granite must be older than the granite according to the principle of inclusions.
-1. (a) At both disconformities and paraconformities the beds above and below are parallel, but at a disconformity there is clear evidence of an erosion surface (the lower layers have been eroded). (b) A nonconformity is a boundary between sedimentary rocks above and non-sedimentary rocks below while an angular unconformity is a boundary between sedimentary rocks above and tilted and eroded and sedimentary layers below.
-1. A useful index fossil must have survived for a relatively short period (e.g., around a million years), and also should have a wide distribution so that it can be used to correlate rocks from different regions.
-1. The granitic rock F has been dated to 175 Ma. The wood in layer D is approximately 5,000 years old, so we can assume that layer D is no older than that, although it could be as much as a few hundred years younger if the wood was already old when it got incorporated into the rock.
-1. Layer C must be between 5,000 y and 275 Ma.
-1. The unconformity between layer C and rock F is a nonconformity.
-1. The granite (F) was eroded prior to deposition of C, so it’s likely that layer B was also eroded at the same time. If so, that makes the boundary between C and B a disconformity.
-1. The last magnetic reversal was 780,000 years ago, so all rock formed since that time is normally magnetized and it isn’t possible to distinguish older rock from younger rock within that time period using magnetic data.
-1. William Smith was familiar with the different diagnostic fossils of the rocks of England and Wales and was able to use them to identify rocks of different ages.
-1. The last age of the Cretaceous is the Maastrichtian (71.2 to 66.0 Ma) and the first age of the Paleogene is the Danian (66.0 to 61.6 Ma).
+
+2. (a) At both disconformities and paraconformities the beds above and below are parallel, but at a disconformity there is clear evidence of an erosion surface (the lower layers have been eroded). (b) A nonconformity is a boundary between sedimentary rocks above and non-sedimentary rocks below while an angular unconformity is a boundary between sedimentary rocks above and tilted and eroded and sedimentary layers below.
+
+3. A useful index fossil must have survived for a relatively short period (e.g., around a million years), and also should have a wide distribution so that it can be used to correlate rocks from different regions.
+
+4. The granitic rock F has been dated to 175 Ma. The wood in layer D is approximately 5,000 years old, so we can assume that layer D is no older than that, although it could be as much as a few hundred years younger if the wood was already old when it got incorporated into the rock.
+
+5. Layer C must be between 5,000 y and 275 Ma.
+
+6. The unconformity between layer C and rock F is a nonconformity.
+
+7. The granite (F) was eroded prior to deposition of C, so it’s likely that layer B was also eroded at the same time. If so, that makes the boundary between C and B a disconformity.
+
+8. The last magnetic reversal was 780,000 years ago, so all rock formed since that time is normally magnetized and it isn’t possible to distinguish older rock from younger rock within that time period using magnetic data.
+
+9. William Smith was familiar with the different diagnostic fossils of the rocks of England and Wales and was able to use them to identify rocks of different ages.
+
+10. The last age of the Cretaceous is the Maastrichtian (71.2 to 66.0 Ma) and the first age of the Paleogene is the Danian (66.0 to 61.6 Ma).

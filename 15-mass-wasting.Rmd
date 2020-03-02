@@ -458,13 +458,11 @@ Source: Steven Earle (2015) CC BY 4.0 [View source](https://opentextbc.ca/geolog
 7. Residents at risk from Mt. Rainier lahars need to know what the warnings mean and roughly how much time they have between receiving a warning and being in actual danger. They need to create a plan to exit their residence quickly, and they need to know which way to go to get to safety as efficiently as possible.
 
 8. Some of the important factors include:
-
-- Explain how slope stability is related to slope angle
-- Summarize some of the factors that influence the strength of materials on slopes, including the type of rock, the presence and orientation of planes of weakness such as bedding planes or fractures, the type of unconsolidated material upon the slope, and the effects of water flowing upon or within the slope material
-- Explain what types of events can trigger mass wasting
-- Summarize the types of motion that can happen during mass wasting
-- Describe the difference between a translational and a rotational slope failure
-- Describe the main types of mass wasting — creep, slump, slide, fall, and debris or mud flow — in terms of the types of materials involved, the type of motion, and the likely rates of motion
-- Explain what steps we can take to delay mass wasting, and why we cannot prevent it permanently
-- Describe some of the measures that can be taken to mitigate the risks associated with mass wasting
-
+    - Explain how slope stability is related to slope angle
+    - Summarize some of the factors that influence the strength of materials on slopes, including the type of rock, the presence and orientation of planes of weakness such as bedding planes or fractures, the type of unconsolidated material upon the slope, and the effects of water flowing upon or within the slope material
+    - Explain what types of events can trigger mass wasting
+    - Summarize the types of motion that can happen during mass wasting
+    - Describe the difference between a translational and a rotational slope failure
+    - Describe the main types of mass wasting — creep, slump, slide, fall, and debris or mud flow — in terms of the types of materials involved, the type of motion, and the likely rates of motion
+    - Explain what steps we can take to delay mass wasting, and why we cannot prevent it permanently
+    - Describe some of the measures that can be taken to mitigate the risks associated with mass wasting

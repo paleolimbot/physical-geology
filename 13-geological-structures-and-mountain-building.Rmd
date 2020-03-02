@@ -434,14 +434,10 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 7. What type of fault would you expect to see at a transform plate boundary?
 
 8. Figure \@ref(fig:figure-13-40) is a map of the geology of a region. The coloured areas represent sedimentary beds.
-
-(i) Describe in words the _general_ attitude (strike and dip) of these beds.
-
-(ii) What is “a” and what is its attitude?
-
-(iii) What is “b” and what is its attitude?
-
-(iv) Is "b" left handed or right handed?
+    i. Describe in words the _general_ attitude (strike and dip) of these beds.
+    ii. What is “a” and what is its attitude?
+    iii. What is “b” and what is its attitude?
+    iv. Is "b" left handed or right handed?
 
 ```{r figure-13-40, fig.cap='Geological map. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/plan-view-map-of-the-geology-of-a-region.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/plan-view-map-of-the-geology-of-a-region-1024x436.png")
@@ -467,9 +463,8 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 7. Most faults near transform boundaries are strike-slip faults, meaning that there is horizontal motion along the fault.
 
-8.(i) The beds are dipping at about 30˚ to the northwest. (ii) “a” is a dyke and it is dipping steeply to the northeast. (iii) “b” is a fault and it is dipping steeply to the southeast. (iv) The motion on fault “b” appears to be left handed.
+8. (i) The beds are dipping at about 30˚ to the northwest. (ii) “a” is a dyke and it is dipping steeply to the northeast. (iii) “b” is a fault and it is dipping steeply to the southeast. (iv) The motion on fault “b” appears to be left handed.
 
 ```{r figure-13-42, fig.cap='Geological map with strike and dip symbols. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/09/rocks2.png)_'}
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/rocks2-e1442870488882.png")
 ```
-

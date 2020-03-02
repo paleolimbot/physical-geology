@@ -431,9 +431,7 @@ The main fossil fuels are coal, oil, and gas. Coal forms on land in wet environm
 
 Diamonds originate in the mantle and are only brought to the surface by the very rare eruption of kimberlitic volcanoes. The relatively recent discovery of diamonds in Canada was based on the exhaustive search for diamond indicator minerals in glacial sediments. There are now six diamond mines in Canada.
 
-#### Questions for Review
-
-<div class="bcc-box bcc-info">
+## Chapter Review Questions
 
 1. What are some of Earth’s resources that are needed to make a compact fluorescent light bulb? The image shows the contents of the ballast.
 
@@ -473,21 +471,18 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 15. If you were sampling glacial deposits to search for kimberlites, why would you be advised to look for kimberlite indicator minerals rather than diamonds?
 
-</div>
-
 ## Answers to Chapter Review Questions
 
 1. Some of the components of a compact fluorescent lightbulb (and the resources used to make one) are as follows:
-
-- Describe the importance of geological resources to our way of life
-- Summarize the types of materials mined in Canada and explain some of the processes involved in the formation of metal deposits
-- Explain how a metal deposit is developed into a mine
-- Define acid rock drainage (ARD) and discuss why some mines can lead to ARD and contamination of the environment by metals
-- Summarize some of the important industrial materials extracted in Canada and describe what they are used for
-- Describe the processes that lead to the formation of coal deposits
-- Explain the processes that lead to the formation of oil and gas, the distinction between source rocks and reservoir rocks, and the importance of traps
-- Describe the origins and recovery of some of the unconventional fossil fuels
-- Describe the origins, discovery, and extraction of diamonds in Canada
+    - Describe the importance of geological resources to our way of life
+    - Summarize the types of materials mined in Canada and explain some of the processes involved in the formation of metal deposits
+    - Explain how a metal deposit is developed into a mine
+    - Define acid rock drainage (ARD) and discuss why some mines can lead to ARD and contamination of the environment by metals
+    - Summarize some of the important industrial materials extracted in Canada and describe what they are used for
+    - Describe the processes that lead to the formation of coal deposits
+    - Explain the processes that lead to the formation of oil and gas, the distinction between source rocks and reservoir rocks, and the importance of traps
+    - Describe the origins and recovery of some of the unconventional fossil fuels
+    - Describe the origins, discovery, and extraction of diamonds in Canada
 
 2. Nickel deposits form within mafic and ultramafic igneous bodies because the original magma have relatively high nickel levels to begin with, while intermediate or felsic magma have low levels.
 

@@ -481,24 +481,34 @@ Youthful streams in steep areas erode most rapidly downwards, and they tend to h
 ###  Flooding
 
 Most streams in Canada have their highest discharge rates in spring and early summer, although the highest discharge in many of BC’s coastal streams is in the winter. Floods happen when a stream rises high enough to spill over its banks and spread across its flood plain. Some of the more significant floods in Canada include the Fraser River flood of 1948, the Saguenay River flood of 1996, the Red River flood of 1997, and the Alberta floods of 2013. We can estimate the probability of a specific flood level based on the record of past floods, and we can take steps to minimize the impacts of flooding such as building floodways to divert excess water and not building in flood-prone areas.
-<div class="bcc-box bcc-info">
 
-#### Questions for Review
+## Chapter Review Questions
 
 1. What is the proportion of liquid fresh water on Earth expressed as a percentage of all water on Earth?
-1. What percentage of this fresh water is groundwater?
-1. What type of rock, and what processes, can lead to the formation of a trellis drainage pattern?
-1. Why do many of the streams in the southwestern part of Vancouver Island empty into the ocean over waterfalls?
-1. Where would you expect to find the fastest water flow along a straight stretch of a stream?
-1. Sand grains can be moved by traction and saltation. What minimum stream velocity is required to move 1 mm sand grains?
-1. If the flow velocity of a stream is 1 cm/s, what sizes of particles can be eroded, what sizes can be transported if they are already in suspension, and what sizes of particles cannot be moved at all?
-1. Under what circumstances might a braided stream develop?
-1. How would the gradient of a stream be affected if a meander is bypassed?
-1. The elevation of the Fraser River at Hope is 41 m. From there it flows approximately 147 km to the sea. What is the average gradient of the river (m/km) over this distance?
-1. How do BC’s coastal streams differ from most of the rest of the streams in Canada in terms of their annual flow patterns? Why?
-1. Why do most serious floods in Canada happen in late May, June, or early July?
-1. There is a 65-year record of peak annual discharges along the Ashnola River near Princeton, BC. During this time, the second highest discharge recorded was 175 m^3^/s. Based on this information, what is the recurrence interval (Ri) for this discharge level, and what is the probability that there will be a similar peak discharge next year?
-</div>
+
+2. What percentage of this fresh water is groundwater?
+
+3. What type of rock, and what processes, can lead to the formation of a trellis drainage pattern?
+
+4. Why do many of the streams in the southwestern part of Vancouver Island empty into the ocean over waterfalls?
+
+5. Where would you expect to find the fastest water flow along a straight stretch of a stream?
+
+6. Sand grains can be moved by traction and saltation. What minimum stream velocity is required to move 1 mm sand grains?
+
+7. If the flow velocity of a stream is 1 cm/s, what sizes of particles can be eroded, what sizes can be transported if they are already in suspension, and what sizes of particles cannot be moved at all?
+
+8. Under what circumstances might a braided stream develop?
+
+9. How would the gradient of a stream be affected if a meander is bypassed?
+
+10. The elevation of the Fraser River at Hope is 41 m. From there it flows approximately 147 km to the sea. What is the average gradient of the river (m/km) over this distance?
+
+11. How do BC’s coastal streams differ from most of the rest of the streams in Canada in terms of their annual flow patterns? Why?
+
+12. Why do most serious floods in Canada happen in late May, June, or early July?
+
+13. There is a 65-year record of peak annual discharges along the Ashnola River near Princeton, BC. During this time, the second highest discharge recorded was 175 m^3^/s. Based on this information, what is the recurrence interval (Ri) for this discharge level, and what is the probability that there will be a similar peak discharge next year?
 
 ## Answers to Chapter Review Questions
 

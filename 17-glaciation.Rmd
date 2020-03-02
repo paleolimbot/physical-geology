@@ -444,7 +444,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 1. Continental glaciers flow from the areas where the ice is thickest (and therefore at the highest elevation) toward areas (at the margins) where the ice is thinnest. Ice thickness tends to be related to the rate of ice accumulation.
 
-2.
+2. Alpine glaciers flow by gravity.
 
 3. The equilibrium line represents the boundary between the area where ice is accumulating (typically at high elevations), and where it is being depleted (mostly by melting). Above the equilibrium line more snow accumulates in winter than can melt in summer so the glacier is always covered in snow. Below the equilibrium line the snow cover is lost by the end of summer.
 
@@ -452,11 +452,11 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 
 5. (a) The ice at the bottom of a glacier flows more slowly than that at the top. In fact if the glacier is frozen to its base the lowermost ice might not be moving at all. (b) The edges also flow more slowly than the middle because there is more friction there between the ice and the valley walls.
 
-6.
+6. <missing answer>
 
 7. Basal sliding will take place when the bed of the glacier is warm enough for water to be liquid. The water will act as a lubricant to allow the ice to flow.
 
-8.
+8. <missing answer>
 
 9. Glaciers carve U-shaped valleys because they are relatively wide (compared with rivers) and most of the erosion takes place at the base rather than the sides. A hanging valley forms where a tributary glacier joins a larger glacier and where the larger glacier has eroded a deeper valley.
 
@@ -477,12 +477,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 17. At the height of the last glaciation, the Laurentide Ice Sheet covered almost all of Canada and extended south into the United States as far as Wisconsin.
 
 18. From left to right, the sediments are:
-
-Lodgement till: Poorly sorted, clay to boulders, no layering, large clasts not well rounded, no structures.
-
-Glaciofluvial sand and gravel: Bedded, some fine beds of sand, and some much coarser beds. Clasts are relatively well rounded.
-
-Ablation till: Poorly sorted, pebbles to boulders, no layering, large angular clasts, no apparent structures.
-
-Glaciofluvial sand: Sand- and silt-sized, well-sorted, bedded and cross-bedded.
-
+    - Lodgement till: Poorly sorted, clay to boulders, no layering, large clasts not well rounded, no structures.
+    - Glaciofluvial sand and gravel: Bedded, some fine beds of sand, and some much coarser beds. Clasts are relatively well rounded.
+    - Ablation till: Poorly sorted, pebbles to boulders, no layering, large angular clasts, no apparent structures.
+    - Glaciofluvial sand: Sand- and silt-sized, well-sorted, bedded and cross-bedded.
