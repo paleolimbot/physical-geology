@@ -1,12 +1,12 @@
 --- 
 title: "Physical Geology"
-author: "Karla Panchuk, Steven Earle, and contributors"
+author: "Karla Panchuk, Steven Earle, and contributors (GitHub/bookdown version maintained by Dewey Dunnington)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: 'Adapted from "Physical Geology" written by Steven Earle for the BCcampus Open Textbook Project'
+description: '"Physical Geology", adaptaed from Physical Geology: First University of Saskatchewan Edition" (Karla Panchuk" and "Physical Geology" (Steven Earle)'
 ---
 
 ```{r setup, include=FALSE}
@@ -23,7 +23,7 @@ knitr::write_bib(c(
 
 # Introduction {-}
 
-_Physical Geology_ is a comprehensive introductory text on the physical aspects of geology, including rocks and minerals, plate tectonics, earthquakes, volcanoes, mass wasting, climate change, planetary geology and much more. It has a strong emphasis on examples from western Canada. It is adapted from "Physical Geology" written by Steven Earle for the BCcampus Open Textbook Program, and "Physical Geology, First University of Saskatchewan Edition" by Karla Panchuk.
+_Physical Geology_ is a comprehensive introductory text on the physical aspects of geology, including rocks and minerals, plate tectonics, earthquakes, volcanoes, mass wasting, climate change, planetary geology and much more. It has a strong emphasis on examples from western Canada. It is adapted from "Physical Geology" written by Steven Earle for the BCcampus Open Textbook Program, and "Physical Geology, First University of Saskatchewan Edition" by Karla Panchuk. The [GitHub](https://github.com/)/[bookdown](https://bookdown.org/) version of this book is maintained by [Dewey Dunnington](https://fishandwhistle.net/).
 
 ## Copyright
 
@@ -42,6 +42,8 @@ An open textbook for physical geology is something I had been considering ever s
 Many thanks go to Heather Ross and Nancy Turner at the Gwenna Moss Centre for their support and encouragement on this project and for discussions with them about open textbooks. The University of Saskatchewan Open Educational Resources Fund provided funding to support my work on this project. In-kind work and assistance on the project to match my time for this funding were provided by Joyce McBeth and Tim Prokopiuk of the Department of Geological Sciences.
 
 This book has benefited from the work of numerous contributors at the University of Saskatchewan who have assisted with editing the document and providing new images to include in this edition. Tim Prokopiuk contributed edits and selected rock samples for me to photograph from the department’s collection. Joyce McBeth provided numerous edits to this edition and adapted Chapters 14, 15, and 17. Lyndsay Hauber provided assistance with updates to image attributions for the chapter on plate tectonics. Donna Beneteau and Doug Milne of the College of Engineering, and Zoli Hajnal of Geological Sciences gave me a tour of the [Geological Engineering Rock Mechanics Facility](https://research.usask.ca/portalforindustry/facilities/geological-engineering-rock-mechanics-facility.php), and helped me to photograph their experiments.
+
+_Karla Panchuk, January 2019_
 
 ### Image Sources
 
