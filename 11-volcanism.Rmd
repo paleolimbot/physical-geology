@@ -568,18 +568,6 @@ The Mount Edziza Volcanic Field near the Stikine River is a large area of lava f
 knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/09/Edziza_nass5518.jpg")
 ```
 
-## X Volcano extras
-
-Volcanism in northwestern B.C. (Figures \@ref(fig:figure-11-5) and \@ref(fig:figure-11-6)) is related to continental rifting. This area is not at a divergent or convergent boundary, and there is no evidence of an underlying mantle plume. The crust of northwestern B.C. is being stressed by the northward movement of the Pacific Plate against the North America Plate, and the resulting crustal fracturing provides a conduit for the flow of magma from the mantle. This may be an early stage of continental rifting, such as that found in eastern Africa.
-
-```{r figure-11-5-xtra, fig.cap='Volcanoes and volcanic fields in the Northern Cordillera Volcanic Province BC. [Steven Earle CC-BY 4.0. Volcanic locations from Edwards, B. &amp; Russell, J. (2000). Distribution, nature, and origin of Neogene-Quaternary magmatism in the northern Cordilleran volcanic province, Canada. Geological Society of America Bulletin. pp. 1280-1293. Base map: Qyd Public Domain (http://commons.wikimedia.org/wiki/File:South-West_Canada.jpg).]'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/stikine.png")
-```
-
-```{r figure-11-6-xtra, fig.cap='Volcanic rock at the Tseax River area, northwestern BC. [Steven Earle CC-BY 4.0]'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/tseax.jpg")
-```
-
 ## Summary
 
 The topics covered in this chapter can be summarized as follows:
