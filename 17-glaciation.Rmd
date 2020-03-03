@@ -4,7 +4,7 @@
 _Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Joyce M. McBeth) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-17-1, fig.cap='Glaciers in the Alberta Rockies: Athabasca Glacier (centre left), Dome Glacier (right), and the Columbia Icefield (visible above both glaciers). The Athabasca Glacier has prominent lateral moraines on both sides. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Glaciers-in-the-Alberta-Rockies.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/athabasca-2.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-1.png")
 ```
 
 <div class="textbox learning-objectives">
@@ -31,11 +31,11 @@ A __glacier__ is a long-lasting (decades or more) body of ice that is large enou
 Glaciers currently represent the largest repository of fresh water on Earth (~69% of all fresh water). They are highly sensitive to changes in climate, and in recent decades have been melting rapidly worldwide (Figure \@ref(fig:figure-17-2)). Although some of the larger glacial masses may still last for several centuries, smaller glaciers, including many in western Canada, may be gone within decades. For mountainous regions, glaciers are an important sources of drinking water. Rapid glacial melting is a troubling issue for western Canadians because glacial ice is an important part of the hydrologic cycle in glaciated regions. Irrigation systems in BC, and across Alberta and Saskatchewan, are replenished by meltwater originating from glaciers in the Coast Range and the Rocky Mountains.
 
 ```{r figure-17-2, fig.cap='Example of rapid melting of a glacier over a 63-year period. Muir Glacier, Alaska. _Source: NASA Climate 365 Project (n.d.) Public Domain [view source](https://climate.nasa.gov/climate_resources/4/)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/now-you-see-it-1024x830.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-2.jpg")
 ```
 
 ```{r figure-17-3, fig.cap='Part of the continental ice sheet in Greenland, with some outflow alpine glaciers in the foreground. _Source: Steven Earle (2015) CC BY 4.0 [view source ](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Greenland.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Greenland.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-3.jpg")
 ```
 
 ## Types of Glaciers
@@ -51,13 +51,13 @@ Continent glaciers can form and grow when climate conditions in a region cool ov
 Earth’s two current continental glaciers, the Antarctic and Greenland Ice Sheets, comprise about 99% of Earth’s glacial ice, and approximately 68% of Earth’s fresh water. The Antarctic Ice Sheet is vastly larger than the Greenland Ice Sheet (Figure \@ref(fig:figure-17-4)) and contains about 17 times as much ice. If the entire Antarctic Ice Sheet melted, sea level would rise by about 80 m and most of Earth’s major coastal cities would be submerged.
 
 ```{r figure-17-4, fig.cap='Simplified cross-section profiles of the Antarctic and Greenland continental ice sheets. Both ice sheets are drawn to the same scale (exaggerated in the vertical direction). _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/antarctic-greenland-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/antarctic-greenland-2-1024x436.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-4.png")
 ```
 
 Continental glaciers generally cover areas that are flat, but the force of gravity still acts on them and causes them to flow. Continental glacier ice flows from the region where it is thickest toward the edges where it is thinner (Figure \@ref(fig:figure-17-5)). In the central thickest parts, the ice flows almost vertically down toward the base, while at the edges of the glacier, it flows horizontally out toward the margins. In continental glaciers like the Antarctic and Greenland Ice Sheets, the thickest parts (4,000 m and 3,000 m thick, respectively) are the areas where the rate of snowfall, and therefore of ice accumulation, are greatest. In Antarctica, the ice sheet flows out over the ocean, forming ice shelves. Ice shelves can slow the flow of continental glaciers outward. Conversely, if ice shelves break down continental glacier flow can speed up.
 
 ```{r figure-17-5, fig.cap='Cross-section showing ice-flow in the Antarctic Ice Sheet. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/antarctic-flow-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Antarctic-Ice-Sheet.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-5.png")
 ```
 
 ### Alpine Glaciers
@@ -67,13 +67,13 @@ __Alpine glaciers__ (aka valley glaciers) originate high up in the mountains, mo
 The flow of alpine glaciers is driven by gravity, and primarily controlled by the slope of the ice surface (Figure \@ref(fig:figure-17-6)). Alpine glaciers grow due to accumulation of snow over time. In the __zone of accumulation__, the rate of snowfall is greater than the rate of melting. In other words, not all of the snow that falls each winter melts during the following summer, and the ice surface in the zone of accumulation does not lose its annual accumulation of snow cover over the course of the year. In the __zone of ablation__, the rate of melting exceeds accumulation. The __equilibrium line__ marks the boundary between the zones of accumulation (above) and ablation (below) (Figure \@ref(fig:figure-17-6)).
 
 ```{r figure-17-6, fig.cap='Schematic diagram illustrating alpine glacier ice-flow. _Source: Steven Earle (2015) CC BY 4.0_ _[view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/ice-flow-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Schematic-ice-flow-diagram.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-6.jpg")
 ```
 
 Above the equilibrium line of a glacier, winter snow will remain even after summer melting, so snow gradually accumulates on the glacier over time. The snow layer from each year is covered and compacted by subsequent snow, and it is gradually compressed and converted to __firn __(Figure \@ref(fig:figure-17-7)).
 
 ```{r figure-17-7, fig.cap='Steps in the process of formation of glacial ice from snow, granules, and firn. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/formation-of-glacial-ice.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/formation-of-glacial-ice.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-7.png")
 ```
 
 Firn is a form of ice that forms when snowflakes lose their delicate shapes and become granules due to compression. With more compression, the granules are squeezed together, and air is forced out. Eventually the granules are "welded" together to create glacial ice (Figure \@ref(fig:figure-17-7)). Downward percolation and freezing of water from melting contributes to the process of ice formation.
@@ -81,7 +81,7 @@ Firn is a form of ice that forms when snowflakes lose their delicate shapes and 
 The equilibrium line of a glacier near Whistler, BC, is shown in Figure \@ref(fig:figure-17-8) Below this line is the zone of ablation. In the zone of ablation, bare ice is exposed because the previous winter’s snow has all melted. Above this line the ice is still mostly covered with snow from the previous winter.
 
 ```{r figure-17-8, fig.cap='The approximate location of the equilibrium line (red) in September 2013 on the Overlord Glacier, near Whistler, B.C. _Source: Steven Earle (2015) CC BY 4.0, after Isaac Earle (n.d.) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/equilibrium-line.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/equilibrium-line.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-8.png")
 ```
 
 The position of the equilibrium line changes from year to year as a function of the balance between snow accumulation in the winter, and snow and ice melt during the summer. If there is more winter snow and less summer melting, this favours the advance of the equilibrium line down the glacier (and ultimately increases the size of the glacier). Between accumulation and melting, the summer melt matters most to a glacier’s ice budget. Cool summers promote an increase in glacier size, and thus lead to advance of the equilibrium line. Warm summers promote melting, and retreat of the equilibrium line.
@@ -91,7 +91,7 @@ Alpine glaciers move because they are heavy, and the force of gravity acts on th
 As shown in Figure \@ref(fig:figure-17-9), the stresses are relatively small near the ice surface but much larger at depth. Stresses are greater in areas where the ice surface is relatively steep.
 
 ```{r figure-17-9, fig.cap='Stress within an alpine glacier (red numbers) as determined from the slope of the ice surface and the depth within the ice. The ice will deform and flow where the stress is greater than about 100 kilopascals, and regions with higher rates of deformation are depicted by the red arrows. Any motion of the lower ice will be transmitted to the ice above it, so although the red arrows get shorter toward the top, the ice is still moving (blue arrows in centre of diagram inset illustrate rate of ice motion). The upper ice (above the red dashed line) does not flow plastically, but it is carried along with the lower ice. _Source: Joyce McBeth (2018) CC BY 4.0, modified after Steven Earle (2016) CC BY 4.0_ _[view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/ice-stress-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/ice_stress_mod_JM.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-9.png")
 ```
 
 Like rock, ice behaves in a brittle fashion under low pressure conditions (shallow depths in the glacier), and plastically at higher pressures (deeper in the glacier). Stress also affects how ice deforms; at high stress ice will either break or deform plastically (ductile deformation) depending on the pressure conditions. Under brittle deformation conditions (low pressures, shallow depths in the glacier), stress is released when the ice cracks, so does not build up to high values. Within the upper 50 - 100 m of ice (above the dashed red line, in Figure \@ref(fig:figure-17-9)), flow is brittle: the ice is rigid and will crack in response to stress.  Under ductile deformation conditions (higher pressures deeper in the glacier), stress can accumulate, and the ice will flow plastically in response to that stress. Ice deforms plastically if deeper than about 100 m in the glacier, and in this region stress levels can accumulate to high values (100 kilopascals or greater, Figure \@ref(fig:figure-17-9)).
@@ -101,13 +101,13 @@ When the lower ice of a glacier flows, it moves the upper ice along with it. It 
 The plastic lower ice of a glacier can flow over irregularities in the rocks under the glacier. However, the upper rigid ice cannot flow in this way, and because it is being carried along by the lower ice, it tends to crack in locations when the lower ice flows over changes in the topography below the glacier. This leads to formation of __crevasses__ in areas where the rate of flow of the deeper, plastic ice is changing. In the area shown in Figure \@ref(fig:figure-17-10), for example, the glacier is accelerating over the steep terrain, and the rigid surface ice cracks to release stress that accumulates due to the change in velocity and tension in the ice.
 
 ```{r figure-17-10, fig.cap='Crevasses in a glacier in Mount Cook National Park, New Zealand. _Source: Bernard Spragg (2008) CC0 1.0 __[ view source](https://flic.kr/p/dn5m8C)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Spragg_Mt_Cook_red-1024x757.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-10.jpg")
 ```
 
 In addition to deformation, another important aspect of glacier flow is __basal sliding__, which is sliding movement between the base of the glacier and the underlying material. The base of a glacier can be cold (below the freezing point of water) or warm (above the freezing point). If it is warm, a film of water can form between the ice and the material underneath, and the ice will be able to slide over this surface (Figure \@ref(fig:figure-17-11), left). If the base is cold, the ice will be frozen to the material underneath and it will be stuck — unable to slide along its base. In this case, all the movement of the ice will be by internal flow.
 
 ```{r figure-17-11, fig.cap='Differences in glacial ice motion with basal sliding (left) and without basal sliding (right). The dashed red line indicates the upper limit of plastic internal flow. _Source: Steven Earle (2016) CC BY 4.0_ _[view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/flow-rates-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/flow-rates-2.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-11.png")
 ```
 
 There are several factors that can influence warming of the ice and basal flow at the base of an alpine glacier. Friction between the base of the glacier and the surface underneath generates heat and can lead to melting of the ice at the base of the glacier. Rainwater and meltwater from upper regions of the glacier can percolate down and transfer heat to warm the base of the glacier and enhance basal sliding, particularly in warmer seasons. Geothermal heat from below also contributes to melting at the base of glaciers in regions with high heat flow due to volcanic activity.
@@ -115,13 +115,13 @@ There are several factors that can influence warming of the ice and basal flow a
 Another factor that controls the temperature at the base of a glacier is the thickness of the ice. The force of gravity acting on thicker ice can enhance friction and melting at the base. Ice is also a good insulator so can prevent accumulated heat from escaping. The leading edge of an alpine glacier is typically relatively thin (see Figure \@ref(fig:figure-17-9)), so it is common for this part to be frozen to its base while the rest of the glacier is still sliding. Since the leading edge of the glacier is frozen to the ground, and the rest of the glacier behind continues to slide forward, this causes the trailing ice to be pushed (or thrust) over top of the leading edge, forming thrust faults in the ice (Figure \@ref(fig:figure-17-12)).
 
 ```{r figure-17-12, fig.cap='Thrust faults at the leading edge of the Byron Glacier, Portage Lake, Alaska, USA. The dark stripes are sediments that were entrained in the base of the glacier ice and transported up along the thrust faults. _Source: Cindy Zackowitz (2011) CC BY-NC 2.0_ _[view source](https://flic.kr/p/akCttY)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Zackowitz_Byron_Glacier-1024x768.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-12.jpg")
 ```
 
 Just as the base of a glacier moves slower than the surface, the edges, which are more affected by friction along the channel walls, also move slower. If we were to place a series of markers across an alpine glacier and come back a year later, we would see that the ones in the middle had moved further forward than the ones near the edges (Figure \@ref(fig:figure-17-13)).
 
 ```{r figure-17-13, fig.cap='Markers on an alpine glacier move forward at different rates over a period of time. _Source: Steven Earle (2016) CC BY 4.0_ [_view source_](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/flow-before-after-2.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/flow-before-after-2-1024x316.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-13.png")
 ```
 
 Alpine glacial ice continuously moves down the slope of the ice in response to gravity, but it may not appear to be moving because the front edge of a glacier is also continuously losing volume. It either melts or, if they glacier terminates at a lake or ocean, the front edge will __calve__ into the water (break off pieces of the front edge of the glacier that become icebergs). If the rate of forward motion of the glacier is faster than the rate of __ablation__ (melting), the leading edge of the glacier advances (moves forward). If the rate of forward motion is about the same as the rate of ablation, the leading edge remains stationary, and if the rate of forward motion is slower than the rate of ablation, the leading-edge retreats (moves backward).
@@ -129,7 +129,7 @@ Alpine glacial ice continuously moves down the slope of the ice in response to g
 Calving of icebergs is an important process for glaciers that terminate in lakes or oceans. An example of such a glacier is the Berg Glacier on Mt. Robson (Figure \@ref(fig:figure-17-14)), which sheds small icebergs into Berg Lake. The Berg Glacier also lose mass by melting, evaporation, and sublimation.
 
 ```{r figure-17-14, fig.cap='Mt. Robson, the tallest peak in the Canadian Rockies, hosts the Berg Glacier (centre), and Berg Lake. Although there were no icebergs visible when this photo was taken, the Berg Glacier loses mass by shedding icebergs into Berg Lake. _Source: Steven Earle (2015) CC BY 4.0_ [_view source_](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Mt.-Robson.jpg)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Mt.-Robson.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-14.jpg")
 ```
 
 <div class="textbox textbox-exercise">
@@ -139,7 +139,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 These diagrams in Figure \@ref(fig:figure-17-15) represent a glacier with markers placed on its surface to determine the rate of ice motion over a one-year period. The ice is flowing from left to right.
 
 ```{r figure-17-15, fig.cap='Glacier with markers to show rate of motion. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Ice-Advance-and-Retreat.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Ice-Advance-and-Retreat.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-15.jpg")
 ```
 
 1. In the middle diagram, the leading edge of the glacier has advanced. Draw in the current position of the markers.
@@ -157,7 +157,7 @@ Glaciers are effective agents of erosion, especially in situations where the bas
 Continental glaciation tends to produce relatively flat bedrock surfaces, especially where the rock beneath is uniform in strength. In areas where there are differences in the strength of rocks, a glacier tends to erode the softer and weaker rock more effectively than the harder and stronger rock. Much of central and eastern Canada, which was completely covered by the huge Laurentide Ice Sheet at various times during the Pleistocene Epoch, has been eroded to a relatively flat surface. Glacial deposits have created distinctive topographic features on the landscapes in these regions — such as drumlins, eskers, and moraines (Figure \@ref(fig:figure-17-16)). These continental glacial features are deposits of glacial materials and are described further in Section 17.3.
 
 ```{r figure-17-16, fig.cap='Landscape features associated with continental glaciation _Source: Luis María Benítez (2005) CC BY 4.0 [view source](https://commons.wikimedia.org/wiki/File:Receding_glacier_landscape_LMB.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Receding_glacier_landscape_LMB.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-16.png")
 ```
 
 In areas of continental glaciation, the lithosphere is depressed by the weight of glacial ice that is up to 4,000 m thick. Basins formed along the edges of continental glaciers; for example, basins formed around the edges of the Laurentide Ice Sheet that once covered much of Canada (Section 17.4). These basins filled with glacial meltwater, and layers of sediments. Many such lakes, some of them huge, existed at various times along the southern edge of the Laurentide Ice Sheet.
@@ -169,49 +169,49 @@ One example of these lakes was Glacial Lake Missoula, which formed within Idaho 
 Alpine glaciers produce very different topography than continental glaciers. Alpine glaciers produce wide valleys with relatively flat bottoms and steep sides due to the erosion that occurs at the base and edges of the glaciers. These are known as __U-shaped valleys__ (Figure \@ref(fig:figure-17-17)). In contrast, unglaciated river valleys generally have a V shape.
 
 ```{r figure-17-17, fig.cap='A depiction of a U-shaped valley occupied by a large glacier. _Source: Steven Earle (2016) CC BY 4.0 _[_view source_](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/u-valley-2.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/U-shaped-valley.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-17.png")
 ```
 
 In coastal regions where the bottom of the valley is filled with water, the U-shaped valleys are called__ fjords__. The coastal mountains of BC have many fine examples of U-shaped valleys and fjords. For example, Howe Sound is a fjord that was once occupied by a large glacier. Howe Sound and most of its tributary valleys have pronounced U-shaped profiles due to glaciation (Figure \@ref(fig:figure-17-18)).
 
 ```{r figure-17-18, fig.cap='The view down the U-shaped valley of Mill Creek valley toward the U-shaped valley of Howe Sound, with the village of Britannia on the opposite side. _Source: Keefer4 (2005) CC BY-SA 2.5 [view source](https://commons.wikimedia.org/wiki/File:Woodf1a.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Woodf1a-817x1024.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-18.jpg")
 ```
 
 Several other topographic features derived from alpine glacial erosion are found in U-shaped valleys and their tributary valleys (Figure \@ref(fig:figure-17-19)). __Arêtes__ are sharp ridges formed between U-shaped glacial valleys. __Cols__ are low points (saddles) along arêtes; they form passes (high points) between glacial valleys__. Horns__ are steep peaks that have been eroded by glaciers and freeze-thaw activity on three or more sides. __Cirques__ are bowl-shaped basins that form at the head of a glacial valley, and __tarns__ are lakes that form when cirques are flooded. __Hanging valleys__ form when U-shaped valleys of tributary glaciers connect with a larger U-shaped valley; the tributary valley hangs above the main valley because the larger main-valley glacier is eroded more deeply into the terrain. __Truncated spurs__ (aka "spurs") are features at the ends of arêtes where the rock is eroded into steep triangle-shaped cliffs by the glacier in the main valley.
 
 ```{r figure-17-19, fig.cap='A diagram of some of the important alpine-glaciation erosion features. _Source: Steven Earle (2015) [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/alpine-glaciation-erosion.png). Modified after Luis María Benítez (2005) CC0 1.0 [view source](https://commons.wikimedia.org/wiki/File:Glacial_landscape_LMB.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/alpine-glaciation-erosion.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-19.png")
 ```
 
 Figure \@ref(fig:figure-17-20) shows examples of these features in the Swiss Alps. The area in the image was intensely glaciated during the past glacial maximum and still contains glaciers. The large U-shaped valley in the lower right was occupied by glacial ice historically, and all of the other glaciers shown here were longer and much thicker than they are now. But even at the peak of the Pleistocene glaciation, some of the higher peaks and ridges in this image would have been exposed and not directly affected by glacial erosion. A peak that extends above the surrounding glacier is called a __nunatak__. In these areas, and in the areas above the glaciers in the image today, most of the erosion is linked to freeze-thaw action.
 
 ```{r figure-17-20, fig.cap='A view of the Swiss Alps from the International Space Station, taken in 2006. The region shown is in the area of the Aletsch Glacier. The prominent peaks labelled "Horn" are the famous mountain peaks the Eiger (left) and Wetterhorn (right). A variety of alpine glacial erosion features are labelled. _Source: Steven Earle (2016) [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/aletsch-2.png). Modified after NASA Earth Observatory (n.d.) Public Domain [view source](https://earthobservatory.nasa.gov/IOTD/view.php?id=7195)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/aletsch-2.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-20.png")
 ```
 
 A __roche moutonnée__ is aglacial erosion feature that forms when a glacier moves over an outcrop of bedrock. Roche moutonn__é__es consist of a hill of rock, often with a smooth, often low angle slope on one side, and a steeper and jagged slope on the other side. The side that is smooth and relatively low angle is the side the glacier was flowing from, and the a steep and sometimes jagged side is the direction the ice was moving (Figure \@ref(fig:figure-17-21), left).
 
 ```{r figure-17-21, fig.cap='Roche moutonn__é__e near Myot Hill, Scotland. _Source: Chris Upson (2006) CC BY-SA 2.0 _[_view_ _source_](https://commons.wikimedia.org/wiki/File:Roche_moutonn%C3%A9e_below_Myot_Hill_-_geograph.org.uk_-_164736.jpg)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Roche_moutonnée_below_Myot_Hill_-_geograph.org_.uk_-_164736.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-21.jpg")
 ```
 
 __Glacial grooves__ (tens of centimetres to metres wide) and __glacial striae__ (millimetres to centimetres wide) are created by the erosion caused by fragments of rock embedded in the ice at the base of a glacier (Figure \@ref(fig:figure-17-22), left and right). Glacial striae are very common on rock surfaces eroded by both alpine and continental glaciers. __Glacial polish__ occurs when the abrasion of the rock by the glacier renders the rock so smooth it reflects light.
 
 ```{r figure-17-22, fig.cap='Examples of glacial striae from near Squamish, BC. Ice flow was from right to left in both images. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/squamish-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/squamish-2.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-22.png")
 ```
 
 Lakes are common features in glacial environments. A lake that is confined to a glacial cirque is known as a __tarn__ (Figure \@ref(fig:figure-17-23)). Tarns are common in areas of alpine glaciation because the ice that forms a cirque typically carves out a depression in bedrock that can then fill with water. Moraines, which are linear deposits of glacial sediments (till) left by the glacier along its edges, can form a dam at the end of a tarn. Often, a series of moraines will form as glaciers recede. These can act as water dams, and result in strings of lakes called __rock basin lakes__ or __paternoster lakes__.
 
 ```{r figure-17-23, fig.cap='Lower Thornton Lake, a tarn, in the Northern Cascades National Park, Washington. _Source: Jeff Pang (2007) CC BY 2.0 [ view source](https://flic.kr/p/5QAUba)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Jeff_P_Trappers_Peak-1024x544.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-23.jpg")
 ```
 
 A lake that occupies a glacial valley is known as a __finger lake__. In some cases, a finger lake is confined by a dam formed by an end moraine, in which case it may be called a __moraine lake__ (Figure \@ref(fig:figure-17-24)). Another type of glacial lake is a __kettle lake__. These are discussed in section 17.4 in the context of glacial deposits.
 
 ```{r figure-17-24, fig.cap='Peyto Lake in the Alberta Rockies, is both a finger lake and a moraine lake, as it is flooding a glacial valley, and is dammed by an end moraine at right. _Source: Jeff Hollet (2016) Public Domain [view source](https://flic.kr/p/HJVqwo)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Jeff_Hollett_Peyto_Lake-1024x583.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-24.jpg")
 ```
 
 <div class="textbox textbox-exercise">
@@ -221,7 +221,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 Figure \@ref(fig:figure-17-25) is a photo of Mt. Assiniboine in the BC Rocky Mountains. What are the features at locations __a__ through __e__? Look for one of each of the following: a horn, an arête, a truncated spur, a cirque, and a col. Try to identify some of the numerous other arêtes in this view, as well as another horn.
 
 ```{r figure-17-25, fig.cap='Glacial erosion features of Mt. Assiniboine. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Glacial-Erosion-Features.png). Modified after Kurt Stegmüller (2008) CC BY 3.0 [view source](https://commons.wikimedia.org/wiki/File:Mount_Assiniboine_Sunburst_Lake.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Glacial-Erosion-Features.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-25.png")
 ```
 
 </div>
@@ -233,13 +233,13 @@ Sediments transported and deposited during glaciations are abundant throughout C
 Figure \@ref(fig:figure-17-26) illustrates some of the ways that sediments are transported and deposited by alpine glaciers. The Bering Glacier is the largest glacier in North America, and although most of it is in Alaska, it flows from an icefield that extends into the southwestern Yukon Territory. The surface of the ice is partially, or in some cases completely, covered with rocky debris that has fallen onto the glacier from surrounding steep rock faces. There are muddy rivers issuing from the glacier in several locations, depositing sediment on land, into Vitus Lake, and directly into the ocean. Icebergs are portions of the glacier that have broken off and float away in a lake or ocean. Icebergs are laden with glacial sediments, which are released and deposited as the icebergs melt. Also, not visible in this view, there are sediments being moved along within and beneath the glacier itself.
 
 ```{r figure-17-26, fig.cap='Part of the Bering Glacier in southeast Alaska, the largest glacier in North America. It is about 14 km in width in the centre of this view. _Source: Roger Simmon, Landsat 7 Science Team, NASA (2002) Public Domain [view source](https://earthobservatory.nasa.gov/IOTD/view.php?id=4710)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/bering_etm_2002272_lrg-1024x834.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-26.jpg")
 ```
 
 Sediments are formed and transported in several ways in glacial environments (Figure \@ref(fig:figure-17-27)). There are many different kinds of glacial sediments, which are generally classified by whether they are transported on, within, or beneath the glacial ice.
 
 ```{r figure-17-27, fig.cap='A depiction of the various types of sediments associated with the Bering Glacier. The glacier is shown in cross-section. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/glacier-cross-section-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/glacier.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-27.png")
 ```
 
 __Supraglacial__ (on top of the ice) and __englacial__ (within the ice) sediments are released from the melting front of a stationary glacier. These sediments can form a ridge of unsorted sediments called an __end moraine__. The end moraine from the furthest advance of a glacier is called a __terminal moraine__. The general name for any sediments transported and deposited by glacial ice is __till.__
@@ -247,7 +247,7 @@ __Supraglacial__ (on top of the ice) and __englacial__ (within the ice) sediment
 __Subglacial __sediment (e.g., __lodgement till__) is material that has been eroded from the rock underlying the glacier by the ice and then transported by the ice. It has a wide range of grain sizes, including a relatively high proportion of silt and clay. The larger clasts (pebbles to boulders in size) tend to become partly rounded by abrasion. When a glacier eventually melts, the lodgement till is exposed as a sheet of well-compacted sediment ranging from several centimetres to many metres in thickness. Lodgement till is normally poorly sorted and does not contain bedding features like a lake or stream sediment (Figure \@ref(fig:figure-17-28)).
 
 ```{r figure-17-28, fig.cap='Examples of glacial till: a: lodgement till from the front of the Athabasca Glacier, Alberta; b: ablation till at the Horstman Glacier, Blackcomb Mountain, BC. _Source: Steven Earle (2016) CC BY 4.0_ [_view source_](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/till-2.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/till-2.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-28.png")
 ```
 
 Supraglacial sediments are primarily derived from freeze-thaw eroded material that has fallen onto the ice from rocky slopes above. These sediments form __lateral moraines__ (moraine deposits along the edges of the glacier, see Figure \@ref(fig:figure-17-1) for an example). Where two glaciers meet, the sediments form __medial moraines__ (medial moraines are visible in Figure \@ref(fig:figure-17-20) and Figure \@ref(fig:figure-17-26).) Most of this material is deposited on the ground when the ice melts. This is called __ablation till__, a mixture of fine and coarse angular rock fragments, with much less sand, silt, and clay than lodgement till (Figure \@ref(fig:figure-17-28)). When supraglacial sediments become incorporated into the body of the glacier, they are known as englacial sediments (Figure \@ref(fig:figure-17-27)).
@@ -255,31 +255,31 @@ Supraglacial sediments are primarily derived from freeze-thaw eroded material th
 Water flows on the surface, within, and at the base of a glacier, even in cold areas and even when the glacier is advancing. Depending upon its velocity, this water is able to transport sediments of various sizes, and discharges most of these sediments out of the lower end of the glacier, where they are deposited as __outwash sediments__. These sediments accumulate in a wide range of environments in the __proglacial__ region (the area in front of a glacier). Most of the sediments accumulate in fluvial environments, but some are deposited in lacustrine and marine environments. __Glaciofluvial sediments__ are similar to sediments deposited in normal fluvial environments, but are glacially-derived sediments, and are thus dominated by silt, sand, and gravel. The grains tend to be moderately well rounded and sorted, and the sediments have similar sedimentary structures (e.g., bedding, cross-bedding, clast imbrication [overlapping]) to those formed by non-glacial streams (Figure \@ref(fig:figure-17-29)).
 
 ```{r figure-17-29, fig.cap='Examples of glaciofluvial sediments: a: glaciofluvial cross-bedded sand of the Quadra Sand Formation at Comox, BC.; b: glaciofluvial gravel and sand, Nanaimo, BC. _Source: Steven Earle (2016) CC BY 4.0_ [_view source_](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/gf-2.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/gf-2.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-29.png")
 ```
 
 A large proglacial plain of sediment is called a __sandur__ (aka __outwash plain__)__, __and within this area, glaciofluvial deposits can be tens of metres thick. In situations where a glacier is receding, a block of ice might become separated from the main ice sheet and become buried in glaciofluvial sediments. When the ice block eventually melts, a depression forms, known as a __kettle__, and if this fills with water, it is known as a __kettle lake __(Figure \@ref(fig:figure-17-30), 17.32). Kettle lakes are also known as pothole lakes or prairie potholes.
 
 ```{r figure-17-30, fig.cap='A kettle lake amid vineyards and orchards in the Osoyoos area of BC. _Source: Steven Earle (2015) CC BY 4.0_ [_view source_](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/kettle-2.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/kettle-2.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-30.png")
 ```
 
 A supraglacial, englacial, or subglacial stream will create its own channel within the ice, and sediments that are being transported and deposited by the stream will build up within that channel. When the ice melts, the sediment will be deposited upon the underlying ground surface to form a long sinuous ridge known as an __esker__. Eskers are most common in areas of continental glaciation. They can be several metres high, tens of metres wide, and tens of kilometres long (Figure \@ref(fig:figure-17-31)). Eskers are commonly comprised of well-sorted sands.
 
 ```{r figure-17-31, fig.cap='Part of an esker that formed beneath the Laurentide Ice Sheet in northern Canada. _Source: Gord McKenna (1986) CC BY-NC-ND 2.0 [ view source](https://flic.kr/p/9WTG5j)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/McKenna_esker-672x1024.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-31.jpg")
 ```
 
 Drumlins are elongated, oval shaped ridges of englacial to subglacial sediments that form at the base of continental glaciers. They are often tens of metres high and hundreds of metres long, and often occur in clusters ("fields") of tens to hundreds of drumlins (Figure \@ref(fig:figure-17-32)). As the sediments are deposited, the glacier molds the drumlins’ shapes as the glacier moves over and around them. The long axis of a drumlin is aligned with the direction that the ice moved when the drumlin was deposited.
 
 ```{r figure-17-32, fig.cap='Drumlins and kettle lakes viewed from the air near Fort St John, BC. There are numerous drumlins in the image; one is outlined in red. Can you spot the others? Note the alignment of the long axes of the drumlins. _Source: Joyce McBeth (2002) CC-BY 4.0._ __Click the image for a higher resolution version__.'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Drumlins_sm.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-32.png")
 ```
 
 Glacial outwash streams commonly flow into __proglacial lakes__ (lakes in front of glaciers) where __glaciolacustrine sediments__ are deposited. These are dominated by silt- and clay-sized particles and are typically laminated (finely layered) on the millimetre scale. In some cases, __varves__ develop. Varves are a series of beds with distinctive summer and winter layers: relatively coarse in the summer when melt discharge is high, and finer in the winter, when discharge is low. Icebergs are common in proglacial lakes, and most of them contain englacial sediments of various sizes. As the icebergs melt, the released clasts sink to the bottom and are incorporated into the glaciolacustrine layers as __drop stones__ (Figure \@ref(fig:figure-17-33)a). The processes that occur in proglacial lakes can also take place where a glacier terminates in the ocean. The sediments deposited there are called __glaciomarine sediments__ (Figure \@ref(fig:figure-17-33)b).
 
 ```{r figure-17-33, fig.cap='Examples of glaciolacustrine and glaciomarine sedimentary structures. a: varved glaciolacustrine sediments containing a drop stone, Nanaimo, BC.; and b: a laminated glaciomarine sediment, Englishman River, BC. _Source: Steven Earle (2016) CC BY 4.0_ [_view source_](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/gl-gm-2.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/gl-gm-2.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-33.png")
 ```
 
 <div class="textbox textbox-exercise">
@@ -302,7 +302,7 @@ Refer to the photo of the Bering Glacier in Alaska shown in Figure \@ref(fig:fig
 We are currently living in the middle of a __glacial period__, though it is less intense now than it was 20,000 years ago. This is not the only period of glaciation in Earth’s history; there have been many in the distant past (Figure \@ref(fig:figure-17-34)). In general, however, over the course of Earth’s history the Earth’s surface has been warm and ice-free for longer periods than it has been cold and glaciated.
 
 ```{r figure-17-34, fig.cap='The record of major past glaciations during Earth’s history. Source: _Steven Earle (2015) CC BY 4.0_ [_view source_](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/major-past-glaciations.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/major-past-glaciations-1024x306.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-34.png")
 ```
 
 <h1 class="mceTemp">Pre-Cenozoic Glaciations</h1>
@@ -321,13 +321,13 @@ Earth was warm and essentially unglaciated throughout the Mesozoic. Although the
 A warm climate persisted into much of the Cenozoic; there is evidence that the Paleocene (from about 50 to 60 Ma) was the warmest part of the Phanerozoic since the Cambrian (Figure \@ref(fig:figure-17-35)).
 
 ```{r figure-17-35, fig.cap='Global temperature trends over the past 65 Ma (the Cenozoic). From the end of the Paleocene to the height of the Pleistocene glaciation, global average temperature dropped by about 14°C. _ Source: Joyce McBeth (2018) CC BY 4.0. Modified after Steven Earle (2015) CC BY 4.0 ([view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/cenozoic-t-2.png)) and Makiko Sato &amp; James Hansen (_2012), _including data from Zachos et al (2008) _[_view original_](http://www.columbia.edu/~mhs119/Sensitivity+SL+CO2/)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Cenozoic_temp_trends.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-35.png")
 ```
 
 A number of tectonic events during the Cenozoic have contributed to persistent and significant planetary cooling from 50 Ma to near the present. For example, the collision of the Indian plate with the Eurasian plate and the formation of the Himalayan range and the Tibetan Plateau. Mountain building events such as the formation of the Himalayas are followed by weathering and erosion of the uplifted rocks. Higher than normal global rates of silicate mineral weathering associated with mountain building, especially weathering of feldspar, leads to a decrease in carbon dioxide concentrations in the atmosphere. This contributes to global climate cooling.
 
 ```{r figure-17-36, fig.cap='The Antarctic Circumpolar Current (red arrows) prevents warm water from the rest of Earth’s oceans from reaching Antarctica. _Source: Steven Earle (2015) CC BY 4.0_ [_view source_](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Antarctic-Circumpolar.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Antarctic-Circumpolar.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-36.png")
 ```
 
 At 40 Ma, ongoing plate motion widened the narrow gap between South America and Antarctica, resulting in the opening of the Drake Passage. This allowed for unrestricted west-to-east flow of water around Antarctica: the Antarctic Circumpolar Current (Figure \@ref(fig:figure-17-36)), which effectively isolated the Southern Ocean from the warmer waters of the Pacific, Atlantic, and Indian Oceans. The region cooled significantly, and by 35 Ma (Oligocene) glaciers had started to form on Antarctica.
@@ -339,7 +339,7 @@ The expansion of the Antarctic ice sheet increased reflection of solar radiation
 The Pleistocene Epoch of the Cenezoic Era (2.58 Ma to 0.126 Ma), is also known as the Ice Age, Pleistocene Glaciation, or Quaternary Glaciation. The Pleistocene has been characterized by temperature fluctuations over a range of almost 10°C on time scales of 40,000 to 100,000 years. These temperature variations have corresponding with expansion and contraction of ice sheets. The temperature variations are attributed to subtle changes in Earth’s orbit, tilt, and wobble. These cyclical changes are called __Milankovitch cycles__. Over the past million years, the glaciation cycles have cycled over every 100,000 years, approximately (Figure \@ref(fig:figure-17-37)).
 
 ```{r figure-17-37, fig.cap='Foram oxygen isotope record for the past 5 million years based on O isotope data from sea-floor sediments _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Foram-oxygen-isotope-record.png). Data from Lisiecki and Raymo (2005). [Access the data](http://www.lorraine-lisiecki.com/stack.html)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Foram-oxygen-isotope-record.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-37.png")
 ```
 
 ### The Wisconsinian Glaciation
@@ -347,7 +347,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 The __Wisconsinan Glaciation __was the last major continental glaciation in _ North America _(from 150-50 ka). During the Wisconsinan, all of Canada and a small portion of the northern United States was covered with continental glaciers (Figure \@ref(fig:figure-17-38)). The massive __Laurentide Ice Sheet__ covered most of eastern Canada, as far west as the Rockies, and the smaller __Cordilleran Ice Sheet__ covered most of the western region of present day BC and the Yukon Territory. At various other glacial peaks during the Pleistocene and Pliocene, the ice extent was similarly distributed over North America, and in some cases, was even more extensive. The combined Laurentide and Cordilleran Ice Sheets were comparable in volume to the current Antarctic Ice Sheet.
 
 ```{r figure-17-38, fig.cap='Extent of northern hemisphere ice sheets near the peak of the Wisconsinan Glaciation (grey shading). Interglacial ice is shown in black. _Source: Hannes Grobe (2008) CC BY 3.0 [view source](https://commons.wikimedia.org/wiki/File:Iceage_north-intergl_glac_hg.png)<br>_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/768px-Iceage_north-intergl_glac_hg.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-38.png")
 ```
 
 <div class="textbox textbox-exercise">
@@ -359,7 +359,7 @@ Figure \@ref(fig:figure-17-39) shows the past 500,000 years of the data set used
 The current interglacial period (Holocene) is marked with an H. Point out the previous five interglacial periods.
 
 ```{r figure-17-39, fig.cap='Global mean temperatures over the last 500,000 years. _Source: Steven Earle (2015) CC BY 4.0 ([view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Glacials-and-Interglacials-.png)), using data from Lisiecki and Raymo (2005) [Access the data](http://www.lorraine-lisiecki.com/stack.html)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Glacials-and-Interglacials-.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-39.png")
 ```
 
 </div>
@@ -399,7 +399,7 @@ There have been many glaciations in Earth’s past, the oldest known starting ab
 6. Figure \@ref(fig:figure-17-40) shows thrust faults in the leading edge of the Athabasca glacier in Alberta. Find the thrust faults in the glacier. Note: they are harder to distinguish in this image than in Figure \@ref(fig:figure-17-12) because they don’t have sediments along the faults.
 
 ```{r figure-17-40, fig.cap='Edge of the Athabasca glacier in Alberta. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/thrusting-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Athabasca-Glacier.jpg")
+knitr::include_graphics("figures/17-glaciation/figure-17-40.jpg")
 ```
 
 7. What ice conditions are necessary for basal sliding to take place?
@@ -427,7 +427,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 18. Four examples of glacial sediments are shown in Figure \@ref(fig:figure-17-41) below. Describe the important characteristics (e.g., sorting, layering, grain-size range, grain shape, sedimentary structures) of each, and give each a name (choose from glaciofluvial, glaciolacustrine, lodgement till, ablation till, and glaciomarine).
 
 ```{r figure-17-41, fig.cap='Examples of glacial sediments. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/question-13.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/examples-of-glacial-sediments.png")
+knitr::include_graphics("figures/17-glaciation/figure-17-41.png")
 ```
 
 ## Answers to Chapter Review Questions

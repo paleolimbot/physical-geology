@@ -4,7 +4,7 @@
 _Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-3-1, fig.cap='The red rocks of the Tablelands in Gros Morne National Park are a sample of Earth\'s mantle. Top: The red rocks of the Tablelands are on the right, and stand in contrast with the green surroundings. Bottom: A closer view of Tablelands terrain, showing rocks weathered red, and a near absence of plant life. _Source: Top photograph- Leos Kral (2008) CC BY-NC-SA 2.0 [view source](https://flic.kr/p/6J9p2G); Bottom photograph: Tara Joyce (2013) CC BY-SA 2.0 [view source](https://flic.kr/p/ghdf6j). Click the image for more attributions._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Tablelands.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-1.png")
 ```
 
 <div class="textbox learning-objectives">
@@ -24,13 +24,13 @@ After reading this chapter and completing the review questions at the end, you s
 The barren red rocks of the Tablelands stand in stark contrast to their lush green surroundings in Gros Morne National Park (Figure \@ref(fig:figure-3-1), top). If the Tablelands appear out of place, it's because they are. The Tablelands are one of few places on Earth where you can walk directly on the rocks of Earth's mantle, thanks to an accident of plate tectonics that happened hundreds of millions of years ago. The red colour of the Tablelands rocks comes from iron-bearing minerals reacting with oxygen. Unaltered, the rocks are dark green (Figure \@ref(fig:figure-3-2)). The rocks lack vegetation because the chemical composition of the rocks does not provide adequate nutrients for plants.
 
 ```{r figure-3-2, fig.cap='Tablelands mantle rock with reddish weathering rind, and dark green fresh surface. Scale in cm. _Source: Karla Panchuk (2017) CC BY 4.0_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Tablelands-ophiolite-1024x660.jpeg")
+knitr::include_graphics("figures/03-earths-interior/figure-3-2.jpeg")
 ```
 
 Locations like the Tablelands are one way we can learn about Earth's interior. Meteorites derived from smashed differentiated bodies (asteroids that separated into mantle and core) are another. Asteroids that formed at a similar distance from the sun as Earth had a mineral composition akin to Earth's. When these objects were shattered in giant collisions, the result was stony meteorites from fragmented mantle rock, and iron meteorites from fragmented core. Some fragments sampled the result of violent encounters that mixed the two (Figure \@ref(fig:figure-3-3)).
 
 ```{r figure-3-3, fig.cap='Cut and polished slab of a stony-iron meteorite called a pallasite, thought to have formed in a collision that smashed mantle rocks against the metal core of an asteroid early in the solar system\'s history. Green and brown crystals are the mineral olivine. The metal between the olivine crystals is an iron-nickel mineral. _Source: Muséum de Toulouse (2012) CC BY-NC 2.0 [view source](https://flic.kr/p/czLSPb)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/MdeToulouse_pallasite-1024x768.jpg")
+knitr::include_graphics("figures/03-earths-interior/figure-3-3.jpg")
 ```
 
 We also get information about the structure of Earth's interior by analyzing the speeds and paths of earthquake vibrations, called __seismic waves__.
@@ -42,7 +42,7 @@ We need to know something about the inside of our planet— what it’s made of,
 Earth consists of three main layers: the __crust__, the __mantle__, and the __core __(Figure \@ref(fig:figure-3-4)). The core accounts for almost half of Earth's radius, but it amounts to only 16.1% of Earth's volume. Most of Earth's volume (82.5%) is its mantle, and only a small fraction (1.4%) is its crust.
 
 ```{r figure-3-4, fig.cap='Earth\'s interior. Right- crust, mantle, and outer and inner core to scale. Left- Cutaway showing continental and ocean crust, and upper mantle layers. The lithosphere is the crust plus the uppermost layer of the mantle. _Source: Karla Panchuk (2018) CC BY 4.0. Earth photo by NASA (n.d.) Public Domain [view source](https://www.nasa.gov/sites/default/files/thumbnails/image/edu_what_is_earth_0.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/earth_interior-1024x617.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-4.png")
 ```
 
 ### Crust
@@ -60,7 +60,7 @@ The mantle is almost entirely solid rock, but it is in constant motion, flowing 
 Rocks higher in the mantle are typically composed of __peridotite__, a rock dominated by the minerals olivine and pyroxene. The Tablelands rock in Figure \@ref(fig:figure-3-2) is a type of peridotite. Lower in the mantle, extreme pressures transform minerals and create rocks like __eclogite__ (Figure \@ref(fig:figure-3-5)), which contains garnets.
 
 ```{r figure-3-5, fig.cap='Eclogite from the Swiss-Italian Alps. Reddish brown spots are garnets. _Source: James St. John (2014) CC BY 2.0 [view source](https://flic.kr/p/oHFd9D)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/JSt_John_eclogite-1024x557.jpg")
+knitr::include_graphics("figures/03-earths-interior/figure-3-5.jpg")
 ```
 
 #### Lithosphere
@@ -92,7 +92,7 @@ Another feature of seismic waves is that some, called __P-waves__, can travel ra
 Seismic waves travel in all directions from their source, but it is convenient to imagine the path traced by one point on the wave front, and represent that path as a __seismic ray__ (arrows, Figure \@ref(fig:figure-3-6)).
 
 ```{r figure-3-6, fig.cap='Seismic waves and seismic rays. The paths of seismic waves can be represented as rays. Seismic ray paths are bent when they enter a rock layer with a different seismic velocity. _Source: Karla Panchuk (2018) CC BY 4.0_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/ray_path-1024x365.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-6.png")
 ```
 
 When seismic waves encounter a different rock layer, some might bounce off the layer, or __reflect__, as in the bottom layer of Figure \@ref(fig:figure-3-6). But some waves will travel through the layer. If the wave travels at a different speed in the new layer, its path will be bent, or __refracted__, as it crosses into the new layer. If the wave can travel faster in the new layer, it will be bent slightly toward the contact between the two layers. In Figure \@ref(fig:figure-3-6), the ray can travel progressively faster in each layer as it goes down through the layers, and it is bent slightly upward each time it crosses into the next layer. The reverse happens if the wave slows down. On the right side of the diagram, the wave is moving upward through slower and slower layers. It is bent away from the faster layer each time, causing it to take a more direct path to the surface.
@@ -106,7 +106,7 @@ Seismic velocities are higher in more rigid layers, so broadly speaking, they ge
 One of the first discoveries about Earth’s interior made through seismology was in the early 1900s by Croatian seismologist Andrija Mohorovičić (pronounced _Moho-ro-vi-chich_). He noticed that sometimes, seismic waves arrived at seismic stations (measuring locations) farther from an earthquake _before _they arrived at closer ones. He reasoned that the waves that traveled farther were faster because they bent down and traveled faster through different rocks (those of the mantle) before being bent upward back into the crust (Figure \@ref(fig:figure-3-7)).
 
 ```{r figure-3-7, fig.cap='Depiction of seismic waves emanating from an earthquake (red star). Some waves travel through the crust to the seismic station (at ~6 km/s), while others go down into the mantle (where they travel at ~8 km/s) and are bent upward toward the surface, reaching the station before the ones that travelled only through the crust._ Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/moho.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/moho_SE-1024x244.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-7.png")
 ```
 
 The boundary between the crust and the mantle is now known as the __Mohorovičić discontinuity__ (or Moho). Its depth is between 60 – 80 km beneath major mountain ranges, 30 – 50 km beneath most of the continental crust, and 5 – 10 km beneath ocean crust.
@@ -116,7 +116,7 @@ The boundary between the crust and the mantle is now known as the __Mohoroviči�
 Arguments for a liquid outer core were supported by a distinctive signature in the global distribution of seismic waves from earthquakes. When an earthquake occurs, there is a zone on the opposite side of Earth where S-waves are not measured. This __S-wave shadow zone__ begins 103° on either side of the earthquake, for a total angular distance of 154° (Figure \@ref(fig:figure-3-8), left).There is also a __P-wave shadow zone__ on either side of the earthquake, from 103° to 150° (Figure \@ref(fig:figure-3-8), right).
 
 ```{r figure-3-8, fig.cap='Patterns of seismic wave propagation through Earth’s mantle and core. S-waves do not travel through the liquid outer core, so they leave a shadow on Earth’s far side. P-waves do travel through the core, but because the waves that enter the core are refracted, there are also P-wave shadow zones. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/shadow-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/shadow-2-SE-1024x480.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-8.png")
 ```
 
 The S-wave shadow zone occurs because S-waves cannot travel through the liquid outer core. The P-wave shadow zone occurs because seismic velocities are much lower in the liquid outer core than in the overlying mantle, and the P-waves are refracted in a way that leaves a gap. Not only do the shadow zones tell us that the outer core is liquid, the size of the shadow zones allows us to calculate the size of the core, and the location of the core-mantle boundary.
@@ -126,7 +126,7 @@ The S-wave shadow zone occurs because S-waves cannot travel through the liquid o
 The change seismic wave velocity with depth in Earth (Figure \@ref(fig:figure-3-9)) has been determined over the past several decades by analyzing seismic signals from large earthquakes all around the world. Earth's layers are detectable as changes in velocity with depth. The asthenosphere is visible as a low velocity zone within the upper mantle (Figure \@ref(fig:figure-3-9), left). There is an abrupt increase in P-wave velocity at 420 km, showing the depth at which minerals transform into structures that are more stable at higher pressures and temperatures.
 
 ```{r figure-3-9, fig.cap='P-wave and S-wave velocity variations with depth from the crust through the upper mantle (left) and from the crust through to the core (right). _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2016) CC BY 4.0 [view source left](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image015.png)/ [right](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image013.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/seismic_profile-1024x692.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-9.png")
 ```
 
 The boundary between the upper and lower mantle is visible at 660 km as a sudden change from rapidly increasing P- and S-wave velocities to slow or no change in P-wave and S-wave velocities (Figure \@ref(fig:figure-3-9), right). The core-mantle boundary (CMB in Figure \@ref(fig:figure-3-9)) is apparent as a sudden drop in P-wave velocities, where seismic waves move from solid mantle to liquid outer core. The boundary between the outer core and inner core is marked by a sudden increase in P-wave velocity after 5000 km, where seismic waves move from a liquid back into a solid again.
@@ -136,7 +136,7 @@ The boundary between the upper and lower mantle is visible at 660 km as a sudden
 Using data from many seismometers and hundreds of earthquakes, it is possible to create images from the seismic properties of the mantle. This technique is known as __seismic tomography__. Tomography can be used to map out slabs of lithosphere that are entering the mantle, or have disappeared within it. Those slabs are cooler, and therefore more rigid than surrounding mantle rocks, so seismic waves travel through them faster. In Figure \@ref(fig:figure-3-10), higher-than-average seismic velocities in cool slabs are indicated in dark blue.
 
 ```{r figure-3-10, fig.cap='P-waves and S-waves used to map out the location of the Cocos slab of lithosphere. The slab appears in dark blue, indicating higher than average seismic wave velocities. Left- Tomograms showing seismic wave anomalies for a 1290 km surface. Right- Cross-sections along the transect marked X-Y on the globe. _Source: Karla Panchuk (2018) CC BY 4.0, modified after van der Meer et al. (2018) CC BY 4.0 [view source](http://www.atlas-of-the-underworld.org/Cocos/)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Cocos_slab-1024x522.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-10.png")
 ```
 
 Thanks to the tomograms, we can see that the Cocos plate, which is colliding with Central America, is part of a much larger slab of lithosphere that has already settled onto the mantle. Tomograms representing a surface at 1290 km depth (Figure \@ref(fig:figure-3-10), left) show that at that level, the Cocos slab is beneath the Caribbean Sea. The tomograms on the right show a vertical view along the line X-Y marked on the globe. The vertical tomograms show us that the Cocos slab extends all the way down to the core-mantle boundary.
@@ -158,7 +158,7 @@ Create your own tomographic cross-sections for locations anywhere in the world b
 Earth’s temperature increases with depth, but not at a uniform rate (Figure \@ref(fig:figure-3-11)). Earth's __geothermal gradient__ is 15° to 30°C/km within the crust. It then drops off dramatically through the mantle, increases more quickly at the base of the mantle, and then increases slowly through the core. The temperature is approximately 1000°C at the base of the crust, around 3500°C at the base of the mantle, and approximately 6,000°C at Earth’s centre.
 
 ```{r figure-3-11, fig.cap='Geothermal gradient (change in temperature with depth). Left- Geothermal gradient in the crust and upper mantle. The geothermal gradient remains below the melting temperature of rock, except in the asthenosphere. There, temperatures are high enough to melt some of the minerals. Right- Geothermal gradient throughout Earth. Rapid changes occur in the uppermost mantle, and at the core-mantle boundary. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2016) CC BY 4.0 [view source left](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/temp-profile-2.png)/ [right](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/temp-profile-1.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/geothermal_gradient-1024x700.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-11.png")
 ```
 
 The temperature gradient within the lithosphere varies depending on the tectonic setting. Gradients are lowest in the central parts of continents, higher where plates collide, and higher still at boundaries where plates are moving away from each other.
@@ -170,7 +170,7 @@ In spite of high temperatures within Earth, mantle rocks are almost entirely sol
 The fact that the temperature gradient is much lower in the main part of the mantle than in the lithosphere has been interpreted as evidence of __convection__ in the mantle. When the mantle convects, heat is transferred through the mantle by physically moving hot rocks. Mantle convection is the result of heat transfer from the core to the base of the lower mantle. As with a pot of soup on a hot stove (Figure \@ref(fig:figure-3-12)), the material near the heat source (the soup at the bottom of the pot) becomes hot and expands, making it less dense than the material above. Buoyancy causes it to rise, and cooler material flows in from the sides. Of course, convection in the soup pot is much faster than convection in the mantle. Mantle convection occurs at rates of centimetres per year.
 
 ```{r figure-3-12, fig.cap='Convection in a pot of soup on a hot stove (left). As long as heat is being transferred from below, the liquid will convect. If the heat is turned off (right), the liquid remains hot for a while, but convection will cease. _Source: Steven Earle (2015) CC-BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0311.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/convection_soup_pot-300x108.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-12.png")
 ```
 
 Convection carries heat to the surface of the mantle much faster than heating by __conduction__. Conduction is heat transfer by collisions between molecules, and is how heat is transferred from the stove to the soup pot. A convecting mantle is an essential feature of plate tectonics, because the higher rate of heat transfer is necessary to keep the asthenosphere weak. Earth’s mantle will stop convecting once the core has cooled to the point where there is not enough heat transfer to overcome the strength of the rock. This has already happened on smaller planets like Mercury and Mars, as well as on Earth’s moon. When mantle convection stops, the end of plate tectonics will follow.
@@ -180,7 +180,7 @@ Convection carries heat to the surface of the mantle much faster than heating by
 In the soup pot example, convection moves hot soup from the bottom of the pot to the top. Some geologists think that Earth's convection works the same way— hot rock from the base of the mantle moves all the way to the top of the mantle before cooling and sinking back down again. This view is referred to as __whole-mantle convection__ (Figure \@ref(fig:figure-3-8), left). Other geologists think that the upper and lower mantle are too different to convect as one. They point to slabs of lithosphere that are sinking back into the mantle, some of which seem to perch on the boundary between the upper and lower mantle, rather than sinking straight through. They also note chemical differences in magma originating in different parts of the mantle— differences that are not consistent with the entire mantle being well stirred. They argue that __double-layered convection__ is a better fit with the observations (Figure \@ref(fig:figure-3-13), right). Still others argue that there may be some locations where convection goes from the bottom of the mantle to the top, and some where it doesn't (Figure \@ref(fig:figure-3-13), middle).
 
 ```{r figure-3-13, fig.cap='Models of mantle convection. Left- whole mantle convection. Rocks rise from the core-mantle boundary to the top of the mantle, then sink to the bottom again. Right- Two-layer convection, in which upper and lower mantle convect at different rates. Middle- Convection paths vary depending on the circumstances. _Source: Karla Panchuk (2018) CC BY 4.0_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/mantle_convection-1024x435.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-13.png")
 ```
 
 ### Why Is Earth Hot Inside?
@@ -190,7 +190,7 @@ The heat of Earth’s interior comes from a variety of sources. These include th
 A major source of Earth's heat is __radioactivity__, the energy released when the unstable atoms decay. The radioactive isotopes uranium-235 (^235^U), uranium-238 (^238^U), potassium-40 (^40^K), and thorium-232 (^232^Th) in Earth's mantle are the primary source. Radioactive decay produced more heat early in Earth's history than it does today, because fewer atoms of those isotopes are left today (Figure \@ref(fig:figure-3-14)). Heat contributed by radioactivity is now roughly a quarter what it was when Earth formed.
 
 ```{r figure-3-14, fig.cap='Production of heat within the Earth over time by radioactive decay of uranium, thorium, and potassium. Heat production has decreased over time as the abundance of radioactive atoms has decreased. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image033.png), modified after Arevalo et al. (2009)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/radio_heat_SE.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-14.png")
 ```
 
 ## Earth's Magnetic Field
@@ -200,7 +200,7 @@ Earth's liquid iron core convects because it is heated from beneath by the inner
 Earth’s magnetic field is defined by north and south poles representing lines of magnetic force flowing into Earth in the northern hemisphere and out of Earth in the southern hemisphere (Figure \@ref(fig:figure-3-15)). Because of the shape of the field lines, the magnetic force is oriented at different angles to the surface in different locations. The tilt, or __inclination__ of magnetic field lines is represented by the tilt of compass needles in Figure \@ref(fig:figure-3-15). At the north and south poles, the force is vertical. The force is horizontal at the equator. Everywhere in between, the magnetic force is at an intermediate angle to the surface.
 
 ```{r figure-3-15, fig.cap='Earth\'s magnetic field depicted as the field of a bar magnet coinciding with the core. The south pole of the magnet points to Earth’s magnetic north pole. The red and white compass needles represent the orientation of the magnetic field at various locations on Earth’s surface. _Source: Karla Panchuk (2018) CC BY-SA 4.0, modified after Steven Earle (2015) CC BY-SA 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image035.png), and T. Stein (2008) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Earths_Magnetic_Field_Confusion.svg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/magnetic_field.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-15.png")
 ```
 
 <div class="textbox textbox-exercise">
@@ -221,13 +221,13 @@ Using Figure \@ref(fig:figure-3-15) as a guide, describe the general location on
 Earth’s magnetic field is generated within the outer core by the convective movement of liquid iron, but although convection is continuous, the magnetic field is not stable. Periodically, the magnetic field decays and then becomes re-established. When it does re-establish, the polarity may have reversed (i.e., your compass would point south rather than north). Over the past 250 Ma, there have been hundreds of magnetic field reversals, and their timing has been anything but regular. The shortest ones that geologists have been able to identify lasted only a few thousand years, and the longest one was more than 30 million years, during the Cretaceous Period (Figure \@ref(fig:figure-3-16)).
 
 ```{r figure-3-16, fig.cap='Magnetic field reversal chronology for the past 170 Ma. Black stripes mark times when the magnetic field was oriented the same as today. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image037.png), modified after AnomieX (2010) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Geomagnetic_polarity_0-169_Ma.svg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/paleomag_reversals_SE-1024x153.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-16.png")
 ```
 
 Changes in Earth’s magnetic field have been studied using mathematical models that simulate convection in the outer core (Figure \@ref(fig:figure-3-17)). Reversals happened spontaneously when the model was run to simulate a period of several hundred thousand years. Spontaneous reversals can happen because convection does not occur in an orderly way, in spite of what the bar magnet analogy may suggest. Many small-scale variations occur in convection patterns within the inner core, and Earth's magnetic field over all is the sum of those variations. Magnetic reversals do not happen as frequently as they might, if not for the solid inner core. Magnetic field changes take much longer within the inner core, so reversals in the outer core do not always coincide with reversals in the inner core. Both are required in order for Earth's magnetic field to flip.
 
 ```{r figure-3-17, fig.cap='Earth’s magnetic field between reversals (left) and during a reversal (right). The lines represent magnetic field lines: blue where the field points toward Earth’s centre and yellow where it points away. The rotation axis of Earth is vertical, and the outline of the core is shown as a dashed white circle. _Source: NASA (2007) Public Domain [view source](https://commons.wikimedia.org/wiki/File:NASA_54559main_comparison1_strip.gif)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/NASA_54559main_comparison1_strip.gif")
+knitr::include_graphics("figures/03-earths-interior/figure-3-17.gif")
 ```
 
 ## Isostasy
@@ -239,13 +239,13 @@ The mantle is able to convect because it can deform by flowing over very long ti
 To see how isostasy works, consider the rafts in Figure \@ref(fig:figure-3-18). The raft on the right is sitting on solid concrete. The raft will remain at the same elevation whether there are two people on it, or four, because the concrete is too strong to deform. In contrast, isostasy is in play for the rafts on the left, which are floating in a swimming pool full of peanut butter. With only one person on board, the raft floats high in the peanut butter, but with three people, it sinks dangerously low. Peanut butter, rather than water, is used in this example because the viscosity of peanut butter (its stiffness or resistance to flowing) more closely represents the relationship between the tectonic plates and the mantle. Although peanut butter has a similar density to water, it's higher viscosity means that if a person is added to a raft, it will take longer for the raft to settle lower into the peanut butter that it would take the raft to sink into water.
 
 ```{r figure-3-18, fig.cap='Illustration of isostatic relationships between rafts and peanut butter (left), and a non-isostatic relationship between a raft and solid ground (right). _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image041.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/isostasy_raft_SE-1024x253.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-18.png")
 ```
 
 The relationship of Earth’s crust to the mantle is similar to the relationship of the rafts to the peanut butter. The raft with one person on it floats comfortably high. Even with three people on it the raft is less dense than the peanut butter, so it floats, but it floats uncomfortably low for those three people. The crust, with an average density of around 2.6 g/cm^3^, is less dense than the mantle (average density of ~3.4 g/cm^3^ near the surface, but more at depth), and so it is floating on the mantle. When weight is added to the crust through the process of mountain building, the crust slowly sinks deeper into the mantle, and the mantle material that was there is pushed aside (Figure \@ref(fig:figure-3-19), left). When erosion removes material from the mountains over tens of millions of years, decreasing the weight, the crust rebounds and the mantle rock flows back (Figure \@ref(fig:figure-3-19), right).
 
 ```{r figure-3-19, fig.cap='Isostatic relationship between the crust and the mantle. Mountain building adds mass to the crust, and the thickened crust sinks down into the mantle (left). As the mountain chain is eroded, the crust rebounds (right). Green arrows represent slow mantle flow. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/06/rebound-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/isostasy_rebound.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-19.png")
 ```
 
 ### Isostasy and Glacial Rebound
@@ -253,7 +253,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 The crust and mantle respond in a similar way to glaciation. Thick accumulations of glacial ice add weight to the crust, and the crust subsides, pushing the mantle out of the way. The Greenland ice sheet, at over 2,500 m thick, has depressed the crust below sea level (Figure \@ref(fig:figure-3-20)a). When the ice eventually melts, the crust and mantle will slowly rebound (Figure \@ref(fig:figure-3-20)b), but full rebound will likely take more than 10,000 years (Figure \@ref(fig:figure-3-20)c).
 
 ```{r figure-3-20, fig.cap='Cross-section through the crust in the northern part of Greenland. a) Up to 2,500 m of ice depresses the crust downward (red arrows) and below sea level. b) After complete melting. Isostatic rebound would be slower than the rate of melting, leaving central Greenland at or below sea level for thousands of years. c) Complete rebound after ~10,000 years raises central Greenland above sea level again. _Source: Steven Earle (2015) CC BY 4.0 [view source a](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image047.png)/ [b](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0491.png)/ [c](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image051.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/glacial_rebound_greenland-633x1024.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-20.png")
 ```
 
 Large parts of Canada are still rebounding as a result of the loss of glacial ice over the past 12,000 years, as are other parts of the world (Figure \@ref(fig:figure-3-21)). The highest rate of uplift is in a large area west of Hudson Bay, where the Laurentide Ice Sheet was the thickest, at over 3,000 m. Ice finally left this region around 8,000 years ago, and the crust is currently rebounding at nearly 2 cm/year. Strong isostatic rebound is also occurring in northern Europe where the Fenno-Scandian Ice Sheet was thickest, and in the eastern part of Antarctica, which also experienced significant ice loss during the Holocene.
@@ -261,7 +261,7 @@ Large parts of Canada are still rebounding as a result of the loss of glacial ic
 Glacial rebound in one location means subsidence in surrounding areas (Figure \@ref(fig:figure-3-21), yellow through red regions). Regions surrounding the former Laurentide and Fenno-Scandian Ice Sheets that were lifted up when mantle rock was forced aside and beneath them are now subsiding as the mantle rock flows back.
 
 ```{r figure-3-21, fig.cap='Current rates of post-glacial isostatic uplift (green, blue, and purple shades) and subsidence (yellow and orange). Subsidence is taking place where the mantle is slowly flowing back toward areas that are experiencing post-glacial uplift. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image055.png), modified after Erik Ivins, JPL (2010) Public Domain [view source](https://commons.wikimedia.org/wiki/File:PGR_Paulson2007_Rate_of_Lithospheric_Uplift_due_to_PGR.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/rebound_rates_SE-1024x704.png")
+knitr::include_graphics("figures/03-earths-interior/figure-3-21.png")
 ```
 
 ### How Can the Mantle Be Both Solid and Plastic?
@@ -271,7 +271,7 @@ You might be wondering how it is possible that Earth’s mantle is solid, rigid 
 A good example of non-Newtonian behaviour is the deformation of Silly Putty, which can bounce when it is compressed rapidly when dropped, and will break if you pull on it sharply. But will deform in a liquid manner if stress is applied slowly. The force of gravity applied over a period of hours can cause it to deform like a liquid, dripping through a hole in a glass tabletop (Figure \@ref(fig:figure-3-22)). Similarly, the mantle will flow when placed under the slow but steady stress of a growing (or melting) ice sheet.
 
 ```{r figure-3-22, fig.cap='Silly Putty exhibiting plastic behavior when acted upon by gravity over several hours. _Source: Erik Skiff (2006) CC BY-SA 2006 [view source](https://flic.kr/p/hdKDC)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Skiff_sillyputty.jpg")
+knitr::include_graphics("figures/03-earths-interior/figure-3-22.jpg")
 ```
 
 ## Summary

@@ -4,7 +4,7 @@
 _Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-5-1, fig.cap='Giant crystals of gypsum in the Naica Mine in Mexico. The crystals formed in volcanically heated water, and became accessible when the cave was drained as part of mining activities. The cave was very hot, making it fatal for visitors to enter without cooling equipment and respirators. When mining activities ceased, caverns were allowed to flood again. _Source: Karla Panchuk CC BY-NC-SA 4.0. Photograph- Paul Williams (2009) CC BY-NC 2.0 [view source](https://flic.kr/p/j1VaYH). Click the image for more attributions._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Naica_mine.png")
+knitr::include_graphics("figures/05-minerals/figure-5-1.png")
 ```
 
 <div class="textbox learning-objectives">
@@ -34,7 +34,7 @@ A __mineral__ is a naturally occurring solid made of specific elements, and arra
 In the context of the definition of minerals, "solid" means solid at 25ºC. There are some exceptions to this rule, made for substances defined as minerals before 1959, prior to strict procedures being established for determining what is or isn't a mineral. One example is ice, which is only solid at or below 0 °C. Another is mercury, which is solid below -39 ºC. Mercury that is present in rocks at temperatures above -39 ºC appears as silvery blobs of liquid (Figure \@ref(fig:figure-5-2)).
 
 ```{r figure-5-2, fig.cap='Droplets of native mercury (pure mercury, Hg), also called quicksilver, amid waxy red crystals of cinnabar (HgS). Cinnabar is a mercury ore mineral. _Source: Parent Géry (2012) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Mercure,_cinabre_3.jpeg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Mercure_cinabre_3-1024x613.jpeg")
+knitr::include_graphics("figures/05-minerals/figure-5-2.jpeg")
 ```
 
 "Specific elements" means that minerals have a specific chemical formula or composition. The mineral pyrite, for example, is FeS~2~ (two atoms of sulphur for each atom of iron), and any significant departure from that formula would make it a different mineral. Some minerals can have variable compositions within a specific range. The mineral olivine, for example, has a formula written as (Fe,Mg)~2~SiO~4~, because the composition of olivine can range all the way from Fe~2~SiO~4~ to Mg~2~SiO~4~, and have any proportion of iron and magnesium in between. This type of substitution is known as __solid solution__.
@@ -42,13 +42,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 Most important of all, the atoms within a mineral are arranged in a specific repeating three-dimensional structure or __lattice__. This regular structure means that all minerals are __crystals__. The mineral __halite__, which we use as table salt, has a relatively simple crystal lattice (Figure \@ref(fig:figure-5-3)). Atoms of sodium (Na, purple) alternate with atoms of chlorine (Cl, green). The chemical bonds holding the Na and Cl atoms together are all at 90º to each other. Even tiny crystals, like the ones in your salt shaker, have lattices that extend in three dimensions for thousands of repetitions. Halite will always have this structure, and will always have the formula NaCl.
 
 ```{r figure-5-3, fig.cap='Halite crystal lattice. Halite is the mineral in table salt. _Source: Steven Earle (2015) CC BY 4.0_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/lattice-structure-and-composition-of-the-mineral-halite-1024x865.png")
+knitr::include_graphics("figures/05-minerals/figure-5-3.png")
 ```
 
 Some mineral-like materials do not have a regular internal atomic arrangement. Opal (Figure \@ref(fig:figure-5-4)) is one example. In many respects it fits the definition of a mineral: it has a specific chemical composition (SiO~2~·_n_H~2~O, where _n_ means that there can be varying amounts of water in the structure), forms naturally through geological processes, and is solid at 25 ºC. However, the structure of opal consists of closely packed spheres (Figure \@ref(fig:figure-5-4), right) rather than a lattice like halite. Substances like opal, which are mineral-like, but which do not have a crystalline structure, are called __mineraloids__.
 
 ```{r figure-5-4, fig.cap='Opal is mineral-like, but does not have a crystalline structure. Instead, it is made up of layers of closely packed spheres (right). _Source: Left- James St. John (2016) CC BY 2.0 [view source](https://flic.kr/p/MKNwz9); Right- Mineralogy Division, Geological and Planetary Sciences, Caltech (n.d.) CC BY-NC [view source](http://minerals.gps.caltech.edu/COLOR_Causes/Physical_Process/opal-beads_40k.jpg)/ [view context](http://minerals.gps.caltech.edu/COLOR_Causes/Physical_Process/index.htm)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/opal.png")
+knitr::include_graphics("figures/05-minerals/figure-5-4.png")
 ```
 
 <div class="textbox">
@@ -66,7 +66,7 @@ All matter, including mineral crystals, is made up of atoms. All atoms are made 
 The element hydrogen (H) has the simplest atoms. Most hydrogen atoms have just one proton and one electron. The proton forms the __nucleus__ (the centre of the atom), while the electron orbits around it (Figure \@ref(fig:figure-5-5), left). All other elements have more than one proton in their nucleus. Protons repel each other because they are positively charged, but it is possible to have more than one proton in a nucleus because neutrons hold them together. The next most complex atom, helium (He) has two protons and two neutrons in its nucleus, in its most common form. Some atoms of the same element can have different numbers of neutrons. For example, forms of hydrogen exist with one and two neutrons, and a tiny fraction of He atoms have only one neutron. Forms of an element with different numbers of neutrons are called __isotopes__.
 
 ```{r figure-5-5, fig.cap='Atomic structure of hydrogen and helium showing protons (p+), neutrons (n), and electrons (e-). _Source: Bruce Blaus (2014) CC BY 3.0 [view source](https://commons.wikimedia.org/wiki/File:Blausen_0342_ElectronEnergyLevels.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Blausen_0342_ElectronEnergyLevels_H_He.png")
+knitr::include_graphics("figures/05-minerals/figure-5-5.png")
 ```
 
 The number of protons in an atom determines what element it will be, so the number of protons is called the __atomic number __of that element. The total number of protons and neutrons in the nucleus is the__ mass number__. The mass number distinguishes between isotopes of an element. Isotopes of an element are denoted by putting the mass number as a subscript in front of the symbol for that element. For example, the isotopes of hydrogen are ^1^H (1 proton), ^2^H (1 proton + 1 neutron), and ^3^H (1 proton + 2 neutrons).
@@ -80,7 +80,7 @@ Electrons orbiting around the nucleus of an atom are arranged in shells (also ca
 The outermost electrons determine how atoms can be bonded together. Elements that have a full outer shell (e.g., neon, Figure \@ref(fig:figure-5-6) right) are __inert__ because they do not react with other elements to form compounds. These are the __noble gases__ (including helium, argon, krypton, and radon, in addition to neon) in the far-right column of the periodic table. For elements that do not have a full outer shell (e.g., lithium, Figure \@ref(fig:figure-5-6) left), the outermost electrons can interact with the outermost electrons of nearby atoms to create chemical bonds.
 
 ```{r figure-5-6, fig.cap='The number of electrons in an atom\'s outermost shell (or energy level) determine whether it will bond to other atoms, and how it will bond. Right- Neon has a completely filled outer shell with 8 electrons. It does not bond with other atoms. Left- Lithium has only one electron in its outer shell. It bonds with other atoms. _Source: Bruce Blaus (2014) CC BY 3.0 [view source](https://commons.wikimedia.org/wiki/File:Blausen_0342_ElectronEnergyLevels.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/Blausen_0342_ElectronEnergyLevels_LiNe.png")
+knitr::include_graphics("figures/05-minerals/figure-5-6.png")
 ```
 
 The electron shell configurations for 29 of the first 36 elements are listed in Table \@ref(tab:table-5-1). Note that some of the shells in the table below have more than 8 electrons. This is because they contain subshells. For example, the third shell can hold up to 18 electrons because it contains one subshell that can hold 2 electrons, and two subshells that can hold 8 electrons each.
@@ -144,7 +144,7 @@ Atoms seek to have a full outer shell. For hydrogen and helium, a full outer she
 Consider the example of halite again, which is made up of sodium (Na) and chlorine (Cl). Na has 11 electrons: two in the first shell, eight in the second, and one in the third (Figure \@ref(fig:figure-5-7), top). Na readily gives up the third shell electron so it can have the second shell with 8 electrons as its outermost shell. When it loses the electron, the total charge from the electrons is -10, but the total charge from the protons is +11, so it is left with a +1 charge over all.
 
 ```{r figure-5-7, fig.cap='Electron configuration of sodium and chlorine atoms (top). Sodium gives up an electron to become a cation (bottom left) and chlorine accepts an electron to become an anion (bottom right). _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/NaCl.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/NaCl_SE.png")
+knitr::include_graphics("figures/05-minerals/figure-5-7.png")
 ```
 
 Chlorine has 17 electrons: two in the first shell, eight in the second, and seven in the third. Cl readily accepts an eighth electron to fill its third shell, and therefore becomes negatively charged because it has a total charge of -18 from electrons, and a total charge of +17 from protons.
@@ -158,7 +158,7 @@ In changing their number of electrons, these atoms become __ions__ — the sodiu
 A number of elements are listed below along with their atomic numbers (the number of protons, and therefore also the number of electrons in the atom). Assuming that the first electron shell can hold two electrons and subsequent electron shells can hold eight electrons, sketch the electron configurations for these elements, as in the example for fluorine (Figure \@ref(fig:figure-5-8)). If you fill a shell and have electrons left over, draw another shell around the atom. Predict whether the element is likely to form a cation or an anion, and what charge it would have (e.g., +1, +2, –1).
 
 ```{r figure-5-8, fig.cap='How to draw the electron configuration for fluorine, with an atomic number of 9. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2016/07/Fluorine-9-e1443216879363.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/exercise_example-1024x599.png")
+knitr::include_graphics("figures/05-minerals/figure-5-8.png")
 ```
 
 1. Lithium (3)
@@ -176,19 +176,19 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 An element like chlorine can also form bonds without forming ions. For example, two chlorine atoms can each complete their outer shells by sharing electrons. Chlorine gas (Cl~2~, Figure \@ref(fig:figure-5-9)) is formed when two chlorine atoms form a __covalent bond__.
 
 ```{r figure-5-9, fig.cap='A covalent bond between two chlorine atoms. The electrons are black in the left atom, and blue in the right atom. Two electrons are shared (one black and one blue) so that each atom appears to have a full outer shell. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/two-chlorine-atoms.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/two-chlorine-atoms_SE.png")
+knitr::include_graphics("figures/05-minerals/figure-5-9.png")
 ```
 
 Carbon is another atom that participates in covalent bonding. An uncharged carbon atom has six protons and six electrons. Two of the electrons are in the inner shell and four are in the outer shell (Figure \@ref(fig:figure-5-10), left). Carbon would need to gain or lose four electrons to have a filled outer shell, and this would create too great a charge imbalance. Instead, carbon atoms share electrons to create covalent bonds (Figure \@ref(fig:figure-5-10), right).
 
 ```{r figure-5-10, fig.cap='The electron configuration of carbon (left) and the sharing of electrons in covalent C bonding (right). The electrons shown in blue are shared between adjacent C atoms. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/carbon.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/carbon_covalent_SE.png")
+knitr::include_graphics("figures/05-minerals/figure-5-10.png")
 ```
 
 In the mineral diamond (Figure \@ref(fig:figure-5-11), left), the carbon atoms are linked together in a three-dimensional framework, where one carbon atom is bonded to four other carbon atoms, and every bond is a very strong covalent bond.
 
 ```{r figure-5-11, fig.cap='Covalently bonded structures. Left: Diamond with three-dimensional structure of covalently bonded carbon. Right: Graphite with covalently bonded sheets of carbon. Sheets are held together by weaker van der Waals forces. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Materialscientist (2009) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Diamond_and_graphite2.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/diamond_graphite.png")
+knitr::include_graphics("figures/05-minerals/figure-5-11.png")
 ```
 
 ### Other Types of Bonds
@@ -198,13 +198,13 @@ Most minerals are characterized by ionic bonds, covalent bonds, or a combination
 Van der Waals forces, like __hydrogen bonds__, work because molecules can be electrostatically neutral, but still have an end that is slightly more positive and an end that is slightly more negative. In water molecules (Figure \@ref(fig:figure-5-12), left), the bent shape puts the hydrogen atoms on one side of the molecule, and the oxygen atom, with more electrons, on the other. The charge is distributed asymmetrically across the water molecule. Contrast this with the straight carbon dioxide (Figure \@ref(fig:figure-5-12), right) molecule. The slightly more negative oxygen atoms on the ends are distributed symmetrically on either side of the carbon atom.
 
 ```{r figure-5-12, fig.cap='Hydrogen bonding. Water molecules (left) are polar molecules (their charge is distributed asymmetrically). Slightly negative parts of the molecule are attracted to slightly positive parts of other water molecules. Carbon dioxide (right) is a non-polar molecule. The slightly negative oxygen atoms are distributed symmetrically on either side of the carbon atom. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Modified after Querter (2011) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:3D_model_hydrogen_bonds_in_water.svg) and Jynto (2011) CC0 1.0 [view source](https://commons.wikimedia.org/wiki/File:Carbon_dioxide_3D_ball.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/hydrogen_bonding.png")
+knitr::include_graphics("figures/05-minerals/figure-5-12.png")
 ```
 
 __Metallic bonding__ occurs in metallic elements because they have outer electrons that are relatively loosely held. (The metals are highlighted on the periodic table in [Appendix 1](http://opentextbc.ca/geology/back-matter/appendix-1-list-of-geologically-important-elements-and-the-periodic-table/).) When bonds between such atoms are formed, the __dissociated electrons__ can move freely from one atom to another. This feature accounts for two very important properties of metals: their electrical conductivity and their malleability (they can be deformed and shaped).
 
 ```{r figure-5-13, fig.cap='Metallic bonding. Dissociated electrons (grey dots) move between metal atoms. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Nucleus by Fornax (2010) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Eisenatom.svg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/metallic_bonding.png")
+knitr::include_graphics("figures/05-minerals/figure-5-13.png")
 ```
 
 ## Mineral Groups
@@ -216,7 +216,7 @@ Minerals are organized according to the anion or anion group (a group of atoms w
 __Oxide__ minerals (Figure \@ref(fig:figure-5-14)) have oxygen (O^2–^) as their anion. They don't include anion groups with other elements, such as the carbonate (CO~3~^2–^), sulphate (SO~4~^2–^), and silicate (SiO~4~^4–^) anion groups. The iron oxides hematite and magnetite are two examples that are important ores of iron. Corundum is an abrasive, but can also be a gemstone in its ruby and sapphire varieties. If the oxygen is also combined with hydrogen to form the hydroxyl anion (OH^–^), the mineral is known as a __hydroxide__. Some important hydroxides are limonite and bauxite, which are ores of iron and aluminum, respectively.
 
 ```{r figure-5-14, fig.cap='Oxide minerals include metal ore minerals, industrial minerals, and gemstones. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photos by R. Weller/ Cochise College. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/oxides_3rd-1.png")
+knitr::include_graphics("figures/05-minerals/figure-5-14.png")
 ```
 
 ### Sulphide Minerals: S^2-^ Anion
@@ -224,7 +224,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 __Sulphide__ minerals (Figure \@ref(fig:figure-5-15)) include galena, sphalerite, chalcopyrite, and molybdenite, which are the most important ores of lead, zinc, copper, and molybdenum, respectively. Some other sulphide minerals are pyrite, bornite, stibnite, and arsenopyrite. Sulphide minerals tend to have a metallic sheen.
 
 ```{r figure-5-15, fig.cap='Sulphide minerals often have a metallic lustre and include metal ores. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photos by R. Weller/ Cochise College. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/sulfides_3rd.png")
+knitr::include_graphics("figures/05-minerals/figure-5-15.png")
 ```
 
 ### Sulphate Minerals: SO~4~^2-^ Anion Group
@@ -232,7 +232,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 Many__ sulphate__ minerals form when sulphate-bearing water evaporates. A deposit of sulphate minerals may indicate that a lake or sea has dried up at that location. Sulphates with calcium include anhydrite, and gypsum (Figure \@ref(fig:figure-5-16)). Sulphates with barium and strontium are barite and celestite, respectively. In all of these minerals, the cation has a +2 charge, which balances the –2 charge on the sulphate ion.
 
 ```{r figure-5-16, fig.cap='Sulphate minerals. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/sulphate_3rd-1-1024x412.png")
+knitr::include_graphics("figures/05-minerals/figure-5-16.png")
 ```
 
 ### Halide Minerals: Anions from the Halogen Group
@@ -240,7 +240,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 The anions in __halides__ are the __halogen__ elements including chlorine, fluorine, and bromine. Examples of halide minerals are cryolite, fluorite, and halite (Figure \@ref(fig:figure-5-17)). Halide minerals are made of ionic bonds. Like the sulphates, some halides also form when mineral-rich water evaporates.
 
 ```{r figure-5-17, fig.cap='Halide minerals. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/halides_3rd-2-1024x440.png")
+knitr::include_graphics("figures/05-minerals/figure-5-17.png")
 ```
 
 ### Carbonate Minerals: CO~3~^2-^ Anion Group
@@ -248,7 +248,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 The __carbonate __anion group combines with +2 cations to form minerals such as calcite, magnesite, dolomite, and siderite (Figure \@ref(fig:figure-5-18)). The copper minerals malachite and azurite are also carbonates. The carbonate mineral calcite is the main component of rocks formed in ancient seas by organisms such as corals and algae.
 
 ```{r figure-5-18, fig.cap='Carbonate minerals. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Photos by Rob Lavinsky, iRocks.com, CC BY-SA 3.0. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/carbonates_3rd.png")
+knitr::include_graphics("figures/05-minerals/figure-5-18.png")
 ```
 
 ### Phosphate Minerals: PO~4~^3-^ Anion
@@ -256,7 +256,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03
 The apatite group of __phosphate__ minerals (Figure \@ref(fig:figure-5-19), left) includes hydroxyapatite, which makes up the enamel of your teeth. Turquoise is also a phosphate mineral (Figure \@ref(fig:figure-5-19), right).
 
 ```{r figure-5-19, fig.cap='Phosphate minerals. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photos by R. Weller/ Cochise College. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/phosphates_3rd.png")
+knitr::include_graphics("figures/05-minerals/figure-5-19.png")
 ```
 
 ### Silicates (SiO~4~^4^^–^)
@@ -268,7 +268,7 @@ The __silicate__ minerals include the elements silicon and oxygen in varying pro
 These are minerals made of a single element, such as gold, copper, silver, or sulphur (Figure \@ref(fig:figure-5-20)).
 
 ```{r figure-5-20, fig.cap='Native element minerals are made up of a single element. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/03/native_minerals-1-1024x584.png")
+knitr::include_graphics("figures/05-minerals/figure-5-20.png")
 ```
 
 <div class="textbox textbox-exercise">
@@ -304,7 +304,7 @@ tibble::tibble(
 Silicon and oxygen bond covalently to create a __silicate tetrahedron__ (SiO~4~^4-^), which is a four-sided pyramid shape with oxygen at each corner and silicon in the middle (Figure \@ref(fig:figure-5-21)). This structure is the building block of many important minerals in the crust and mantle. Silicon has a charge of +4, and oxygen has a charge of -2, so the total charge of the silicate anion is -4.
 
 ```{r figure-5-21, fig.cap='The silica tetrahedron is the building block of all silicate minerals. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Modified after Helgi (2013) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Silicate_tetrahedron.svg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/silicate-1-1024x561.png")
+knitr::include_graphics("figures/05-minerals/figure-5-21.png")
 ```
 
 In silicate minerals, these tetrahedra are arranged and linked together in a variety of ways, from single units to chains, rings, and more complex frameworks. In the rest of this section we will discuss the structures of the most common silicate minerals in Earth's crust and mantle.
@@ -320,7 +320,7 @@ If you have glue or tape, secure the tabs to the tetrahedron to hold it together
 If you're feeling ambitious, make several tetrahedra and and use toothpicks through the corners to make the configurations discussed below.
 
 ```{r figure-5-22, fig.cap='Pattern for a tetrahedron. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Tetrahedron.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/tetrahedron-1024x585.png")
+knitr::include_graphics("figures/05-minerals/figure-5-22.png")
 ```
 
 </div>
@@ -330,13 +330,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 The simplest silicate structure, that of the mineral __olivine__ (Figure \@ref(fig:figure-5-23)), is composed of isolated tetrahedra bonded to iron and/or magnesium ions (Figure \@ref(fig:figure-5-23) left). In olivine, the –4 charge of each silica tetrahedron is balanced by two iron or magnesium cations, each with a charge of +2. Olivine can be pure Mg~2~SiO~4~ or Fe~2~SiO~4~, or a combination of the two, written as (Mg,Fe)~2~SiO~4~. Magnesium and iron can substitute for each other because they both have a charge of +2, and they are similar in size. Magnesium cations have a radius of 0.73 Å, and iron cations have a radius of 0.62 Å ^[ Å stands for Ångstrom, a unit commonly used to express atomic-scale dimensions. One angstrom is 10^–10^ m or 0.0000000001 m.].
 
 ```{r figure-5-23, fig.cap='Olivine is a silicate mineral made of isolated silica tetrahedra bonded to Fe and Mg ions (left). Olivine crystals (centre) can often be found in the volcanic igneous rock called basalt (right). _Source: Karla Panchuk (2018) CC BY-SA 4.0. Left- modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/structure-of-olivine.png). Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/olivine_3rd.png")
+knitr::include_graphics("figures/05-minerals/figure-5-23.png")
 ```
 
 Although the iron and magnesium ions are similar in size, allowing them to substitute for each other in some silicate minerals, the common ions in silicate minerals have a wide range of sizes (Figure \@ref(fig:figure-5-24)). Ionic radii are critical to the composition of silicate minerals, because the structure of the silicate mineral will determine the size of spaces available.
 
 ```{r figure-5-24, fig.cap='The ionic radii in angstroms of some of the common ions in silicate minerals. Radii shown to scale. Notice that iron appears twice with two different radii. This is because iron can exist as a +2 ion (if it loses two electrons when it becomes an ion) or a +3 ion (if it loses three). Fe^2+^ is known as __ferrous__ iron. Fe^3+^ is known as __ferric__ iron. _Source: Karla Panchuk (2017) CC BY 4.0. Modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/ionic-radii.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/ionic_radii.png")
+knitr::include_graphics("figures/05-minerals/figure-5-24.png")
 ```
 
 ### Chain Silicates
@@ -344,7 +344,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04
 __Pyroxene__ (Figure \@ref(fig:figure-5-25) bottom left) is an example of a single-chain silicate. The structure of chain silicates is shown in Figure \@ref(fig:figure-5-25) (top). In pyroxene__,__ silica tetrahedra form a chain because one oxygen from each tetrahedron is shared with the adjacent tetrahedron. This means there are fewer oxygens in the structure. This can be expressed as an oxygen-to-silicon ratio (O:Si). The O:Si is lower than in olivine (3:1 instead of 4:1), and the net charge per silicon atom is less (–2 instead of –4), because fewer cations are necessary to balance that charge.
 
 ```{r figure-5-25, fig.cap='Chain silicate minerals. Top: Arrangement of silica tetrahedra in single and double chains. Bottom left: Pyroxene crystals (dark crystals) of the variety aegirine (acmite). Bottom right: Amphibole crystal (dark) of the variety hornblende. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Top left- modified after Steven Earle (2015) CC BY 4.0. Top right- modified after Klein &amp; Hurlbut (1993). Photos by R. Weller/ Cochise College. Click the image for sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/chain_silicates_3rd-1.png")
+knitr::include_graphics("figures/05-minerals/figure-5-25.png")
 ```
 
 Pyroxene compositions have the silica tetrahedra represented as SiO~3~ (e.g., MgSiO~3~, FeSiO~3~, and CaSiO~3~^[The variation in composition can also be written as (Mg,Fe,Ca)SiO~3~, where the elements in the brackets can be present in any proportion. ].) In other words, pyroxene has one cation for each silica tetrahedron (e.g., MgSiO~3~) while olivine has two (e.g., Mg~2~SiO~4~). The structure of pyroxene is more "permissive" than that of olivine, meaning cations with a wider range of ionic radii can fit into it. That’s why pyroxenes can have calcium cations (radius 1.00 Å) substitute for iron (0.63 Å) and magnesium (0.72 Å) .
@@ -361,7 +361,7 @@ Figure \@ref(fig:figure-5-26) shows single chain and double chain structures. Co
 2. What is the O:Si for the double chain?
 
 ```{r figure-5-26, fig.cap='Single and double chains of tetrahedra. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [single chain](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/diagram1.png)/ [double chain](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/diagram2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/exercise_O-Si.png")
+knitr::include_graphics("figures/05-minerals/figure-5-26.png")
 ```
 
 </div>
@@ -371,7 +371,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04
 In __mica__ structures the silica tetrahedra are arranged in continuous sheets (Figure \@ref(fig:figure-5-27)), where each tetrahedron shares three oxygen anions with adjacent tetrahedra. Because even more oxygens are shared between adjacent tetrahedra, fewer charge-balancing cations are needed for sheet silicate minerals. Bonding between sheets is relatively weak, and this accounts for the tendency of mica minerals to split apart in sheets (Figure \@ref(fig:figure-5-27) bottom right). Two common micas in silicate rocks are __biotite__ (Figure \@ref(fig:figure-5-27) bottom left), which contains iron and/or magnesium, making it a dark mineral; andmuscovite (Figure \@ref(fig:figure-5-27) right), which contains aluminum and potassium, and is light in colour. All of the sheet silicate minerals have water in their structure, in the form of the hydroxyl (OH^-^) anion.
 
 ```{r figure-5-27, fig.cap='Micas are sheet silicates and split easily into thin layers along planes parallel to the sheets. Biotite mica (lower left) is has Fe and Mg cations. Muscovite mica (lower right) has Al and K instead. The muscovite mica shows how thin layers can split away in a sheet silicate. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Top left- modified after Steven Earle (2015) CC BY 4.0. Top right- modified after Klein &amp; Hurlbut (1993). Photos by R. Weller/ Cochise College. Click the image for sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/sheet_silicate_3rd-1.png")
+knitr::include_graphics("figures/05-minerals/figure-5-27.png")
 ```
 
 Some sheet silicates typically occur in clay-sized fragments (i.e., less than 0.004 mm). These include the clay minerals __kaolinite__, __illite,__ and __smectite__, which are important components of rocks and especially of soils.
@@ -387,7 +387,7 @@ __Feldspars__ are a group of very abundant framework silicates in Earth's crust.
 Feldspars are classified using a ternary (3-fold) system with three end-members ("pure" feldspars). This system is illustrated with a triangular diagram that has each end-member at one corner (Figure \@ref(fig:figure-5-28)). The distance along a side of the diagram represents the relative abundance of the composition of each end-member.
 
 ```{r figure-5-28, fig.cap='Ternary diagram showing the feldspar group of framework silicate minerals. Alkali feldspars are those with compositions ranging between albite (with a Na cation) and orthoclase and its polymorphs (with a K cation. Plagioclase feldspars are those with compositions ranging between albite and anorthite (with a Ca cation). _Source: Karla Panchuk (2018) CC BY-SA 4.0. Ternary diagram modified after Klein &amp; Hurlbut (1993). Click the image for photo sources and a ternary diagram without mineral images._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/Fsp_ternary_w_minerals-1024x757.png")
+knitr::include_graphics("figures/05-minerals/figure-5-28.png")
 ```
 
 One end-member is __potassium feldspar__ (also referred to as __K-feldspar__), which has the composition KAlSi~3~O~8~. Depending on the temperature and rate of cooling, K-feldspar can occur as one of three polymorphs: __orthoclase__, __sanidine__, or __microcline__. Another end member is __albite__, which has sodium instead of potassium (formula NaAlSi~3~O~8~).As is the case for iron and magnesium in olivine, there is a continuous range of compositions (referred to as a solid-solution series) between albite and orthoclase. Feldspars in this series are referred to as __alkali feldspars__. Potassium cations are much larger than sodium cations (1.37 Å versus 0.99 Å, respectively), so high temperatures are required to form alkali feldspars with intermediate compositions.
@@ -399,7 +399,7 @@ The third end-member is __anorthite__ and it has calcium instead of potassium or
 __Quartz__ (SiO~2~; Figure \@ref(fig:figure-5-29)) contains only silica tetrahedra. In quartz, each silica tetrahedron is bonded to four other tetrahedra (with an oxygen shared at every corner of each tetrahedron), making a three-dimensional framework. As a result, the ratio of silicon to oxygen is 1:2. Because the one silicon cation has a +4 charge and the two oxygen anions each have a –2 charge, the charge is balanced. There is no need to add cations to balance the charge. The hardness of quartz and the fact that it breaks irregularly (notice the bottom of the crystal in Figure \@ref(fig:figure-5-29) right) and not along smooth planes result from the strong covalent/ionic bonds characteristic of the silica tetrahedron.
 
 ```{r figure-5-29, fig.cap='Quartz is another silicate mineral with a three-dimensional framework of silica tetrahedra. Sometimes quartz occurs as well-developed crystals (left), but it also occurs in common rocks such as granite (right). In addition to quartz, the granite contains potassium feldspar, albite, and amphibole. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photos by R. Weller/ Cochise College. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/Qtz_3rd.png")
+knitr::include_graphics("figures/05-minerals/figure-5-29.png")
 ```
 
 ## How Minerals Form
@@ -431,13 +431,13 @@ Minerals are universal. A crystal of hematite on Mars will have the same propert
 Some minerals have distinctive colours that useful as diagnostic criteria.The mineral sulphur (Figure \@ref(fig:figure-5-30) left) is always a characteristic bright yellow. For other minerals, colour might vary. Hematite is an example of a mineral for which colour is not necessarily diagnostic. In some forms hematite is a deep dull red (a fairly unique colour), but in others it is a metallic silvery black (Figure \@ref(fig:figure-5-30), right).
 
 ```{r figure-5-30, fig.cap='Colour is a useful diagnostic property for sulphur (left) and for some types of hematite (right) because the yellow and dark red colours are unique to those minerals. In contrast, silvery metallic forms of hematite are similar in appearance to many other minerals._ Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photos by R. Weller/ Cochise College. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/colour_sulf_hem_3rd.png")
+knitr::include_graphics("figures/05-minerals/figure-5-30.png")
 ```
 
 For other minerals, the problem is that a single mineral can have a wide range of colours. The colour variations can be the result of varying proportions of trace elements within the mineral, or structural defects within the crystal lattice. In the case of quartz (Figure \@ref(fig:figure-5-31)), milky quartz gets its white colour from millions of tiny fluid-filled cavities. Smoky quartz gets its grey colour from structural damage caused by natural radiation. Amethyst and citrine get their colours from trace amounts of iron, and rose quartz gets its pink hue from manganese.
 
 ```{r figure-5-31, fig.cap='The many colours of quartz.Quartz can be colourless, milky, a greyish smoky colour, purple, yellow, and pink. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photos by R. Weller/ Cochise College. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/qtz_colour_3rd.png")
+knitr::include_graphics("figures/05-minerals/figure-5-31.png")
 ```
 
 ### Streak
@@ -445,13 +445,13 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04
 The colour of a mineral is what you see when light reflects off the surface of the sample. One reason that colour can be so variable is that the surface textureis variable. A way to get around this problem is to grind a small amount of the sample to a powder and observe the colour of the powder. This colour is the mineral's __streak__. The mineral can be powdered by scraping the sample across a piece of unglazed porcelain called a __streak plate__ (Figure \@ref(fig:figure-5-32)). In Figure \@ref(fig:figure-5-32), two samples of hematite have been scraped across the streak plate. Even though one sample is metallic and the other is deep red, both have a similar reddish-brown streak.
 
 ```{r figure-5-32, fig.cap='Hematite leaves a distinctive reddish-brown streak whether the sample is metallic or deep red. _Source: Karla Panchuk (2015) CC BY 4.0_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/Hematite_streak_plate-1024x400.jpg")
+knitr::include_graphics("figures/05-minerals/figure-5-32.jpg")
 ```
 
 Streak is an especially helpful property when minerals look similar. In Figure \@ref(fig:figure-5-33) all of the minerals are dark in colour, with varying degrees of metallic sheen. The streaks of these minerals are much more distinctive.
 
 ```{r figure-5-33, fig.cap='Similar dark-grey minerals with varying degrees of metallic sheen leave different colours of streaks. The minerals are from upper left clockwise: hematite, magnetite, sphalerite, and galena. _Source: Karla Panchuk (2015) CC BY 4.0_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/metallic_minerals_streak_plate-961x1024.jpg")
+knitr::include_graphics("figures/05-minerals/figure-5-33.jpg")
 ```
 
 ### Lustre
@@ -467,7 +467,7 @@ One of the most important diagnostic properties of a mineral is its hardness. In
 In 1812 German mineralogist Friedrich Mohs came up with a list of 10 minerals representing a wide range of hardness, and numbered them 1 through 10 in order of increasing hardness (Figure \@ref(fig:figure-5-34), horizontal axis). While each mineral on the list is harder than the one before it, the measured hardness (vertical axis) is not linear. Notice that apatite is about three times harder than fluorite, and diamond is three times harder than corundum.
 
 ```{r figure-5-34, fig.cap='Minerals and reference materials in the Mohs scale of hardness. The measured hardness values are Vickers Hardness numbers._ Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/06/Mohs-scale-of-hardness.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/Mohs-scale-of-hardness.png")
+knitr::include_graphics("figures/05-minerals/figure-5-34.png")
 ```
 
 Some commonly available reference materials are also shown on this diagram, including a typical fingernail^[Note that artificial fingernails may be much harder than natural fingernails. Some materials used for artificial nails are harder than quartz.] (2.5), a piece of copper wire (3.5), a knife blade or piece of window glass (5.5), a hardened steel file (6.5), and a porcelain streak plate (7). These are tools that a geologist can use to measure the hardness of unknown minerals: if you have a mineral that you can’t scratch with your fingernail, but you can scratch with a copper wire, then its hardness is between 2.5 and 3.5. The minerals themselves can be used to test other minerals.
@@ -479,7 +479,7 @@ When minerals form within rocks, there is a possibility that they will form in d
 Quartz, for instance, will form six-sided prisms with pointed ends (Figure \@ref(fig:figure-5-35) left), but this typically happens only when it crystallizes from a hot water solution within a cavity in an existing rock. Pyrite can form cubic crystals (Figure \@ref(fig:figure-5-35) centre), but can also form crystals with 12 faces, known as dodecahedra. The mineral garnet also forms many-sided crystals with an over-all rounded shape (Figure \@ref(fig:figure-5-35) right).
 
 ```{r figure-5-35, fig.cap='Hexagonal prisms of quartz (left), intergrown cubic crystals of pyrite (centre), and 24-sided crystals of garnet (right). _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Photos by R. Weller/ Cochise College. Click the image for photo sources._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/xtl_habit_3rd-1.png")
+knitr::include_graphics("figures/05-minerals/figure-5-35.png")
 ```
 
 Some of the terms that are used to describe habit include bladed, botryoidal (grape-like), dendritic (branched), drusy (an encrustation of crystals), equant (similar size in all dimensions), fibrous, platy, prismatic (long and thin), and stubby.
@@ -491,19 +491,19 @@ Cleavage and fracture describe how a mineral breaks. These characteristics are t
 The way minerals break is determined by the arrangement of atoms within them, and more specifically by the orientation of weaknesses within their crystal lattice. Graphite and mica break off in parallel sheets (Figure \@ref(fig:figure-5-36)).
 
 ```{r figure-5-36, fig.cap='One direction of cleavage (basal cleavage). Left: Schematic of basal cleavage. Right: Muscovite showing basal cleavage. The white dashed line marks the edge of the cleavage plane. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Cleavage diagram modified after M.C. Rygel (2010) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Mineral-cleavage.gif)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/1_cleavage_3rd-1024x394.png")
+knitr::include_graphics("figures/05-minerals/figure-5-36.png")
 ```
 
 Other minerals have two directions of cleavage, classified as two directions at 90° (Figure \@ref(fig:figure-5-37) top) and two directions not at 90° (Figure \@ref(fig:figure-5-37) bottom). While the diagrams of planes on the left of Figure \@ref(fig:figure-5-37) make this difference clear, it may be less obvious in practice. The minerals in Figure \@ref(fig:figure-5-37) both have two planes of cleavage that are very close to 90°. The white dashed lines mark the edges of the planes, as with Figure \@ref(fig:figure-5-36). See if you can find the planes repeated in the images. The images are close-up views of the minerals, only a few cm across. Sometimes you must look very carefully to find cleavage planes.
 
 ```{r figure-5-37, fig.cap='Two directions of cleavage. Top: Two directions at 90° in pyroxene. Bottom: two directions not at 90° in plagioclase feldspar. Edges of cleavage planes marked with dashed lines. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Cleavage diagrams modified after M.C. Rygel (2010) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Mineral-cleavage.gif)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/2_cleavage_3rd-1.png")
+knitr::include_graphics("figures/05-minerals/figure-5-37.png")
 ```
 
 Some minerals have many directions of cleavage. Figure \@ref(fig:figure-5-38) shows minerals with three directions of cleavage. Halite (Figure \@ref(fig:figure-5-38) top) has three directions at 90° and calcite (Figure \@ref(fig:figure-5-38) bottom) has three directions not at 90°.
 
 ```{r figure-5-38, fig.cap='Three directions of cleavage. Top: Three directions at 90° in halite. Bottom: Three directions not at 90° in calcite. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Cleavage diagrams modified after M.C. Rygel (2010) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Mineral-cleavage.gif)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/04/3_cleavage_3rd-1.png")
+knitr::include_graphics("figures/05-minerals/figure-5-38.png")
 ```
 
 There are a few common difficulties that students encounter when learning to recognize and describe cleavage. One is that it might be necessary to look very closely at a sample to see mineral cleavage. The key features in Figure \@ref(fig:figure-5-37) are only cm or mm in scale. If crystals are very small, it may not be possible to see cleavage at all. Another issue is that sometimes cleavage is present, but it is poor, meaning the cleavage surface isn't perfectly flat. Finally it can be difficult to know whether a flat surface on a crystal is a cleavage plane, a crystal face, or simply a surface that happens to be flat. Cleavage planes tend to repeat themselves at different depths throughout the mineral, so if you are unsure whether the surface you are looking at is a cleavage plane, try rotating the mineral in bright light. If cleavage is present, you will generally find that, for a given cleavage direction, all of the cleavage surfaces will glint in the light simultaneously. Crystal faces will also glint in light, but they do not repeat themselves at depth throughout the mineral. The best way to overcome all of these problems is to look at lots of examples. It's worth it to be able to identify cleavage and fracture, because cleavage is a reliable diagnostic property for most minerals.

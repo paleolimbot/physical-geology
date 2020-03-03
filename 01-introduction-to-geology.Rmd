@@ -4,7 +4,7 @@
 _Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-1-1, fig.cap='Badlands in southern Saskatchewan. Erosion has exposed layers of rock going back more than 65 million years. _Source: Karla Panchuk (2017) CC BY-SA 4.0. Click the image for more attributions.<br>_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/SK_badlands.png")
+knitr::include_graphics("figures/01-introduction-to-geology/figure-1-1.png")
 ```
 
 <div class="textbox learning-objectives">
@@ -40,7 +40,7 @@ Many geological features are shown here. The rocks that these mountains are made
 Over the past two million years this area, like most of the rest of Canada, has been repeatedly covered by glaciers that scoured away rocks to form the valley to the left of Rearguard Mountain. The Robson Glacier itself is now only a fraction of its size during the Little Ice Age of the 15th to 18th centuries. And, like almost all other glaciers on Earth, it is now receding even more rapidly because of climate change. Figure \@ref(fig:figure-1-2) (right) taken around 1908 by the Canadian geologist and artist Arthur Philemon Coleman, gives an indication of how much the glacier has receded in the last hundred years.
 
 ```{r figure-1-2, fig.cap='Rearguard Mountain and Robson Glacier in Mount Robson Provincial Park, BC. Left: Robson Glacier today, retreating up the valley. Right: Robson Glacier circa 1908. _Sources: Left- Karla Panchuk (2017) CC BY-SA 4.0 with photo by Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/Rearguard-Mt.-and-Robson-Glacier.jpg). Right: A.P. Coleman (c. 1908) Public Domain. Click the image for more attributions._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Rearguard_today_vs_1908.png")
+knitr::include_graphics("figures/01-introduction-to-geology/figure-1-2.png")
 ```
 
 </div>
@@ -64,7 +64,7 @@ Why? Because Earth is our home — our _only_ home for the foreseeable future �
 Figure \@ref(fig:figure-1-3) shows a slope failure that took place in January 2005 in the Riverside Drive area of North Vancouver. The steep bank beneath the house shown gave way, and a slurry of mud and sand flowed down. It destroyed another house below, and killed one person. The slope failure happened after a heavy rainfall, which is a common occurrence in southwestern B.C. in the winter.
 
 ```{r figure-1-3, fig.cap='Aftermath of a deadly debris flow in the Riverside Drive area of North Vancouver in January, 2005. _Source: The Province (2005), used with permission._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/deadly-debris-flow-in-the-Riverside-Drive.jpg")
+knitr::include_graphics("figures/01-introduction-to-geology/figure-1-3.jpg")
 ```
 
 A geological report written in 1980 warned the District of North Vancouver that the area was prone to slope failure, and that steps should be taken to minimize the risk to residents. Unfortunately, not enough was done in the intervening 25 years to prevent a tragedy.
@@ -80,7 +80,7 @@ Geologists also do the research that makes practical applications of geology pos
 Geological work can be done indoors in offices and labs, but some people are attracted to geology because they like to be outdoors. Many geological opportunities involve fieldwork in places that are as amazing to see as they are interesting to study. Sometimes these are locations where few people have ever set foot, and where few ever will again.
 
 ```{r figure-1-4, fig.cap='Geologists at work on the island of Spitsbergen, part of the Svalbard archipelago. The islands are located in the Arctic Ocean north of Norway. _Source: Gus MacLeod (2007) CC BY-NC-ND 2.0 [view source](https://flic.kr/p/8asQuW)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Svalbard.jpg")
+knitr::include_graphics("figures/01-introduction-to-geology/figure-1-4.jpg")
 ```
 
 ## We Study Earth Using the Scientific Method
@@ -98,7 +98,7 @@ There is no single method of inquiry that is specifically the scientific method.
 Consider a field trip to the stream shown in Figure \@ref(fig:figure-1-5) Notice that the rocks in and along the stream are rounded off rather than having sharp edges. We might hypothesize that the rocks were rounded because as the stream carried them, they crashed into each other and pieces broke off.
 
 ```{r figure-1-5, fig.cap='Hypothesizing about the origin of round rocks in a stream. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/08/What-are-scientific-methods.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/What-are-scientific-methods.jpg")
+knitr::include_graphics("figures/01-introduction-to-geology/figure-1-5.jpg")
 ```
 
 If the hypothesis is correct, then the further we go downstream, the rounder and smaller the rocks should be. Going upstream we should find that the rocks are more angular and larger. If we were patient we could also test the hypothesis by marking specific rocks and then checking back to see if those rocks have become smaller and more rounded as they moved downstream.
@@ -146,7 +146,7 @@ tibble::tribble(
 The __geological time scale__ (Figure \@ref(fig:figure-1-6)) is a way of breaking down geological time according to important events in Earth's history. Time is divided into __eons__, __eras__, __periods__, and __epochs__, and these intervals are referred to by names rather than by years. Giving intervals of geologic time names rather than using numbers makes sense because we won't always know the age in years (the __absolute__ __age__) of a rock or fossil, but we can place it in context based on our knowledge of the geological record. We can describe its __relative age__ by saying that it is older than or younger than another rock or fossil.
 
 ```{r figure-1-6, fig.cap='Geologic Society of America Geologic Time Scale, 2012. _Source: Walker, J.D., Geissman, J.W., Bowring, S.A., and Babcock, L.E., compilers (2012) Geologic Time Scale v. 4.0: Geological Society of America, doi: 10.1130/2012.CTS004R3C. [Download PDF](https://www.geosociety.org/documents/gsa/timescale/timescl.pdf)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/timescale.png")
+knitr::include_graphics("figures/01-introduction-to-geology/figure-1-6.png")
 ```
 
 The tricky thing about the geologic time scale is that the boundaries are always changing. As our knowledge of the absolute age of an event improves with new discoveries, it might be necessary to nudge a boundary earlier or later. Sometimes the original reason for defining a boundary no longer holds, but we agree to use it anyway. For example, the Phanerozoic Eon (the last 542 million years) is named for the time during which visible (_phaneros_) life (_zoi_) is present in the geological record, and its start was meant to mark the first appearance of these organisms. In fact, we now have evidence that large organisms — those that leave fossils visible to the naked eye — have existed longer than that, first appearing by 600 Ma at the latest.
@@ -158,7 +158,7 @@ The tricky thing about the geologic time scale is that the boundaries are always
 Notice that in Figure \@ref(fig:figure-1-6) the Proterozoic Eon precedes the Phanerozoic Eon. This was not always the case. Figure \@ref(fig:figure-1-7) shows an excerpt from a periodical published in 1879, in which the Proterozoic is defined as covering the Cambrian through Silurian. The author refers to "the most extreme adherents of the Murchisonian party in geology," a reference to the contentious assertion by Scottish geologist Roderick Murchison (1792-1871) that the Silurian Period should encompass the Cambrian and Ordovician periods as well.
 
 ```{r figure-1-7, fig.cap='An excerpt from the periodical _The Annals and Magazine of Natural History_ (1879) in which the name "Proterozoic" is assigned to the Cambrian, Ordovician, and Silurian periods instead of to the time preceding the Cambrian. _Source: Karla Panchuk (2017) CC BY 4.0 [Read the book](https://openpress.usask.ca/app/uploads/sites/29/2017/08/Annals_Magazine_of_Natural_History-1.pdf)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Proterozoic_1879.png")
+knitr::include_graphics("figures/01-introduction-to-geology/figure-1-7.png")
 ```
 
 </div>
@@ -203,7 +203,7 @@ Despite the different past conditions on Earth as a whole, there still exist env
 It is only within the last 50 years or so that we have been able to answer questions like, "How did that mountain range get there?" and "Why do earthquakes happen where they do?" The theory of __plate tectonics__- the idea that Earth's surface is broken into large moving fragments, called __plates__- profoundly changed our perspective on how the Earth works. Figure \@ref(fig:figure-1-8) shows Earth's 15 largest tectonic plates, along with arrows indicating the plates' direction of motion, and how fast they go. (Longer arrows mean faster motion.) There are many more plates on Earth that are too small to show conveniently in Figure \@ref(fig:figure-1-8). A more detailed map of Earth's tectonic plates can be found at [here](https://openpress.usask.ca/app/uploads/sites/29/2017/05/Plate_tectonics_map.gif).
 
 ```{r figure-1-8, fig.cap='Earth\'s fifteen largest tectonic plates. Black arrows show the direction of plate motions. The length of the arrow indicates velocity. Red arrows show how plates move relative to each other. _Source: Steven Earle (2015) CC BY 4.0. [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image043_2.png) Modified after U. S. Geological Survey (1996) Public Domain [view original](https://pubs.usgs.gov/gip/dynamic/slabs.html)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/08/Plates_map_small.png")
+knitr::include_graphics("figures/01-introduction-to-geology/figure-1-8.png")
 ```
 
 Prior to plate tectonics, we made observations but could only guess at mechanisms. It was like watching the hands on a clock and trying to guess what moves them. After plate tectonics it was like being able to open the clock and not only watch the gears turn, but realize for the first time that there are such things as gears. Plate tectonics not only explains why things have happened, but also allows us to predict what might happen in the future.

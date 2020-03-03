@@ -4,7 +4,7 @@
 _Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-8-1, fig.cap='The Hoodoos, near Drumheller, Alberta, have formed from the differential weathering (weaker rock weathering faster than stronger rock) of sedimentary rock. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image002.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/06/hoodoos-2-1024x673.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-1.jpg")
 ```
 
 ##### Learning Objectives {-}
@@ -40,11 +40,11 @@ The agents of mechanical weathering can be broadly classified into two groups: t
 Some processes at Earth's surface can cause a thin outer layer of a rock to expand. Deeper than the thin outer layer, the rock does not expand. The difference is accommodated by a crack developing between the outer and inner layers, breaking the outer layer off in slabs (Figures \@ref(fig:figure-8-2) and \@ref(fig:figure-8-3)). When layers break off a rock in slabs or sheets, it is referred to as __exfoliation__.
 
 ```{r figure-8-2, fig.cap='Close-up view of exfoliation of a granite dome in the Enchanted Rock State Natural Area, Texas, USA. _Source: Wing-Chi Poon (2005) CC BY-SA 2.5 [view source](https://commons.wikimedia.org/wiki/File:GeologicalExfoliationOfGraniteRock.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/GeologicalExfoliationOfGraniteRock_small-1024x577.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-2.jpg")
 ```
 
 ```{r figure-8-3, fig.cap='View of exfoliation at a distance (centre of image) in granite exposed on the west side of the Coquihalla Highway north of Hope, B.C. _Source: Steven Earle (2015) CC BY [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image005.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Coquihalla_exfoliation_SE.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-3.jpg")
 ```
 
 Granite tends to exfoliate parallel to the exposed surface because it does not have planes of weakness to determine how it breaks. In contrast, sedimentary rocks tend to exfoliate along the contacts between different sedimentary layers, and metamorphic rocks tend to exfoliate parallel to aligned minerals.
@@ -64,13 +64,13 @@ In wedging, a pre-existing crack in a rock is made larger by forcing it open.
 __Frost wedging__ (or __ice wedging__) happens when water seeps into cracks, then expands upon freezing. The expansion enlarges the cracks (Figure \@ref(fig:figure-8-4)). The effectiveness of frost wedging depends on how often freezing and thawing occur. Frost wedging won’t be as important in warm areas where freezing is infrequent, in very cold areas where thawing is infrequent, or in very dry areas, where there is little water to seep into cracks.
 
 ```{r figure-8-4, fig.cap='A rock broken by ice wedging sits in a stream in Mount Revelstoke National Park, Canada. Rocks break apart when ice expands in pre-existing cracks. _Source: Karla Panchuk (2018) CC BY 4.0._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Ice-wedging.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-4.png")
 ```
 
 Frost wedging is most effective in Canada's climate, where for at least part of the year temperatures oscillate between warm and freezing. In many parts of Canada, the temperature swings between freezing at night and thawing in the day tens to hundreds of times a year. Even in warm coastal areas of southern British Columbia, freezing and thawing transitions are common at higher elevations. A common feature in areas of effective frost wedging is a talus slope — a fan-shaped deposit of fragments removed by frost wedging from the steep rocky slopes above (Figure \@ref(fig:figure-8-5)).
 
 ```{r figure-8-5, fig.cap='An area with very effective frost wedging near Keremeos, BC. The fragments that were wedged away from the cliffs above have accumulated in a talus deposit at the base of the slope. The rocks in this area are variable in colour, which is reflected in the colours of the talus. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image011.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/talus_slope_SE-1024x698.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-5.jpg")
 ```
 
 #### Salt Wedging
@@ -78,7 +78,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 __Salt wedging__ happens when saltwater seeps into rocks and then evaporates on a hot sunny day. Salt crystals grow within cracks and pores in the rock, and the growth of these crystals can push grains apart, causing the rock to weaken and break. There are many examples of this on the rocky shorelines of Vancouver Island and the Gulf Islands, where sandstone outcrops are common and salty seawater is readily available (Figure \@ref(fig:figure-8-6)). The honeycomb structure of rounded holes, called __tafoni__, is related to the original roughness of the surface. Low spots collect salt water, causing the effect to be accentuated around existing holes.
 
 ```{r figure-8-6, fig.cap='Tafoni (Honeycomb weathering) in sandstone on Gabriola Island, British Columbia. The holes are caused by crystallization of salt within rock pores. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image013.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/tafoni_SE.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-6.jpg")
 ```
 
 #### Plant and Animal Activity
@@ -86,7 +86,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07
 The effects of plants are significant in mechanical weathering. Roots can force their way into even the tiniest cracks. They exert tremendous pressure on the rocks as they grow, widening the cracks and breaking the rock. This is called __root__ __wedging__ (Figure \@ref(fig:figure-8-7)).
 
 ```{r figure-8-7, fig.cap='Root wedging along a quarry wall. Left: Rocks beneath the thick red beds have been split into sheets by tree roots. Right: A closer examination reveals that tree roots are working into vertical cracks as well. _Source: Karla Panchuk (2018) CC BY 4.0_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/root_wedging_2018.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-7.png")
 ```
 
 Although most animals do not normally burrow through solid rock, they can excavate and remove huge volumes of soil, and thus expose the rock to weathering by other mechanisms. Humans modify vast tracts of land by excavation, and have a profound effect on accelerating mechanical weathering.
@@ -98,7 +98,7 @@ Although most animals do not normally burrow through solid rock, they can excava
 What mechanical weathering processes do you think take place on this mountain in British Columbia?
 
 ```{r figure-8-8, fig.cap='Granite at the top of Siy’ám’ Smánit (also known as Stawamus Chief Mountain), near Squamish, British Columbia. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image017.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Stawamus_Chief_SE-1024x618.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-8.jpg")
 ```
 
 </div>
@@ -122,7 +122,7 @@ __Dissolution__ reactions produce ions, but no minerals, and are reversible if t
 Other minerals, such as calcite, will dissolve in acidic water. Acidic water is common in nature, because carbon dioxide (CO~2~) in the atmosphere reacts with water vapour in the atmosphere, and with water on land and in the oceans to produce carbonic acid (Figure \@ref(fig:figure-8-9)).
 
 ```{r figure-8-9, fig.cap='Calcite weathering by dissolution. Top: Carbon dioxide reacts with water to make acid. Bottom: Acid reacts with calcite and produces ions. _Source: Karla Panchuk (2018) CC BY-NC-SA 4.0. Modified after [What-When-How](http://what-when-how.com/paramedic-care/ventilation-clinical-essentials-paramedic-care-part-2/). Molecules from [JMSE Molecular Editor](http://biomodel.uah.es/en/DIY/JSME/draw.en.htm), Bienfait and Ertl (2013), with permission for CC BY-NC-SA use._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Dissolution_rxn_2018.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-9.png")
 ```
 
 While rainwater and atmospheric CO~2~ can combine to create carbonic acid, the amount of CO~2~ in the air is enough to make only very weak carbonic acid. In contrast, biological processes acting in soil can result in a much higher concentration of CO~2~ within soil, as well as adding organic acids. Water that percolates through the soil can become significantly more acidic.
@@ -132,7 +132,7 @@ Calcite is a major component of the sedimentary rock called limestone (typically
 If dissolution of limestone or other materials removes enough rock to undermine support near the surface, the surface may collapse, creating a __sinkhole__ such as the one in Figure \@ref(fig:figure-8-10), downstream of the Mosul Dam in Iraq.
 
 ```{r figure-8-10, fig.cap='Sinkhole downstream of the Mosul Dam in Iraq. The sinkhole is a result of dissolution of gypsum and anhydrite layers. _Source: U. S. Army Corps of Engineers (2007) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Mosul_Dam_sinkhole.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/10/Mosul_Dam_sinkhole.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-10.jpg")
 ```
 
 Although the sinkhole in Figure \@ref(fig:figure-8-9) might appear minor, it indicates a serious problem. The dam itself is constructed on limestone supported by beds of gypsum and anhydrite. Gypsum and anhydrite are soluble in water, and the gypsum and anhydrite beneath the dam are rapidly dissolving away. This was the case prior to construction of the dam. However, once the dam was filled, the increased water pressure began to force water through the formations much faster, accelerating dissolution. Ongoing measures to fill gaps with grout are required, or else there is a grave risk of catastrophic failure, placing nearly 1.5 million people at risk.
@@ -142,7 +142,7 @@ Although the sinkhole in Figure \@ref(fig:figure-8-9) might appear minor, it ind
 The term __hydrolysis__ combines the prefix _hydro_, referring to water, with _lysis_, which is derived from a Greek word meaning to loosen or dissolve. Thus, you can think of hydrolysis as a chemical reaction where water loosens the chemical bonds within a mineral. This might sound the same as dissolution but the difference is that hydrolysis produces a different mineral in addition to ions. An example of hydrolysis is when water reacts with potassium feldspar to produce __clay minerals__ and ions. The results can be seen by comparing weathered and unweathered surfaces of the same sample of granite (Figure \@ref(fig:figure-8-11)). On the recently broken unweathered surface (Figure \@ref(fig:figure-8-11), left) feldspar is visible as bright white crystals. On a weathered surface (right) the feldspar has been altered to the chalky-looking clay mineral kaolinite.
 
 ```{r figure-8-11, fig.cap='A piece of granite with unweathered (left) and weathered (right) surfaces. On the unweathered surfaces the feldspars are still fresh and glassy looking. On the weathered surface there are chalky white patches where feldspar has been altered to the clay mineral kaolinite. _Source: Karla Panchuk (2018) CC BY 4.0. Photos by Steven Earle (2015) CC-BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/granitic-rock.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/hydrolysis_granite.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-11.png")
 ```
 
 Silicate minerals other than feldspar can undergo hydrolysis, but with different end results. For example, pyroxene can be converted to the clay minerals chlorite or smectite. Olivine can be converted to the clay mineral serpentine.
@@ -166,7 +166,7 @@ Iron and oxygen dissolved in water react in the presence of bicarbonate to produ
 When the olivine in basalt is oxidized, the basalt takes on a reddish colour that is distinct from the dark grey or black of unweathered basalt (Figure \@ref(fig:figure-8-12)).
 
 ```{r figure-8-12, fig.cap='Basalt pillows in Andalusia, Spain, with reddish weathered surfaces. Where parts of the pillows have broken away, darker unweathered basalt is visible. _Source:Ignacio Benvenuty Cabral (2011) CC BY-NC-SA [view source](https://flic.kr/p/9z1V6B)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/pillow-lava-Banco-de-Imagenes.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-12.jpg")
 ```
 
 The oxidation reaction would be similar for other iron-containing silicate minerals such as pyroxene, amphibole, and biotite. Iron in sulphide minerals such as pyrite (FeS~2~) can also be oxidized in this way.
@@ -174,7 +174,7 @@ The oxidation reaction would be similar for other iron-containing silicate miner
 Hematite is not the only mineral that can result from oxidation. In fact, a wide range of iron oxide minerals that can form in this way, In granite, for example, biotite and amphibole can be altered to form the iron oxide and iron hydroxyoxide minerals that are referred to in combination as __limonite__ (orange material in Figure \@ref(fig:figure-8-13)).
 
 ```{r figure-8-13, fig.cap='Biotite and amphibole in this granite have been altered by oxidation to limonite (orange-yellow coating), which is a mixture of iron oxide and iron hydroxyoxide minerals. _Source: Steven Earle (2015) CC-BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image023.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/granite_limonite_SE.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-13.jpg")
 ```
 
 ##### Oxidation Reactions and Acid Rock Drainage
@@ -186,7 +186,7 @@ Oxidation reactions can pose an environmental problem in areas where rocks have 
 The runoff from areas where this process is taking place is known as __acid rock drainage__ (ARD), and even a rock with 1% or 2% pyrite can produce significant ARD. Some of the worst examples of ARD are at metal mine sites, especially where pyrite-bearing rock and waste material have been mined from deep underground, and then piled up and left exposed to water and oxygen. In these cases the problem is referred to as __acid mine drainage__. One example is the Mt. Washington Mine near Courtenay on Vancouver Island (Figure \@ref(fig:figure-8-12)), but there are many similar sites across Canada and around the world.
 
 ```{r figure-8-14, fig.cap='Acid mine drainage. Left: Mine waste where exposed rocks undergo oxidation reactions and generate acid at the Washington Mine, BC. Right: An example of acid drainage downstream from the mine site. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Mt.-Washington-Mine.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/07/Mt.-Washington-Mine-1024x425.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-14.png")
 ```
 
 At many ARD sites, the pH of the runoff water is less than 4 (very acidic). Under these conditions, metals such as copper, zinc, and lead easily dissolve in water, which can be toxic to aquatic life and other organisms. For many years, the river downstream from the Mt. Washington Mine had so much dissolved copper in it that it was toxic to salmon. Remediation work has since been carried out at the mine and the situation has improved.
@@ -249,7 +249,7 @@ Weathering accelerates weathering. Physical weathering forms cracks and breaks r
 When rocks in an outcrop weather at different rates, the result is called __differential weathering__. Differential weathering causes some beds in an outcrop to be recessed relative to the others, because beds that are slow to weather will take longer to recede than weaker beds (Figure \@ref(fig:figure-8-15)).
 
 ```{r figure-8-15, fig.cap='Differential weathering in an outcrop along the Blaeberry River near Golden BC. The recessed beds within the outcrop are weathering faster than the surrounding beds. _Source: Karla Panchuk (2009) CC BY 4.0_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/differential_weathering-768x1024.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-15.jpg")
 ```
 
 ## Weathering and Erosion Produce Sediments
@@ -259,7 +259,7 @@ The visible products of weathering and erosion are the unconsolidated materials 
 Clasts can range widely in size and shape (Figure \@ref(fig:figure-8-16)) depending on the processes involved in making and transporting them. If and when deposits like these are turned into sedimentary rocks, the mineralogy and textures of these rocks will vary significantly. Importantly, when we describe sedimentary rocks that formed millions of years in the past, we can study the mineralogy and textures to make inferences about the conditions that existed during the deposition of the sediment, and the later burial and formation of sedimentary rock. The properties we look at are __composition__, __grain size__, __sorting__, __rounding__, and __sphericity__.
 
 ```{r figure-8-16, fig.cap='Products of weathering and erosion formed under different conditions. Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/clasts-3.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/clasts-3.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-16.png")
 ```
 
 ### Composition
@@ -277,7 +277,7 @@ Whether a grain is large or small tells us about its journey from its source to 
 Geologists have a specific set of definitions to describe the size of grains (Figure \@ref(fig:figure-8-17)).
 
 ```{r figure-8-17, fig.cap='Classification of grain sizes. Silt and clay are considered fine-grained particles, sand is medium-grained, and particles larger than sand are considered coarse-grained.. _Source: Karla Panchuk (2016) CC BY 4.0 Click the image for a text version._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Grain-size-chart.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-17.png")
 ```
 
 The scale has some of the grain sizes listed in microns (µm). There are 1000 µm in 1 mm. The particles classified as sand are what you would intuitively think of as being sand-sized, so an easy way to remember the scale is that anything smaller than sand is fine-grained, and anything larger is coarse-grained. Fine sand grains are still easily discernible with the naked eye. Silt grains are barely discernible in rocks, and silty rocks feel gritty when rubbed. Clay grains are invisible to the naked eye, and rocks comprised of clay feel smooth when rubbed.
@@ -291,7 +291,7 @@ The grain size of sediments is not just for purposes of description. It's also a
 Whether or not a medium such as water or air has the ability to move a clast of a particular size and keep it moving depends on the velocity of the flow. For the most part, the faster the medium flows, the larger the clasts that can be moved. Figure \@ref(fig:figure-8-18) shows a stream bed that now contains only a trickle of water—barely enough to move particles of sand or cool puppy feet. But the velocity of water in the stream changes from season to season, as does the volume of water. All of the clasts in the stream bed were transported there by water at some point.
 
 ```{r figure-8-18, fig.cap='Ruby looks upstream in a channel near Golden BC. For much of the year the only water in the stream is the trickle in which Ruby stands, but in the spring the water can flow rapidly enough to carry boulders. _Source: Karla Panchuk (2009) CC BY 4.0_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/IMG_4497-1024x871-1024x871.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-18.jpg")
 ```
 
 Very fine-grained particles are the exception to rule that the larger the clasts, the faster the water that is required to transport them. Clay and silt grains stick together, requiring higher water velocities to pick them up and move them than some larger particles. Water that flows fast enough to pick up sand would not be fast enough to pick up clay.
@@ -301,7 +301,7 @@ Very fine-grained particles are the exception to rule that the larger the clasts
 Weathering can break off large fragments of rock, and erosion and transport can break these fragments down to smaller and smaller sizes. The extent to which the grains in sediment differ in size is described by __sorting__ (Figure \@ref(fig:figure-8-19), top).
 
 ```{r figure-8-19, fig.cap='Top: Sorting of grains, ranging from well sorted where the grains are similar in size, to poorly sorted, where the grains vary greatly in size. Bottom: Rounding refers to how smooth or rough the edges of a clast are. Clasts with sharp edges and corners are angular. Clasts with smooth surfaces are rounded. Clasts that fall in between are sub-angular or sub-rounded. Source: Reagan et al. (2015) CC BY 3.0 [view source](http://publications.iodp.org/proceedings/352/102/figures/02_F05.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/IODP-sorting-and-rounding.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-19.png")
 ```
 
 If the grains in a sample of sediment are the same size or very nearly so, the sediment is said to be well sorted. If the grains vary substantially in size, the sediment is poorly sorted. Because grains become progressively smaller as they are transported, sorting improves the further the sediments are from their source.
@@ -321,7 +321,7 @@ __Sphericity__ describes whether a grain is elongate or not. Grains that are lon
 Three samples of sand are shown below. Read the descriptions of what they contain and where they are from, then describe each sample in terms of grain size, sorting, rounding, and sphericity.
 
 ```{r figure-8-20, fig.cap='Three examples of sand grains. _Source: Steven Earle (2016) CC BY 4.0 View sources: [Sample A](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image039.jpg)[, Sample B](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image041.jpg), [Sample C](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image043.jpg)._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/sand_examples.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-20.png")
 ```
 
 Sample A: Fragments of red coral, algae plates, and urchin needles from a shallow water area (~2 m depth) near a reef in Belize. The grains are between 0.1 and 1 mm across.
@@ -343,7 +343,7 @@ Soil is a complex mixture of minerals (~45%), organic matter (~5%), and empty sp
 The types of weathering that take place within a region have a major influence on soil composition and texture. For example, in a warm climate where chemical weathering dominates, soils tend to be richer in clay. Soil scientists describe soil texture in terms of the relative proportions of sand, silt, and clay (Figure \@ref(fig:figure-8-21)). Sand and silt components are dominated by quartz, with lesser amounts of feldspar and rock fragments. The clay component is dominated by clay minerals.
 
 ```{r figure-8-21, fig.cap='Soil texture classification diagram. Textures are determined by the proportions of sand-, silt-, and clay-sized grains. _Source: Mike Norton (2011) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:SoilTexture_USDA.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/soil_texture_USDA.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-21.png")
 ```
 
 ### Factors Affecting How Soil Forms
@@ -364,7 +364,7 @@ Although water is needed for chemical weathering to take place, too much water c
 Too little water (e.g., in deserts and semi-deserts) limits the rate of downward chemical transport, and it also means that salts and carbonate ions dissolved in upward-moving groundwater can precipitate and build up in sediments, hindering organic activity. These soils also lack organic matter (Figure \@ref(fig:figure-8-22)).
 
 ```{r figure-8-22, fig.cap='Soil consisting of wind-blown silt (loess) and little organic matter in an arid part of north-eastern Washington state. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image047.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/loess_SE.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-22.jpg")
 ```
 
 #### Parent Material
@@ -400,7 +400,7 @@ When soils form, the downward movement of clay, water, and dissolved ions can le
 - C horizon: Contains broken fragments of rock. Weathering of the underlying bedrock or sediments is not yet complete.
 
 ```{r figure-8-23, fig.cap='Typical horizons in a temperate soil, from Wales. Source: Karla Panchuk (2018) CC BY 4.0. Photograph: Richard Hartnup (2005) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Podzol.jpg)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/soil-horizons.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-23.png")
 ```
 
 Although rare in Canada, another type of layer that develops in hot arid regions is known as __caliche__ (pronounced _ca-lee-chee_). It forms from the downward (or in some cases upward) movement of calcium ions, and the precipitation of calcite within the soil. When well developed, caliche cements the surrounding material together to form a layer that has the consistency of concrete.
@@ -414,13 +414,13 @@ Soils are held in place by vegetation. When vegetation is removed, either throug
 Water erosion is accentuated on sloped surfaces because fast-flowing water has greater eroding power than still water. Raindrops can disaggregate exposed soil particles, putting clay into suspension in the water. __Sheetwash__—unchannelled flow across a surface—carries suspended material away, and channels erode right through the soil layer, removing both fine and coarse material (Figure \@ref(fig:figure-8-24)).
 
 ```{r figure-8-24, fig.cap='Soil erosion by rain and unchanneled runoff in a field in Alberta. _Source:Alberta Agriculture and Rural Development. Click the image for source information and terms of use._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/photo-2-2-1_l.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-24.jpg")
 ```
 
 Wind erosion is exacerbated by the removal of trees that act as wind breaks, and by agricultural practices that leave bare soil exposed (Figure \@ref(fig:figure-8-25)).
 
 ```{r figure-8-25, fig.cap='Soil erosion by wind in Alberta. _Source:Alberta Agriculture and Rural Development. Click the image for source information and terms of use._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/photo-2-2-2-erosion_l-1024x680.jpg")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-25.jpg")
 ```
 
 Tillage is also a factor in soil erosion, especially on slopes, because each time the soil is lifted by a cultivator, it is moved a few centimetres down the slope.
@@ -486,7 +486,7 @@ tibble::tibble(
 
 
 ```{r figure-8-26, fig.cap='Distribution of soil orders in Canada. Click [here](http://www.agr.gc.ca/atlas/agpv?webmap-en=c225cc78d5b142d58eacefae91cc535b&amp;webmap-fr=ad0b6822a33e411683f99979a1167efa) to go to the interactive map. _Source: Agrifood and Agriculture Canada. Contains information licensed under the Open Government License - Canada. Click the image for terms of use.<br>_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/soil_map_interactive.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-26.png")
 ```
 
 Processes of soil formation include downward transport of solid and dissolved materials, and the nature of those processes depends in large part on the climate. In Canada’s predominantly cool and humid climate—characteristic of most places other than the far north— __podzolization__ is the norm. This involves downward transportation of hydrogen, iron, and aluminum from the upper part of the soil profile, and accumulation of clay, iron, and aluminum in the B-horizon. Most of the __podzols, luvisols__, and __brunisols__ of Canada form through various types of podzolization.
@@ -537,7 +537,7 @@ The geological component of the carbon cycle is shown in Figure \@ref(fig:figure
 - During volcanic eruptions, carbon dioxide is released back to the atmosphere, where it is stored for years to decades.
 
 ```{r figure-8-27, fig.cap='The geological component of the carbon cycle includes: (a) organic carbon in peat, coal and permafrost, (b) weathering of silicate minerals converts atmospheric carbon dioxide to dissolved bicarbonate, (c) marine organisms convert dissolved carbon to calcium carbonate, (d) carbon compounds are stored in sediments, (e) carbon-bearing sediments are transferred to longer-term storage in the mantle, and (f) carbon dioxide is released back to atmosphere during volcanic eruptions. _Source: Steven Earle (2016) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image057.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/image057-1024x323.png")
+knitr::include_graphics("figures/08-weathering-sediment-and-soil/figure-8-27.png")
 ```
 
 At some times in Earth’s history, the geological carbon cycle has been balanced, with carbon being released to the atmosphere by some processes at approximately the same rate as other processes store it. Under these conditions, the climate can remain relatively stable.

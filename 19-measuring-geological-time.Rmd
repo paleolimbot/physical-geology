@@ -4,7 +4,7 @@
 _Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Tim Prokopiuk and Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-19-1, fig.cap='Arizona’s Grand Canyon is an icon for geological time; 1,450 million years are represented by this photo. The light-coloured layers of rocks at the top formed at ~ 250 Ma, and the dark ones at the bottom of the canyon at ~ 1,700 Ma. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Arizona%E2%80%99s-Grand-Canyon.jpg)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Arizona-Grand-Canyon-SE-1024x401.jpg")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-1.jpg")
 ```
 
 <div class="textbox learning-objectives">
@@ -40,7 +40,7 @@ William Smith worked as a surveyor in the coal-mining and canal-building industr
 Inset into Smith’s great geological map is a small diagram showing a schematic geological cross-section extending from the Thames estuary of eastern England to the west coast of Wales. Smith showed the sequence of rocks, from the Paleozoic rocks of Wales and western England, through the Mesozoic rocks of central England, to the Cenozoic rocks of the area around London (Figure \@ref(fig:figure-19-2)).
 
 ```{r figure-19-2, fig.cap='William Smith’s "Sketch of the succession of strata and their relative altitudes," an inset on his geological map of England and Wales (with era names added). _Source: Steven Earle (2015) CC BY 4.0 view source, modified after William Smith (1815) Public Domain [view map](https://commons.wikimedia.org/wiki/File:Geological_map_Britain_William_Smith_1815.jpg)._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/geological-map-of-England-and-Wales-e1439316487427.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-2.png")
 ```
 
 Smith did not put any dates on these rocks, because he didn’t know them. But he was aware of the __principle of superposition__, the idea developed much earlier by the Danish theologian and scientist Nicholas Steno, that young sedimentary rocks form on top of older ones. Therefore, Smith knew that this diagram represented a stratigraphic column. And since almost every period of the Phanerozoic is represented along this section through Wales and England, it is also a primitive geological time scale.
@@ -54,19 +54,19 @@ The geological timescale is currently maintained by the International Commission
 Geological time has been divided into four eons: Hadean, Archean, Proterozoic, and Phanerozoic (Figure \@ref(fig:figure-19-3)). The first three of these eons represent almost 90% of Earth’s history. Rocks from the Phanerozoic (meaning "visible life") are the most commonly exposed rocks on Earth, and they contain evidence of life forms with which we are familiar.
 
 ```{r figure-19-3, fig.cap='The eons of Earth\'s history. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/eons-of-Earth.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Eons-1024x235.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-3.png")
 ```
 
 The Phanerozoic — the past 541 Ma of Earth’s history — is divided into three eras: the Paleozoic ("early life"), the Mesozoic ("middle life"), and the Cenozoic ("new life"), and each era is divided into periods (Figure \@ref(fig:figure-19-4)). Most of the organisms with which we share Earth evolved into familiar forms at various times during the Phanerozoic.
 
 ```{r figure-19-4, fig.cap='The eras (middle row) and periods (bottom row) of the Phanerozoic. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Phanerozoic.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Phanerozoic_eon-1024x264.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-4.png")
 ```
 
 The Cenozoic, representing the past 66 Ma, is divided into three periods, the Paleogene, Neogene, and Quaternary; and seven epochs (Figure \@ref(fig:figure-19-5)). Non-avian dinosaurs became extinct at the start of the Cenozoic, after which birds and mammals radiated to fill the available habitats. Earth was very warm during the early Eocene, and has cooled steadily ever since. Glaciers first appeared on Antarctica in the Oligocene and then on Greenland in the Miocene. By the Pleistocene, glaciers covered much of North America and Europe. The most recent of the Pleistocene glaciations ended ~11,700 years ago. The current epoch is known as the Holocene. Epochs are further divided into ages.
 
 ```{r figure-19-5, fig.cap='The periods and epochs of the Cenozoic Era. _Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Cenozoic.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Cenozoic_era-1024x457.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-5.png")
 ```
 
 Most of the boundaries between the periods and epochs of the geological timescale have been fixed on the basis of significant changes in the fossil record. For example, the boundary between the Cretaceous and the Paleogene coincides exactly with the extinction of the dinosaurs. This is not a coincidence. Many other types of organisms went extinct at this time, and the boundary between the two periods marks the division between sedimentary rocks containing Cretaceous organisms below, and those containing Paleogene organisms above.
@@ -82,7 +82,7 @@ The __principle of superposition__ states that sedimentary layers are deposited 
 The __principle of original horizontality__ indicates that sediments are originally deposited as horizontal to nearly horizontal sheets. At a broad scale this is true, but at a smaller scale it may not be. For example, cross-bedding forms at an appreciable angle, where sand is deposited upon the lee face of a ripple. The same holds true of delta foreset beds (Figure \@ref(fig:figure-19-6)).
 
 ```{r figure-19-6, fig.cap='A cross-section through a river delta forming in a lake. The delta foresets are labeled "Delta deposits" in this figure, and you can quickly see that the front face of the foresets are definitely not deposited horizontally. _Source: AntanO (2017) CC BY 4.0 [view source](https://commons.wikimedia.org/wiki/File:Delta_Formation.svg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/1280px-Delta_Formation.svg_-1024x572.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-6.png")
 ```
 
 The __principle of lateral continuity__ states that sediments are deposited such that they extend laterally for some distance before thinning and pinching out at the edge of the depositional basin. But sediments can also terminate against faults or erosional features (see unconformities below), so may be cut off by local factors.
@@ -90,13 +90,13 @@ The __principle of lateral continuity__ states that sediments are deposited such
 The __principle of inclusions__ states that any rock fragments that are included in a rock must be older than the rock in which they are included. For example, a __xenolith__ in an igneous rock, or a clast in sedimentary rock must be older than the rock that includes it (Figure \@ref(fig:figure-19-7)). A possible situation that would violate this principle is the following: an igneous dyke may intrude through a sequence of rocks, hence is younger than these rocks (see the principle of cross-cutting relationships below). Later deformation may cause the dyke to be pulled apart into small pieces, surrounded by the host rocks. This situation can make the pieces of the dyke appear to be xenoliths, but they are _younger_ than the surrounding rock in this case.
 
 ```{r figure-19-7, fig.cap='Applications of the principle of inclusion. Left- A xenolith of diorite incorporated into a basalt lava flow, Mauna Kea volcano, Hawai\'i. The lava flow took place some time after the diorite crystallized (hammer head for scale). Right- Rip-up clasts of shale embedded in Gabriola Formation sandstone, Gabriola Island, BC. The pieces of shale were eroded as the sand was deposited, so the shale is older than the sandstone. _Source: Karla Panchuk (2018) CC BY 4.0. Photographs by Steven Earle (2015) CC BY 4.0 view sources [left](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/xenolith-of-diorite.jpg)/ [right](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/sandstone.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/principle_of_inclusions.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-7.png")
 ```
 
 The __principle of cross-cutting relationships__ states that any geological feature that cuts across or disrupts another feature must be younger than the feature that is disrupted. An example of this is given in Figure \@ref(fig:figure-19-8), which shows three different sedimentary layers. The lower sandstone layer is disrupted by two __faults__, so we can infer that the faults are younger than this layer. But the faults do not appear to continue into the coal seam, and they certainly do not continue into the upper sandstone. So we can infer that coal seam is younger than the faults (because the coal seam cuts across them). The upper sandstone is youngest of all, because it lies on top of the coal seam. An example that violates this principle can be seen with a type of fault called a growth fault. A growth fault is a fault that continues to move as sediments are continuously delivered to the hangingwall block. In this case, the lower portion of the fault that cuts the lower sediments may have originally formed _before_ the uppermost sediments were deposited, despite the fault cutting through all of the sediments, and appearing to be entirely younger than all of the sediments.
 
 ```{r figure-19-8, fig.cap='Superposition and cross-cutting relationships in Cretaceous Nanaimo Group rocks in Nanaimo BC. The coal seam is about 50 cm thick. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Cretaceous-Nanaimo.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Cretaceous-Nanaimo-1024x364.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-8.png")
 ```
 
 The __principle of baked contacts__ states that the heat of an intrusion will bake (metamorphose) the rocks in close proximity to the intrusion. Hence the presence of a baked contact indicates the intrusion is younger than the rocks around it. If an intrusive igneous rock is exposed via erosion, then later buried by sediments, the surrounding rocks will _not_ be baked, as the intrusion was already cold at the time of sediment deposition. But baked contacts may be difficult to discern, or may be minimally developed to absent when the intrusive rocks are low in volume or felsic (relatively cool) in composition.
@@ -117,7 +117,7 @@ Using the principle of cross-cutting relationships outlined above, determine the
 Note: The near-vertical stripes are blasting drill holes. The image is about 7 m across.
 
 ```{r figure-19-9, fig.cap='Outcrop from Horseshoe Bay, BC. _Source: Steven Earle CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/outcrop.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/outcrop.jpg")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-9.jpg")
 ```
 
 </div>
@@ -127,7 +127,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 An __unconformity__ represents an interruption in the process of deposition of sediments. Recognizing unconformities is important for understanding time relationships in sedimentary sequences. An unconformity is visible in the Grand Canyon (Figure \@ref(fig:figure-19-10), white dashed line) above Proterozoic rocks that were tilted and then eroded to a flat surface prior to deposition of the younger Paleozoic rocks. The difference in time between the youngest of the Proterozoic rocks and the oldest of the Paleozoic rocks is nearly 300 million years. Tilting and erosion of the older rocks took place during this time, and if there were any deposition occurring in this area during this time, erosion removed those sediments.
 
 ```{r figure-19-10, fig.cap='Angular unconformity in the Grand Canyon in Arizona, with a sketch of rock orientations. The tilted rocks at the bottom are part of the Proterozoic Grand Canyon Group (aged 825 to 1,250 Ma). The flat-lying rocks at the top are Paleozoic (540 to 250 Ma). The boundary between the two (dashed white line) represents a time gap of nearly 300 million years. _Source: Karla Panchuk (2018) CC BY 4.0. Photograph by Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Grand-Canyon.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Grand-Canyon-unconformity.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-10.png")
 ```
 
 There are four types of unconformities, reflecting different arrangements and types of rocks above and below the surface of non-deposition or erosion (Table 19.1, Figure \@ref(fig:figure-19-11)).
@@ -137,7 +137,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 ```
 
 ```{r figure-19-11, fig.cap='The four types of unconformities: (a) a nonconformity between non-sedimentary rock and sedimentary rock, (b) an angular unconformity, (c) a disconformity between layers of sedimentary rock, where the older rock has been eroded but not tilted, and (d) a paraconformity where there is a long period (millions of years) of non-deposition between two parallel layers. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/unconformities.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/unconformities-1024x667.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-11.png")
 ```
 
 <div class="textbox textbox-exercise">
@@ -149,7 +149,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 1. Provide a list of the events that affected the rocks in Figure \@ref(fig:figure-19-12) in order from the oldest event to the most recent event. Note that C and D are faults. The sedimentary rocks labelled A are folded, but the other sedimentary rocks are horizontal.
 
 ```{r figure-19-12, fig.cap='Block diagram showing sedimentary and igneous rocks affected by faults, folds, and erosion. _Source: Karla Panchuk (2018) CC BY-SA 4.0, modified after Woudloper (2009) CC BY-SA 1.0 [view source](https://commons.wikimedia.org/wiki/File:Cross-cutting_relations.svg) _'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/relative_dating_2nd.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-12.png")
 ```
 
 </div>
@@ -163,7 +163,7 @@ Although the recognition of fossils goes back hundreds of years, the systematic 
 A selective history of life on Earth over the past 600 million years is provided in Figure \@ref(fig:figure-19-13) The major groups of organisms that we are familiar with appeared between the late Proterozoic and the Cambrian (~600 Ma to ~541 Ma). Plants, which originally evolved in the oceans as green algae, invaded land during the Ordovician (~450 Ma). Insects, which evolved from marine arthropods, invaded land during the Devonian (400 Ma), and amphibians (i.e., vertebrates) invaded land about 50 million years later. By the late Carboniferous, trees had evolved from earlier plants, and reptiles had evolved from amphibians. By the mid-Triassic, dinosaurs and mammals had evolved from reptiles and reptile ancestors, Birds evolved from dinosaurs during the Jurassic. Flowering plants evolved in the late Jurassic or early Cretaceous. The earliest primates evolved from other mammals in the early Paleogene, and the genus _Homo _evolved during the late Neogene (~2.8 Ma).
 
 ```{r figure-19-13, fig.cap='A selective summary of life on Earth during the late Proterozoic and the Phanerozoic. The top row shows geological eras, and the lower row shows geological periods. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Proterozoic-and-the-Phanerozoic.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Earth-history_cropped-1024x339.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-13.png")
 ```
 
 If we understand the sequence of evolution on Earth, we can apply this knowledge to determining the relative ages of rocks. This is William Smith’s __principle of faunal succession__, although in spite of the name, it can apply to fossils of plants and simple organisms as well as to fauna (animals).
@@ -175,7 +175,7 @@ It is not a coincidence that the major extinctions all coincide with boundaries 
 If we can identify a fossil, and we know when the organism lived, we can assign a range of time to the formation of the sediments in which the organism was preserved when it died. This range might be several millions of years, because some organisms survived for a very long time. If the rock we are studying has several types of fossils in it, and we can assign time ranges to all of these fossils, we may be able to narrow the time range for the age of the rock considerably (Figure \@ref(fig:figure-19-14)).
 
 ```{r figure-19-14, fig.cap='Application of bracketing to constrain the age of a rock based on the presence of several fossils. The yellow bar represents the time range during which each of the four species (A – D) existed on Earth. Although each species lived for several millions of years, we can narrow down the age of the rock to a span of just 1.3 Ma during which all four species coexisted. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/age-of-a-rock.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/age-of-a-rock.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-14.png")
 ```
 
 Some organisms survived for a very long time, and are not particularly useful for dating rocks. Sharks, for example, have existed for over 400 million years, and the great white shark has survived for 16 million years so far. Organisms that lived for relatively short time periods are particularly useful for dating rocks, especially if they were distributed over a wide geographic area and hence can be used to compare rocks from different regions. These are known as __index fossils__. There is no specific limit on how short the time span has to be for a fossil to qualify as an index fossil. Some such organisms lived for millions of years, and others for much less than a million years.
@@ -183,13 +183,13 @@ Some organisms survived for a very long time, and are not particularly useful fo
 Some well-studied groups of organisms qualify as __biozone __fossils because, although the genera and families lived over a long time, each species lived for a relatively short time and can be easily distinguished from others on the basis of specific features. For example, ammonites have a distinctive feature known as the __suture__ line, where the internal shell layers that separate the individual chambers (__septae__) meet the outer shell wall (Figure \@ref(fig:figure-19-15)). These suture lines are sufficiently variable to identify species that can be used to estimate the relative or absolute ages of the rocks in which they are found.
 
 ```{r figure-19-15, fig.cap='The septum of an ammonite (white part, left), and the suture lines where the septae meet the outer shell (right). _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/septum-of-an-ammonite.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/septum-of-an-ammonite-1024x451.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-15.png")
 ```
 
 Foraminifera—small, calcium carbonate-shelled marine organisms that originated during the Triassic and are still alive today—are also useful biozone fossils. Numerous different foraminifera lived during the Cretaceous Period, some for over 10 million years, but others for less than 1 million years (Figure \@ref(fig:figure-19-16)). If the foraminifera in a rock can be identified to the species level, the rock's age can be determined.
 
 ```{r figure-19-16, fig.cap='Time ranges for Cretaceous foraminifera (left), and modern foraminifera from the Ambergris area of Belize (right)._ Source: Left- Steven Earle (2015) CC BY 4.0, from data in Scott (2014). Right- Steven Earle (2015) CC BY 4.0 _[_view source_](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/foraminifera.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/foraminifera-1024x455.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-16.png")
 ```
 
 <div class="textbox textbox-exercise">
@@ -201,7 +201,7 @@ Figure \@ref(fig:figure-19-17) shows the age ranges for some late Cretaceous ino
 How would the age range change if _M. subhercynius_ were not present in the rock?
 
 ```{r figure-19-17, fig.cap='Inoceramid ranges. _Source: Steven Earle (2015) CC BY 4.0, from data in Harries et al. (1996). [View source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Cretaceous-inoceramid-clams.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Cretaceous-inoceramid-clams.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-17.png")
 ```
 
 </div>
@@ -227,13 +227,13 @@ Isotopic dating of rocks, or the minerals within them, is based upon the fact th
 One of the isotope pairs commonly used to date rocks is the decay of ^40^K to ^40^Ar (potassium-40 to argon-40). ^40^K is a radioactive isotope of potassium that is present in very small amounts in all minerals that contain potassium. It has a __half-life__ of 1.3 billion years, meaning that over a period of 1.3 Ga one-half of the ^40^K atoms in a mineral or rock will decay to ^40^Ar, and over the next 1.3 Ga one-half of the remaining atoms will decay, and so forth (Figure \@ref(fig:figure-19-18)). ^40^K is called the __parent__ __isotope__, and ^40^Ar the __daughter isotope__, as the parent gives way to the daughter during radioactive decay.
 
 ```{r figure-19-18, fig.cap='The decay of 40K over time. Each half-life is 1.3 billion years, so after 3.9 billion years (three half-lives) 12.5% of the original ^40^K will remain. The red-blue bars represent ^40^K and the green-yellow bars represent ^40^Ar. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/decay-of-40K.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/decay-of-40K.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-18.png")
 ```
 
 In order to use the K-Ar dating technique, we need to have an igneous or metamorphic rock that includes a potassium-bearing mineral. One good example is granite, which contains the mineral potassium feldspar (Figure \@ref(fig:figure-19-19)). Potassium feldspar does not contain any argon when it forms. Over time, the ^40^K in the feldspar decays to ^40^Ar. The atoms of ^40^Ar remain embedded within the crystal, unless the rock is subjected to high temperatures after it forms. The sample must be analyzed using a very sensitive mass-spectrometer, which can detect the differences between the masses of atoms, and can therefore distinguish between ^40^K and the much more abundant ^39^K. The minerals biotite and hornblende are also commonly used for K-Ar dating.
 
 ```{r figure-19-19, fig.cap='Crystals of potassium feldspar (pink) in a granitic rock are candidates for isotopic dating using the K-Ar method because they contained potassium and no argon when they formed. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Crystals-of-potassium-feldspar.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Crystals-of-potassium-feldspar.jpg")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-19.jpg")
 ```
 
 There are many isotope pairs that can be employed in dating igneous and metamorphic rocks (see Table 19.2), each with its strengths and weaknesses. In the above example, the daughter isotope ^40^Ar is naturally a gas, and can escape the potassium feldspar quite easily if the feldspar is exposed to heating during metamorphism, or interaction with hydrothermal fluids. Hence we must closely examine the feldspar mineral to determine if there is any evidence of alteration. If some ^40^Ar has been lost, but the sample is dated anyway, an age that is too young will be calculated.
@@ -261,7 +261,7 @@ Absolute age dating is a powerful tool for unraveling the geological history of 
 The age dates for three igneous rock layers are given. Use relative dating techniques to determine the age ranges for the sets of sedimentary units A, B, and C.
 
 ```{r figure-19-20, fig.cap='A sequence of igneous and sedimentary layers. Age dates are given for the igneous layers. _Source: Karla Panchuk (2018) CC BY-SA 4.0, modified after Jill Curie (2014) CC BY-SA 3.0 [view source](https://commons.wikimedia.org/wiki/File:Relative_dating_of_fossils.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Absolute-and-relative-dating-1024x881.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-20.png")
 ```
 
 </div>
@@ -271,7 +271,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10
 A clastic sedimentary rock (e.g., conglomerate, Figure \@ref(fig:figure-19-21)) is made up of older rock and mineral fragments. These fragments were derived from weathering and erosion of pre-existing rocks. The process of forming a sedimentary rock from sediments generally occurs at low temperatures, so the minerals are not heated beyond their Curie points. Hence the minerals still preserve their original ages (either igneous crystallization age, or a metamorphic age).
 
 ```{r figure-19-21, fig.cap='Conglomerate is a sedimentary rock consisting of large rounded clasts surrounded by finer-grained material. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/sedimentary-rocks.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/sedimentary-rocks.jpg")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-21.jpg")
 ```
 
 In almost all cases, the fragments have come from a range of source rocks that all formed at different times. If we dated a number of individual grains in the sedimentary rock, we would likely get a range of different dates, all older than the age of the sedimentary rock. The most that such ages gleaned from a sedimentary rock can tell us is a maximum age of the sedimentary rock. It might be possible to date some chemical sedimentary rocks isotopically, but there are no useful isotopes that can be used on old chemical sedimentary rocks.
@@ -281,7 +281,7 @@ In almost all cases, the fragments have come from a range of source rocks that a
 Radiocarbon dating (using ^14^C) can be applied to many geological materials, including sediment and sedimentary rocks, but only if the materials in question are younger than ~60 ka, and contain organic material. Beyond this time, there is so little ^14^C left that it cannot be measured accurately, and the resulting age dates are hence unreliable. Fragments of wood incorporated into young sediment are good candidates for carbon dating, and this technique has been used widely in studies involving late Pleistocene glaciers and glacial sediments. Figure \@ref(fig:figure-19-22) shows radiocarbon dates from wood fragments in glacial sediments have been used to estimate the time of the last glacial advance along the Strait of Georgia.
 
 ```{r figure-19-22, fig.cap='Radiocarbon dates on wood fragments in glacial sediments in the Strait of Georgia. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Radiocarbon.png), modified after Clague (1976)._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Radiocarbon.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-22.png")
 ```
 
 <div class="textbox textbox-exercise">
@@ -291,7 +291,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 Assume that a feldspar crystal from the granite shown in Figure \@ref(fig:figure-19-19) was analyzed for ^40^K and ^40^Ar. The proportion of ^40^K remaining is 0.91. Using the decay curve shown on this graph, estimate the age of the rock. An example is provided (in blue) for a ^40^K proportion of 0.95, which is equivalent to an age of approximately 96 Ma. This is determined by drawing a horizontal line from 0.95 to the decay curve line, and then a vertical line from there to the time axis.
 
 ```{r figure-19-23, fig.cap='Decay curve for potassium-argon dating. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2016/07/decay-curve.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/decay-curve.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-23.png")
 ```
 
 </div>
@@ -307,13 +307,13 @@ Dendrochronology can be applied to dating very young geological materials based 
 Dendrochronology has been used to date the last major subduction zone earthquake on the coast of B.C., Washington, and Oregon. When large earthquakes occur in this region, there is a tendency for some coastal areas to subside by one or two metres. Seawater then rushes in, flooding coastal flats and killing trees and other vegetation within a few months. There are at least four locations along the coast of Washington that have such dead trees, and probably many more in other areas. Wood samples from these trees have been studied and the ring patterns have been compared with patterns from old living trees in the region (Figure \@ref(fig:figure-19-24)).
 
 ```{r figure-19-24, fig.cap='Example of tree-ring dating of dead trees. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/tree-ring-dating.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/tree-ring-dating-1024x321.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-24.png")
 ```
 
 At all of the locations studied, the trees were found to have died either in the year 1699, or very shortly thereafter (Figure \@ref(fig:figure-19-25)). On the basis of these results, it was concluded that a major earthquake took place in this region sometime between the end of growing season in 1699 and the beginning of the growing season in 1700. Evidence from a major tsunami that struck Japan on January 27, 1700, narrowed the timing of the earthquake to sometime in the evening of January 26, 1700. (For more information, see [https://web.viu.ca/earle/1700-quake/](https://web.viu.ca/earle/1700-quake/).)
 
 ```{r figure-19-25, fig.cap='Sites in Washington where dead trees are present in coastal flats. The outermost wood of eight trees was dated using dendrochronology, and of these, seven died during the year 1699, suggesting that the land was inundated by water at this time. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Washington.png), from data in Yamaguchi et al. (1997)._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Washington.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-25.png")
 ```
 
 ### Magnetic Chronology
@@ -321,19 +321,19 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 Changes in Earth’s magnetic field can also be used to date events in geologic history. The magnetic field causes compass needles point toward the north magnetic pole, but this hasn’t always been the case. At various times in the past, Earth’s magnetic field has reversed its polarity, and during such times a compass needle would have pointed to the south magnetic pole. By studying magnetism in volcanic rocks that have been dated isotopically, geologists have been able to establish the chronology of magnetic field reversals going back for ~250 Ma. About 5 Ma of this record is shown in Figure \@ref(fig:figure-19-26), where the black bands represent periods of normal magnetism ("normal" meaning a polarity identical to the current magnetic field) and the white bands represent periods of reversed magnetic polarity. These periods of consistent magnetic polarity are given names to make them easier to reference. The current period of normal magnetic polarity, known as Brunhes, has lasted for the past 780,000 years. Prior to that there was a short reversed period and then a short normal period, the latter of which is known as Jaramillo.
 
 ```{r figure-19-26, fig.cap='The last 5 Ma of magnetic field reversals. _Source: Steven Earle (2015) CC BY 4.0 view source, modified after U.S. Geological Survey (2007) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Geomagnetic_polarity_late_Cenozoic.svg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/magnetic-field-reversals-1024x273.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-26.png")
 ```
 
 Oceanic crust becomes magnetized by the magnetic field that exists as the crust forms from magma at mid-ocean ridges. As it cools, the magnetic fields of tiny crystals of magnetite that form within the magma become aligned with the existing magnetic field, and remain in this orientation, even if Earth’s magnetic field later changes polarity (Figure \@ref(fig:figure-19-27)). Oceanic crust that is forming today is being magnetized in a "normal" sense, but crust that formed 780,000 to 900,000 years ago, in the interval between the Brunhes and Jaramillo normal periods, was magnetized in the "reversed" sense.
 
 ```{r figure-19-27, fig.cap='Formation of magnetized oceanic crust at a spreading ridge. Coloured bars represent periods of normal magnetic polarity. Capital letters denote the Brunhes, Jaramillio, Olduvai, and Gauss normal magnetic periods (see Figure \\@ref(fig:figure-19-26)). _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/magnetized-oceanic-crust.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/magnetized-oceanic-crust-1024x286.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-27.png")
 ```
 
 __Magnetic chronology__ can be used as a dating technique because we can measure the magnetic field of rocks using a magnetometer, or of entire regions by towing a magnetometer behind a ship or an airplane. For example, the Juan de Fuca Plate, which lies off of the west coast of BC, Washington, and Oregon, is being and has been formed along the Juan de Fuca spreading ridge (Figure \@ref(fig:figure-19-28)). The parts of the plate that are still close to the ridge exhibit normal magnetic polarity, while parts that are further away (and formed much earlier) have either normal or reversed magnetic polarity, depending upon when the rock formed. By carefully matching the sea-floor magnetic stripes with the known magnetic chronology, we can determine the age at any point on the plate. We can see that the oldest part of the Juan de Fuca Plate that has not yet subducted (off of the coast of Oregon) is just over 8 million years old, while the part that is subducting beneath Vancouver Island is between 0 and ~6 million years old.
 
 ```{r figure-19-28, fig.cap='TThe pattern of magnetism within the area of the Juan de Fuca Plate, off the west coast of North America. Coloured bands represent parts of the sea floor with normal magnetic polarity, and the magnetic time scale is shown using these same colours. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/pattern-of-magnetism.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/pattern-of-magnetism.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-28.png")
 ```
 
 <div class="textbox textbox-exercise">
@@ -423,7 +423,7 @@ While understanding geological time is relatively easy, actually comprehending t
 10. Access a copy of the geological time scale at http://www.stratigraphy.org/index.php/ics-chart-timescale. What are the names of the last age of the Cretaceous and the first age of the Paleogene? Print out the time scale and stick it on the wall above your desk!
 
 ```{r figure-19-29, fig.cap='Geological cross-section (left) and decay curve for ^14^C ages. _Source: Left- Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/geological-cross-section.png). Right- Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/diagram.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/10/Ch19_review-1024x375.png")
+knitr::include_graphics("figures/19-measuring-geological-time/figure-19-29.png")
 ```
 
 ## Answers to Chapter Review Questions

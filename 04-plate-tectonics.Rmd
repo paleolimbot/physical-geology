@@ -4,7 +4,7 @@
 _Adapted from [Physical Geology, First University of Saskatchewan Edition](https://openpress.usask.ca/physicalgeology/) (Karla Panchuk) and [Physical Geology](https://opentextbc.ca/geology/) (Steven Earle)_
 
 ```{r figure-4-1, fig.cap='Iceland is known for its volcanoes, which are present because Iceland is located on the Mid-Atlantic Ridge, where the Atlantic Ocean is spreading apart and new crust is forming. In fact, Iceland exists because that volcanic activity has built up the island from the ocean floor. Iceland is cut by rift zones (white lines on the map at left) where the island is splitting apart along with the rest of the Atlantic Ocean. Rift zones are marked by belts of young volcanic rocks (dark green). You can stand on a rift zone if you visit Thingvellir National Park (right). Rifting has produced a valley where the crust has settled downward. The margins of the North American and Eurasian tectonic plates are visible as ridges on either side of the valley. The photographer was standing on a ridge on the North American side. _Source: Karla Panchuk (2018) CC BY-SA 4.0. Photo: Ruth Hartnup (2005) CC BY 2.0 [view source](https://flic.kr/p/46R5g). Click the image for more attributions._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Thingvellir_rift-1024x330.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-1.png")
 ```
 
 <div class="textbox learning-objectives">
@@ -32,25 +32,25 @@ The theory of plate tectonics was proposed to the geological community more than
 Alfred Wegener (1880-1930; Figure \@ref(fig:figure-4-2)) earned a PhD in astronomy at the University of Berlin in 1904, but had a keen interest in geophysics and meteorology, and focused on meteorology for much of his academic career.
 
 ```{r figure-4-2, fig.cap='Alfred Wegener during a 1912-1913 expedition to Greenland. _Source: Alfred Wegener Institute (2008) Public Domain [view source](http://bit.ly/1Nu9IGz)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Wegener_Expedition-1930_008.jpg")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-2.jpg")
 ```
 
 In 1911 Wegener happened upon a scientific publication that described matching Permian-aged terrestrial fossils in various parts of South America, Africa, India, Antarctica, and Australia. He concluded that because these organisms could not have crossed the oceans to get from one continent to the next, the continents must have been joined in the past, permitting the animals to move from one to the other (Figure \@ref(fig:figure-4-3)). Wegener envisioned a supercontinent made up of all the present day continents, and named it __Pangea__ (meaning "all land"). He described the motion of the continents reconfiguring themselves as __continental drift__.
 
 ```{r figure-4-3, fig.cap='The distribution of several Permian terrestrial fossils that are present in various parts of continents now separated by oceans. During the Permian, the supercontinent Pangea included the supercontinent Gondwana, shown here, along with North America and Eurasia. _Source: J.M. Watson, USGS (1999) Public Domain[view source](https://commons.wikimedia.org/wiki/File:Snider-Pellegrini_Wegener_fossil_map.gif)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Snider-Pellegrini_Wegener_fossil_map.gif")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-3.gif")
 ```
 
 Wegener pursued his idea with determination, combing libraries, consulting with colleagues, and making observations in an effort to find evidence in support of it. He relied heavily on matching geological patterns across oceans, such as sedimentary strata in South America matching those in Africa, North American coalfields matching those in Europe, the mountains of Atlantic Canada matching those of northern Britain—both in structure and rock type—and comparisons of rocks in the Canadian Arctic with those of Greenland (Figure \@ref(fig:figure-4-4)).
 
 ```{r figure-4-4, fig.cap='Diagram from Alfred Wegener\'s book [_Die Entstehung der Kontinente und Ozeane_](http://www.gutenberg.org/files/45460/45460-h/45460-h.htm#fig_26) comparing rock types on Canadian Arctic Islands and Greenland. _Source: Karla Panchuk (2018) CC BY 4.0. Click the image for more attributions._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Wegener_rocktypes.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-4.png")
 ```
 
 Wegener also called upon evidence for the Carboniferous and Permian (~300 Ma) Karoo Glaciation from South America, Africa, India, Antarctica, and Australia (Figure \@ref(fig:figure-4-5)). He argued that this could only have happened if these continents were once all connected as a single supercontinent. He also cited evidence (based on his own astronomical observations) that showed that the continents were moving with respect to each other, and determined a separation rate between Greenland and Scandinavia of 11 m per year, although he admitted that the measurements were not accurate. (The separation rate is actually about 2.5 cm per year.)
 
 ```{r figure-4-5, fig.cap='Carboniferous and Permian Karoo Glaciation in the southern hemisphere. Paleogeographic reconstruction for 306 million years ago._ Source: Cropped from C. R. Scotese, PALEOMAP Project (www.scotese.com) [view source](http://www.scotese.com/late.htm). Click the image for terms of use._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Scotese_KarooGlaciation.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-5.png")
 ```
 
 Wegener first published his ideas in 1912 in a short book called _Die Entstehung der Kontinente _(_The Origin of Continents_), and then in 1915 in _Die Entstehung der Kontinente und Ozeane_ (_The Origin of Continents_ _and Oceans_). He revised this book several times up to 1929. It was translated into French, English, Spanish, and Russian in 1924.
@@ -74,13 +74,13 @@ While this hypothesis helped to address the dilemma of the terrestrial fossils b
 Another widely held view was __permanentism__, the idea that the continents and oceans have always been generally the same as they are today. This view incorporated a mechanism for creation of mountain chains known as the __geosyncline__ theory. A geosyncline is a thick (potentially 1000s of metres) deposit of sediments and sedimentary rocks, typically situated along the edge of a continent, and derived from continental weathering (Figure \@ref(fig:figure-4-6)).
 
 ```{r figure-4-6, fig.cap='The development of a geosyncline along a continental margin. (Note that a geosyncline is not related to a syncline, which is a downward fold in rocks.) _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0092.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0092.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-6.png")
 ```
 
 The idea that geosynclines developed into fold-belt mountains originated in the middle of the 19th century. It was first proposed by James Hall and later elaborated upon by Dwight Dana, both of whom worked extensively in the Appalachian Mountains of the eastern United States. The process of converting a geosyncline into a mountain belt was believed to involve compression by forces pushing from either side, causing sedimentary layers within the geosyncline to fold up. In 1937, Philip Kuenen published a paper of experiments with layers of paraffin wax to test how this might work. He was able to cause layers within a geosyncline to fold up as the geosyncline deepened and became more tightly folded during the experiment (Figure \@ref(fig:figure-4-7)).
 
 ```{r figure-4-7, fig.cap='Simulation of mountain building within a geosyncline using layers of wax. Left- A sequence of photographs showing deformation in the wax layers as pistons apply increasing amounts of compression from the side. Right- Close-up view of slices through the wax layers at the end of the experiment, showing that stiffer white layers of wax folded in a way that resembled the folds in mountain belts. _Source: Karla Panchuk (2018) CC BY 4.0. Photographs from Kuenen (1937) Public Domain [view source](http://repository.naturalis.nl/document/549385)._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/Kuenen_geosyncline.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-7.png")
 ```
 
 The problem with the geosynclinal hypothesis for mountain building is that the lateral forces required to cause the compression were never adequately explained. Kuenen compressed the wax layers in his experiment by using pistons that pushed horizontally from either side, but described that mechanism as unrealistic. He explained that the pistons were just to get the process started within the experiment, and that in nature the main force was likely that of gravity pulling the geosyncline downward, drawing the sides together as it folded. When the sides were drawn together, this provided the compression to fold the sediments within the geosyncline. He couldn't specify how the process got started in nature, but suggested that there could be a variety of reasons for an irregularity in the crust to respond to forces in such a way that would trigger downward sagging and folding.
@@ -100,7 +100,7 @@ We do know the locations of some past land bridges, but they were very different
 The main continents around the Atlantic Ocean are shown in Figure \@ref(fig:figure-4-8) with the shapes that they might have had during the Mesozoic, including the extents of their continental shelves. Cut these shapes out and see how well you can fit them together in the positions that these areas occupied within Pangea. Refer to a map of Pangea to help you make the fit. Note that the fit of the continents is even better than this, as distortions are introduced when rendering Earth onto a flat map. A better fit could be accomplished if you were to do this exercise upon the surface of a globe.
 
 ```{r figure-4-8, fig.cap='Mesozoic continent shapes. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0111.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0111.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-8.png")
 ```
 
 </div>
@@ -112,7 +112,7 @@ Two key areas of research ultimately led to the acceptance of continental drift,
 ### Paleomagnetism (Remnant Magnetism)
 
 ```{r figure-4-9, fig.cap='Rock layers recording remnant magnetism. The red arrows represent the direction of the vertical component of Earth\'s magnetic field. The oldest rock has a magnetic dip characteristic of the southern hemisphere, but over time the dip changes, indicating that the rocks moved toward magnetic north. _Source: Steven Earle (2015) CC BY 4.0 _[_view source_](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0151.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0151.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-9.png")
 ```
 
 When rocks form, some of the minerals that make them up can become aligned with the Earth's magnetic field, just like a compass needle pointing to north. This happens to the mineral magnetite (Fe~3~O~4~) when it crystallizes from magma. Once the rock cools the crystals are locked in place. This means that if the rock moves, the crystals can't realign themselves, and they retain a __remnant magnetism__. This would be like jamming your compass needle so that if you turned away from north, the needle would turn with you rather than continuing to point north.
@@ -126,7 +126,7 @@ By studying both the horizontal and vertical components of the remnant magnetism
 In the early 1950s, a group of geologists from Cambridge University, including Keith Runcorn, Ted Irving,^[Ted Irving later set up a paleomagnetic lab at the Geological Survey of Canada in Sidney BC, and did important work on understanding the geology of western North America.] and several others, started looking at the remnant magnetism of Phanerozoic British and European volcanic rocks, and collecting __paleomagnetic__ data. Using an analysis similar to that in Figure \@ref(fig:figure-4-9), they noticed that rocks of different ages sampled from the same general area showed very different magnetic pole positions (the green line in Figure \@ref(fig:figure-4-10)). They assumed this meant that Earth's magnetic pole had moved around significantly over time along __polar wandering paths__, rather than staying close to the geographic north pole as it does today. At the time, geophysical models suggested that the magnetic poles did not need to be aligned with the rotational poles, so this wasn't an unreasonable conclusion, given what was known.
 
 ```{r figure-4-10, fig.cap='Apparent polar-wandering paths (APWP) for Eurasia and North America. The view is from the geographic north pole (black dot) looking down. Dots along each path show the location of magnetic north as determined from paleomagnetic data. Left- Data from Eurasia and North America agree on the location of magnetic north today (time 0), but not at any time in the past. Right- Once continent motion has been accounted for, there is agreement in data from Eurasia and North America on the location of magnetic north over the past 500 million years. _Source: Steven Earle (2015) CC BY 4.0 _[_view source_](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0131.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0131.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-10.png")
 ```
 
 Runcorn and colleagues extended their paleomagnetic studies to North America, and began to realize that their initial conclusion had a problem. Notice that on the right of Figure \@ref(fig:figure-4-10) the polar wandering path for North America (in red) does not match the path for Eurasia (in green). For example, data from North America suggest that 200 Ma ago, magnetic north was somewhere in China, whereas data from Europe said it was in the Pacific Ocean. There could only have been one magnetic north pole position at 200 Ma, therefore the only way to explain the discrepancy was if Europe and North America moved along different paths during this time while the pole stayed in more or less the same location.
@@ -148,11 +148,11 @@ The voyage of the _Challenger_ in 1872 and the laying of trans-Atlantic cables h
 Following development of acoustic depth sounders (Figure \@ref(fig:figure-4-11)) in the 1920s, the number of depth readings increased by many orders of magnitude, and by the 1930s there was no doubt that major mountain chains ran through all of the world's oceans. During and after World War II, there was a well-organized campaign to study the oceans, and by 1959, sufficient bathymetric data had been collected to produce detailed maps of all the oceans (Figure \@ref(fig:figure-4-12)).
 
 ```{r figure-4-11, fig.cap='A ship-borne acoustic depth sounder. The instrument emits sound (black arcs) that reflects off the sea floor and returns to the surface (white arcs). The time interval between emitting the sound and detecting it on receivers on the ship is proportional to the water depth. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0171.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0171.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-11.png")
 ```
 
 ```{r figure-4-12, fig.cap='Ocean floor bathymetry (and continental topography). Inset (a): the mid-Atlantic ridge, (b): the Newfoundland continental shelf, (c): the Nazca trench adjacent to South America, and (d): the Hawaiian Island chain. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0371.png); Basemap after NOAA (2006) Public Domain _[_view source_](https://commons.wikimedia.org/wiki/File:Elevation.jpg)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/bathymetry.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-12.png")
 ```
 
 The important physical features of the ocean floor are:
@@ -169,13 +169,13 @@ The important physical features of the ocean floor are:
 __Seismic reflection sounding__ involves transmitting high-energy sound bursts and then measuring the echoes with a series of receivers called __geophones__ towed behind a ship. The technique is related to acoustic sounding as described above, however, much more energy is transmitted and the sophistication of the data processing is much greater. As the technique evolved, and the amount of energy was increased, it became possible to see_ through_ the sea-floor sediments and map the bedrock topography and crustal thickness. This allowed sediment thicknesses to be mapped (Figure \@ref(fig:figure-4-13)).
 
 ```{r figure-4-13, fig.cap='Map of global sediment thickness. _Source: NOAA (2003) Public Domain [view source](http://1.usa.gov/1Ywxxz6)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/sedthick9.jpg")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-13.jpg")
 ```
 
 It was soon discovered that although the sediments were up to several 1000s of m thick near the continents, they were relatively thin — or even non-existent — along ocean ridges (Figure \@ref(fig:figure-4-14)). The seismic studies also showed that the crust is relatively thin under the oceans (5 km to 6 km) compared to the continents (30 km to 60 km) and geologically very consistent, composed almost entirely of basalt.
 
 ```{r figure-4-14, fig.cap='Topographic section at an ocean ridge based on reflection seismic data. Sediments are not thick enough to be detectable near the ridge, but get thicker on either side. The diagram represents approximately 50 km width, and has a 10x vertical exaggeration. _Source: Steven Earle (2015) CC BY 4.0 _[_view source_](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image023_2.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image023_2.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-14.png")
 ```
 
 #### Heat Flow Rates
@@ -187,7 +187,7 @@ In the early 1950s, Edward Bullard—who spent time at the University of Toronto
 With developments of networks of seismographic stations in the 1950s, it became possible to plot the locations _and_ depths of both major and minor earthquakes with great accuracy. A remarkable correspondence was observed between earthquake locations and both the mid-ocean ridges and the deep ocean trenches. In 1954 Gutenberg and Richter showed that the ocean-ridge earthquakes were all relatively shallow, and confirmed what had first been shown by Benioff in the 1930s, that earthquakes in the vicinity of ocean trenches were both shallow and deep, but that the deeper ones were situated progressively farther inland from the trenches (Figure \@ref(fig:figure-4-15)).
 
 ```{r figure-4-15, fig.cap='Aleutian Island subduction zone earthquakes. Left- Map view with earthquakes marked as dots. Red dots are the shallowest earthquakes and blue are the deepest. Quakes get deeper further inland from the trench. Right- Cross-section through a-b. Coloured dots show the depth of earthquakes. Colours correspond to dots in the left figure. Earthquake depth is related to the position of the Pacific plate as it travels beneath the North American plate. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0251.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0251.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-15.png")
 ```
 
 #### Magnetic Stripes on the Sea Floor
@@ -195,7 +195,7 @@ knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05
 In the 1950s, scientists from the Scripps Oceanographic Institute in California persuaded the United States Coast Guard to include __magnetometer__ readings on one of their expeditions to study ocean floor topography. The first comprehensive magnetic data set was compiled in 1958 for an area off the coasts of BC and Washington State. This survey revealed a bewildering pattern of low and high magnetic field intensity in sea-floor rocks (Figure \@ref(fig:figure-4-16)). When the data were first plotted on a map in 1961, nobody understood them — not even the scientists who collected them. Many 1000s of km of magnetic surveys were conducted over the next several years.
 
 ```{r figure-4-16, fig.cap='Pattern of sea-floor magnetic field intensity off the west coast of British Columbia and Washington. Black regions have higher than average magnetic field instensity, and white regions have lower than average intensity. _Source: Steven Earle (2015) CC BY-SA 4.0, modified after U. S. Geological Survey (n.d.) Public Domain [view source](https://geomaps.wr.usgs.gov/parks/noca/nocageol4c.html) (adapted from Raff and Mason, 1961)._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0271.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-16.png")
 ```
 
 The wealth of new data from the oceans began to significantly influence geological thinking in the 1960s. In 1960, Harold Hess from Princeton University, advanced a hypothesis with many of the elements that we now accept as __plate tectonics__. He maintained some uncertainty about his proposal however, and in order to deflect criticism from mainstream geologists, he labelled it "geopoetry." In fact, until 1962, Hess didn't even put his ideas in writing — except internally to the U.S. Navy (which funded his research) — but presented them mostly in lectures and seminars.
@@ -205,7 +205,7 @@ Hess proposed that new sea floor was generated from mantle material at the ocean
 Hess's hypotheses formed the basis for our ideas on __sea-floor spreading__ and __continental drift__, but did not go so far as to claim that the crust is made up of separate plates. The Hess model was not roundly criticized, but also not widely accepted, partly because evidence was still lacking.
 
 ```{r figure-4-17, fig.cap='A representation of Harold Hess\'s model for sea-floor spreading and subduction. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0291.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0291.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-17.png")
 ```
 
 Collection of magnetic data from the oceans continued in the early 1960s, but the striped patterns remained unexplained. Some assumed that, as with continental crust, the stripes were related to compositional variations in rock, such as variations in the amount of magnetite. The first real understanding of the significance of the striped anomalies was the interpretation by Fred Vine, a Cambridge graduate student. Vine was examining magnetic data from the Indian Ocean and, like others before him, noted that the magnetic patterns were symmetrical on either side of the ridge.
@@ -221,7 +221,7 @@ Vine, Matthews, and Morley were the first to show this type of correspondence be
 In 1963, J. Tuzo Wilson of the University of Toronto proposed the idea of a __mantle plume__ or __hot spot __— a place where hot mantle material rises in a stationary and semi-permanent plume, and affects the overlying crust. He based this hypothesis partly on the distribution of the Hawai'ian and Emperor Seamount island chains in the Pacific Ocean (Figure \@ref(fig:figure-4-18)). The volcanic rock making up these islands becomes progressively younger toward the southeast, culminating in the island of Hawai'i itself, which consists of rock that is almost all younger than 1 Ma.
 
 ```{r figure-4-18, fig.cap='The ages of the Hawai\'ian Islands and the Emperor Seamounts in relation to the location of the Hawai\'ian mantle plume. _Source: Steven Earle (2015) CC BY 4.0 [view source;](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0312.png) Base map from the National Geophysical Data Centre/USGS (2005) Public Domain [view source](http://en.wikipedia.org/wiki/Hotspot_(geology)#/media/File:Hawaii_hotspot.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0312.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-18.png")
 ```
 
 Wilson suggested that a stationary plume of hot upwelling mantle material is the source of the Hawaiian volcanism, and that the ocean crust of the Pacific Plate is moving toward the northwest over this hot spot. Near the Midway Islands, the chain makes a pronounced change in direction, from northwest-southeast for the Hawai'ian Islands, to nearly north-south for the Emperor Seamounts. This change has been ascribed to a change in direction of the Pacific Plate moving over the stationary mantle plume. An alternative hypothesis is that rather than the Pacific Plate having undergone a sudden change in motion, the plume itself has moved at least 2,000 km south over the period between 81 and 45 Ma (Tarduno et al., 2003).
@@ -229,13 +229,13 @@ Wilson suggested that a stationary plume of hot upwelling mantle material is the
 There is evidence of many such mantle plumes around the world (Figure \@ref(fig:figure-4-19)). Most are within ocean basins, including places like Hawai'i, Iceland, and the Galapagos Islands, but some are under continents. One example is the Yellowstone hot spot in the west-central United States, and another is the one responsible for the Anahim Volcanic Belt in central British Columbia. It is evident that mantle plumes are very long-lived phenomena, lasting for at least tens of millions of years, and possibly for hundreds of millions of years in some cases.
 
 ```{r figure-4-19, fig.cap='Mantle plume locations. Selected Mantle plumes: 1: Azores, 3: Bowie, 5: Cobb, 8: Eifel, 10: Galapagos, 12: Hawai\'i, 14: Iceland, 17: Cameroon, 18: Canary, 19: Cape Verde, 35: Samoa, 38: Tahiti, 42: Tristan, 44: Yellowstone, 45: Anahim. _Source: Ingo Wölbern (2007) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Hotspots.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image035.jpg")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-19.jpg")
 ```
 
 Oceanic spreading ridges appear to be curved features on Earth's surface, but the ridges are in fact composed of a series of straight-line segments, offset at intervals by faults perpendicular to the ridge (Figure \@ref(fig:figure-4-20)). In a paper published in 1965, Tuzo Wilson termed these features __transform faults__.
 
 ```{r figure-4-20, fig.cap='Part of the Mid-Atlantic ridge near the equator. Transform faults (red lines) are in between the ridge segments (double white lines), where the yellow arrows (indicating relative plate movement) point in opposite directions. Solid white lines are fracture zones. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/physicalgeologyearle/wp-content/uploads/sites/145/2016/03/tranforms-2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/tranforms-2-1024x401.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-20.png")
 ```
 
 In the same 1965 paper, Wilson introduced the idea that the crust can be divided into a series of rigid plates, and is thus responsible for the term __plate tectonics__.
@@ -247,11 +247,11 @@ In the same 1965 paper, Wilson introduced the idea that the crust can be divided
 J. Tuzo Wilson used a paper model similar to the one in Figure \@ref(fig:figure-4-21) to explain transform faults to his colleagues. To use this model, print Figure \@ref(fig:figure-4-21), cut around the outside, and then slice along the line A-B (the fracture zone) with a sharp knife. Fold down the top half where shown, and then pinch together in the middle. Do the same with the bottom half. When you're done, you should have two folds of paper extending downward as in Figure \@ref(fig:figure-4-22).
 
 ```{r figure-4-21, fig.cap='Transform fault model. Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image039.png), modified after Stewart (1990).'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Transform-model-1024x405-1024x405.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-21.png")
 ```
 
 ```{r figure-4-22, fig.cap='Use of the transform fault model. _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0411.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0411.jpg")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-22.jpg")
 ```
 
 Find someone else to pinch those folds with two fingers just below each ridge crest, and then gently pull apart where shown. As you do, the oceanic crust will emerge from the middle, and you will see that the parts of the fracture zone between the ridge crests will be moving in opposite directions (this is the transform fault) while the parts of the fracture zone outside of the ridge crests will be moving in the same direction. You will also see that the oceanic crust is being magnetized as it forms at the ridge. The magnetic patterns represent the last 2.5 Ma of geological time.
@@ -265,7 +265,7 @@ There are other versions of this model available at [https://web.viu.ca/earle/tr
 The ideas of continental drift and sea-floor spreading became widely accepted by 1965, and more geologists started thinking in these terms. By the end of 1967, Earth's surface had been mapped into a series of plates (Figure \@ref(fig:figure-4-23)). The major plates are Eurasian, Pacific, Indian, Australian, North American, South American, African, and Antarctic plates. There are also numerous small plates (e.g., Juan de Fuca, Nazca, Scotia, Philippine, Caribbean), and many very small plates or sub-plates. The Juan de Fuca Plate is actually three separate plates (Gorda, Juan de Fuca, and Explorer), all moving in the same general direction but at slightly different rates.
 
 ```{r figure-4-23, fig.cap='A detailed map of Earth\'s tectonic plates. Click on the map to enlarge._ Source: Paul Lowman and Jacob Yates, NASA Goddard Space Flight Center (2002) Public Domain [view source](https://visibleearth.nasa.gov/view.php?id=88415)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Plate_tectonics_map.gif")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-23.gif")
 ```
 
 Plate motions can be tracked using Global Positioning System (GPS) data from different locations on Earth's surface. Rates of motions of the major plates range from less than 1 cm/y to more than 10 cm/y. The Pacific Plate is the fastest, moving at more than 10 cm/y in some areas, followed by the Australian and Nazca Plates. The North American Plate is one of the slowest, averaging ~1 cm/y in the south up to almost 4 cm/y in the north.
@@ -275,7 +275,7 @@ Plates move as rigid bodies, so it may seem surprising that the North American P
 Boundaries between the plates are of three types: __divergent (__moving apart)_, ___convergent __(moving together), and __transform __(moving side by side). The plates are made up of crust and lithospheric mantle (Figure \@ref(fig:figure-4-24)). Even though the plates are in constant motion, and move in different directions, there is never a significant amount of space between them. Plates move along the lithosphere-asthenosphere boundary, because the asthenosphere is relatively weak. It deforms as the plates move, rather than locking them in place.
 
 ```{r figure-4-24, fig.cap='The crust and upper mantle. Tectonic plates consist of lithosphere, which includes the crust and the lithospheric (rigid) part of the mantle. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image045_2.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image045_2.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-24.png")
 ```
 
 At spreading centres, the lithospheric mantle is relatively thin. The upward convective motion of hot mantle material generates temperatures that are too high for the existence of a significant thickness of rigid lithosphere at the same time that the plates are falling away from each other ([Figure \@ref(fig:figure-4-17)](https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0291.png)).
@@ -289,13 +289,13 @@ Divergent boundaries are spreading boundaries, where new oceanic crust is create
 The triangular zone of partial melting near the ridge crest is approximately 60 km thick and the proportion of magma is about 10% of the rock volume, thus producing crust that is about 6 km thick once the melt escapes from the rock in which it formed, and ascends. Most divergent boundaries are located in the oceans, and the crustal material created at a spreading boundary is always oceanic in character; in other words, it is mafic igneous rock (basalt or gabbro, with minerals rich in iron and magnesium). Spreading rates vary considerably, from 1 cm/y to 3 cm/y in the Atlantic, to between 6 cm/y and 10 cm/y in the Pacific. Some of the processes taking place in this setting include (Figure \@ref(fig:figure-4-25), top):
 
 ```{r figure-4-25, fig.cap='Divergent boundary. Lower left- General processes taking place along divergent boundaries. Top- Expanded view of the white box showing divergent boundary processes and materials. Bottom right- Pillow basalts from the ocean floor of Hawai\'i. _Source: Lower left- Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0471.png); Top- Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0492.png) modified after Sinton and Detrick (1992); Lower right- NOAA (1988) Public Domain [view source](https://commons.wikimedia.org/wiki/File:Pillow_basalt_crop_l.jpg)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/divergent-boundary-processes.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-25.png")
 ```
 
 Spreading is thought to start with lithosphere being warped upward into a dome by buoyant material from an underlying mantle plume or series of mantle plumes. The buoyancy of the mantle plume causes the dome to fracture in a radial pattern, with three arms spaced at approximately 120° (Figure \@ref(fig:figure-4-26)).
 
 ```{r figure-4-26, fig.cap='Depiction of the process of dome and three-part rift formation (left) and of continental rifting between the African and South American parts of Pangea at around 200 Ma (right)_ Source: Steven Earle (2015) CC BY 4.0 _[_view source_](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/rift-formation.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/rift-formation-e1439319064564.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-26.png")
 ```
 
 When a series of mantle plumes exists beneath a large continent, the resulting rifts may align and lead to the formation of a rift valley, such as the present-day Great Rift Valley in eastern Africa. This type of valley may eventually develop into a linear sea (such as the present-day Red Sea), and finally into an ocean (such as the Atlantic). It is likely that as many as 20 mantle plumes, many of which still exist, were responsible for the initiation of the rifting of Pangea along what is now the mid-Atlantic ridge (see the Atlantic Ocean mantle plume locations in [Figure \@ref(fig:figure-4-19)](https://openpress.usask.ca/app/uploads/sites/29/2017/05/image035.jpg)).
@@ -309,7 +309,7 @@ Convergent boundaries, where two plates are moving toward each other, are of thr
 At an ocean-ocean convergent boundary, a plate margin consisting of oceanic crust and lithospheric mantle is __subducted___, _or travels beneath, the margin of the plate with which it is colliding (Figure \@ref(fig:figure-4-27)). Often it is the older and colder plate that is denser and subducts beneath the younger and hotter plate. Ocean trenches commonly form along these boundaries.
 
 ```{r figure-4-27, fig.cap='Configuration and processes of an ocean-ocean convergent boundary _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0551.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0551.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-27.png")
 ```
 
 As the subducting crust is heated and the pressure increases, water is released from within the subducting material. This water comes primarily from alteration of the minerals pyroxene and olivine to serpentine near the spreading ridge shortly after the rock's formation. The water mixes with the overlying mantle, which lowers the melting point of mantle rocks, causing magma to form. This process is called __flux melting__ or __fluid-induced melting__.
@@ -323,7 +323,7 @@ Examples of ocean-ocean convergent zones are subduction of the Pacific Plate sou
 At an ocean-continent convergent boundary, the oceanic plate is subducted beneath the continental plate in the same manner as at an ocean-ocean boundary. Rocks and sediment on the continental slope are thrust up into an __accretionary wedge__, and compression leads to faults forming within the continental plate (Figure \@ref(fig:figure-4-28)). The mafic magma produced adjacent to the subduction zone rises to the base of the continental crust and leads to partial melting of the crustal rock. The resulting magma ascends through the crust, producing a mountain chain with many volcanoes.
 
 ```{r figure-4-28, fig.cap='Configuration and processes of an ocean-continent convergent boundary Source: Karla Panchuk (2018) CC BY 4.0, modified after Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0572.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2018/08/ocean-continent.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-28.png")
 ```
 
 Examples of ocean-continent convergent boundaries are subduction of the Nazca Plate under South America (which has created the Andes Range) and subduction of the Juan de Fuca Plate under North America (creating the mountains Garibaldi, Baker, St. Helens, Rainier, Hood, and Shasta, collectively known as the Cascade Range).
@@ -333,7 +333,7 @@ Examples of ocean-continent convergent boundaries are subduction of the Nazca Pl
 A continent-continent collision occurs when a continent or large island that has been moved along with subducting oceanic crust collides with another continent (Figure \@ref(fig:figure-4-29)). The colliding continental material will not be subducted because it is not dense enough, but the root of the oceanic plate will eventually break off and sink into the mantle. There is tremendous deformation of the pre-existing continental rocks, and creation of mountains from that rock, as well as from any sediments that had accumulated along the shores of both continental masses, and commonly also from some ocean crust and upper mantle material.
 
 ```{r figure-4-29, fig.cap='Configuration and processes of a continent-continent convergent boundary _Source: Steven Earle (2015) CC BY 4.0 _[_view source_](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image0591.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image0591.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-29.png")
 ```
 
 Examples of continent-continent convergent boundaries are the collision of the India Plate with the Eurasian Plate, creating the Himalaya Mountains, and the collision of the African Plate with the Eurasian Plate, creating the series of ranges extending from the Alps in Europe to the Zagros Mountains in Iran.
@@ -347,11 +347,11 @@ Transform boundaries exist where one plate slides past another without producing
 Most transform faults connect segments of mid-ocean ridges and are thus ocean-ocean plate boundaries ([Figure \@ref(fig:figure-4-20)](https://openpress.usask.ca/app/uploads/sites/29/2018/08/tranforms-2.png)). Some transform faults connect continental parts of plates. An example is the San Andreas Fault, which connects the southern end of the Juan de Fuca Ridge with the northern end of the East Pacific Rise (a ridge) in the Gulf of California (Figures \@ref(fig:figure-4-30) and \@ref(fig:figure-4-31)). The part of California west of the San Andreas Fault and all of Baja California are on the Pacific Plate. But transform faults do not just connect divergent boundaries; the Queen Charlotte Fault connects the north end of the Juan de Fuca Ridge, starting at the north end of Vancouver Island, to the Aleutian subduction zone.
 
 ```{r figure-4-30, fig.cap='The San Andreas Fault extends from the north end of the East Pacific Rise in the Gulf of California to the southern end of the Juan de Fuca Ridge. All of the red lines on this map are transform faults. _Source: Steven Earle (2015) CC BY 4.0 _[_view source_](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image061.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image061.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-30.png")
 ```
 
 ```{r figure-4-31, fig.cap='The San Andreas Fault at Parkfield in central California. The person with the orange shirt is standing on the Pacific Plate and the person at the far side of the bridge is on the North American Plate. The bridge is designed to slide on its foundation. _Source: Steven Earle (2015) CC BY 4.0 _[_view source_](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image063.jpg)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image063.jpg")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-31.jpg")
 ```
 
 <div class="textbox textbox-exercise">
@@ -363,7 +363,7 @@ Figure \@ref(fig:figure-4-32) shows the Juan de Fuca (JDF) and Explorer plates o
 The boundary between the two plates is the Nootka Fault, which is the location of frequent small-to-medium earthquakes (up to magnitude ~5), as depicted by the red stars. Explain why the Nootka Fault is a transform fault, and show the _relative_ sense of motion along the fault with two small arrows.
 
 ```{r figure-4-32, fig.cap='Juan de Fuca and Explorer plates separated by the Nootka Fault (marked with red stars). _Source: Steven Earle (2015) CC BY 4.0 [view source](https://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image065.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image065.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-32.png")
 ```
 
 </div>
@@ -375,7 +375,7 @@ The present continents were once all part of a supercontinent that Alfred Wegene
 Pangea began to rift apart along a line between Africa and Asia and between North America and South America at around 200 Ma (Figure \@ref(fig:figure-4-33)). During the same period the Atlantic Ocean began to open up between northern Africa and North America, and India broke away from Antarctica. Between 200 and 150 Ma, rifting started between South America and Africa and between North America and Europe, and India moved north toward Asia. By 80 Ma, Africa had separated from South America, and most of Europe had separated from North America. By 50 Ma, Australia had separated from Antarctica, and shortly after that, India collided with Asia.
 
 ```{r figure-4-33, fig.cap='Sequence of paleogeographic reconstructions showing the breakup of Pangea. _Source: Karla Panchuk (2017) CC BY-NC-SA 4.0. Maps from C. R. Scotese, PALEOMAP Project (www.scotese.com). Click the image for map sources and terms of use._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Pangea-breakup-507x1024-507x1024.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-33.png")
 ```
 
 Within the past few million years, rifting has occurred in the Gulf of Aden and the Red Sea, and also within the Gulf of California. Incipient rifting has begun along the Great Rift Valley of eastern Africa, extending from Ethiopia and Djibouti on the Gulf of Aden (Red Sea) all the way south to Malawi.
@@ -387,13 +387,13 @@ At present we are in the stages of a Wilson cycle where fragments are drifting a
 This situation may not continue for too much longer, however. As the Atlantic Ocean floor gets weighed down around its margins by great thickness of continental sediments, it will be pushed farther and farther into the mantle, and eventually the oceanic lithosphere may break away from the continental lithosphere and begin to subduct (Figure \@ref(fig:figure-4-34)).
 
 ```{r figure-4-34, fig.cap='Development of a subduction zone at a passive margin. Times A, B, and C are separated by tens of millions of years. Once the oceanic crust breaks off and starts to subduct, the continental crust (North America in this case) may no longer be pushed to the west and could start to move east because the rate of spreading in the Pacific basin is faster than along the Mid-Atlantic Ridge. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image067.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image067.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-34.png")
 ```
 
 A subduction zone will develop, and the oceanic plate will begin to descend under the continent. Once this happens, the continents will no longer continue to move apart because the spreading at the mid-Atlantic ridge will be taken up by subduction. If spreading along the mid-Atlantic ridge continues to be slower than spreading within the Pacific Ocean, the Atlantic Ocean will start to close up, and eventually (in a 100 million years or more) North and South America will collide again with Europe and Africa. If this continues without changing for another few hundred million years, we will be back to where we started, with one supercontinent (Figure \@ref(fig:figure-4-35)).
 
 ```{r figure-4-35, fig.cap='Sequence of reconstructions showing the possible future configuration of land masses on Earth at 50, 150, and 250 million years from now. Movements culminate in the formation of a new supercontinent called Pangea Ultima. _Source: Karla Panchuk (2017) CC BY-NC-SA 4.0. Maps from C. R. Scotese, PALEOMAP Project (www.scotese.com). Click the image for map sources and terms of use._'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Pangea-ultima-494x1024-494x1024.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-35.png")
 ```
 
 There is strong evidence around the margins of the Atlantic Ocean that this process has taken place before. There are roots of ancient mountain belts along the eastern margin of North America, the western margin of Europe, and the north-western margin of Africa, which show that these landmasses once collided with each other to form a mountain chain. The mountain chain might have been as big as the Himalayas.
@@ -403,7 +403,7 @@ The apparent line of collision runs between Norway and Sweden, between Scotland 
 It is probably no coincidence that the Atlantic Ocean rift may have occurred in approximately the same place during two separate events several hundred million years apart. The series of hot spots that has been identified in the Atlantic Ocean may also have existed for several hundred million years, and thus may have contributed to rifting in roughly the same place on at least two separate occasions (Figure \@ref(fig:figure-4-36)).
 
 ```{r figure-4-36, fig.cap='A scenario for the Wilson cycle. The cycle starts with continental rifting above a series of mantle plumes (red dots, A). The continents separate (B), and then re-converge some time later, forming a fold-belt mountain chain. Eventually rifting is repeated, possibly because of the same set of mantle plumes (D), but this time the rift is in a different place. _Source: Steven Earle (2015) CC BY 4.0 _[_view source_](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/Wilson-cycle.png)'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/Wilson-cycle.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-36.png")
 ```
 
 ## Mechanisms for Plate Motion
@@ -413,7 +413,7 @@ Mantle convection is often said to be critical to plate tectonics. While this is
 __Ridge-push__ refers to gravity causing lithosphere to slide downhill away from the elevated mid-ocean ridges. __Slab-pull__ refers to the weight of subducting slabs dragging the rest of the plate down into the mantle.
 
 ```{r figure-4-37, fig.cap='Models for plate motion mechanisms. _Source: Steven Earle (2015) CC BY 4.0 [view source](http://opentextbc.ca/geology/wp-content/uploads/sites/110/2015/07/image081.png)_'}
-knitr::include_graphics("https://openpress.usask.ca/app/uploads/sites/29/2017/05/image081.png")
+knitr::include_graphics("figures/04-plate-tectonics/figure-4-37.png")
 ```
 
 Kearey and Vine (1996) have listed some compelling arguments in favour of the ridge-push/slab-pull model:
