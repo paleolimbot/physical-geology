@@ -7,8 +7,6 @@ _Adapted from [Physical Geology, First University of Saskatchewan Edition](https
 knitr::include_graphics("figures/07-igneous-rocks/figure-7-1.png")
 ```
 
-#### 
-
 <div class="textbox learning-objectives">
 
 ##### Learning Objectives {-}
