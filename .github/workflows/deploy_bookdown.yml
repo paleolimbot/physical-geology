@@ -47,7 +47,7 @@ jobs:
         if: success()
         run: |
           cd pages-clone
-          rm $(ls)
+          rm -rf $(ls)
           cd ..
           cp -a _book/. pages-clone/
           cd pages-clone
