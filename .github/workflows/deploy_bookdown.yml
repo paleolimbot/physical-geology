@@ -36,16 +36,24 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v1.0.0
         with:
-          # Artifact name
-          name: _book # optional
-          # Destination path
-          path: _book # optional
-      - name: Deploy to GitHub Pages
-        uses: Cecilapp/GitHub-Pages-deploy@master
+          name: _book
+          path: _book
+      - name: Checkout current gh-pages branch
+        uses: actions/checkout@master
         with:
-          build_dir: _book
-        env:
-           EMAIL: ${{ secrets.EMAIL }}               # must be a verified email
-           GH_TOKEN: ${{ secrets.GITHUB_PAT }} # https://github.com/settings/tokens
-           BUILD_DIR: _book/                     # "_site/" by default
+          ref: gh-pages
+          path: pages-clone
+      - name: Overwrite current book and deploy
+        if: success()
+        run: |
+          cd pages-clone
+          rm $(ls)
+          cd ..
+          cp -a _book/. pages-clone/
+          cd pages-clone
+          git add *
+          git commit -m "Commiting updated book"
+          git push
+          
+        
     
