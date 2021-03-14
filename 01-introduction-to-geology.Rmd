@@ -27,7 +27,7 @@ Geologists study Earth — its interior and its exterior surface, the rocks and 
 
 Geology is a science, meaning that geological questions are investigated with deductive reasoning and scientific methodology. Geology is arguably the most interdisciplinary of all of the sciences because geologists must understand and apply other sciences, including physics, chemistry, biology, mathematics, astronomy, and more.
 
-An aspect of geology that is unlike most of the other sciences is the role played by time — deep time — billions of years of it. When geologists study the evidence around them, they are often observing the results of are observing the results of events that took place thousands, millions, and even billions of years in the past, and which may still be ongoing. Many geological processes happen at incredibly slow rates — millimetres per year to centimetres per year — but because of the amount of time available, tiny changes can result in expansive oceans forming, or entire mountain ranges being worn away.
+An aspect of geology that is unlike most of the other sciences is the role played by time — deep time — billions of years of it. When geologists study the evidence around them, they are often observing the results of events that took place thousands, millions, and even billions of years in the past, and which may still be ongoing. Many geological processes happen at incredibly slow rates — millimetres per year to centimetres per year — but because of the amount of time available, tiny changes can result in expansive oceans forming, or entire mountain ranges being worn away.
 
 <div class="textbox">
 
